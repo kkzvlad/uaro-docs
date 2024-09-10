@@ -1,0 +1,11 @@
+.md-card {
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease;
+}
+
+.md-card:hover {
+    transform: scale(1.02);
+}
