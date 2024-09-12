@@ -1,7 +1,3 @@
-site_name: uaRO: World of Your Dream
-theme:
-  name: material
-
 # Attendance System
 Upon logging into the game each day, players receive a daily reward that greatly enhances their gameplay experience.
 

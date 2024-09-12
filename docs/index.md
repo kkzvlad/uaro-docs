@@ -1,30 +1,40 @@
-!!! note
+---
+hide:
+  - navigation
+  - toc
+---
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+# Welcome to World of Your Dream Documentation
 
-[Subscribe to our newsletter](#){ .md-button .md-button--primary }
+![Image title](/img/wiki-title.jpg)
 
-| Method      | Description                          |
-| ----------- | ------------------------------------ |
-| `GET`       | :material-check:     Fetch resource  |
-| `PUT`       | :material-check-all: Update resource |
-| `DELETE`    | :material-close:     Delete resource |
+---
 
-Text can be {--deleted--} and replacement text {++added++}. This can also be
-combined into {~~one~>a single~~} operation. {==Highlighting==} is also
-possible {>>and comments can be added inline<<}.
+<div class="grid cards" markdown>
+Welcome to World of Your Dream Documentation, the updated version of our wiki. Here you will find a wealth of guides for beginners and experienced players, as well as a comprehensive collection of server features, quests, patchnotes, and mechanics descriptions.
 
-{==
+!!! Latest Changes
 
-Formatting can also be applied to blocks by putting the opening and closing
-tags on separate lines and adding new lines between the tags and the content.
+    === "Patchnotes"
 
-==}
+        ``` markdown
+        * Emulator Update
+        * Bugfixes
+        * Endless Cellar optimisation
+        * New Pets
+        * Endless Cellar mechanic rework
+        ```
 
-![Image title](https://dummyimage.com/600x400/f5f5f5/aaaaaa#only-light)
-![Image title](https://dummyimage.com/600x400/21222c/d5d7e2#only-dark)
+    === "Active Events"
+
+        ``` markdown
+        1. Sed sagittis eleifend rutrum
+        2. Donec vitae suscipit est
+        3. Nulla tempor lobortis orci
+        ```
+</div>
+---
+## Main Features
 
 <div class="grid cards" markdown>
 
@@ -61,8 +71,128 @@ tags on separate lines and adding new lines between the tags and the content.
 
     [:octicons-arrow-right-24: License](#)
 
+-   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+
+    ---
+
+    Material for MkDocs is licensed under MIT and available on [GitHub]
+
+    [:octicons-arrow-right-24: License](#)
+
+-   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
+
+    ---
+
+    Material for MkDocs is licensed under MIT and available on [GitHub]
+
+    [:octicons-arrow-right-24: License](#)
+
 </div>
 
 
+## Features Overview
+
+<div class="grid cards" markdown>
+
+-   :material-format-font:{ .lg .middle } __Made to measure__
+
+    ---
+
+    [:octicons-arrow-right-24: Attendance System](Attendance_System.md)
 
 
+
+    [:octicons-arrow-right-24: Hourly Rewards System](Hourly_Rewards_System.md)
+
+
+
+    [:octicons-arrow-right-24: Custom NPC](Custom_NPC.md)
+
+
+
+    [:octicons-arrow-right-24: Main Office](Main_Office.md)
+
+
+
+    [:octicons-arrow-right-24: Warper System](Warper_System.md)
+
+
+
+    [:octicons-arrow-right-24: Hunting Mission](Hunting_Mission.md)
+
+
+
+    [:octicons-arrow-right-24: Pet System](Pet_System.md)
+
+    
+-   :material-format-font:{ .lg .middle } __Made to measure__
+
+    ---
+
+    [:octicons-arrow-right-24: How to start](#)
+
+
+
+    [:octicons-arrow-right-24: The Beginner's Guide](#)
+
+
+
+    [:octicons-arrow-right-24: Remastered novice location](#)
+
+
+
+    [:octicons-arrow-right-24: Repeatable EXP Quests](#)
+
+
+
+    [:octicons-arrow-right-24: Modified sales prices](#)
+
+
+
+    [:octicons-arrow-right-24: Donations](#)
+
+
+
+    [:octicons-arrow-right-24: Daily Quests](#)
+
+
+
+    [:octicons-arrow-right-24: WoE](#)
+
+
+
+    [:octicons-arrow-right-24: Commands](#)
+
+ 
+
+    [:octicons-arrow-right-24: Vendor System](#)
+
+
+
+    [:octicons-arrow-right-24: FAQ](#)
+
+-   :material-format-font:{ .lg .middle } __Made to measure__
+
+    ---
+
+    [:octicons-arrow-right-24: Server rules](#)
+
+
+
+    [:octicons-arrow-right-24: Server info](#)
+
+
+
+    [:octicons-arrow-right-24: Patch notes](#)
+
+
+
+    [:octicons-arrow-right-24: Server roadmap](#)
+
+
+
+    [:octicons-arrow-right-24: Troubleshooting](#)
+
+</div>
+!!! warning
+    This wiki is your ultimate guide to navigating the world of uaRO. Use it to find game mechanics, quests, and much more!

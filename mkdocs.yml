@@ -8,9 +8,8 @@ site_url: https://wiki.uaro.net
 theme:
   name: material
   features:
-    - navigation.tabs
     - navigation.sections
-    - toc.integrate
+    - content.tabs
     - navigation.top
     - search.suggest
     - search.highlight
@@ -130,7 +129,9 @@ extra:
       link: https://github.com
       name: GitHub
   footer:
-    text: "© 2023-2024 uaRO | All Rights Reserved"
+    text: "© 2023-2024 World of Your Dream"
+  hide:
+    - toc: ["index.md"]  # This disables the TOC for the index page only
 
 extra_javascript:
   - javascripts/mathjax.js

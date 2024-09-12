@@ -9,3 +9,24 @@
 .md-card:hover {
     transform: scale(1.02);
 }
+
+.grid__col-6 {
+    padding: 20px;
+}
+
+.md-typeset .tabbed-set {
+    margin-top: 20px;
+    border-radius: 8px;
+    background-color: #f5f5f5;
+    padding: 10px;
+}
+
+.md-typeset ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.md-typeset ol {
+    list-style-type: decimal;
+    padding-left: 20px;
+}
