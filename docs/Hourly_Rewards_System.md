@@ -17,5 +17,5 @@ You can get your prizes from the NPC Gold Point Manager in Prontera Inn, or pres
 
 | Item Name        | Cost  |
 |------------------|-------|
-| ![Gift Box](644.gif)  | **120 Points** |
-| ![Old Blue Box](603.gif) | **240 Points** |
+| ![Gift Box](img/644.gif)  | **120 Points** |
+| ![Old Blue Box](img/603.gif) | **240 Points** |

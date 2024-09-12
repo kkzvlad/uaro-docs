@@ -17,17 +17,17 @@ To ensure the warp is saved for all characters on your account, locate a designa
 
 ## **List of Warpa Helpers**
 
-| Location                | Map |
-|-------------------------|-----|
-| **Amatsu dungeon**<br>/navi ama_dun02 31/47          |     |
-| **Ayothaya dungeon**<br>/navi ayo_dun02 255/112      |     |
-| **Kiel dungeon**<br>/navi kh_dun01 14/224            |     |
-| **Bio Laboratory**<br>/navi lhz_dun01 153/287        |     |
-| **Thanatos tower**<br>/navi tha_t03 223/165          |     |
-| **Moscovia dungeon**<br>/navi mosk_dun01 195/270     |     |
-| **Nameless Island (Abbey)**<br>/navi nameless_n 158/179 |     |
-| **Rachel Sanctuary**<br>/navi ra_san01 133/139       |     |
-| **Midgard camp (New World)**<br>/navi mid_camp 186/242 |     |
-| **Splendide (New World)**<br>/navi splendide 203/173  |     |
-| **Manuk (New World)**<br>/navi manuk 275/146          |     |
-| **Nidhogg's Dungeon (New World)**<br>/navi nyd_dun01 141/150 |     |
+| Location                                | Map                |
+|---------------------------------------------------------|--------------------|
+| **Amatsu dungeon**<br>/navi ama_dun02 31/47            | ![Amatsu dungeon](img/Ama_dun02.png) |
+| **Ayothaya dungeon**<br>/navi ayo_dun02 255/112        | ![Ayothaya](img/Ayothaya.png) |
+| **Kiel dungeon**<br>/navi kh_dun01 14/224              | ![Kiel dungeon](img/Kiel_dungeon.png) |
+| **Bio Laboratory**<br>/navi lhz_dun01 153/287          | ![Bio Laboratory](img/Lhz_dun01.png) |
+| **Thanatos tower**<br>/navi tha_t03 223/165            | ![Thanatos tower](img/Thanatos_t03.png) |
+| **Moscovia dungeon**<br>/navi mosk_dun01 195/270       | ![Moscovia dungeon](img/Mosc_dun01.png) |
+| **Nameless Island (Abbey)**<br>/navi nameless_n 158/179 | ![Nameless Island](img/NamelessIsland.png) |
+| **Rachel Sanctuary**<br>/navi ra_san01 133/139         | ![Rachel Sanctuary](img/RachelSanctuary.png) |
+| **Midgard camp (New World)**<br>/navi mid_camp 186/242 | ![Midgard camp](img/MIdgardCamp.png) |
+| **Splendide (New World)**<br>/navi splendide 203/173    | ![Splendide](img/Splendide.png) |
+| **Manuk (New World)**<br>/navi manuk 275/146            | ![Manuk](img/Manuk.png) |
+| **Nidhogg's Dungeon (New World)**<br>/navi nyd_dun01 141/150 | ![Nidhogg's Dungeon](img/Nidhogg's_Dungeon.png) |
