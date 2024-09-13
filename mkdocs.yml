@@ -1,11 +1,12 @@
 # Site metadata
-site_name: uaRO Wiki
-site_description: The official wiki for uaRO
+site_name: uaRO Documentation
+site_description: The official documentation for uaRO World of your Dream
 site_author: uaRO Team
 site_url: https://wiki.uaro.net
 
 # Theme configuration
 theme:
+  logo: img/logo.png
   name: material
   features:
     - navigation.sections
@@ -34,11 +35,7 @@ theme:
 # Navigation setup
 nav:
   - Home: index.md
-  - Features: features.md
-  - Gameplay Info: gameplay.md
-  - Technical Info: technical.md
-  - Patches: patches.md
-  - FAQ: faq.md
+
 
 # Markdown extensions
 markdown_extensions:
@@ -117,21 +114,24 @@ markdown_extensions:
 plugins:
   - search  # Built-in search functionality for MkDocs
 
-# Extra configurations (logo, favicon, social links)
+# Extra configurations (logo, favicon, social links, analytics)
 extra:
-  logo: img/logo.png
+  logo: img/logo.png  # Your custom logo
   favicon: img/favicon.ico
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.com
+      link: https://discord.gg/uaro-the-world-of-your-dream-702960460168953946
       name: Discord
-    - icon: fontawesome/brands/github
-      link: https://github.com
-      name: GitHub
   footer:
     text: "© 2023-2024 World of Your Dream"
   hide:
     - toc: ["index.md"]  # This disables the TOC for the index page only
 
+# Google Analytics tracking
+google_analytics:
+  - "UA-XXXXXXX-X"  # Replace with your tracking ID
+  - "auto"
+
 extra_javascript:
   - javascripts/mathjax.js
+  - javascripts/tablesort.js

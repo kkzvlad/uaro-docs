@@ -1,6 +1,7 @@
-site_name: uaRO: World of Your Dream
-theme: 
-  name: material
+---
+hide:
+  - toc
+---
 
 uaRO: World of Your Dream introduce **Poring Coins System**
 

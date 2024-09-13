@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Custom NPC
 
 List of all custom NPCs which help you in your adventure.

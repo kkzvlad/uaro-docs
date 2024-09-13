@@ -1,6 +1,7 @@
-site_name: uaRO: World of Your Dream
-theme:
-  name: material
+---
+hide:
+  - toc
+---
 # Hourly Rewards System
 
 ##**Hourly Rewards**

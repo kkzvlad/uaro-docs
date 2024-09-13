@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Hunting Mission
 
 **/navi prontera 204/192** png

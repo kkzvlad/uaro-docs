@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Warper System
 
 Quest warper has been introduced to the game, providing players with the convenience of opening access to quest locations for all characters linked to their account. This feature simplifies the gameplay process by eliminating the need for players to manually complete quests or travel to quest locations, saving time and enhancing the overall gaming experience.

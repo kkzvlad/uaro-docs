@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Card Exchange
 
 **/navi prontera 130/192** (png)

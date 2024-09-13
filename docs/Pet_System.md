@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Pet System
 ## **Contents**
 1. [Available Pets](#available_pets)

@@ -3,100 +3,117 @@ hide:
   - navigation
   - toc
 ---
+!!! info
+    The wiki is currently under maintenance as we restore information from previous versions. Some guides and other content may be temporarily unavailable. We are working to resolve this issue as quickly as possible, and new information will be added soon. If you find any errors, please report them to us.
 
-# Welcome to World of Your Dream Documentation
+# World of Your Dream Documentation
+Welcome to the World of Your Dream Documentation, the official resource for our server. Explore detailed guides for both beginners and veteran players, along with in-depth descriptions of server features, quests, patch notes, and game mechanics. Stay up-to-date with the latest content and unlock the full potential of your gaming experience.
 
-![Image title](/img/wiki-title.jpg)
+![Image title](img/wiki-title.jpg)
 
 ---
+!!! Patchnotes
 
-<div class="grid cards" markdown>
-Welcome to World of Your Dream Documentation, the updated version of our wiki. Here you will find a wealth of guides for beginners and experienced players, as well as a comprehensive collection of server features, quests, patchnotes, and mechanics descriptions.
+    === "August 31"
 
-!!! Latest Changes
+        <div class="badge">August 31</div>
 
-    === "Patchnotes"
-
-        ``` markdown
-        * Emulator Update
-        * Bugfixes
-        * Endless Cellar optimisation
-        * New Pets
-        * Endless Cellar mechanic rework
+        ```markdown
+        - Emulator Update: Stability and performance improvements.
+        - Bugfixes: General gameplay fixes.
+        - Endless Cellar Optimisation: Enhanced performance for smoother gameplay.
+        - New Pets: Added new pets to collect and evolve.
+        - Endless Cellar Mechanic Rework: Reworked mechanics for a better challenge.
         ```
 
-    === "Active Events"
+    === "August 24"
 
-        ``` markdown
-        1. Sed sagittis eleifend rutrum
-        2. Donec vitae suscipit est
-        3. Nulla tempor lobortis orci
+        <div class="badge">August 24</div>
+
+        ```markdown
+        - Twilight Festival: End of Summer celebration with mini-games, quests, and rewards.
         ```
-</div>
----
+
+    === "July 24"
+
+        <div class="badge">July 24</div>
+
+        ```markdown
+        - WoE Mechanics Update: Castle entry now requires a guild.
+        - Winter Maps Restored: Fixed and restored the Dewata area.
+        - Shop Fixes: No forced vending.
+        - XP and Loot Adjustments: Slave monsters no longer provide XP or loot.
+        - Various Fixes: NPC, item, skill, and class adjustments.
+        ```
+
+    === "June 15"
+
+        <div class="badge">June 15</div>
+
+        ```markdown
+        - New Cute Pets: Discover, evolve, and collect new pets.
+        - Gameplay Enhancements: Added improvements for a better experience.
+        ```
+
+    === "June 8"
+
+        <div class="badge">June 8</div>
+
+        ```markdown
+        - Endless Cellar Rework: New mechanics and features.
+        - New Costumes: Additional customization options.
+        - Quality of Life Updates: Improvements and bug fixes.
+        ```
+
+    === "April 26"
+
+        <div class="badge">April 26</div>
+
+        ```markdown
+        - Endless Cellar Returns: Re-polished and fixed.
+        - Stylist Fixes: Updated Stylist and Premium Stylist NPCs.
+        - Item Identification: Items now drop identified.
+        ```
+
+
 ## Main Features
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } __Set up in 5 minutes__
+- **Poring Coin System**  
+  Monsters have a 5% chance to drop Poring Coins, which can also be earned through quests and events.  
+  [:octicons-arrow-right-24: Read More](Poring_Coins_System.md)
 
-    ---
+- **Warpra Teleport System**  
+  Quest Warper provides easy access to quest locations for all characters on your account.  
+  [:octicons-arrow-right-24: Read More](Warper_System.md)
 
-    Install [`mkdocs-material`](#) with [`pip`](#) and get up
-    and running in minutes
+- **Cute Pet System**  
+  Collect evolved pets with unique bonuses to assist you in the game.  
+  [:octicons-arrow-right-24: Read More](Pet_System.md)
 
-    [:octicons-arrow-right-24: Getting started](#)
+- **Hunting Missions**  
+  Complete missions for Experience, Zeny, and Mission Points. Available at Prontera Inn.  
+  [:octicons-arrow-right-24: Read More](Hunting_Mission.md)
 
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+- **Repeatable Quests**  
+  Collect specific items to earn EXP rewards. These items are tradable and valuable.  
+  [:octicons-arrow-right-24: Read More](expquests.md)
 
-    ---
-
-    Focus on your content and generate a responsive and searchable static site
-
-    [:octicons-arrow-right-24: Reference](#)
-
--   :material-format-font:{ .lg .middle } __Made to measure__
-
-    ---
-
-    Change the colors, fonts, language, icons, logo and more with a few lines
-
-    [:octicons-arrow-right-24: Customization](#)
-
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
-
-    ---
-
-    Material for MkDocs is licensed under MIT and available on [GitHub]
-
-    [:octicons-arrow-right-24: License](#)
-
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
-
-    ---
-
-    Material for MkDocs is licensed under MIT and available on [GitHub]
-
-    [:octicons-arrow-right-24: License](#)
-
--   :material-scale-balance:{ .lg .middle } __Open Source, MIT__
-
-    ---
-
-    Material for MkDocs is licensed under MIT and available on [GitHub]
-
-    [:octicons-arrow-right-24: License](#)
+- **Main Office**  
+  Located in Prontera, exchange Poring Coins, reset stats, and shop for valuable items.  
+  [:octicons-arrow-right-24: Read More](Main_Office.md)
 
 </div>
 
 
-## Features Overview
+
+
+## All Features
 
 <div class="grid cards" markdown>
 
--   :material-format-font:{ .lg .middle } __Made to measure__
-
-    ---
+-   
 
     [:octicons-arrow-right-24: Attendance System](Attendance_System.md)
 
@@ -124,75 +141,18 @@ Welcome to World of Your Dream Documentation, the updated version of our wiki. H
 
     [:octicons-arrow-right-24: Pet System](Pet_System.md)
 
+-   
+
+    [:octicons-arrow-right-24: Card Exchange](Card_Exchange.md)
+
+
+    [:octicons-arrow-right-24: Costume Converter](Costume_Converter.md)
+
+
+    [:octicons-arrow-right-24: King of Emperium](King_of_Emperium_(KoE).md)
+
     
--   :material-format-font:{ .lg .middle } __Made to measure__
+    [:octicons-arrow-right-24: Repeatable Quests](expquests.md)
 
-    ---
-
-    [:octicons-arrow-right-24: How to start](#)
-
-
-
-    [:octicons-arrow-right-24: The Beginner's Guide](#)
-
-
-
-    [:octicons-arrow-right-24: Remastered novice location](#)
-
-
-
-    [:octicons-arrow-right-24: Repeatable EXP Quests](#)
-
-
-
-    [:octicons-arrow-right-24: Modified sales prices](#)
-
-
-
-    [:octicons-arrow-right-24: Donations](#)
-
-
-
-    [:octicons-arrow-right-24: Daily Quests](#)
-
-
-
-    [:octicons-arrow-right-24: WoE](#)
-
-
-
-    [:octicons-arrow-right-24: Commands](#)
-
- 
-
-    [:octicons-arrow-right-24: Vendor System](#)
-
-
-
-    [:octicons-arrow-right-24: FAQ](#)
-
--   :material-format-font:{ .lg .middle } __Made to measure__
-
-    ---
-
-    [:octicons-arrow-right-24: Server rules](#)
-
-
-
-    [:octicons-arrow-right-24: Server info](#)
-
-
-
-    [:octicons-arrow-right-24: Patch notes](#)
-
-
-
-    [:octicons-arrow-right-24: Server roadmap](#)
-
-
-
-    [:octicons-arrow-right-24: Troubleshooting](#)
 
 </div>
-!!! warning
-    This wiki is your ultimate guide to navigating the world of uaRO. Use it to find game mechanics, quests, and much more!

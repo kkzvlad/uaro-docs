@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # King of Emperium (KoE)
 
 ![KoE Screenshot](img/Screenshot_2023-02-10_at_13.54.32.png)
