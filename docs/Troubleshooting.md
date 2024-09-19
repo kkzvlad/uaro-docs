@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Troubleshooting
 
 ## **Client problems**

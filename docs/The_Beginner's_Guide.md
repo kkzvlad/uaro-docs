@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # The Beginner's Guide
 
 Logging into Ragnarok Online is fun, but newer players will benefit from having some knowledge of what will occur during the game. Remember, though, that Ragnarok, like all MMORPGs, is dynamic and things constantly change.

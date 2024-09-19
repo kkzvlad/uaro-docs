@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Server Rules
 
 **Last update:** December 11, 2023

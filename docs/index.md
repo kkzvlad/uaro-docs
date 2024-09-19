@@ -12,18 +12,26 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 ![Image title](img/wiki-title.jpg)
 
 ---
+
 !!! Patchnotes
+
+    === "September 18"
+
+        <div class="badge">September 18</div>
+
+        ```markdown
+        - Bio 3 Revamp: Enhanced EXP and item drops for Bio 3.
+        - General Bugfixes: Wiki engine updated and other fixes.
+        - New Additions: Twilight Festival Wheel of Fortune costumes and new Cash Shop items.
+        ```
 
     === "August 31"
 
         <div class="badge">August 31</div>
 
         ```markdown
-        - Emulator Update: Stability and performance improvements.
+        - Website CP Update: Stability and performance improvements.
         - Bugfixes: General gameplay fixes.
-        - Endless Cellar Optimisation: Enhanced performance for smoother gameplay.
-        - New Pets: Added new pets to collect and evolve.
-        - Endless Cellar Mechanic Rework: Reworked mechanics for a better challenge.
         ```
 
     === "August 24"
@@ -42,39 +50,9 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         - WoE Mechanics Update: Castle entry now requires a guild.
         - Winter Maps Restored: Fixed and restored the Dewata area.
         - Shop Fixes: No forced vending.
-        - XP and Loot Adjustments: Slave monsters no longer provide XP or loot.
-        - Various Fixes: NPC, item, skill, and class adjustments.
         ```
 
-    === "June 15"
-
-        <div class="badge">June 15</div>
-
-        ```markdown
-        - New Cute Pets: Discover, evolve, and collect new pets.
-        - Gameplay Enhancements: Added improvements for a better experience.
-        ```
-
-    === "June 8"
-
-        <div class="badge">June 8</div>
-
-        ```markdown
-        - Endless Cellar Rework: New mechanics and features.
-        - New Costumes: Additional customization options.
-        - Quality of Life Updates: Improvements and bug fixes.
-        ```
-
-    === "April 26"
-
-        <div class="badge">April 26</div>
-
-        ```markdown
-        - Endless Cellar Returns: Re-polished and fixed.
-        - Stylist Fixes: Updated Stylist and Premium Stylist NPCs.
-        - Item Identification: Items now drop identified.
-        ```
-
+    [:octicons-arrow-right-24: See All Patch Notes](patches09182024.md)
 
 ## Main Features
 
@@ -105,9 +83,6 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
   [:octicons-arrow-right-24: Read More](Main_Office.md)
 
 </div>
-
-
-
 
 ## All Features
 
@@ -153,6 +128,28 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
     
     [:octicons-arrow-right-24: Repeatable Quests](expquests.md)
+
+    
+    [:octicons-arrow-right-24: How to Start](How_to_start.md)
+
+
+    [:octicons-arrow-right-24: Modified Sales Prices](Modified_sales_prices.md)
+
+
+    [:octicons-arrow-right-24: Remastered Novice Location](Remastered_novice_location.md)
+  
+- 
+
+    [:octicons-arrow-right-24: Server Info](Server_info.md)
+
+    [:octicons-arrow-right-24: Server Rules](Server_rules.md)
+
+    [:octicons-arrow-right-24: Beginner Guide](The_Beginner's_Guide.md)
+
+    [:octicons-arrow-right-24: TroubleShooting](Troubleshooting.md)
+
+
+
 
 
 </div>

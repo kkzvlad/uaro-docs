@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Server Info
 
 ## **Detailed Server Configuration**
