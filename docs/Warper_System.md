@@ -5,7 +5,9 @@ hide:
 
 # Warper System
 
-Quest warper has been introduced to the game, providing players with the convenience of opening access to quest locations for all characters linked to their account. This feature simplifies the gameplay process by eliminating the need for players to manually complete quests or travel to quest locations, saving time and enhancing the overall gaming experience.
+![Warpra NPC](img/warpra.png)
+
+The ***"Warpra"***, quest warper has been introduced to the game. This provides players with the convenience of opening access to quest locations, for all characters linked to their account. This feature simplifies travel gameplay, by eliminating the need for players to manually complete quests or travel to quest locations with each character on the same account. Warpra dungeon teleporting services cost 5,000z each.
 
 | Town       | Coordinates          |
 |------------|-----------------------|
@@ -18,7 +20,9 @@ Quest warper has been introduced to the game, providing players with the conveni
 | Aldebaran  | /navi aldebaran 135/119|
 
 
-To ensure the warp is saved for all characters on your account, locate a designated NPC and utilize their services to save the warp.
+To ensure the warp is saved **for all characters on your account**- locate a designated NPC, and speak to them.
+
+![Warpra Helper](img/warpra2.png)
 
 ## **List of Warpa Helpers**
 
