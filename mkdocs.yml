@@ -39,6 +39,9 @@ nav:
 
 # Markdown extensions
 markdown_extensions:
+  - attr_list
+  - md_in_html
+  
   # Table of contents with anchor links
   - toc:
       permalink: true
