@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 # Costume Converter
-![Chameleon NPC](img/Chameleon.png)
+![Chameleon_NPC](img/Chameleon.png)
 
 Chameleon NPC in Prontera (**/navi prontera 146/213**) can converts your headgears into a Costume Headgear. The price for this service is 1,200,000 Zeny.
 
