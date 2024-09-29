@@ -39,12 +39,6 @@ nav:
 
 # Markdown extensions
 markdown_extensions:
-  - attr_list
-  - md_in_html
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
-  
   # Table of contents with anchor links
   - toc:
       permalink: true
