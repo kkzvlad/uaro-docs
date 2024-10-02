@@ -5,7 +5,7 @@ hide:
 
 # Pet System
 ## **Contents**
-1. [Available Pets](#available_pets)
+1. [Available Pets](#available-pets)
 2. [Taming Items](#taming-items)
 3. [Pet Evolution](#pet-evolution)
 4. [Available Evolved Pets](#available-evolved-pets)
@@ -23,7 +23,7 @@ hide:
 | ![Steel Chonchon](img/Steel_Chonchon.gif) Steel Chonchon | ![Iron Ore](img/1002.png) Iron Ore | ![Rusty Iron](img/625.png) Rusty Iron        | ![Monster Oxygen Mask](img/10002.png) Monster Oxygen Mask | FLEE +6, AGI -1 |
 | ![Hunter Fly](img/Hunter_Fly.gif) Hunter Fly  | ![Red Gemstone](img/716.png) Red Gemstone | ![Monster Juice](img/626.png) Monster Juice  | ![Monster Oxygen Mask](img/10002.png) Monster Oxygen Mask | FLEE -5, Perfect Dodge +2  |
 | ![Savage Babe](img/1727.gif) Savage Babe | ![Pet Food](img/537.png) Pet Food       | ![Sweet Milk](img/627.png) Sweet Milk        | ![Green Lace](img/10015.png) Green Lace | VIT +1, Max HP +50             |
-| ![Baby Desert Wolf](img/1107.gif) Baby Desert Wolf | ![Pet Food](img/537.png) Pet Food       | ![Well-Dried Bone](img/628 1.png) Well-Dried Bone | ![Transparent Head Protector](img/10003.png) Transparent Head Protector | INT +1, Max SP +50 |
+| ![Baby Desert Wolf](img/1107.gif) Baby Desert Wolf | ![Pet Food](img/537.png) Pet Food       | ![Well-Dried Bone](img/628_1.png) Well-Dried Bone | ![Transparent Head Protector](img/10003.png) Transparent Head Protector | INT +1, Max SP +50 |
 | ![Rocker](img/1052.gif) Rocker      | ![Pet Food](img/537.png) Pet Food          | ![Singing Flower](img/629.png) Singing Flower | ![Rocker Glasses](img/10014.gif) Rocker Glasses | HP Recovery +8%, Max HP +38 |
 | ![Spore](img/1014.gif) Spore        | ![Pet Food](img/537.png) Pet Food          | ![Dew Laden Moss](img/630.png) Dew Laden Moss | ![Bark Shorts](img/10017.gif) Bark Shorts | HIT +5, ATK -2                |
 | ![Poison Spore](img/1077.gif) Poison Spore | ![Pet Food](img/537.png) Pet Food       | ![Deadly Noxious Herb](img/631.png) Deadly Noxious Herb | ![Bark Shorts](img/10017.gif) Bark Shorts | STR +1, INT +1                |
@@ -34,7 +34,7 @@ hide:
 | ![Munak](img/1026.gif) Munak        | ![Pet Food](img/537.png) Pet Food          | ![No Recipient](img/636.png) No Recipient    | ![Punisher](img/10008.gif) Punisher | INT +1, DEF +1                |
 | ![Dokebi](img/1110.gif) Dokebi      | ![Pet Food](img/537.png) Pet Food          | ![Old Broom](img/637.png) Old Broom         | ![Wig](img/10005.gif) Wig | MATK +2%                      |
 | ![Sohee](img/1170.gif) Sohee        | ![Pet Food](img/537.png) Pet Food          | ![Silver Knife of Chastity](img/638.png) Silver Knife of Chastity | ![Golden Bell](img/10016.png) Golden Bell | STR +1, DEX +1 |
-| ![Isis](img/1029.gif) Isis          | ![Pet Food](img/537.png) Pet Food          | ![Armlet of Obedience](img/639.png) Armlet of Obedience | ![Queen's Hair Ornament](img/10006.gif) Queen's Hair Ornament | ATK +2% |
+| ![Isis](img/1029.gif) Isis          | ![Pet Food](img/537.png) Pet Food          | ![Armlet of Obedience](img/639.png) Armlet of Obedience | ![Queen's Hair Ornament](img/10006.png) Queen's Hair Ornament | ATK +2% |
 | ![Green Petite](img/1155.gif) Green Petite | ![Pet Food](img/537.png) Pet Food       | ![Shining Stone](img/640.png) Shining Stone  | ![Stellar Hairpin](img/10011.png) Stellar Hairpin | ASPD +1 |
 | ![Deviruchi](img/1109.gif) Deviruchi | ![Shoot](img/711.gif) Shoot               | ![Contract in Shadow](img/641.png) Contract in Shadow | ![Pacifier](img/10004.gif) Pacifier | ATK & MATK +1                  |
 | ![Baphomet Jr.](img/1101.gif) Baphomet Jr.   | ![Honey](img/518.png) Honey       | ![Book of the Devil](img/642.png) Book of the Devil | ![Skull Helmet](img/10001.png) Skull Helmet | DEF & MDEF +1, Stun Resistance -1% |
@@ -51,13 +51,13 @@ hide:
 | ![Golem](img/1040.gif) Golem                | ![Mystic Stone](img/6111.png) Mystic Stone | ![Magical Lithography](img/12371.gif) Magical Lithography | ![Spring](img/10035.png) Spring | FLEE -5, Max HP +100                   |
 | ![Chung E / Green Maiden](img/1631.gif) Chung E / Green Maiden | ![Bun](img/6115.png) Bun | ![Tantan Noodle](img/12395.gif) Tantan Noodle | None                                | DEF +1, Demi Human Resistance +1%      |
 | ![Imp / Fire Imp](img/1837.gif) Imp / Fire Imp | ![Flame Gemstone](img/6114.png) Flame Gemstone | ![Ice Fireworks](img/12374.gif) Ice Fireworks | ![Horn Barrier](img/10038.png) Horn Barrier | Fire Resistance +2%, Physical damage to Fire monster +2% |
-| ![Civil Servant / Mao Guai](img/1513.gif) Civil Servant / Mao Guai | ![Flavored Alcohol](img/6095.png) Flavored Alcohol | ![Fan Of Wind](img/12358.gif) Fan Of Wind | ![Golden Earring](img/10022.png) Golden Earring | Max SP +10                   |
+| ![Civil Servant / Mao Guai](img/1513.gif) Civil Servant / Mao Guai | ![Flavored Alcohol](img/6095.gif) Flavored Alcohol | ![Fan Of Wind](img/12358.gif) Fan Of Wind | ![Golden Earring](img/10022.png) Golden Earring | Max SP +10                   |
 | ![Incubus](img/1374.gif) Incubus            | ![Yellow Vital Flower](img/6110.gif) Yellow Vital Flower | ![Girl's Naivety](img/12370.gif) Girl's Naivety | ![Masked Ball](img/10034.gif) Masked Ball | Max SP +5%, adds a 5% chance of restoring 4% of damage as SP when performing a physical attack |
 | ![Leaf Cat](img/1586.gif) Leaf Cat          | ![Fish With Blue Back](img/6096.gif) Fish With Blue Back | ![Very Soft Plant](img/12359.gif) Very Soft Plant | ![Green Jewel Bag](img/10023.gif) Green Jewel Bag | Increases Brute Resistance by 3%     |
 | ![Marionette](img/1143.gif) Marionette      | ![Small Snow Flower](img/6098.png) Small Snow Flower | ![Delicious Shaved Ice](img/12361.gif) Delicious Shaved Ice | ![Hairband Of Stars](img/10025.png) Hairband Of Stars | Increases SP Recovery by 3%           |
-| ![Medusa](img/1148.gif) Medusa              | ![Apple Pudding](img/6108.png) Apple Pudding | ![Splendid Mirror](img/12368.gif) Splendid Mirror | ![Queen's Coronet](img/10032.png) Queen's Coronet | VIT +1, Stone Resistance +5%         |
-| ![Miyabi Doll](img/1404.gif) Miyabi Doll    | ![Well Ripened Berry](img/6106.png) Well Ripened Berry | ![Girl's Doll](img/12366.gif) Girl's Doll | ![Summer Fan](img/10030.png) Summer Fan | INT +1, Cast Time -3%                  |
-| ![Nightmare Terror](img/1379.gif) Nightmare Terror | ![Fresh Plant](img/12065.gif) Fresh Plant | ![Hell Contract](img/12372.gif) Hell Contract | ![Horn Of Hell](img/10036.png) Horn Of Hell | Sleep Resistance +100%                 |
+| ![Medusa](img/1148.gif) Medusa              | ![Apple Pudding](img/6108.png) Apple Pudding | ![Splendid Mirror](img/12368.gif) Splendid Mirror | ![Queen's Coronet](img/10032.gif) Queen's Coronet | VIT +1, Stone Resistance +5%         |
+| ![Miyabi Doll](img/1404.gif) Miyabi Doll    | ![Well Ripened Berry](img/6106.gif) Well Ripened Berry | ![Girl's Doll](img/12366.gif) Girl's Doll | ![Summer Fan](img/10030.gif) Summer Fan | INT +1, Cast Time -3%                  |
+| ![Nightmare Terror](img/1379.gif) Nightmare Terror | ![Fresh Plant](img/12065.gif) Fresh Plant | ![Hell Contract](img/12372.gif) Hell Contract | ![Horn Of Hell](img/10036.gif) Horn Of Hell | Sleep Resistance +100%                 |
 | ![Shinobi](img/1401.gif) Shinobi            | ![Grilled Rice Cake](img/6099.gif) Grilled Rice Cake | ![Kuloren](img/12362.gif) Kuloren | ![Tassel for Durumagi](img/10026.gif) Tassel for Durumagi | AGI +2                                |
 | ![Stone Shooter](img/1495.gif) Stone Shooter | ![Plant Neutrient](img/6109.gif) Plant Neutrient | ![Oilpalm Coconut](img/12369.gif) Oilpalm Coconut | ![Afro](img/10033.gif) Afro | Fire resistance +3%                    |
 | ![Succubus](img/1370.gif) Succubus          | ![Blue Vital Flower](img/710.gif) Blue Vital Flower | ![Boy's Pure Heart](img/12373.gif) Boy's Pure Heart | ![Black Butterfly Mask](img/10034.gif) Black Butterfly Mask | 5% chance to leech 5% of the damage as HP when performing a physical attack |
@@ -69,11 +69,12 @@ hide:
 | ![Teddy Bear](img/1622.gif) Teddy Bear    | ![Cotton Tufts](img/25233.png) Cotton Tufts | ![Small Doll Needle](img/23189.gif) Small Doll Needle | None                                | Max SP +100                         |
 | ![Bacsojin/White Lady](img/1630.gif) Bacsojin/White Lady | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None                                | None                                | None                                |
 
-**Note**: The pet **Bacsojin/White Lady**, which was tamed using the skill Abracadabra, **does not have any bonuses**. This pet is used as a costume.
+!!! warning
+    The pet **Bacsojin/White Lady**, which was tamed using the skill Abracadabra, **does not have any bonuses**.
 
-If you evolve the pet **Evil Nymph** into a **Bacsojin/White Lady**, the pet **will have all the bonuses.**
+    This pet is used as a costume.If you evolve the pet **Evil Nymph** into a **Bacsojin/White Lady**, the pet **will have all the bonuses.**
 
-**Please be mindful when buying this pet. Check if it comes with a bonus!**
+    **Please be mindful when buying this pet. Check if it comes with a bonus!**
 
 ---
 
