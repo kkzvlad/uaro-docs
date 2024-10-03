@@ -47,7 +47,7 @@ Overall, the inns in uaRO are designed to provide players with a comprehensive a
 * Full HP/SP heal.
 * Blessing and Increase Agi for 10 minutes.
 
-![Inn Benefits](img/Screenshot-2023-01-21-at-20.59.46.png)
+![Inn Benefits](img/Inn-Employee-NPC.png)
 
 #### **Currently, Inns Are Available in the Following Towns:**
 * Prontera

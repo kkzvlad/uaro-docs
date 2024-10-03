@@ -5,6 +5,8 @@ hide:
 # Troubleshooting
 
 ## **Client problems**
+
+!!! Important 
     Always make sure you open **uaRO.exe**, Setup.exe or uaRO Patcher.exe as an administrator.
 
 - Right-click on **uaRO.exe** and set its Compatibility mode to Windows 7, if you're running Windows 10 or Windows XP Service Pack 3, if you're running Windows 7.

@@ -10,7 +10,7 @@ hide:
 
 Welcome to Main Office, your one-stop shop for all things useful in Prontera! Located in the heart of the city **(/navi prontera 134/184)**, Main Office is home to a variety of helpful NPCs who can assist you with your adventures.
 
-Earned some ![Poring Coins](img/7539.gif) [Poring Coins](Poring_Coins_System.md) from your battles? Head to Main Office to exchange them for valuable items and costumes. You can also use your [Cash Points](Poring Coins System.md) to purchase a wide selection of costumes to express your unique style.
+Earned some ![Poring Coins](img/7539.gif) [Poring Coins](Poring_Coins_System.md) from your battles? Head to Main Office to exchange them for valuable items and costumes. You can also use your [Cash Points](Poring_Coins_System.md) to purchase a wide selection of costumes to express your unique style.
 
 Need to exchange loots and Poring Coins for Quest hats? Main Office is the place to go. And if you're looking to revamp your character's appearance, the Stylist is always ready to help. You can even reset your stats and skills or learn new quest skills at Main Office.
 
