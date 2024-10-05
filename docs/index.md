@@ -124,7 +124,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
     [:octicons-arrow-right-24: Costume Converter](Costume_Converter.md)
 
 
-    [:octicons-arrow-right-24: King of Emperium](King_of_Emperium_(KoE).md)
+    [:octicons-arrow-right-24: Donations](Donations.md)
 
     
     [:octicons-arrow-right-24: Repeatable Quests](expquests.md)
