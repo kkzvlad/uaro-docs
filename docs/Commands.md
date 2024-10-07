@@ -222,7 +222,8 @@
 
 ## Duel Commands
 
-**Note:** Currently duels are disabled on the server.
+!!! Note
+    Currently duels are disabled on the server.
 
 ## Channel Commands
 
