@@ -199,7 +199,7 @@
 - `@bg leave`  
   Leave the Battleground queue.
 
-- `@bg time`  
+- `@bgtime`  
   Shows the time left in the Battleground.
 
 - `@bg shop`  
