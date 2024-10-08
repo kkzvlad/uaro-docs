@@ -116,6 +116,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
     [:octicons-arrow-right-24: Pet System](Pet_System.md)
 
+
 -   
 
     [:octicons-arrow-right-24: Card Exchange](Card_Exchange.md)
@@ -124,9 +125,6 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
     [:octicons-arrow-right-24: Costume Converter](Costume_Converter.md)
 
 
-    [:octicons-arrow-right-24: Donations](Donations.md)
-
-    
     [:octicons-arrow-right-24: Repeatable Quests](expquests.md)
 
     
@@ -137,6 +135,9 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 
     [:octicons-arrow-right-24: Remastered Novice Location](Remastered_novice_location.md)
+        
+    [:octicons-arrow-right-24: Vendor System](Vendor-System.md)
+
   
 - 
 
@@ -147,6 +148,10 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
     [:octicons-arrow-right-24: Beginner Guide](The_Beginner's_Guide.md)
 
     [:octicons-arrow-right-24: TroubleShooting](Troubleshooting.md)
+        
+    [:octicons-arrow-right-24: Commands](Commands.md)
+    
+    [:octicons-arrow-right-24: Donations](Donations.md)
 
 
 
