@@ -199,26 +199,9 @@
 - `@bg leave`  
   Leave the Battleground queue.
 
-- `@bgtime`  
-  Shows the time left in the Battleground.
-
 - `@bg shop`  
   Open the Battleground shop.
 
-- `@ignorebg`  
-  Ignore BG announcements.
-
-- `@reportafk <name>`  
-  Report a player away from the keyboard in Battleground.
-
-- `@order <message>`  
-  Send a message to all teammates in the Battleground.
-
-- `@leader <name>`  
-  Change the leader of the Battleground match.
-
-- `@bgregular`  
-  Show the rankings of Regular Matches.
 
 ## Duel Commands
 
