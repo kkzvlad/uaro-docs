@@ -13,5 +13,4 @@ List of all custom NPCs which help you in your adventure.
 | ![Chameleon NPC](img/4_M_JOB_BLACKSMITH.gif) | [Chameleon NPC](Costume_Converter.md) can convert your headgears into Costume Headgear. |
 | ![Salvia NPC](img/1_M_SIGNMONK.gif)     | Salvia NPC can reset Feeling and Hatred skills for Star Gladiator. |
 | ![Voucher Redeem NPC](img/4_M_HUMAN_02.gif) | Voucher Redeem NPC can change name and gender of your character. |
-| ![Contractor NPC](img/4_M_YOUNGKNIGHT.gif) | Contractor NPC provides private MVP room.                      |
 | ![Coming Soon](img/MD_COMMON.gif)       | Coming soon...                                                   |

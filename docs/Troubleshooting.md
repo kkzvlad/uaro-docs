@@ -5,6 +5,8 @@ hide:
 # Troubleshooting
 
 ## **Client problems**
+
+!!! Important 
     Always make sure you open **uaRO.exe**, Setup.exe or uaRO Patcher.exe as an administrator.
 
 - Right-click on **uaRO.exe** and set its Compatibility mode to Windows 7, if you're running Windows 10 or Windows XP Service Pack 3, if you're running Windows 7.
@@ -28,7 +30,9 @@ Run Setup.exe from the uaRO folder and try different options:
 - Select checkbox "Delete all Ragnarok-related settings (factory reset)".
 
 #### **There is a Gepard Shield error stating that illegal software is being used.**
-![UaRO EC2mW6nnBq.png](UaRO EC2mW6nnBq.png)  
+
+![Gepard-Error-Code-503](img/Gepard-Error-Code-503.png)
+
 Some mouse and keyboard software may be identified as prohibited macros or other types of unauthorized software.
 
 In order to enter a game, it may be necessary to close this software. The list of approved software is constantly updated and added to the whitelist.
