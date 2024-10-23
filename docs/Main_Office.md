@@ -21,9 +21,8 @@ So come on down to Main Office and see what we have to offer! We're here to help
 
 | NPC                    | Description                                                                                          |
 |------------------------|------------------------------------------------------------------------------------------------------|
-| ![Premi](img/4_F_PREMI.gif) | Visit our stylish NPC **Premi** and browse through a vast collection of costumes. Use your Cash Points to transform your character's appearance and showcase your unique style. |
-| ![Lydia](img/4_F_NFLOSTGIRL.gif) | Head over to NPC **Lydia** and exchange your Poring Coin for a variety of valuable items. It's a great way to get your hands on some essential gear and enhance your gaming experience. |
-| ![Dimonka](img/4_F_JP_NOAH.gif) | **Dimonka** NPC trades your loots and Poring Coin for valuable headgear. |
+| ![Lydia](img/4_F_NFLOSTGIRL.gif) | Head over to NPC **Lydia** and exchange your Poring Coin for a variety of [valuable items](Poring_Coins_System.md). It's a great way to get your hands on some essential gear and enhance your gaming experience. |
+| ![Dimonka](img/4_F_JP_NOAH.gif) | **Dimonka** NPC trades your loots and Poring Coin for [valuable headgear](Dimonka_Headgear_Quest.md). |
 | ![Katryn](img/4_F_GELKA.gif) | **Katryn** NPC exchanges your Poring Coin for unique costumes. |
 | ![Platinum Stylist](img/4_M_OILMAN.gif) | With just 2 [Cash Coins](Donations.md), our **Platinum Stylist** can help you revamp your character's look by customizing their outfit colors. Express your individuality and create a style that's uniquely you. |
 | ![Dyeinger](img/2_M_DYEINGER.gif) | Visit our talented **Stylist** and let them work their magic on your hairstyle and hair color. Express your individuality with a new look that's all your own. |

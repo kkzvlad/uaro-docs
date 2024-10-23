@@ -68,6 +68,7 @@ hide:
 | ![Mummy](img/1041.gif) Mummy              | ![Memento](img/934.gif) Memento         | ![Spiritual Bandage](img/23256.gif) Spiritual Bandage | None                                | HIT +5                              |
 | ![Teddy Bear](img/1622.gif) Teddy Bear    | ![Cotton Tufts](img/25233.png) Cotton Tufts | ![Small Doll Needle](img/23189.gif) Small Doll Needle | None                                | Max SP +100                         |
 | ![Bacsojin/White Lady](img/1630.gif) Bacsojin/White Lady | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None                                | None                                | None                                |
+| ![Domovoi](img/2336.gif) Domovoi | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food |  None | None | Increases Physical Damage against enemies of Demihuman by 3%.<br>Increases Magical Damage against Demihuman by 3%.<br>Decreases physical damage from Demihuman by 3%. |
 
 !!! warning
     The pet **Bacsojin/White Lady**, which was tamed using the skill Abracadabra, **does not have any bonuses**.
