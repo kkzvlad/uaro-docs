@@ -17,11 +17,12 @@ hide:
 - **Disable Anti Virus AND Firewall** software before installing and/or patching. (Especially in the case of Avast and McAfee)
 - If you use Warsaw (a bank software popular in Brazil), you will need to uninstall it.
 
+
 #### **My antivirus recognizes uaRO.exe and uaRO Patcher.exe as insecure software or virus.**
 It is possible that certain files within the client, particularly those that pertain to anti-cheat and anti-bot systems, may be flagged as viruses or potentially harmful software. Add game client folder, uaRO.exe or uaRO Patcher.exe as an exception for your antivirus.
 
-#### **Gepard Shield is stuck on the loading screen and is not showing any error messages.**
 
+#### **Gepard Shield is stuck on the loading screen and is not showing any error messages.**
 Run Setup.exe from the uaRO folder and try different options:
 
 - Choose the Resolution and Graphic Device.
@@ -29,17 +30,19 @@ Run Setup.exe from the uaRO folder and try different options:
 - Deactivate sound.
 - Select checkbox "Delete all Ragnarok-related settings (factory reset)".
 
-#### **There is a Gepard Shield error stating that illegal software is being used.**
 
+#### **There is a Gepard Shield error stating that illegal software is being used.**
 ![Gepard-Error-Code-503](img/Gepard-Error-Code-503.png)
 
 Some mouse and keyboard software may be identified as prohibited macros or other types of unauthorized software.
 
 In order to enter a game, it may be necessary to close this software. The list of approved software is constantly updated and added to the whitelist.
 
+
 #### **I got an error: Gepard can't validate license on the server.**
 - Check your internet connection.
 - Add game client folder, uaRO.exe or uaRO Patcher.exe as an exception for your antivirus and firewall.
+
 
 #### **There are low FPS or freezes occurring in the game client on a Windows 10/11 system with Nvidia graphics.**
 To fix low FPS or freezes in the game client on a Windows 10 system with Nvidia graphics, follow these steps.
@@ -53,3 +56,7 @@ Go to the Nvidia Control Panel and adjust the 3D settings for uaRO.exe:
 
 If you do not see these options, make sure to update your NVIDIA drivers. You can do this through the GeForce Experience application or by downloading the latest drivers from NVIDIA's website.
 
+#### **Cannot init d3d OR grf file has problem**
+![d3dOR](img/d3dOR.png)<br>
+If you encounter this error, you need to run Setup.exe with administrator privileges, select DirectX7 in the Graphics API option, and save the changes.<br>
+![DirectX7](img/DirectX7.png)
