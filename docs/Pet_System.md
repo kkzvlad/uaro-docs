@@ -81,7 +81,7 @@ hide:
 
 ## **Taming Items**
 
-The vast majority of taming items drop from monsters according to the RMS database or from ![Jewelry Box](img/12106.gif) [Jewelry Box](https://uaro.net/wiki/index.php/Pet_System#:~:text=database%20or%20from-,Jewelry%20Box,-%2C%20but%20there%20are), but there are exceptions for our server that are described in this section:
+The vast majority of taming items drop from monsters according to the RMS database or from ![Taming Gift Set](img/12105.gif) [**Taming Gift Set**](Timing-Gift-Set.md), but there are exceptions for our server that are described in this section:
 
 | **Taming Item**                                  | **Obtained From**                             |
 |--------------------------------------------------|-----------------------------------------------|
