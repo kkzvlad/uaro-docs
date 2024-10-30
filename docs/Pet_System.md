@@ -124,6 +124,12 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![1063](img/1063.gif) Lunatic   | ![7198](img/7198.gif) Huge Leaf - 100 <br> ![705](img/705.gif) Clover - 25 <br> ![706](img/706.png) Four-Leaf Clover - 30 <br> ![Card](img/Card.gif) Lunatic Card - 5 | ![3496](img/3496.gif) Leaf Lunatic
 | ![1041](img/1041.gif) Mummy     | ![23256](img/23256.gif) Spiritual Bandage - 3 <br> ![7511](img/7511.gif) Rune of the Darkness - 200 <br> ![969](img/969.png) Gold - 30 <br> ![Card](img/Card.gif) Ancient Mummy Card | ![1297](img/1297.gif) Ancient Mummy |
 | ![1622](img/1622.gif) Teddy Bear | ![23189](img/23189.gif) Small Doll Needle - 3 <br> ![7442](img/7442.png) Cursed Seal - 300 <br> ![724](img/724.gif) Cursed Ruby - 50 <br> ![Card](img/Card.gif) Teddy Bear Card | ![2995](img/2995.gif) Abandoned Teddy Bear |
+| ![Teddy Bear](img/1622.gif) Teddy Bear | ![7317](img/7317.gif) Rusty Screw - 500<br> ![518](img/518.gif) Honey - 100<br> ![727](img/727.gif) Opal - 10<br> ![Card](img/Card.gif) Teddy Bear Card | ![1736](img/1736.gif) Aliot |
+| ![Teddy Bear](img/1622.gif) Teddy Bear | ![7317](img/7317.gif) Rusty Screw - 500<br> ![518](img/518.gif) Honey - 100<br> ![7449](img/7449.gif) Bloody Page - 50<br> ![Card](img/Card.gif) Teddy Bear Card | ![1735](img/1735.gif) Alicel |
+| ![Alice](img/1275.gif) Alice | ![7047](img/7047.png) Alice's Apron - 500<br> ![511](img/511.png) Green Herb - 200<br> ![985](img/985.gif) Elunium - 30<br> ![Card](img/Card.gif) Alice Card | ![1746](img/1746.gif) Aliza |
+| ![Baphomet Jr.](img/1101.gif) Baphomet Jr.   | ![923](img/923.gif) Evil Horn - 300<br> ![7054](img/7054.gif) Brigan - 300<br> ![Yellow Herb](img/508.gif) Yellow Herb - 100<br>  ![Card](img/Card.gif) Bapho Jr Card - 2 | ![Chaotic Bapho Jr](img/20525.gif) Chaotic Bapho Jr |
+| ![Chaotic Bapho Jr](img/20525.gif) Chaotic Bapho Jr | ![Card](img/Card.gif) Bapho Jr Card - 5<br> ![5160](img/5160.gif) Majestic Goat[1]<br> ![7539](img/7539.gif) Poring Coin - 1000 | ![Baphomet](img/Baphomet.gif) Baphomet |
+
 
 
 ## **Available Evolved Pets**
@@ -154,3 +160,8 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![Ancient Mummy](img/1297.gif) Ancient Mummy | ![Pet Food](img/537.png) Pet Food | None              | HIT +4                           | HIT +5                             | HIT +6, Damage against dragon race monsters increased by 3% | HIT +6, Damage against dragon race monsters increased by 6% |
 | ![Abandoned Teddy Bear](img/2995.gif) Abandoned Teddy Bear | ![Pet Food](img/537.png) Pet Food | None              | Max SP +50                       | Max SP +100                        | Max SP +150, Chance to restore 30 SP per 5 seconds for dealing magic damage | Max SP +150, Chance to restore 40 SP per 5 seconds for dealing magic damage |
 | ![Phreeoni](img/1159.gif) Phreeoni | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None          | HIT +6                            | HIT +10,     Perfect Hit+5                          | HIT+14,  Perfect Hit+14                      | HIT +18, Perfect Hit +15              |
+| ![1746](img/1746.gif) Aliza | ![Pet Food](img/537.png) Pet Food | None | None | None | MDEF +6.<br>Increases Healing skills effectiveness by 4%. | MDEF +7.<br>Increases Healing skills effectiveness by 6%. |
+| ![1736](img/1736.gif) Aliot | ![Pet Food](img/537.png) Pet Food | None | None | None | ASPD +4%.<br> HIT +9. | ASPD +5%.<br> HIT +12. |
+| ![1735](img/1735.gif) Alicel | ![Pet Food](img/537.png) Pet Food | None | None | None | Reduces Variable Cast Time by 4%.<br> Increases Neutral Magic Damage by 3%. | Reduces Variable Cast Time by 5%.<br> Increases Neutral Magic Damage by 5%. |
+| ![Chaotic Bapho Jr](img/20525.gif) Chaotic Bapho Jr | ![Pet Food](img/537.png) Pet Food | None | None | None |  FLEE +12, MaxSP +2%. | FLEE +15, MaxSP +3%. |
+| ![Baphomet](img/Baphomet.gif) Baphomet | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | Flee + 16, MaxSP + 5%, increases long ranged physical damage by 3%. | Flee + 20, MaxSP + 7%, increases long ranged physical damage by 5%. |
