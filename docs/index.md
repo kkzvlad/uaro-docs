@@ -15,6 +15,16 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 !!! Patchnotes
 
+    === "October 30"
+
+        <div class="badge">October 30</div>
+
+        ```markdown
+        - Halloween Event: Special quests, monster summoning, and exclusive Halloween rewards!
+        - New Pet Evolutions: Alicel, Aliot, Baphomet, and more.
+        - Bug Fixes and Improvements: Endless Cellar reset, skill tweaks, and visual updates.
+        ```
+
     === "September 18"
 
         <div class="badge">September 18</div>
@@ -52,7 +62,8 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         - Shop Fixes: No forced vending.
         ```
 
-    [:octicons-arrow-right-24: See All Patch Notes](patches09182024.md)
+    [:octicons-arrow-right-24: See All Patch Notes](patches10302024.md)
+
 
 ## Main Features
 
