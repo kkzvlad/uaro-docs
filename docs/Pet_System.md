@@ -69,8 +69,8 @@ hide:
 | ![Teddy Bear](img/1622.gif) Teddy Bear    | ![Cotton Tufts](img/25233.png) Cotton Tufts | ![Small Doll Needle](img/23189.gif) Small Doll Needle | None                                | Max SP +100                         |
 | ![Bacsojin/White Lady](img/1630.gif) Bacsojin/White Lady | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None                                | None                                | None                                |
 | ![Domovoi](img/2336.gif) Domovoi | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food |  None | None | Increases Physical Damage against enemies of Demihuman by 3%.<br>Increases Magical Damage against Demihuman by 3%.<br>Decreases physical damage from Demihuman by 3%. |
-| ![1010](img/1010.gif) Willow | ![1066](img/1066.gif) Fine-grained Trunk |  ??? | None | INT +3. |
-| ![1208](img/1208.gif) Wanderer | ??? |  ??? | None | AGI +3. |
+| ![1010](img/1010.gif) Willow | ![Pet Food](img/537.png) Pet Food | ![23257](img/23257.gif) Old Tree's Dew | None | INT +3. |
+| ![1208](img/1208.gif) Wanderer | ![Pet Food](img/537.png) Pet Food | ![14574](img/14574.gif) Vagabond's Skull | None | AGI +3. |
 
 !!! warning
     The pet **Bacsojin/White Lady**, which was tamed using the skill Abracadabra, **does not have any bonuses**.
