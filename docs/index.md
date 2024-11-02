@@ -20,35 +20,11 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         <div class="badge">November 01</div>
 
         ```markdown
-        ## 🎃 Fall/Halloween Event Updates
-
-        - **Autoloot** enabled in Niflheim.
-        - **Worn Fabric Piece**: 1% drop rate from Poring Coin monsters.
-
-        **Halloween Ticket Drop Rates:**
-
-        | Monster               | Drop Rate |
-        |-----------------------|-----------|
-        | 🪙 Majority of Monsters | `0.25%`  |
-        | 👻 Halloween Whisper    | `50%`    |
-        | 🧛 Halloween Dark Lord  | `100%`   |
-
-        ## 🐾 Pet Updates
-
-        - **Autofeed** restored for **Incubus**, **Succubus**, and **Zealotus**.
-        - New Taming Items:
-            - 🐾 **Wanderer**: Vagabond's Skull (`12%`)
-            - 🌳 **Willow**: Old Tree's Dew (`0.1%`)
-
-        ## 🏛️ Endless Cellar
-        - **UniqueID lockout fixed.**
-
-        ## ⚔️ Battleground Fixes
-        - **Tierra Gorge**: Barricade issue fixed.
-        - **NPC Shop**: Client lockout on "Esc" resolved.
-
-        ## 🌟 Quality of Life
-        - **@iteminfo** and **@mobinfo** now show clickable item links.
+        - **Fall/Halloween Event**: Autoloot enabled, seasonal drops added.
+        - **Pet Updates**: Autofeed restored, new taming items.
+        - **Endless Cellar**: UniqueID lockout fixed.
+        - **Battleground Fixes**: Tierra Gorge and NPC Shop issues resolved.
+        - **Quality of Life**: Clickable item links for @iteminfo and @mobinfo.
         ```
 
     === "September 18"
@@ -56,14 +32,9 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         <div class="badge">September 18</div>
 
         ```markdown
-        ## Bio 3 Revamp
-        - Enhanced EXP and item drops for Bio 3.
-
-        ## General Bugfixes
-        - Wiki engine update and gameplay fixes.
-
-        ## New Additions
-        - Twilight Festival costumes and Cash Shop items.
+        - **Bio 3 Revamp**: Enhanced EXP and item drops.
+        - **General Bugfixes**: Wiki engine and gameplay updates.
+        - **New Additions**: Twilight Festival costumes and Cash Shop items.
         ```
 
     === "August 31"
@@ -71,11 +42,8 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         <div class="badge">August 31</div>
 
         ```markdown
-        ## Website CP Update
-        - Improved stability and performance.
-
-        ## General Bugfixes
-        - Minor gameplay fixes.
+        - **Website CP Update**: Stability and performance improvements.
+        - **General Bugfixes**: Minor gameplay fixes.
         ```
 
     === "August 24"
@@ -83,8 +51,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         <div class="badge">August 24</div>
 
         ```markdown
-        ## Twilight Festival
-        - End-of-summer mini-games, quests, and rewards.
+        - **Twilight Festival**: End-of-summer mini-games and rewards.
         ```
 
     === "July 24"
@@ -92,17 +59,13 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         <div class="badge">July 24</div>
 
         ```markdown
-        ## WoE Mechanics Update
-        - Castle entry now requires a guild.
-
-        ## Winter Maps
-        - Dewata area restored.
-
-        ## Shop Fixes
-        - No forced vending.
+        - **WoE Mechanics**: Guild-required castle entry.
+        - **Winter Maps**: Dewata area restored.
+        - **Shop Fixes**: No forced vending.
         ```
 
-    [:octicons-arrow-right-24: See All Patch Notes](patches09182024.md)
+    [:octicons-arrow-right-24: Latest Patch Notes](patches11012024.md)
+
 
 
 ## Main Features
