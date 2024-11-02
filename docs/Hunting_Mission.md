@@ -27,7 +27,7 @@ Please note the following restrictions:
 | ![Elite Siege Supply Box](img/14003.gif)  | Elite Siege Supply Box            | 25 Mission Points |
 | ![Enriched Elunium 5 Box](img/13610.gif) | Enriched Elunium 5 Box            | 70 Mission Points |
 | ![Enriched Oridecon 5 Box](img/13610.gif) | Enriched Oridecon 5 Box           | 70 Mission Points |
-| ![Taming Gift Set](img/12105.gif)       | Taming Gift Set                    | 35 Mission Points |
-| ![Jewelry Box](img/12106.gif)           | Jewelry Box                       | 100 Mission Points |
+| ![Taming Gift Set](img/12105.gif)       | [Taming Gift Set](Timing-Gift-Set.md)  | 35 Mission Points |
+| ![Jewelry Box](img/12106.gif)           | [Jewelry Box](Jewelry-Box.md)          | 100 Mission Points |
 
 If you have additional items you would like to recommend to the Mission Shop, simply post your suggestions in the [Suggestions channel](https://discord.com/channels/702960460168953946/1056606733218365512) on our Discord.
