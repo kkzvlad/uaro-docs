@@ -87,10 +87,12 @@ The vast majority of taming items drop from monsters according to the RMS databa
 
 | **Taming Item**                                  | **Obtained From**                             |
 |--------------------------------------------------|-----------------------------------------------|
-| ![Sap Jelly](img/23187.gif)                      | Moonlight Flower with a 9% chance             |
-| ![Airship Part](img/231800_1.png)                | Gloom Under Night with a 4.5% chance          |
-| ![Spiritual Bandage](img/23256.gif)              | Evil Druid with a 0.5% chance                 |
-| ![Small Doll Needle](img/23189.gif)              | RSX-0806 with a 9% chance                     |
+| ![Sap Jelly](img/23187.gif) Sap Jelly | Moonlight Flower with a 9% chance. |
+| ![Airship Part](img/231800_1.png) Airship Part | Gloom Under Night with a 4.5% chance. |
+| ![Spiritual Bandage](img/23256.gif) Spiritual Bandage | Evil Druid with a 0.5% chance. |
+| ![Small Doll Needle](img/23189.gif) Small Doll Needle | RSX-0806 with a 9% chance. |
+| ![23257](img/23257.gif) Old Tree's Dew | Wooden Golem with a 12% chance. |
+| ![14574](img/14574.gif) Vagabond's Skull | Vagabond with a 0.1% chance. |
 
 | **Egg**                                           | **Obtained From**                             |
 |---------------------------------------------------|-----------------------------------------------|
