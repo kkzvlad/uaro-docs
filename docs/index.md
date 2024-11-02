@@ -13,7 +13,19 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 ---
 
-!!! Patchnotes
+!!! patchnotes
+
+    === "November 01"
+
+        <div class="badge">November 01</div>
+
+        ```markdown
+        - **Fall/Halloween Event**: Autoloot enabled, seasonal drops added.
+        - **Pet Updates**: Autofeed restored, new taming items.
+        - **Endless Cellar**: UniqueID lockout fixed.
+        - **Battleground Fixes**: Tierra Gorge and NPC Shop issues resolved.
+        - **Quality of Life**: Clickable item links for @iteminfo and @mobinfo.
+        ```
 
     === "October 30"
 
@@ -30,9 +42,9 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         <div class="badge">September 18</div>
 
         ```markdown
-        - Bio 3 Revamp: Enhanced EXP and item drops for Bio 3.
-        - General Bugfixes: Wiki engine updated and other fixes.
-        - New Additions: Twilight Festival Wheel of Fortune costumes and new Cash Shop items.
+        - **Bio 3 Revamp**: Enhanced EXP and item drops.
+        - **General Bugfixes**: Wiki engine and gameplay updates.
+        - **New Additions**: Twilight Festival costumes and Cash Shop items.
         ```
 
     === "August 31"
@@ -40,8 +52,8 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         <div class="badge">August 31</div>
 
         ```markdown
-        - Website CP Update: Stability and performance improvements.
-        - Bugfixes: General gameplay fixes.
+        - **Website CP Update**: Stability and performance improvements.
+        - **General Bugfixes**: Minor gameplay fixes.
         ```
 
     === "August 24"
@@ -49,7 +61,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         <div class="badge">August 24</div>
 
         ```markdown
-        - Twilight Festival: End of Summer celebration with mini-games, quests, and rewards.
+        - **Twilight Festival**: End-of-summer mini-games and rewards.
         ```
 
     === "July 24"
@@ -57,12 +69,13 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         <div class="badge">July 24</div>
 
         ```markdown
-        - WoE Mechanics Update: Castle entry now requires a guild.
-        - Winter Maps Restored: Fixed and restored the Dewata area.
-        - Shop Fixes: No forced vending.
+        - **WoE Mechanics**: Guild-required castle entry.
+        - **Winter Maps**: Dewata area restored.
+        - **Shop Fixes**: No forced vending.
         ```
 
-    [:octicons-arrow-right-24: See All Patch Notes](patches10302024.md)
+    [:octicons-arrow-right-24: Latest Patch Notes](patches11012024.md)
+
 
 
 ## Main Features
