@@ -96,7 +96,7 @@ The vast majority of taming items drop from monsters according to the RMS databa
 
 | **Egg**                                           | **Obtained From**                             |
 |---------------------------------------------------|-----------------------------------------------|
-| ![Phreeoni Egg](img/9111.gif)                     | Phreeoni with a 0.09% chance                  |
+| ![Phreeoni Egg](img/9111.gif) Phreeoni Egg | Phreeoni with a 0.09% chance                  |
 
 ---
 
