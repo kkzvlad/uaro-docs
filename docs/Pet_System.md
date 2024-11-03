@@ -91,8 +91,8 @@ The vast majority of taming items drop from monsters according to the RMS databa
 | ![Airship Part](img/231800_1.png) Airship Part | Gloom Under Night with a 4.5% chance. |
 | ![Spiritual Bandage](img/23256.gif) Spiritual Bandage | Evil Druid with a 0.5% chance. |
 | ![Small Doll Needle](img/23189.gif) Small Doll Needle | RSX-0806 with a 9% chance. |
-| ![23257](img/23257.gif) Old Tree's Dew | Wooden Golem with a 12% chance. |
-| ![14574](img/14574.gif) Vagabond's Skull | Vagabond with a 0.1% chance. |
+| ![23257](img/23257.gif) Old Tree's Dew | Wooden Golem with a 0.1% chance. |
+| ![14574](img/14574.gif) Vagabond's Skull | Vagabond with a 12% chance. |
 
 | **Egg**                                           | **Obtained From**                             |
 |---------------------------------------------------|-----------------------------------------------|
@@ -177,7 +177,7 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![Chaotic Bapho Jr](img/20525.gif) Chaotic Bapho Jr | ![Pet Food](img/537.png) Pet Food | None | None | None |  FLEE +12, MaxSP +2%. | FLEE +15, MaxSP +3%. |
 | ![Baphomet](img/Baphomet.gif) Baphomet | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | Flee + 16, MaxSP + 5%, increases long ranged physical damage by 3%. | Flee + 20, MaxSP + 7%, increases long ranged physical damage by 5%. |
 | ![20940](img/20940.gif) Blue Moon Loli Ruri | ![Pet Food](img/537.png) Pet Food | None | None | None | VIT +3, MaxHP +3%.<br>Random chance to autocast Level 2 Kyrie Eleison on yourself when recieving physical damage.(If you learned a higher Level, it will auto cast that Level instead.) | VIT +4, MaxHP +5%.<br>Random chance to autocast Level 2 Kyrie Eleison on yourself when recieving physical damage.(If you learned a higher Level, it will auto cast that Level instead.) |
-| ![1106](img/1106.gif) Desert Wolf | ![Pet Food](img/537.png) Pet Food | None | None | None | INT +1, MaxSP +50. | INT +2, MaxSP +75. |
+| ![1106](img/1106.gif) Desert Wolf | ![Pet Food](img/537.png) Pet Food | None | None | None | INT +1, MaxSP +50.<br> Increases Earth Property Magical Damage by 3%. | INT +2, MaxSP +75.<br> Increases Earth Property Magical Damage by 5%. |
 | ![1768](img/1768.gif) Gloom Under Night | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | MATK +30.<br> Increases magical damage with Ghost and Fire element by 5%. | MATK +40.<br> Increases magical damage with Ghost and Fire element by 7%. |
 | ![1734](img/1734.gif) Kiel D-01 | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | ASPD +3%, HIT +15<br> Increases melee physical damage by 3%. | ASPD +5%, HIT +18<br> Increases melee physical damage by 3%. |
 | ![1087](img/1087.gif) Orc Hero | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | ATK +3%.<br> Increases critical damage by 1%. | ATK +7%.<br> Increases critical damage by 1%. |
