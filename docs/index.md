@@ -15,6 +15,19 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 !!! patchnotes
 
+    === "November 04"
+
+        <div class="badge">November 04</div>
+
+        ```markdown
+        - **Merchant List**: Fixed merchant list on website to properly update.
+        - **Slave Monsters Loot**: Adjusted logic for loot spawning.
+        - **Necromancer**: Removed summon slave idle condition.
+        - **Dracula's Slaves**: Event loot no longer drops from Dracula's slaves.
+        - **Note**: Due to the update complexity, you will need to re-setup your merchants.
+        - **Client Update**: Fresh client download links will be updated within 12 hours.
+        ```
+
     === "November 01"
 
         <div class="badge">November 01</div>
@@ -25,6 +38,16 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         - **Endless Cellar**: UniqueID lockout fixed.
         - **Battleground Fixes**: Tierra Gorge and NPC Shop issues resolved.
         - **Quality of Life**: Clickable item links for @iteminfo and @mobinfo.
+        ```
+
+    === "October 30"
+
+        <div class="badge">October 30</div>
+
+        ```markdown
+        - Halloween Event: Special quests, monster summoning, and exclusive Halloween rewards!
+        - New Pet Evolutions: Alicel, Aliot, Baphomet, and more.
+        - Bug Fixes and Improvements: Endless Cellar reset, skill tweaks, and visual updates.
         ```
 
     === "September 18"
@@ -64,7 +87,8 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         - **Shop Fixes**: No forced vending.
         ```
 
-    [:octicons-arrow-right-24: Latest Patch Notes](patches11012024.md)
+    [:octicons-arrow-right-24: Latest Patch Notes](patches11042024.md)
+
 
 
 
