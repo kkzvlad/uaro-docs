@@ -9,6 +9,9 @@ hide:
 1. [Overview](#overview)
 2. [Schedule](#schedule)
 3. [Castles](#castles)
+4. [Treasure Chest Drop](#treasure-chest-drop)
+5. [Token System](#token-system)
+6. [WoE Mechanics](#woe-mechanics)
 
 ## Overview
 The War of Emperium is a game feature where guilds compete to conquer a castle, which then becomes the guild’s headquarters and grants various bonuses and advantages.
@@ -20,13 +23,38 @@ rtrt
 
 | Server Time (UTC)  | CET (UTC +1)    | EET (UTC +2)       |  IST (UTC +5)          | PST (UTC -8)          | MST (UTC -7)         | CST (UTC -6)         | EST (UTC -5)         |
 |--------------------|-----------------|--------------------|------------------------|-----------------------|----------------------|----------------------|----------------------|
-| 15:00              | 16:00           | 17:00              | 20:00                  | 07:00                 | 08:00                | 09:00                | 10:00                |
+| 16:00              | 17:00           | 18:00              | 21:00                  | 08:00                 | 09:00                | 10:00                | 11:00                |
 
 ## Castles
 
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
-|Swanhild. Prontera|
-|Scarlet Palace. Payon|
-|Eeyolbriggar. Geffen|
-|Hohenschwangan. Aldebaran|
+|Swanhild. Prontera| ![Prontera Castle](img/Prontera-Castle.png) | scrin | ![Prontera Dun](img/Prontera-Dun.png) |
+|Scarlet Palace. Payon| ![Payon Castle](img/Payon-Castle.png) | scrin | ![Payon Dun](img/Payon-Dun.png) |
+|Eeyolbriggar. Geffen|  ![Geffen Castle](img/Geffen-Castle.png) | scrin | ![Geffen Dun](img/Geffen-Dun.png) |
+|Hohenschwangan. Aldebaran| ![Aldebaran Castle](img/Aldebaran-Castle.png) | scrin | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
+
+!!! note
+    Castle rotations happen periodically as well as total active castle numbers based on WoE population and is subject to change.
+
+## Treasure Chest Drop
+
+## Token System
+
+One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% base percentage.  Current zone = Prontera.   When 3 of one type are collected, they can be redeemed for one of the packages of choice listed below via GM. These tokens are non guild-storable or tradeable and must be collected by your designated woe/guild lead.
+
+## WoE Mechanics
+
+-30 member cap within any given castle (Recall prioritizes top most rank downwards until number met)
+-All MVP cards render no effect within WoE Castles (Still equippable, but have no effect)
+-The following mini-boss cards render no effect within WoE Castles (Ghostring, Angeling, Deviling and Maya Purple)
+-Alliances are abolished
+-@GuildHP is now toggleable through @loginsettings (Allows you to view Guild member HP even outside of party)
+
+Item Restrictions
+-Yggdrasil Berry
+-Yggdrasil Seeds
+
+Skill Restrictions
+-Loki's Veil
+-High Jump
