@@ -19,7 +19,7 @@ Owning a castle provides several benefits for the guild. First, it unlocks acces
 
 ## Schedule
 
-rtrt
+On our server, WoE takes place every Saturday and lasts for one hour.<br>
 
 | Server Time (UTC)  | CET (UTC +1)    | EET (UTC +2)       |  IST (UTC +5)          | PST (UTC -8)          | MST (UTC -7)         | CST (UTC -6)         | EST (UTC -5)         |
 |--------------------|-----------------|--------------------|------------------------|-----------------------|----------------------|----------------------|----------------------|
@@ -41,20 +41,28 @@ rtrt
 
 ## Token System
 
-One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% base percentage.  Current zone = Prontera.   When 3 of one type are collected, they can be redeemed for one of the packages of choice listed below via GM. These tokens are non guild-storable or tradeable and must be collected by your designated woe/guild lead.
+One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% base percentage. Current zone = Prontera. When 3 of one type are collected, they can be redeemed for one of the packages of choice listed below via GM. These tokens are non guild-storable or tradeable and must be collected by your designated woe/guild lead.
+
+| Package 1           | Package 2         | Package 3            |
+|---------------------|-------------------|----------------------|
+| 50 Bloody Branch    | 50 Bloody Branch  | 50 Bloody Branch     |
+| 25 Old Card Album   | 25 Old Card Album | 25 Old Card Album    |
+| Mystical Card Album | 2k AD Bottle Sets | 40 Enriched Elunium  |
+|                     |                   | 40 Enriched Oridecon |
+
 
 ## WoE Mechanics
 
--30 member cap within any given castle (Recall prioritizes top most rank downwards until number met)
--All MVP cards render no effect within WoE Castles (Still equippable, but have no effect)
--The following mini-boss cards render no effect within WoE Castles (Ghostring, Angeling, Deviling and Maya Purple)
--Alliances are abolished
--@GuildHP is now toggleable through @loginsettings (Allows you to view Guild member HP even outside of party)
+-30 member cap within any given castle (Recall prioritizes top most rank downwards until number met).<br>
+-All MVP cards render no effect within WoE Castles (Still equippable, but have no effect).<br>
+-The following mini-boss cards render no effect within WoE Castles (Ghostring, Angeling, Deviling and Maya Purple).<br>
+-Alliances are abolished.<br>
+-@GuildHP is now toggleable through @loginsettings (Allows you to view Guild member HP even outside of party).<br>
 
-Item Restrictions
--Yggdrasil Berry
--Yggdrasil Seeds
+Item Restrictions:<br>
+-Yggdrasil Berry<br>
+-Yggdrasil Seeds<br>
 
-Skill Restrictions
--Loki's Veil
--High Jump
+Skill Restrictions:<br>
+-Loki's Veil<br>
+-High Jump<br>
