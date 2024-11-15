@@ -4,6 +4,15 @@ hide:
 ---
 # Troubleshooting
 
+## Contents
+1. [Client problem](#client-problems)
+2. [My antivirus recognizes uaRO.exe and uaRO Patcher.exe as insecure software or virus.](#my-antivirus-recognizes-uaroexe-and-uaro-patcherexe-as-insecure-software-or-virus)
+3. [Gepard Shield is stuck on the loading screen and is not showing any error messages.](#gepard-shield-is-stuck-on-the-loading-screen-and-is-not-showing-any-error-messages)
+4. [There is a Gepard Shield error stating that illegal software is being used.](#there-is-a-gepard-shield-error-stating-that-illegal-software-is-being-used)
+5. [I got an error: Gepard can't validate license on the server.](#i-got-an-error-gepard-cant-validate-license-on-the-server)
+6. [There are low FPS or freezes occurring in the game client on a Windows 10/11 system with Nvidia graphics.](#there-are-low-fps-or-freezes-occurring-in-the-game-client-on-a-windows-1011-system-with-nvidia-graphics)
+7. [Cannot init d3d OR grf file has problem](#cannot-init-d3d-or-grf-file-has-problem)
+
 ## **Client problems**
 
 !!! Important 
