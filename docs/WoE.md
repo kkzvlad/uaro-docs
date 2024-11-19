@@ -39,11 +39,11 @@ On our server, WoE takes place every Saturday and lasts for one hour.<br>
 
 ## Treasure Chest Drop
 
-<<<<<<< HEAD
 | Castle Name. Town  | Treasure Chest 1 | Treasure Chest 2 |
 |--------------------|------------------|------------------|
 |Swanhild. Prontera  | ![7539](img/7539.gif) Poring Coin - 100%<br> Shoes [1] - 50%<br> Chain Mail [1] - 40%<br> Old Card Album - 20%<br> Enriched Oridecon - 15%<br> Bloody Branch - 10%<br> Spiky Band [1] - 3.75% | ![7539](img/7539.gif) Poring Coin - 100%<br> Yggdrasil Berry - 100%<br> Boots [1] - 40%<br> Memory Book [1] - 15%<br> Enriched Elunium - 15%<br> Token of Honor - 0.25%<br> Mystical Card Album - 0.01% | 
 |Scarlet Palace. Payon|
+|Eeyolbriggar. Geffen|
 
 ## Token System
 
