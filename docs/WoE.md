@@ -39,6 +39,13 @@ On our server, WoE takes place every Saturday and lasts for one hour.<br>
 
 ## Treasure Chest Drop
 
+| Castle Name | Treasure Chest 1 | reasure Chest 2 |
+|-------------|------------------|-----------------|
+|Swanhild. Prontera|
+|Scarlet Palace. Payon|
+|Eeyolbriggar. Geffen|
+|Hohenschwangan. Aldebaran|
+
 ## Token System
 
 One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% base percentage. Current zone = Prontera. When 3 of one type are collected, they can be redeemed for one of the packages of choice listed below via GM. These tokens are non guild-storable or tradeable and must be collected by your designated woe/guild lead.
