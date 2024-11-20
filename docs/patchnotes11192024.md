@@ -89,7 +89,7 @@ title: "Patch Notes - 19/11/2024"
 ## 👗 **New Costumes**
 
 A selection of new costumes is now available in our **cash shop**.  
-![Screenshot](<img/cashshop11192024.png>)
+![Screenshot](<img/cashshop11192024.webp>)
 
 ---
 
