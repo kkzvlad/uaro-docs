@@ -82,7 +82,7 @@ title: "Patch Notes - 19/11/2024"
 ## 🐞 **Server Bugs**
 
 - Fixed a memory issue preventing all merchant listings from displaying within the **Control Panel**.
-- Restructured the script for the initial kill of slave monsters to correctly yield **EXP** and **loot**.
+- Restructured script for initial kill of slave monsters to correctly yield **EXP** and **loot**.
 
 ---
 
