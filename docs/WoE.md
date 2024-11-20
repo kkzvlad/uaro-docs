@@ -29,10 +29,10 @@ On our server, WoE takes place every Saturday and lasts for one hour.<br>
 
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
-|Swanhild. Prontera| ![Prontera Castle](img/Prontera-Castle.png) | scrin | ![Prontera Dun](img/Prontera-Dun.png) |
-|Scarlet Palace. Payon| ![Payon Castle](img/Payon-Castle.png) | scrin | ![Payon Dun](img/Payon-Dun.png) |
-|Eeyolbriggar. Geffen|  ![Geffen Castle](img/Geffen-Castle.png) | scrin | ![Geffen Dun](img/Geffen-Dun.png) |
-|Hohenschwangan. Aldebaran| ![Aldebaran Castle](img/Aldebaran-Castle.png) | scrin | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
+|Kriemhild. Prontera| ![Prontera Castle](img) | scrin | ![Prontera Dun](img/Prontera-Dun.png) |
+|Mardol. Rachel| ![Mardol Castle](img) | scrin | ![Payon Dun](img) |
+|Yesnelph. Geffen|  ![Geffen Castle](img) | scrin | ![Geffen Dun](img/Geffen-Dun.png) |
+|Wuerzburg. Aldebaran| ![Aldebaran Castle](img) | scrin | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
 
 !!! note
     Castle rotations happen periodically as well as total active castle numbers based on WoE population and is subject to change.
@@ -41,10 +41,10 @@ On our server, WoE takes place every Saturday and lasts for one hour.<br>
 
 | Castle Name. Town  | Treasure Chest 1 | Treasure Chest 2 |
 |--------------------|------------------|------------------|
-|Swanhild. Prontera  | ![7539](img/7539.gif) Poring Coin - 100%<br> Shoes [1] - 50%<br> Chain Mail [1] - 40%<br> Old Card Album - 20%<br> Enriched Oridecon - 15%<br> Bloody Branch - 10%<br> Spiky Band [1] - 3.75% | ![7539](img/7539.gif) Poring Coin - 100%<br> Yggdrasil Berry - 100%<br> Boots [1] - 40%<br> Memory Book [1] - 15%<br> Enriched Elunium - 15%<br> Token of Honor - 0.25%<br> Mystical Card Album - 0.01% | 
-|Scarlet Palace. Payon|
-|Eeyolbriggar. Geffen|
-
+|Kriemhild. Prontera  | ![7539](img/7539.gif) Poring Coin - 100%<br> Yggdrasil Berry - 50%<br> Yggdrasil Seed - 50%<br> Buckler [1] - 40%<br> Chain Mail [1] - 40%<br> Old Card Album - 20%<br> Enriched Oridecon - 15%<br> Bloody Branch - 10% | ![7539](img/7539.gif) Poring Coin - 100%<br> Dead Branch - 100%<br> Oridecon - 48.5%<br> Enriched Elunium - 15%<br> Crystal Pumps - 4.5%<br> Romantic Flower - 2.5%<br> Full Plate - 0.35%<br> Mystical Card Album - 0.01% | 
+|Mardol. Rachel|
+|Yesnelph. Geffen|
+|Wuerzburg. Aldebaran| ![7539](img/7539.gif) Poring Coin - 100%<br> Mirror Shield - 50%<br> Chain Mail [1] - 40%<br> Old Card Album - 20%<br> Enriched Oridecon - 15%<br> Bloody Branch - 10%<br> War Axe [1] - 3.75% | ![7539](img/7539.gif) Poring Coin - 100%<br> Yggdrasil Berry - 100%<br> Shoes [1] - 50%<br> Buckler [1] - 40%<br> Enriched Elunium - 15%<br> Hat of the Sun God - 0.1%<br> Mystical Card Album - 0.01% |
 ## Token System
 
 One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% base percentage. Current zone = Prontera. When 3 of one type are collected, they can be redeemed for one of the packages of choice listed below via GM. These tokens are non guild-storable or tradeable and must be collected by your designated woe/guild lead.
