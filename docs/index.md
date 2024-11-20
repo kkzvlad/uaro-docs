@@ -15,6 +15,21 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 !!! patchnotes
 
+    === "November 19"
+
+        <div class="badge">November 19</div>
+
+        ```markdown
+        - **WoE Castle Rotation**: New castle selections for 1.0 and 2.0 castles.
+        - **Battle Grounds**: Fixed queue issues, mode crashes, and added spawn camping prevention.
+        - **Pets**: Autofeed available for non-evolvable pets and taming percentages added to Wiki.
+        - **Quality of Life**: New inns, elemental bullets, and weekend EXP status icons.
+        - **Main Office Additions**: Crimson Rose and Infinite Butterfly Wing now exchangeable.
+        - **Server Bugs**: Merchant listing display issue resolved in Control Panel.
+        - **New Costumes**: Fresh costume arrivals in the cash shop.
+        - **Endless Cellar**: Temporarily closed for adjustments.
+        ```
+
     === "November 04"
 
         <div class="badge">November 04</div>
@@ -87,7 +102,8 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         - **Shop Fixes**: No forced vending.
         ```
 
-    [:octicons-arrow-right-24: Latest Patch Notes](patches11042024.md)
+    [:octicons-arrow-right-24: Latest Patch Notes](patchnotes11192024.md)
+
 
 
 
