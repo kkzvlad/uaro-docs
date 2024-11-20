@@ -42,9 +42,10 @@ On our server, WoE takes place every Saturday and lasts for one hour.<br>
 | Castle Name. Town  | Treasure Chest 1 | Treasure Chest 2 |
 |--------------------|------------------|------------------|
 |Kriemhild. Prontera  | ![7539](img/7539.gif) Poring Coin - 100%<br> Yggdrasil Berry - 50%<br> Yggdrasil Seed - 50%<br> Buckler [1] - 40%<br> Chain Mail [1] - 40%<br> Old Card Album - 20%<br> Enriched Oridecon - 15%<br> Bloody Branch - 10% | ![7539](img/7539.gif) Poring Coin - 100%<br> Dead Branch - 100%<br> Oridecon - 48.5%<br> Enriched Elunium - 15%<br> Crystal Pumps - 4.5%<br> Romantic Flower - 2.5%<br> Full Plate - 0.35%<br> Mystical Card Album - 0.01% | 
-|Mardol. Rachel|
-|Yesnelph. Geffen|
+|Mardol. Rachel| ![7539](img/7539.gif) Poring Coin - 100%<br> Yggdrasil Berry - 100%<br> Yggdrasil Seed - 100%<br> Bloody Branch - 20%<br> Enriched Oridecon - 20%<br> Glove [1] - 2.3%<br> Elven Ears - 1.25%<br> Mystical Card Album - 0.01% | ![7539](img/7539.gif) Poring Coin - 100%<br> Old Card Album - 50%<br> Enriched Oridecon - 20%<br> Stone Buckler [1] - 5%<br> Wool Scarf [1] - 5%<br> Odin's Blessing [1] - 5% |
+|Yesnelph. Geffen| ![7539](img/7539.gif) Poring Coin - 100%<br> Yggdrasil Berry - 50%<br> Yggdrasil Seed - 50%<br> Shoes [1] - 40%<br> Chain Mail [1] - 40%<br> Buckler [1] - 40%<br> Enriched Oridecon - 15%<br> Bloody Branch - 10%<br> Old Card Album - 10% | ![7539](img/7539.gif) Poring Coin - 100%<br> Dead Branch - 100%<br> Oridecon - 48.5%<br> Enriched Elunium - 15%<br> Rosary [1] - 3%<br> Soul Staff - 1.67%<br> Token of Honor - 0.25%<br> Holy Robe - 0.1%<br> Mystical Card Album - 0.01% |
 |Wuerzburg. Aldebaran| ![7539](img/7539.gif) Poring Coin - 100%<br> Mirror Shield - 50%<br> Chain Mail [1] - 40%<br> Old Card Album - 20%<br> Enriched Oridecon - 15%<br> Bloody Branch - 10%<br> War Axe [1] - 3.75% | ![7539](img/7539.gif) Poring Coin - 100%<br> Yggdrasil Berry - 100%<br> Shoes [1] - 50%<br> Buckler [1] - 40%<br> Enriched Elunium - 15%<br> Hat of the Sun God - 0.1%<br> Mystical Card Album - 0.01% |
+
 ## Token System
 
 One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% base percentage. Current zone = Prontera. When 3 of one type are collected, they can be redeemed for one of the packages of choice listed below via GM. These tokens are non guild-storable or tradeable and must be collected by your designated woe/guild lead.
