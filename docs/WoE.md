@@ -29,10 +29,10 @@ On our server, WoE takes place every Saturday and lasts for one hour.<br>
 
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
-|Kriemhild. Prontera| ![Prontera Castle](img) | scrin | ![Prontera Dun](img/Prontera-Dun.png) |
-|Mardol. Rachel| ![Mardol Castle](img) | scrin | ![Payon Dun](img) |
-|Yesnelph. Geffen|  ![Geffen Castle](img) | scrin | ![Geffen Dun](img/Geffen-Dun.png) |
-|Wuerzburg. Aldebaran| ![Aldebaran Castle](img) | scrin | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
+|Kriemhild. Prontera| ![Prontera Castle](img/Kriemhild-Prontera.png) | scrin | ![Prontera Dun](img/Prontera-Dun.png) |
+|Mardol. Rachel| ![Mardol Castle](img/Mardol-Rachel.png) | scrin | ![PRachel Dun](img/Mardol-Rachel-Dun.png) |
+|Yesnelph. Geffen|  ![Geffen Castle](img/Yesnelph-Geffen.png) | scrin | ![Geffen Dun](img/Geffen-Dun.png) |
+|Wuerzburg. Aldebaran| ![Aldebaran Castle](img/Wuerzburg-Aldebaran.png) | scrin | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
 
 !!! note
     Castle rotations happen periodically as well as total active castle numbers based on WoE population and is subject to change.
