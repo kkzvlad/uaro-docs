@@ -66,10 +66,13 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 -Alliances are abolished.<br>
 -@GuildHP is now toggleable through @loginsettings (Allows you to view Guild member HP even outside of party).<br>
 
-Item Restrictions:<br>
--Yggdrasil Berry<br>
--Yggdrasil Seeds<br>
+### Item Restrictions:
 
-Skill Restrictions:<br>
--Loki's Veil<br>
--High Jump<br>
+![607](img/607.gif) Yggdrasil Berry<br>
+![608](img/608.gif) Yggdrasil Seeds<br>
+![12192](img/12192.gif) Pumpkin Pie<br>
+
+### Skill Restrictions:
+
+![bd_rokisweil](img/bd_rokisweil.gif) Loki's Veil<br>
+![tk_highjump](img/tk_highjump.gif) High Jump<br>
