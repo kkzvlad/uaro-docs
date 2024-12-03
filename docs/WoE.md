@@ -60,11 +60,11 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 
 ## WoE Mechanics
 
--30 member cap within any given castle (Recall prioritizes top most rank downwards until number met).<br>
--All MVP cards render no effect within WoE Castles (Still equippable, but have no effect).<br>
--The following mini-boss cards render no effect within WoE Castles (Ghostring, Angeling, Deviling and Maya Purple).<br>
--Alliances are abolished.<br>
--@GuildHP is now toggleable through @loginsettings (Allows you to view Guild member HP even outside of party).<br>
+- 30 member cap within any given castle (Recall prioritizes top most rank downwards until number met).<br>
+- All MVP cards render no effect within WoE Castles (Still equippable, but have no effect).<br>
+- The following mini-boss cards render no effect within WoE Castles (Ghostring, Angeling, Deviling and Maya Purple).<br>
+- Alliances are abolished.<br>
+- @GuildHP is now toggleable through @loginsettings (Allows you to view Guild member HP even outside of party).<br>
 
 ### Item Restrictions:
 
