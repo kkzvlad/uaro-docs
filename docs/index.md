@@ -30,7 +30,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         - **Event NPC**: Token exchanger added in the Main Office.
         ```
 
-    [:octicons-arrow-right-24: Full Patch Notes](patches12062024.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patches12062024.md)
 
     === "November 19"
 
@@ -119,7 +119,6 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         - **Shop Fixes**: No forced vending.
         ```
 
-    [:octicons-arrow-right-24: Latest Patch Notes](patchnotes11192024.md)
 
 
 
