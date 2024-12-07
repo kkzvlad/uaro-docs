@@ -15,6 +15,23 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 !!! patchnotes
 
+    === "December 6"
+
+        <div class="badge">December 6</div>
+
+        ```markdown
+        - **Fall/Halloween Event End**: Seasonal content and mechanics removed.
+        - **Old Glast Heim**: Pre-renewal adaptation with item and mob tweaks.
+        - **Endless Cellar**: Reverted mechanics, weekly cooldowns, and timer adjustments.
+        - **Battlegrounds**: File structure reworked, new modes reopening, and cost tweaks.
+        - **Pets**: Adjustments to Whisper, Ghost Coffin, and Orc Hero stats.
+        - **WoE**: Mardol moved to Wednesday, Aldebaran spawn script changes.
+        - **Class Reworks**: Skill tweaks for Gunslinger, Ninja, Star Gladiator, and Soul Linker.
+        - **Event NPC**: Token exchanger added in the Main Office.
+        ```
+
+    [:octicons-arrow-right-24: Full Patch Notes](patches12062024.md)
+
     === "November 19"
 
         <div class="badge">November 19</div>
@@ -103,9 +120,6 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         ```
 
     [:octicons-arrow-right-24: Latest Patch Notes](patchnotes11192024.md)
-
-
-
 
 
 ## Main Features
