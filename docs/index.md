@@ -122,6 +122,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
     [:octicons-arrow-right-24: Latest Patch Notes](patchnotes11192024.md)
 
 
+
 ## Main Features
 
 <div class="grid cards" markdown>
