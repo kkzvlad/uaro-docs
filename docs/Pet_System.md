@@ -71,6 +71,7 @@ hide:
 | ![Domovoi](img/2336.gif) Domovoi | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food |  None | None | Increases Physical Damage against enemies of Demihuman by 3%.<br>Increases Magical Damage against Demihuman by 3%.<br>Decreases physical damage from Demihuman by 3%. | Event |
 | ![1010](img/1010.gif) Willow | ![Pet Food](img/537.png) Pet Food | ![23257](img/23257.gif) Old Tree's Dew | None | INT +3. | 10% |
 | ![1208](img/1208.gif) Wanderer | ![Pet Food](img/537.png) Pet Food | ![14574](img/14574.gif) Vagabond's Skull | None | AGI +3. | 10% |
+| ![1179](img/1179.gif) Whisper | - | ![12363](img/12363.gif) Ghost Coffin | - | FLEE + 7, Enables the use of Hiding Lv.1. | 5% |
 
 !!! note
     Pet Capture Rates<br>
@@ -100,6 +101,7 @@ The vast majority of taming items drop from monsters according to the RMS databa
 | ![Small Doll Needle](img/23189.gif) Small Doll Needle | RSX-0806 with a 9% chance. |
 | ![23257](img/23257.gif) Old Tree's Dew | Wooden Golem with a 0.1% chance. |
 | ![14574](img/14574.gif) Vagabond's Skull | Vagabond with a 12% chance. |
+| ![12363](img/12363.gif) Ghost Coffin | Ghostring with a 6% chance. |
 
 | **Egg**                                           | **Obtained From**                             |
 |---------------------------------------------------|-----------------------------------------------|
@@ -187,6 +189,6 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![1106](img/1106.gif) Desert Wolf | ![Pet Food](img/537.png) Pet Food | None | None | None | INT +1, MaxSP +50.<br> Increases Earth Property Magical Damage by 3%. | INT +2, MaxSP +75.<br> Increases Earth Property Magical Damage by 5%. |
 | ![1768](img/1768.gif) Gloom Under Night | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | MATK +30.<br> Increases magical damage with Ghost and Fire element by 5%. | MATK +40.<br> Increases magical damage with Ghost and Fire element by 7%. |
 | ![1734](img/1734.gif) Kiel D-01 | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | ASPD +3%, HIT +15<br> Increases melee physical damage by 3%. | ASPD +5%, HIT +18<br> Increases melee physical damage by 5%. |
-| ![1087](img/1087.gif) Orc Hero | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | ATK +3%.<br> Increases critical damage by 1%. | ATK +7%.<br> Increases critical damage by 3%. |
+| ![1087](img/1087.gif) Orc Hero | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | ATK +40.<br> Increases critical damage by 1%. | ATK +50.<br> Increases critical damage by 3%. |
 | ![20373](img/20373.gif) Rigid Nightmare Terror | ![Pet Food](img/537.png) Pet Food | None | None | None | INT +3, MaxSP +1%.<br> Prevents Sleep status. | INT +4, MaxSP +3%.<br> Prevents Sleep status. |
 | ![20420](img/20420.gif) Contaminated Wanderer | ![Pet Food](img/537.png) Pet Food | None | None | None | AGI +4, CRIT +2.<br> Increases critical damage by 5%. | AGI +4, CRIT +3.<br> Increases critical damage by 7%. |
