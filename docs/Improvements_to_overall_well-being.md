@@ -60,6 +60,11 @@ Overall, the inns in uaRO are designed to provide players with a comprehensive a
 - Lighthalzen
 - Hugel
 - Veins
+- Amatsu
+- Lutie
+- Yuno
+- Gonryun
+- Ayothaya
 
 ## **Retailers of Uniform Equipment**
 
