@@ -6,6 +6,7 @@ hide:
 # WoE
 
 ## Contents
+
 1. [Overview](#overview)
 2. [Schedule](#schedule)
 3. [Treasure Chest Drop](#treasure-chest-drop)
@@ -46,7 +47,6 @@ On our server, WoE takes place every Saturday and Wednesday and lasts for one ho
 |--------------------|------------|---------------------|------------------------|
 |Mardol. Rachel| ![Mardol Castle](img/Mardol-Rachel.png) | scrin | ![Rachel Dun](img/Mardol-Rachel-Dun.png) |
 
-
 !!! note
     Castle rotations happen periodically as well as total active castle numbers based on WoE population and is subject to change.
 
@@ -69,7 +69,6 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 | ![616](img/616.gif) Old Card Album - 25 | ![616](img/616.gif) Old Card Album - 25 | ![616](img/616.gif) Old Card Album - 25 |
 | ![616](img/616.gif) Mystical Card Album | AD Bottle Sets - 2k |![7619](img/7619.gif) Enriched Elunium - 40 |
 |                     |                   | ![7620](img/7620.gif) Enriched Oridecon - 40 |
-
 
 ## WoE Mechanics
 

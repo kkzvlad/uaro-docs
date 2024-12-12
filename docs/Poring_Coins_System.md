@@ -12,6 +12,7 @@ You can also get them for completing various in-game quests and participating in
 Poring coins are not tied to an account or a character, you can sell them, exchange them with other players or just throw them away xD.
 
 ## **Contents**
+
 1. [Poring Coins drop changes](#poring-coins-drop-changes)
 2. [Where to exchange Poring Coins](#where-to-exchange-poring-coins)
 3. [List of items that can be exchanged for Poring Coins](#list-of-items-that-can-be-exchanged-for-poring-coins)

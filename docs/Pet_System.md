@@ -4,7 +4,9 @@ hide:
 ---
 
 # Pet System
+
 ## **Contents**
+
 1. [Available Pets](#available-non-evolved-pets)
 2. [Taming Items](#taming-items)
 3. [Pet Evolution](#pet-evolution)
@@ -150,10 +152,7 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![Nightmare Terror](img/1379.gif) Nightmare Terror | ![7120](img/7120.gif) Burning Horseshoe - 1000<br> ![510](img/510.gif) Blue Herb - 100<br> ![935](img/935.gif) Shell - 100<br> ![Card](img/Card.gif) Nightmare Terror Card - 10 | ![20373](img/20373.gif) Rigid Nightmare Terror |
 | ![1208](img/1208.gif) Wanderer | ![Card](img/Card.gif) Wanderer card - 3<br> ![7005](img/7005.gif) Skull - 500<br> ![1009](img/1009.gif) Hand of God - 50<br> ![1059](img/1059.gif) Fabric - 100 | ![20420](img/20420.gif) Contaminated Wanderer |
 
-
-
 ## **Available Evolved Pets**
-
 
 | Pets                      | Food                   | Accessory | Awkward/Shy                     | Neutral                          | Cordial                                   | Loyal                                |
 |---------------------------------|-------------------------------|-------------------|--------------------------------|----------------------------------|-------------------------------------------|---------------------------------------|

@@ -1,6 +1,7 @@
 # Headgear Quests NPC
 
 ## Overview
+
 Dominka NPC boasts a comprehensive collection of practical headgear to enhance your character's adventures.
 
 ## List Of Headgear
