@@ -14,6 +14,7 @@ hide:
 5. [WoE Mechanics](#woe-mechanics)
 
 ## Overview
+
 The War of Emperium is a game feature where guilds compete to conquer a castle, which then becomes the guild’s headquarters and grants various bonuses and advantages.
 Owning a castle provides several benefits for the guild. First, it unlocks access to a special Guild Dungeon available to all guild members. These dungeons contain powerful monsters that are often not found in the regular world. Additionally, every night, 4 or more treasure chests (depending on the castle’s economy level) appear in the castle, offering valuable items and equipment. Owning a castle raises the guild's prestige.
 
@@ -31,9 +32,9 @@ On our server, WoE takes place every Saturday and Wednesday and lasts for one ho
 
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
-|Kriemhild. Prontera| ![Prontera Castle](img/Kriemhild-Prontera.png) | scrin | ![Prontera Dun](img/Prontera-Dun.png) |
-|Yesnelph. Geffen|  ![Geffen Castle](img/Yesnelph-Geffen.png) | scrin | ![Geffen Dun](img/Geffen-Dun.png) |
-|Wuerzburg. Aldebaran| ![Aldebaran Castle](img/Wuerzburg-Aldebaran.png) | scrin | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
+|Kriemhild. Prontera| ![Prontera Castle](img/Kriemhild-Prontera.png) | [![Kriemhild Room](img/Kriemhild-EmpRoom.png){width=240 height=384}](img/Kriemhild-EmpRoom.png) | ![Prontera Dun](img/Prontera-Dun.png) |
+|Yesnelph. Geffen|  ![Geffen Castle](img/Yesnelph-Geffen.png) | [![Yesnelph Room](img/Yesnelph-EmpRoom.jpg){width=550 height=384}](img/Yesnelph-EmpRoom.jpg) | ![Geffen Dun](img/Geffen-Dun.png) |
+|Wuerzburg. Aldebaran| ![Aldebaran Castle](img/Wuerzburg-Aldebaran.png) | [![Wuerzburg Room](img/Wuerzburg-EmpRoom.jpg){width=284 height=384}](img/Wuerzburg-EmpRoom.jpg) | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
 
 ### Wednesday
 
@@ -45,7 +46,7 @@ On our server, WoE takes place every Saturday and Wednesday and lasts for one ho
 
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
-|Mardol. Rachel| ![Mardol Castle](img/Mardol-Rachel.png) | scrin | ![Rachel Dun](img/Mardol-Rachel-Dun.png) |
+|Mardol. Rachel| ![Mardol Castle](img/Mardol-Rachel.png) | [![Mardol Room](img/Mardol-Emp-Room.png){width=650 height=384}](img/Mardol-Emp-Room.png) | ![Rachel Dun](img/Mardol-Rachel-Dun.png) |
 
 !!! note
     Castle rotations happen periodically as well as total active castle numbers based on WoE population and is subject to change.

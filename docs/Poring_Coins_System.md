@@ -50,7 +50,6 @@ Poring Coins can be exchanged for you by Lydia, she is in the main office of Pro
 
 ### **Consumable items**
 
-
 | Item Name                                | Description                                                                                                                                                                                                                                          | Cost |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
 | ![Field Manual 100%](img/12263_1.png) **Field Manual 100%**      | A manual that explains the effective way of the battle. It is a very detailed and well composed manual. Exp rate is increased to 100% for 30 minutes.                                       | 40   |

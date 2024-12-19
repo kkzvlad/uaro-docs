@@ -121,6 +121,9 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
     [:octicons-arrow-right-24: Headgear Quest](Dimonka_Headgear_Quest.md)
 
 
+
+    [:octicons-arrow-right-24: WoE](WoE.md)
+
 -   
 
     [:octicons-arrow-right-24: Card Exchange](Card_Exchange.md)
