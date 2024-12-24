@@ -15,6 +15,21 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 !!! patchnotes
 
+    === "December 24"
+
+        <div class="badge">December 24</div>
+
+        ```markdown
+        - **Holiday Event**: Cookies and Snow Crystals now dropping, new NPCs in Prontera.
+        - **Battlegrounds**: Fixed reward tiers and Asura Strike damage tweaks.
+        - **Endless Cellar/ET**: Adjusted re-entry mechanics and cooldowns.
+        - **Old Glast Heim**: Loot table and MVP adjustments, skill restrictions added.
+        - **Miscellaneous**: Added #Main Chat delay and Mysterious Dyestuff options.
+        - **New Costumes**: 18 fresh arrivals in the Cash Shop.
+        ```
+
+        [:octicons-arrow-right-24: Full Patch Notes](patches12242024.md)
+
     === "December 6"
 
         <div class="badge">December 6</div>
@@ -118,6 +133,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         - **Winter Maps**: Dewata area restored.
         - **Shop Fixes**: No forced vending.
         ```
+
 
 
 
