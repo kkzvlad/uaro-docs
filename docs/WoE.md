@@ -6,33 +6,47 @@ hide:
 # WoE
 
 ## Contents
+
 1. [Overview](#overview)
 2. [Schedule](#schedule)
-3. [Castles](#castles)
-4. [Treasure Chest Drop](#treasure-chest-drop)
-5. [Token System](#token-system)
-6. [WoE Mechanics](#woe-mechanics)
+3. [Treasure Chest Drop](#treasure-chest-drop)
+4. [Token System](#token-system)
+5. [WoE Mechanics](#woe-mechanics)
 
 ## Overview
+
 The War of Emperium is a game feature where guilds compete to conquer a castle, which then becomes the guild’s headquarters and grants various bonuses and advantages.
 Owning a castle provides several benefits for the guild. First, it unlocks access to a special Guild Dungeon available to all guild members. These dungeons contain powerful monsters that are often not found in the regular world. Additionally, every night, 4 or more treasure chests (depending on the castle’s economy level) appear in the castle, offering valuable items and equipment. Owning a castle raises the guild's prestige.
 
 ## Schedule
 
-On our server, WoE takes place every Saturday and lasts for one hour.<br>
+On our server, WoE takes place every Saturday and Wednesday and lasts for one hour.<br>
+
+### Saturday
 
 | Server Time (UTC)  | CET (UTC +1)    | EET (UTC +2)       |  IST (UTC +5)          | PST (UTC -8)          | MST (UTC -7)         | CST (UTC -6)         | EST (UTC -5)         |
 |--------------------|-----------------|--------------------|------------------------|-----------------------|----------------------|----------------------|----------------------|
 | 16:00              | 17:00           | 18:00              | 21:00                  | 08:00                 | 09:00                | 10:00                | 11:00                |
 
-## Castles
+#### Available Castles
 
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
-|Kriemhild. Prontera| ![Prontera Castle](img/Kriemhild-Prontera.png) | scrin | ![Prontera Dun](img/Prontera-Dun.png) |
-|Mardol. Rachel| ![Mardol Castle](img/Mardol-Rachel.png) | scrin | ![Rachel Dun](img/Mardol-Rachel-Dun.png) |
-|Yesnelph. Geffen|  ![Geffen Castle](img/Yesnelph-Geffen.png) | scrin | ![Geffen Dun](img/Geffen-Dun.png) |
-|Wuerzburg. Aldebaran| ![Aldebaran Castle](img/Wuerzburg-Aldebaran.png) | scrin | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
+|Kriemhild. Prontera| ![Prontera Castle](img/Kriemhild-Prontera.png) | [![Kriemhild Room](img/Kriemhild-EmpRoom.png){width=240 height=384}](img/Kriemhild-EmpRoom.png) | ![Prontera Dun](img/Prontera-Dun.png) |
+|Yesnelph. Geffen|  ![Geffen Castle](img/Yesnelph-Geffen.png) | [![Yesnelph Room](img/Yesnelph-EmpRoom.jpg){width=550 height=384}](img/Yesnelph-EmpRoom.jpg) | ![Geffen Dun](img/Geffen-Dun.png) |
+|Wuerzburg. Aldebaran| ![Aldebaran Castle](img/Wuerzburg-Aldebaran.png) | [![Wuerzburg Room](img/Wuerzburg-EmpRoom.jpg){width=284 height=384}](img/Wuerzburg-EmpRoom.jpg) | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
+
+### Wednesday
+
+| Server Time (UTC)  | CET (UTC +1)    | EET (UTC +2)       |  IST (UTC +5)          | PST (UTC -8)          | MST (UTC -7)         | CST (UTC -6)         | EST (UTC -5)         |
+|--------------------|-----------------|--------------------|------------------------|-----------------------|----------------------|----------------------|----------------------|
+| 13:00              | 14:00           | 15:00              | 18:00                  | 05:00                 | 06:00                | 07:00                | 08:00                |
+
+#### Available Castles
+
+| Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
+|--------------------|------------|---------------------|------------------------|
+|Mardol. Rachel| ![Mardol Castle](img/Mardol-Rachel.png) | [![Mardol Room](img/Mardol-Emp-Room.png){width=650 height=384}](img/Mardol-Emp-Room.png) | ![Rachel Dun](img/Mardol-Rachel-Dun.png) |
 
 !!! note
     Castle rotations happen periodically as well as total active castle numbers based on WoE population and is subject to change.
@@ -48,7 +62,7 @@ On our server, WoE takes place every Saturday and lasts for one hour.<br>
 
 ## Token System
 
-One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% base percentage. Current zone = Prontera. When 3 of one type are collected, they can be redeemed for one of the packages of choice listed below via GM. These tokens are non guild-storable or tradeable and must be collected by your designated woe/guild lead.
+One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% base percentage. Current zone = Geffen. When 3 of one type are collected, they can be redeemed for one of the packages of choice listed below via GM. These tokens are non guild-storable or tradeable and must be collected by your designated woe/guild lead.
 
 | Package 1           | Package 2         | Package 3            |
 |---------------------|-------------------|----------------------|
@@ -57,19 +71,21 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 | ![616](img/616.gif) Mystical Card Album | AD Bottle Sets - 2k |![7619](img/7619.gif) Enriched Elunium - 40 |
 |                     |                   | ![7620](img/7620.gif) Enriched Oridecon - 40 |
 
-
 ## WoE Mechanics
 
--30 member cap within any given castle (Recall prioritizes top most rank downwards until number met).<br>
--All MVP cards render no effect within WoE Castles (Still equippable, but have no effect).<br>
--The following mini-boss cards render no effect within WoE Castles (Ghostring, Angeling, Deviling and Maya Purple).<br>
--Alliances are abolished.<br>
--@GuildHP is now toggleable through @loginsettings (Allows you to view Guild member HP even outside of party).<br>
+- 30 member cap within any given castle (Recall prioritizes top most rank downwards until number met).<br>
+- All MVP cards render no effect within WoE Castles (Still equippable, but have no effect).<br>
+- The following mini-boss cards render no effect within WoE Castles (Ghostring, Angeling, Deviling and Maya Purple).<br>
+- Alliances are abolished.<br>
+- @GuildHP is now toggleable through @loginsettings (Allows you to view Guild member HP even outside of party).<br>
 
-Item Restrictions:<br>
--Yggdrasil Berry<br>
--Yggdrasil Seeds<br>
+### Item Restrictions:
 
-Skill Restrictions:<br>
--Loki's Veil<br>
--High Jump<br>
+![607](img/607.gif) Yggdrasil Berry<br>
+![608](img/608.gif) Yggdrasil Seeds<br>
+![12192](img/12192.gif) Pumpkin Pie<br>
+
+### Skill Restrictions:
+
+![bd_rokisweil](img/bd_rokisweil.gif) Loki's Veil<br>
+![tk_highjump](img/tk_highjump.gif) High Jump<br>

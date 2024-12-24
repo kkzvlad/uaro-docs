@@ -50,16 +50,22 @@ Overall, the inns in uaRO are designed to provide players with a comprehensive a
 ![Inn Benefits](img/Inn-Employee-NPC.png)
 
 #### **Currently, Inns Are Available in the Following Towns:**
+
 * Prontera
 * Alberta
 * Geffen
 * Payon
 * Morroc
-- Aldebaran
-- Rachel
-- Lighthalzen
-- Hugel
-- Veins
+* Aldebaran
+* Rachel
+* Lighthalzen
+* Hugel
+* Veins
+* Amatsu
+* Lutie
+* Yuno
+* Gonryun
+* Ayothaya
 
 ## **Retailers of Uniform Equipment**
 

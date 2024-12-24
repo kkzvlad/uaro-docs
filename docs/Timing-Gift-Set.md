@@ -52,3 +52,10 @@ The Taming Gift Set is a beautifully decorated gift set that contains a taming i
  ![Kuloren](img/12362.gif) **Kuloren**<br>
  ![Oilpalm Coconut](img/12369.gif) **Oilpalm Coconut**<br>
  ![Boy's Pure Heart](img/12373.gif) **Boy's Pure Heart**<br>
+ ![Sap Jelly](img/23187.gif) **Sap Jelly**<br>
+ ![Airship Part](img/231800_1.png) **Airship Part**<br>
+ ![Spiritual Bandage](img/23256.gif) **Spiritual Bandage**<br>
+ ![Small Doll Needle](img/23189.gif) **Small Doll Needle**<br>
+ ![23257](img/23257.gif) **Old Tree's Dew**<br>
+ ![14574](img/14574.gif) **Vagabond's Skull**<br>
+ ![12363](img/12363.gif) **Ghost Coffin**<br>
