@@ -15,6 +15,21 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 !!! patchnotes
 
+    === "January 7"
+
+        <div class="badge">January 7</div>
+
+        ```markdown
+        - **Commands**: Added `@hidepet` and `@showrare`, fixed `@ignorebg` in `@loginsettings` and command.
+        - **Twilight 3 Rework**: Updated crafting to 100 items (alcohol and bottles), adjusted Medicine Bowl requirement to 300.
+        - **QoL Updates**: Max stats for baby classes capped at 99, Daily Rewards fixed, Weekend EXP Boost now applies to Base EXP, and more.
+        - **Items**: Added Hyuke's Black Cat Ears and other gear to NPCs; removed Buche de Noel restrictions.
+        - **Battlegrounds**: Adjusted prices and cooldowns, blocked certain cards, added penalties for relogging/AFKing.
+        - **Dungeons/Instances**: Fixed Corrupted Soul MVP behavior, auto-die for Maggots, reduced monster chat spam.
+        ```
+
+        [:octicons-arrow-right-24: Full Patch Notes](patches01072025.md)
+
     === "December 24"
 
         <div class="badge">December 24</div>
@@ -92,9 +107,9 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         <div class="badge">October 30</div>
 
         ```markdown
-        - Halloween Event: Special quests, monster summoning, and exclusive Halloween rewards!
-        - New Pet Evolutions: Alicel, Aliot, Baphomet, and more.
-        - Bug Fixes and Improvements: Endless Cellar reset, skill tweaks, and visual updates.
+        - **Halloween Event**: Special quests, monster summoning, and exclusive Halloween rewards!
+        - **New Pet Evolutions**: Alicel, Aliot, Baphomet, and more.
+        - **Bug Fixes and Improvements**: Endless Cellar reset, skill tweaks, and visual updates.
         ```
 
     === "September 18"
