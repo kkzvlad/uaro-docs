@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/yuliiabriukhanova/Documents/Wiki/uaro-docs/mkdocs-venv"
+set -gx VIRTUAL_ENV "/var/www/wiki.uaro.net/public_html/mkdocs-venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
