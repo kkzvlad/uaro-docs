@@ -79,6 +79,8 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         - **Endless Cellar**: Temporarily closed for adjustments.
         ```
 
+        [:octicons-arrow-right-24: Full Patch Notes](patchnotes11192024.md)
+
     === "November 04"
 
         <div class="badge">November 04</div>
@@ -92,6 +94,8 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         - **Client Update**: Fresh client download links will be updated within 12 hours.
         ```
 
+        [:octicons-arrow-right-24: Full Patch Notes](patches11042024.md)
+
     === "November 01"
 
         <div class="badge">November 01</div>
@@ -104,6 +108,8 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         - **Quality of Life**: Clickable item links for @iteminfo and @mobinfo.
         ```
 
+        [:octicons-arrow-right-24: Full Patch Notes](patches11012024.md)
+
     === "October 30"
 
         <div class="badge">October 30</div>
@@ -114,6 +120,8 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         - **Bug Fixes and Improvements**: Endless Cellar reset, skill tweaks, and visual updates.
         ```
 
+        [:octicons-arrow-right-24: Full Patch Notes](patches10302024.md)
+
     === "September 18"
 
         <div class="badge">September 18</div>
@@ -123,6 +131,8 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         - **General Bugfixes**: Wiki engine and gameplay updates.
         - **New Additions**: Twilight Festival costumes and Cash Shop items.
         ```
+
+        [:octicons-arrow-right-24: Full Patch Notes](patches09182024.md)
 
     === "August 31"
 
