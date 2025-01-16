@@ -30,6 +30,8 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
         [:octicons-arrow-right-24: Full Patch Notes](patches01072025.md)
 
+        [:octicons-arrow-right-24: All Patch Notes](All-patch-notes.md)
+
     === "December 24"
 
         <div class="badge">December 24</div>
