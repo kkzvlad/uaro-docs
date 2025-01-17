@@ -37,4 +37,7 @@ Endless Cellar is one of the most popular instances in Ragnarok Online, designed
 
 | Floor 1 | Floor 2 | Floor 3 | Floor 4 | Floor 5 |
 |---------|---------|---------|---------|---------|
-| Fabre - 20<br> Picky - 10<br> Picky - 10 |
+| ![1007](img/1007.gif) Fabre - 20<br> ![1049](img/1049.gif) Picky - 10<br> ![1045](img/1050.gif) Picky - 10 | ![1010](img/1010.gif) Willow - 10<br> ![1013](img/1013.gif) Wolf - 10<br> ![1018](img/1018.gif) Creamy - 10 | ![1009](img/1009%20(1).gif)Condor - 10<br> ![1019](img/1019.gif)Peco Peco - 10<br> ![1055](img/1055.gif)Muka - 10<br> | ![1277](img/1277.gif) Greatest General - 25<br> ![1115](img/1115.gif) Eddga - 1 | ![1014](img/1014.gif)Spore - 15<br> ![1077](img/1077.gif)Poison Spore - 15<br> |
+
+| Floor 1 | Floor 2 | Floor 3 | Floor 4 | Floor 5 |
+|---------|---------|---------|---------|---------|
