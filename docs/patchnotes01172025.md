@@ -15,7 +15,7 @@ title: "Patch Notes - 21 January 2025"
 
 ## 🎭 **Horror Toy Factory Release**  
 
-![Horror Toy Factory](htf-image@2x.png)  
+![Horror Toy Factory](img/htf-image@2x.png)  
 
 - 🎃 A **new instanced dungeon** is now available in the heart of **Lutie**!  
 - ⚙️ The instance is **adapted for Pre-Renewal** and inherits the original mechanics, which can be found here:  
@@ -28,7 +28,7 @@ title: "Patch Notes - 21 January 2025"
 
 ## 👗 **New Cash Shop Costumes**  
 
-![New Costumes](uaro-costumes-january@2x.png)  
+![New Costumes](img/uaro-costumes-january@2x.png)  
 
 - 🛍️ A fresh selection of **Cash Shop Costumes** is now available for purchase.  
 - ✨ Visit the **Cash Shop NPC** in Prontera to check out the latest additions!  
