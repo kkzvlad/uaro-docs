@@ -1,8 +1,8 @@
 ---
-title: "Patch Notes - 21 January 2025"
+title: "Patch Notes - 17 January 2025"
 ---
 
-# 📝 **Patch Notes - 21 January, 2025**
+# 📝 **Patch Notes - 17 January, 2025**
 
 ---
 

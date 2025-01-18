@@ -15,6 +15,20 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 !!! patchnotes
 
+    === "January 17"
+
+        <div class="badge">January 17</div>
+
+        ```markdown
+        - **Pre-Trans WoE Release**: WoE now runs every **Sunday 15:00-16:00 GMT+0**. See `#WoE Information` in Discord for details.
+        - **Horror Toy Factory**: New instanced dungeon available in Lutie, adapted for **Pre-Renewal mechanics**.
+        - **New Cash Shop Costumes**: Visit the **Cash Shop NPC** in Prontera for the latest additions.
+        ```
+
+        [:octicons-arrow-right-24: Full Patch Notes](patches01212025.md)
+
+        [:octicons-arrow-right-24: All Patch Notes](All-patch-notes.md)
+
     === "January 7"
 
         <div class="badge">January 7</div>
@@ -29,8 +43,6 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         ```
 
         [:octicons-arrow-right-24: Full Patch Notes](patches01072025.md)
-
-        [:octicons-arrow-right-24: All Patch Notes](All-patch-notes.md)
 
     === "December 24"
 
@@ -47,119 +59,6 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
         [:octicons-arrow-right-24: Full Patch Notes](patches12242024.md)
 
-    === "December 6"
-
-        <div class="badge">December 6</div>
-
-        ```markdown
-        - **Fall/Halloween Event End**: Seasonal content and mechanics removed.
-        - **Old Glast Heim**: Pre-renewal adaptation with item and mob tweaks.
-        - **Endless Cellar**: Reverted mechanics, weekly cooldowns, and timer adjustments.
-        - **Battlegrounds**: File structure reworked, new modes reopening, and cost tweaks.
-        - **Pets**: Adjustments to Whisper, Ghost Coffin, and Orc Hero stats.
-        - **WoE**: Mardol moved to Wednesday, Aldebaran spawn script changes.
-        - **Class Reworks**: Skill tweaks for Gunslinger, Ninja, Star Gladiator, and Soul Linker.
-        - **Event NPC**: Token exchanger added in the Main Office.
-        ```
-
-        [:octicons-arrow-right-24: Full Patch Notes](patches12062024.md)
-
-    === "November 19"
-
-        <div class="badge">November 19</div>
-
-        ```markdown
-        - **WoE Castle Rotation**: New castle selections for 1.0 and 2.0 castles.
-        - **Battle Grounds**: Fixed queue issues, mode crashes, and added spawn camping prevention.
-        - **Pets**: Autofeed available for non-evolvable pets and taming percentages added to Wiki.
-        - **Quality of Life**: New inns, elemental bullets, and weekend EXP status icons.
-        - **Main Office Additions**: Crimson Rose and Infinite Butterfly Wing now exchangeable.
-        - **Server Bugs**: Merchant listing display issue resolved in Control Panel.
-        - **New Costumes**: Fresh costume arrivals in the cash shop.
-        - **Endless Cellar**: Temporarily closed for adjustments.
-        ```
-
-        [:octicons-arrow-right-24: Full Patch Notes](patchnotes11192024.md)
-
-    === "November 04"
-
-        <div class="badge">November 04</div>
-
-        ```markdown
-        - **Merchant List**: Fixed merchant list on website to properly update.
-        - **Slave Monsters Loot**: Adjusted logic for loot spawning.
-        - **Necromancer**: Removed summon slave idle condition.
-        - **Dracula's Slaves**: Event loot no longer drops from Dracula's slaves.
-        - **Note**: Due to the update complexity, you will need to re-setup your merchants.
-        - **Client Update**: Fresh client download links will be updated within 12 hours.
-        ```
-
-        [:octicons-arrow-right-24: Full Patch Notes](patches11042024.md)
-
-    === "November 01"
-
-        <div class="badge">November 01</div>
-
-        ```markdown
-        - **Fall/Halloween Event**: Autoloot enabled, seasonal drops added.
-        - **Pet Updates**: Autofeed restored, new taming items.
-        - **Endless Cellar**: UniqueID lockout fixed.
-        - **Battleground Fixes**: Tierra Gorge and NPC Shop issues resolved.
-        - **Quality of Life**: Clickable item links for @iteminfo and @mobinfo.
-        ```
-
-        [:octicons-arrow-right-24: Full Patch Notes](patches11012024.md)
-
-    === "October 30"
-
-        <div class="badge">October 30</div>
-
-        ```markdown
-        - **Halloween Event**: Special quests, monster summoning, and exclusive Halloween rewards!
-        - **New Pet Evolutions**: Alicel, Aliot, Baphomet, and more.
-        - **Bug Fixes and Improvements**: Endless Cellar reset, skill tweaks, and visual updates.
-        ```
-
-        [:octicons-arrow-right-24: Full Patch Notes](patches10302024.md)
-
-    === "September 18"
-
-        <div class="badge">September 18</div>
-
-        ```markdown
-        - **Bio 3 Revamp**: Enhanced EXP and item drops.
-        - **General Bugfixes**: Wiki engine and gameplay updates.
-        - **New Additions**: Twilight Festival costumes and Cash Shop items.
-        ```
-
-        [:octicons-arrow-right-24: Full Patch Notes](patches09182024.md)
-
-    === "August 31"
-
-        <div class="badge">August 31</div>
-
-        ```markdown
-        - **Website CP Update**: Stability and performance improvements.
-        - **General Bugfixes**: Minor gameplay fixes.
-        ```
-
-    === "August 24"
-
-        <div class="badge">August 24</div>
-
-        ```markdown
-        - **Twilight Festival**: End-of-summer mini-games and rewards.
-        ```
-
-    === "July 24"
-
-        <div class="badge">July 24</div>
-
-        ```markdown
-        - **WoE Mechanics**: Guild-required castle entry.
-        - **Winter Maps**: Dewata area restored.
-        - **Shop Fixes**: No forced vending.
-        ```
 
 
 
