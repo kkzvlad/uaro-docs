@@ -14,6 +14,19 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 ---
 
 !!! patchnotes
+    === "January 17"
+
+        <div class="badge">January 17</div>
+
+        ```markdown
+        - **Pre-Trans WoE Release**: WoE now runs every **Sunday 15:00-16:00 GMT+0**. See `#WoE Information` in Discord for details.
+        - **Horror Toy Factory**: New instanced dungeon available in Lutie, adapted for **Pre-Renewal mechanics**.
+        - **New Cash Shop Costumes**: Visit the **Cash Shop NPC** in Prontera for the latest additions.
+        ```
+
+        [:octicons-arrow-right-24: Full Patch Notes](patchnotes01172025.md)
+
+        [:octicons-arrow-right-24: All Patch Notes](All-patch-notes.md)
 
     === "January 7"
 
