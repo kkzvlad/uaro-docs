@@ -24,7 +24,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         - **New Cash Shop Costumes**: Visit the **Cash Shop NPC** in Prontera for the latest additions.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches01172025.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patchnotes01172025.md)
 
         [:octicons-arrow-right-24: All Patch Notes](All-patch-notes.md)
 
