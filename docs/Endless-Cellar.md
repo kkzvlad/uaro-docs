@@ -65,4 +65,7 @@ Endless Cellar is one of the most popular instances in Ragnarok Online, designed
 | **Floor 53** | **Floor 54** | **Floor 55** | **Floor 56** |
 | ![1864](img/1864.gif) Zombie Slaughter - 25<br> ![1866](img/1866.gif) Hell Poodle - 25 | ![1776](img/1776.gif)Siroma - 30<br> ![1775](img/1775.gif)Snowier - 20<br> ![1777](img/1777.gif)Ice Titan - 10 | ![1789](img/1789.gif) Iceicle - 75 | ![1778](img/1778.gif)Gazeti - 30<br> ![1779](img/1779.gif)Ktullanux - 1 |
 | **Floor 57** | **Floor 58** | **Floor 59** | **Floor 60** |
-| Photon Cannon - 10<br> Photon Cannon - 10<br> Photon Cannon - 10<br> Photon Cannon - 10<br> Vesper - 1 |
+| ![1664](img/1664.gif) Photon Cannon - 10<br> ![1665](img/1665.gif) Photon Cannon - 10<br> ![1666](img/1666.gif) Photon Cannon - 10<br> ![1667](img/1667.gif) Photon Cannon - 10<br> ![1685](img/1685.gif) Vesper - 1 | ![1120](img/1120.gif)Ghostring - 3<br> ![1096](img/1096.gif)Angeling - 3<br> ![1582](img/1582.gif)Deviling - 3<br> ![1388](img/1388.gif)Arc Angeling - 3<br> ![1090](img/1090.gif)Mastering - 3 | ![1704](img/1704.gif) Thanatos Odium - 12<br> ![1705](img/1705.gif) Thanatos Despero - 12<br> ![1706](img/1706.gif) Thanatos Maero - 12<br> ![1707](img/1707.gif) Thanatos Dolor - 12 | ![1708](img/1708.gif) Thanatos Phantom - 1 |
+| **Floor 61** | **Floor 62** | **Floor 63** | **Floor 64** |
+| ![1995](img/1995.gif) Pinguicula - 40<br> ![2015](img/2015.gif) Dark Pinguicula - 40 | ![1988](img/1988.gif) Nepenthes - 60<br> ![1994](img/1994.gif) Luciola Vespa - 30 | ![1993](img/1993.gif) Naga - 50<br> ![1992](img/1992.gif) Cornus - 20 | ![1989](img/1989.gif) Hillslion - 15<br> ![1991](img/1991.gif) Tendril Lion - 2 |
+| **Floor 65** | **Floor 66** | **Floor 67** | **Floor 68** |
