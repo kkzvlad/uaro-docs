@@ -59,3 +59,10 @@ Endless Cellar is one of the most popular instances in Ragnarok Online, designed
 | **Floor 41** | **Floor 42** | **Floor 43** | **Floor 44** |
 | ![1682](img/1682.gif)Remover - 25<br> ![1681](img/1681.gif)Gemini-S58 - 25 | ![1692](img/1692.gif)Breeze - 25<br> ![1782](img/1782.gif)Roween - 25 | ![1632](img/1632.gif) Gremlin - 25<br> ![1773](img/1773.gif) Hodremlin - 25 | ![1715](img/1715.gif)Novus - 25<br> ![1716](img/1716.gif)Acidus  - 25<br> ![1719](img/1719.gif)Detale - 1 |
 | **Floor 45** | **Floor 46** | **Floor 47** | **Floor 48** |
+| ![1974](img/1974.gif) Banshee Master - 25<br> ![1868](img/1868.gif) Banshee - 25 | ![1975](img/1975.gif) Beholder Master - 25<br> ![1633](img/1633.gif) Beholder - 15<br> ![1774](img/1774.gif) Seeker - 15 | ![1976](img/1976.gif) Cobalt Mineral - 25<br> ![1977](img/1977.gif) Heavy Metaling - 25 | ![1735](img/1735.gif) Alicel - 30<br> ![1738](img/1738.gif) Constant - 30<br> ![1734](img/1734.gif) Kiel D-01 - 1 |
+| **Floor 49** | **Floor 50** | **Floor 51** | **Floor 52** |
+| ![1753](img/1753.gif) Frus - 50 | ![1978](img/1978.gif) Hell Apocalips - 25<br> ![1365](img/1365.gif) Apocalips - 25 | ![1979](img/1979.gif) Zakudam - 25<br> ![1668](img/1668.gif) Archdam - 25 | ![1796](img/1796.gif) Aunoe - 25<br> ![1797](img/1797.gif) Fanat - 25<br> ![1768](img/1768.gif) Gloom Under Night - 1 |
+| **Floor 53** | **Floor 54** | **Floor 55** | **Floor 56** |
+| ![1864](img/1864.gif) Zombie Slaughter - 25<br> ![1866](img/1866.gif) Hell Poodle - 25 | ![1776](img/1776.gif)Siroma - 30<br> ![1775](img/1775.gif)Snowier - 20<br> ![1777](img/1777.gif)Ice Titan - 10 | ![1789](img/1789.gif) Iceicle - 75 | ![1778](img/1778.gif)Gazeti - 30<br> ![1779](img/1779.gif)Ktullanux - 1 |
+| **Floor 57** | **Floor 58** | **Floor 59** | **Floor 60** |
+| Photon Cannon - 10<br> Photon Cannon - 10<br> Photon Cannon - 10<br> Photon Cannon - 10<br> Vesper - 1 |
