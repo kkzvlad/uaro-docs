@@ -69,3 +69,8 @@ Endless Cellar is one of the most popular instances in Ragnarok Online, designed
 | **Floor 61** | **Floor 62** | **Floor 63** | **Floor 64** |
 | ![1995](img/1995.gif) Pinguicula - 40<br> ![2015](img/2015.gif) Dark Pinguicula - 40 | ![1988](img/1988.gif) Nepenthes - 60<br> ![1994](img/1994.gif) Luciola Vespa - 30 | ![1993](img/1993.gif) Naga - 50<br> ![1992](img/1992.gif) Cornus - 20 | ![1989](img/1989.gif) Hillslion - 15<br> ![1991](img/1991.gif) Tendril Lion - 2 |
 | **Floor 65** | **Floor 66** | **Floor 67** | **Floor 68** |
+| ![1999](img/1999.gif) Centipede Larva - 50<br> ![1987](img/1987.gif) Centipede - 25 | ![2014](img/2014.gif) Draco Egg - 30<br> ![2013](img/2013.gif) Draco - 10<br> ![1986](img/1986.gif) Tatacho - 40 | ![2024](img/2024.gif) Bradium Golem - 30<br> ![1278](img/1278.gif) Stalactic Golem - 10<br> ![1366](img/1366.gif) Lava Golem - 20 | ![1986](img/1986.gif) Tatacho - 10<br> ![1990](img/1990.gif) Hardrock Mammoth - 2 |
+| **Floor 69** | **Floor 70** | **Floor 71** | **Floor 72** |
+| ![2016](img/2016.gif) Aqua Elemental - 25<br> ![2020](img/2020.gif) Rhyncho - 25<br> ![2021](img/2021.gif) Phylla - 25 | ![2019](img/2019.gif) Ancient Tree - 35<br> ![2023](img/2023.gif) Dark Shadow - 15 | ![2017](img/2017.gif) Rata - 12<br> ![2018](img/2018.gif) Duneyrr - 12 | ![2022](img/2022.gif) Nidhoggr's Shadow - 1 |
+| **Floor 73** | **Floor 74** | **Floor 75** | **Floor 76** |
+| ![1839](img/1839.gif) Byorgue - 16 | ![1640](img/1640.gif) Lord Knight Seyren - 2<br> ![1641](img/1641.gif) Assassin Cross Eremes - 2<br> ![1642](img/1642.gif) Whitesmith Howard - 2<br> ![1643](img/1643.gif) High Priest Margaretha - 2<br> ![1644](img/1644.gif) Sniper Cecil - 2<br> ![1645](img/1645.gif) High Wizard Kathryne - 2 |
