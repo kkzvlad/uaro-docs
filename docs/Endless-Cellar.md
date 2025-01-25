@@ -131,4 +131,7 @@ After defeating Pori Pori, the NPC Arc Pori Pori will appear and provide a rewar
 | ![Poring Box](img/12109.gif) Poring Box | 1 |
 | ![Cookie Bag](img/12130.gif) Cookie Bag | 1 |
 
+!!! note
+    Before returning to Prontera, don't forget to claim your reward!
+
 **Good game and have fun!**
