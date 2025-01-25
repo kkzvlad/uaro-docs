@@ -22,7 +22,7 @@ hide:
 
 ## Overview
 
-Endless Cellar is one of the most popular instances in Ragnarok Online, designed for team-based gameplay. It is part of the so-called "endless" instances, offering players a challenge in the form of a series of dungeons filled with increasingly powerful monsters, mini-bosses, and mighty MVPs. This is not only an engaging PvE experience but also a place where players can earn valuable rewards and test their skills in teamwork. It’s a perfect challenge for guilds and friends who aim to overcome obstacles together. The tower is always ready to challenge those seeking adventure in the world of Ragnarok Online.
+Endless Cellar is one of the most popular instances in Ragnarok Online, designed for team-based gameplay. It is part of the so-called "endless" instances, offering players a challenge in the form of a series of dungeons filled with increasingly powerful monsters, mini-bosses, and mighty MVPs. This is not only an engaging PvE experience but also a place where players can earn valuable rewards and test their skills in teamwork. It’s a perfect challenge for guilds and friends who aim to overcome obstacles together. The Cellar is always ready to challenge those seeking adventure in the world of Ragnarok Online.
 
 ## Mechanics
 
@@ -38,7 +38,7 @@ Endless Cellar is one of the most popular instances in Ragnarok Online, designed
 
 ## Schedule
 
-- Endless Cellar weekly cooldown (6 days, 20 hours)
+- Endless Cellar weekly cooldown (6 days, 16 hours)
 
 ## How to start instance
 
