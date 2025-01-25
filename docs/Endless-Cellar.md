@@ -35,7 +35,6 @@ Endless Cellar is one of the most popular instances in Ragnarok Online, designed
 - Loot/EXP is accounted based
 - Level 85+ to enter
 - Monsters remaining per floor will be announced starting with 5 remaining
-- Rentry currently restricted on floor 77 (Will be changed soon, but as it currently sits you cant re-enter on 77 if you leave) 
 
 ## Schedule
 
@@ -43,7 +42,17 @@ Endless Cellar is one of the most popular instances in Ragnarok Online, designed
 
 ## How to start instance
 
-Add info...
+
+![EC-Captain-Janssen](img/EC-Captain-Janssen.png)<br>
+
+
+To start the instance, you need to talk to Captain Janssen in Prontera (/navi e_tower 70/85 ). Talk to him a few times. The journey to Misty Island costs 10,000 Zeny.
+On the island, there is a Kafra who provides access to both personal storage and guild storage.
+We are interested in the NPC **Cellar Protection Stone**. Talk to the Cellar Protection Stone and select **Enter Endless Cellar**<br>
+
+
+![EC-Cellar-Prot-Stone](img/EC-Cellar%20Prot-Stone.png)
+![EC-Cellar-Prot-Stone1](img/EC-Cellar%20Prot-Stone1.png)
 
 ## Floors
 ## 1-24
@@ -96,6 +105,10 @@ Add info...
 | **Floor 73** | **Floor 74** | **Floor 75** | **Floor 76** |
 | ![1839](img/1839.gif) Byorgue - 16 | ![1640](img/1640.gif) Lord Knight Seyren - 2<br> ![1641](img/1641.gif) Assassin Cross Eremes - 2<br> ![1642](img/1642.gif) Whitesmith Howard - 2<br> ![1643](img/1643.gif) High Priest Margaretha - 2<br> ![1644](img/1644.gif) Sniper Cecil - 2<br> ![1645](img/1645.gif) High Wizard Kathryne - 2 | ![1918](img/1918.gif) Incarnation of Morroc - 7<br> ![1919](img/1919.gif) Incarnation of Morroc - 7<br> ![1920](img/1920.gif) Incarnation of Morroc - 7<br> ![1921](img/1921.gif) Incarnation of Morroc - 7 | ![9001](img/1917.gif) Wounded Morroc - 1 |
 
+!!! note
+    Wounded Morroc in EC has a reduced drop rate. This was done to maintain competition for top-tier gear on the server.
+
+
 ## 77 (Final Floor)
 
 | Stage 1 | Stage 2 | Stage 3 | Stage 4 |
@@ -104,4 +117,18 @@ Add info...
 
 ## Finish
 
-Add info...
+![EC-ArcPoriPori](img/EC-ArcPoriPori.png)<br>
+
+
+After defeating Pori Pori, the NPC Arc Pori Pori will appear and provide a reward for completing the instance to each party member:<br>
+
+
+| Name | Amount |
+|------|--------|
+| ![Old Card Albumi](img/616.gif) Old Card Album | 1 |
+| ![Bloody Branch](img/12103.gif) Bloody Branch | 1 |
+| ![Jewelry Box](img/12106.gif) Jewelry Box | 1 |
+| ![Poring Box](img/12109.gif) Poring Box | 1 |
+| ![Cookie Bag](img/12130.gif) Cookie Bag | 1 |
+
+**Good game and have fun!**
