@@ -74,6 +74,7 @@ hide:
 | ![1010](img/1010.gif) Willow | ![Pet Food](img/537.png) Pet Food | ![23257](img/23257.gif) Old Tree's Dew | None | INT +3. | 10% |
 | ![1208](img/1208.gif) Wanderer | ![Pet Food](img/537.png) Pet Food | ![14574](img/14574.gif) Vagabond's Skull | None | AGI +3. | 10% |
 | ![1179](img/1179.gif) Whisper | - | ![12363](img/12363.gif) Ghost Coffin | - | FLEE + 7, Enables the use of Hiding Lv.1. | 5% |
+| ![2210](img/2210.gif) Christmas Snow Rabbit | ![Candy](img/529.gif) Candy | 2024 Christmas Event Special | None | Increases EXP by 3% from all mobs. | Event |
 
 !!! note
     Pet Capture Rates<br>
