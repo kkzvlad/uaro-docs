@@ -9,83 +9,115 @@ theme:
   logo: img/logo.png
   name: material
   features:
-    - navigation.instant
-    - navigation.expand
-    - navigation.indexes
-    - navigation.tracking
     - navigation.sections
+    - content.tabs
     - navigation.top
-    - toc.follow
     - search.suggest
     - search.highlight
-    - content.tabs
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
   language: en
   palette:
-    - scheme: slate
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: black
+      accent: purple 
+    - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
       primary: black
       accent: lime
-      media: "(prefers-color-scheme: dark)"
 
 # Navigation setup
 nav:
   - Home: index.md
 
+
 # Markdown extensions
 markdown_extensions:
+  # Table of contents with anchor links
   - toc:
       permalink: true
       permalink_title: "Anchor link to this section"
       toc_depth: 3
+
+  # Abbreviations
   - abbr
+
+  # Admonitions (callout boxes like "note", "warning")
   - admonition
+
+  # Custom HTML attributes and CSS for elements
   - attr_list
+
+  # Definition lists (description lists)
   - def_list
+
+  # Footnotes
   - footnotes
+
+  # Markdown inside HTML
   - md_in_html
+
+  # Tables in Markdown
   - tables
+
+  # Task lists with checkboxes (for to-do lists)
   - pymdownx.tasklist:
       custom_checkbox: true
       clickable_checkbox: false
+
+  # Advanced fenced code blocks
   - pymdownx.superfences
+
+  # Syntax highlighting for code blocks
   - pymdownx.highlight:
       use_pygments: true
-      linenums: true
-      auto_title: true
-      linenums_style: pymdownx-inline
-      pygments_lang_class: true
-      guess_lang: false
+      anchor_linenums: true
+
+  # Inline code highlighting
   - pymdownx.inlinehilite
+
+  # Better emphasis for bold and italic
   - pymdownx.betterem
+
+  # Highlighting for caret (^), mark (~), and tilde
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
+
+  # Critic markup for tracking changes
   - pymdownx.critic:
       mode: view
+
+  # Collapsible sections
   - pymdownx.details
+
+  # Emoji support
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+  # Arithmatex for mathematical typesetting
   - pymdownx.arithmatex:
       generic: true
+
+  # Support for content tabs
   - pymdownx.tabbed:
       alternate_style: true
 
 # Plugins
 plugins:
-  - search
-  - mike
+  - search  # Built-in search functionality for MkDocs
 
-# Extra configurations
+# Extra configurations (logo, favicon, social links, analytics)
 extra:
-  logo: img/logo.png
+  logo: img/logo.png  # Your custom logo
   favicon: img/favicon.ico
-  generator: false
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/uaro-the-world-of-your-dream-702960460168953946
@@ -93,13 +125,13 @@ extra:
   footer:
     text: "© 2023-2024 World of Your Dream"
   hide:
-    - toc: ["index.md"]
+    - toc: ["index.md"]  # This disables the TOC for the index page only
 
-# Custom CSS and JS
-extra_css:
-  - stylesheets/custom.css
+# Google Analytics tracking
+google_analytics:
+  - "UA-XXXXXXX-X"  # Replace with your tracking ID
+  - "auto"
+
 extra_javascript:
-  - javascripts/custom.js
-
-# Deployment Fix: Avoid "site" duplication
-site_dir: "/var/www/wiki.uaro.net/public_html"
+  - javascripts/mathjax.js
+  - javascripts/tablesort.js
