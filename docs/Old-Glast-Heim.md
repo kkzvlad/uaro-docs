@@ -25,7 +25,7 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 ![OGH-4_M_DIEMAN](img/OGH/4_M_DIEMAN.gif) **A Dead Man** lay on ground, periodically stepping on these will spawn ![2467](img/OGH/2467.gif) maggots (The maggots die if not killed automatically every 15 minutes after spawn regardless of current HP)<br><br>
 
 ![OGH-Strange-Crack](img/OGH/OGH-Strange-Crack.png)<br>
-"Strange Crack" located at various places around the map will yield an assortment of Gemstones to one character per account, must be level 99.
+**Strange Crack** located at various places around the map will yield an assortment of Gemstones to one character per account, must be level 99.
 
 ### Floor 1
 
