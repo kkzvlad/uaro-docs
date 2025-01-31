@@ -64,12 +64,20 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 
 ## Temporal Boots
 
--Temporal Boots NPC Hugin's Butler (Non-Stat Temporal boots/stat upgrade (non-slot)) ||  Non-Stat = 100 Temporal Crystal 100% chance, Stat version = Non-Stat + 1000 Temporal Crystal (Agi,Dex,Str,Vit,Int,Luk) 100% chance
--Temporal Boots Slot NPC Hugin's Craftsman
- -50% chance, 1500 temporal crystal, 15 mil zeny + stat version non slot (Failure uses all mats and breaks boots) The boots lose all refine when attempting slot
+| NPC | Require | Obtaine | Chance |
+|-----|---------|---------|--------|
+| ![1_F_04](img/OGH/1_F_04.gif) Hugin's Butler | ![6607](img/OGH/6607.gif) Temporal Crystal - 100 | ![2499](img/OGH/2499.gif) Temporal boots [0] | 100% |
+| ![1_F_04](img/OGH/1_F_04.gif) Hugin's Butler | ![2499](img/OGH/2499.gif) Temporal boots - 1<br> ![6607](img/OGH/6607.gif) Temporal Crystal - 1000 | ![22008](img/OGH/22008.gif) Upgraded Temporal boots [0] (Agi,Dex,Str,Vit,Int,Luk) | 100% |
+| ![4_F_JOB_BLACKSMITH](img/OGH/4_F_JOB_BLACKSMITH.gif) Hugin's Craftsman | ![22008](img/OGH/22008.gif) Upgraded Temporal boots [0] - 1<br> ![6607](img/OGH/6607.gif) Temporal Crystal - 1500<br> 15.000 000 Zeny | ![22008](img/OGH/22008.gif) Upgraded Temporal boots [1] (Agi,Dex,Str,Vit,Int,Luk) | 50% |
 
+!!! Note
+    - Can slotted only ![22008](img/OGH/22008.gif) Upgraded Temporal boots [0] (Agi,Dex,Str,Vit,Int,Luk)
+    - The boots lose all refine when attempting slot.
+    - Failure uses all mats and breaks boots.
 
 ## Card Trade
 
--White Knight Card NPC (Custom stats pre-renewal adaptation) itemID #4608 - 5000 coagulated spell or 2000 contaminated magic
--Khalitzburg Knight Card NPC (Custom stats pre-renewal adaptation) itemID #4609 - 5000 coagulated spell or 2000 contaminated magic
+| NPC | Require | Obtaine | In-game command |
+|-----|---------|---------|-----------------|
+| ![4_WHITEKNIGHT](img/OGH/4_WHITEKNIGHT.gif) White Knight | ![6608](img/OGH/6608.gif) Coagulated Spell - 5000 or<br> ![6755](img/OGH/6755.gif) Contaminated Magic - 2000 | ![Card](img/card-1.gif) White Knight Card | @ii 4608 |
+| ![4_F_KHALITZBURG](img/OGH/4_F_KHALITZBURG.gif) Khalitzburg Knight | ![6608](img/OGH/6608.gif) Coagulated Spell - 5000 or<br> ![6755](img/OGH/6755.gif) Contaminated Magic - 2000 | ![Card](img/card-1.gif) Khalitzburg Knight Card | @ii 4609 |
