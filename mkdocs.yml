@@ -79,8 +79,6 @@ markdown_extensions:
 # Plugins
 plugins:
   - search
-  - sitemap:
-      url: https://wiki.uaro.net
   - git-revision-date-localized:
       enable_creation_date: true
       type: timeago
@@ -99,11 +97,6 @@ extra:
     text: "© 2023-2024 World of Your Dream"
   hide:
     - toc: ["index.md"]
-
-# Google Analytics tracking
-google_analytics:
-  - "UA-XXXXXXX-X"
-  - "auto"
 
 # Custom CSS and JS
 extra_css:
