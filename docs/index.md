@@ -30,7 +30,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         - **Gameplay Adjustments**: Adjustments to skill descriptions, BG cooldowns, kill-steal mechanics, and new item shop additions.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patchnotes01312025.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patches01312025.md)
 
         [:octicons-arrow-right-24: All Patch Notes](All-patch-notes.md)
 
