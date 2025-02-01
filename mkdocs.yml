@@ -135,6 +135,3 @@ google_analytics:
 extra_javascript:
   - javascripts/mathjax.js
   - javascripts/tablesort.js
-
-  # Deployment Fix: Avoid "site" duplication
-site_dir: "/var/www/wiki.uaro.net/public_html
