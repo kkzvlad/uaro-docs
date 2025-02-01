@@ -14,6 +14,26 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 ---
 
 !!! patchnotes
+    === "January 31"
+
+        <div class="badge">January 31</div>
+
+        ```markdown
+        - **Brasilis and Brasilis Dungeon**: New quests, monsters, and an instanced dungeon now available in Brasilis.
+        - **@lootconfig Command**: Replaces `@autoloot` with an improved UI-based autoloot system.
+        - **Login Settings Rework**: `@loginsettings` is now `@settings` for easier preference management.
+        - **Killcount UI Update**: `@killcount` now allows tracking of up to 5 monsters.
+        - **WoE Updates**: Pre-Trans WoE restrictions added for consumables and Kafra Card.
+        - **PvP Adjustments**: Auto-warp on second PvP death removed.
+        - **Battlegrounds**: BG Elemental Converters added to the shop, various fixes and adjustments.
+        - **Instance Adjustments**: Fixes and improvements for Horror Toy Factory and Old Glast Heim instances.
+        - **Gameplay Adjustments**: Adjustments to skill descriptions, BG cooldowns, kill-steal mechanics, and new item shop additions.
+        ```
+
+        [:octicons-arrow-right-24: Full Patch Notes](patchnotes01312025.md)
+
+        [:octicons-arrow-right-24: All Patch Notes](All-patch-notes.md)
+
     === "January 17"
 
         <div class="badge">January 17</div>
