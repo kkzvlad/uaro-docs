@@ -92,6 +92,7 @@ Enables or disables autolooting items from killed mobs. UI for Easy Autoloot Cus
 **Loot Groups** – Create up to 3 custom loot groups.<br>
 **Quick Setup** – Manage loot easily via UI.<br>
 **Saves Settings** – Preferences reload automatically on login.<br>
+![@lootconfig](img/@lootgonfig.png)
 
 **How to Use `@lootconfig`**  
 1. Type `@lootconfig` to open the UI.  
