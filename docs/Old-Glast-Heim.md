@@ -38,8 +38,8 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 | ![2466](img/OGH/2466.gif) Chamberlain in Pain | 27 | @mi 2466 |
 | ![2469](img/OGH/2469.gif) Wandering Archer | 56 | @mi 2469 |
 | ![2468](img/OGH/2468.gif) Corrupted Palace Guard | 44 | @mi 2468 |
-| ![2473](img/OGH/2473.gif) 1st Commander of Destruction | 1 | @mi 2473 |
-| ![2474](img/OGH/2474.gif) 2nd Commander of Destruction | 1 | @mi 2474 |
+| ![2473](img/OGH/2473.gif) 1st Commander of Death | 1 | @mi 2473 |
+| ![2474](img/OGH/2474.gif) 2nd Commander of Death | 1 | @mi 2474 |
 | ![2467](img/OGH/2467.gif) Maggot | - | @mi 2467 |
 | ![2475](img/OGH/2475.gif) **Corrupted Soul (MVP)** | 1 | @mi 2475 |
 
@@ -48,14 +48,14 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 | Monster | Quantity | In-game command |
 |---------|----------|----------|
 | ![2468](img/OGH/2468.gif) Corrupted Palace Guard | 44 | @mi 2468 |
-| ![2469](img/OGH/2469.gif) Wandering Archer | 60 | @mi 2469 |
+| ![2469](img/OGH/2469.gif) Wandering Archer | 30 | @mi 2469 |
 | ![2465](img/OGH/2465.gif) Corrupted Monk | 20 | @mi 2465 |
 | ![2466](img/OGH/2466.gif) Chamberlain in Pain | 27 | @mi 2466 |
-| ![2470](img/OGH/2470.gif) Corrupt Abysmal Knight | 15 | @mi 2470 |
-| ![2471](img/OGH/2471.gif) Suffered Khalitzburg | 20 | @mi 2471 |
-| ![2472](img/OGH/2472.gif) Suffered Bloody Knight | 18 | @mi 2472 |
-| ![2473](img/OGH/2473.gif) 1st Commander of Destruction | 1 | @mi 2473 |
-| ![2474](img/OGH/2474.gif) 2nd Commander of Destruction | 1 | @mi 2474 |
+| ![2470](img/OGH/2470.gif) Corrupt Abysmal Knight | 20 | @mi 2470 |
+| ![2471](img/OGH/2471.gif) Suffered Khalitzburg | 25| @mi 2471 |
+| ![2472](img/OGH/2472.gif) Suffered Bloody Knight | 23 | @mi 2472 |
+| ![2473](img/OGH/2473.gif) 1st Commander of Death | 3 | @mi 2473 |
+| ![2474](img/OGH/2474.gif) 2nd Commander of Death | 3 | @mi 2474 |
 | ![2467](img/OGH/2467.gif) Maggot | - | @mi 2467 |
 | ![2476](img/OGH/2476.gif) **Amdarais (MVP)** | 1 | @mi 2476 |
 
