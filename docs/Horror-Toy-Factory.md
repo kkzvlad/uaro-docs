@@ -8,11 +8,21 @@ Info...
 
 Info...
 
-## Proxod
+## Storyline
+
+### First Step
 
 Info...
 
-## Monsters
+### Second Step
+
+Info...
+
+### Third Step
+
+Info...
+
+### Boss Step
 
 Info...
 
