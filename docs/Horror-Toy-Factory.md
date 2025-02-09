@@ -80,6 +80,7 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
 ### Factory Area No.2
 
 ??? note "Storyline, click to expand"
+
     You made it here safely – that’s good. This place was once Factory No.2, filled with life and people. But now, everything has changed…  
     
     While I was coming here, I realized something. The children… There are many of them. Their souls look terrifying, yet there is so much sorrow in them. They are suffering, and perhaps the only way to help them is to grant them peace. If they attack you, please set them free. Luckily, they won’t harm me.  
