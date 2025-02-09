@@ -68,6 +68,15 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
 
     — Don’t lose hope—it’s a toy factory! It can’t be that bad… right?
 
+1. After the introduction, speak to the Myst Case NPC to transform into a Red Cookie. You must remain in this form while exploring. Avoid interacting with other NPCs aside from the transformation Myst Case unless you are properly transformed—doing so while untransformed will trigger multiple Nightmare Cruisers to spawn. There are several Myst Case NPCs positioned around the corners of the room. Be sure to speak to one before your transformation expires to maintain your form.
+
+2. Defeat Vicious Cookies and Evil Dwelling Boxes scattered throughout the area. Once enough enemies are eliminated, an announcement will signal completion, and any remaining monsters will disappear.
+
+3. Next, move to the northwest section of the room and interact with the Green Cookie NPC. You must be in the Red Cookie form to proceed. If you are not transformed, the NPC will temporarily vanish before reappearing and will not respond to you until you regain the Red Cookie form.
+
+4. After completing the dialogue, locate the new Myst Case NPC to transform into a Myst Case. You must be in this form to advance to the next area. 
+5. Finally, enter the portal to the right of the Green Cookie to progress to the next phase.
+
 ### Factory Area No.2
 
 ??? note "Storyline, click to expand"
@@ -81,7 +90,13 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
     
     Sorry that I can't be of more help. See you soon.
 
-### Third Step
+1. After speaking with Catherine, interact with the Myst Case NPC again to transform into a Red Cookie. Just like in the first phase, you must remain transformed while exploring; otherwise, Cruisers will spawn in large numbers throughout the room. If you accidentally re-enter the portal you came from before completing this phase, you’ll need to return to the first room, transform into a Myst Case again, and then make your way back to the second room.
+
+2. In this area, you will find 10 worker NPCs (Green Cookies). Speak with each of them and listen to their stories. While they are talking, you won’t be able to move, use skills, or consume items, but be aware that monsters can still target you during this time.
+
+3. Once you’ve spoken to all 10 workers, an announcement will trigger, and all remaining monsters in the room will disappear. After that, go back through the portal you entered from, then proceed through the northern portal to advance to the next phase.
+
+### Factory Area No.3
 
 Info...
 
