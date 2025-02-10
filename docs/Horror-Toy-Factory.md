@@ -5,6 +5,10 @@
 Horror Toy Factory is an instance where players explore a sinister toy factory filled with aggressive monsters and ghosts. The main objective is to defeat the final boss, Celine Kimi, while overcoming traps and powerful enemies along the way.  
 The instance offers unique rewards, including rare items and equipment, making it popular among players.
 
+### Requirements
+lvl
+Party
+
 ## How to get to instance
 
 ![HTF-NPC](img/HTF/HTF-NPC.jpg.png)<br>
@@ -80,7 +84,7 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
 | Monster | Quantity | In-game command |
 |---------|----------|----------|
 | ![2989](img/HTF/2989.gif) Vicious Cookie | 31 | @mi 2989 |
-| ![2989](img/HTF/2991.gif) Evil Dwelling Box | 36 | @mi 2991 |
+| ![2991](img/HTF/2991.gif) Evil Dwelling Box | 36 | @mi 2991 |
 
 ### Factory Area No.2
 
@@ -152,7 +156,7 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
 !!! Note
     Antonio may also spawn in the room where the conversation with Santa occurred. Be sure to check that area before heading through the left portal.
 
-3. Afterward, return to the central room and proceed through the right portal to enter the final phase.
+3.Afterward, return to the central room and proceed through the right portal to enter the final phase.
 
 | Monster | Quantity | In-game command |
 |---------|----------|----------|
@@ -245,11 +249,42 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
 | ![2996](img/HTF/2996.gif) Celine Kimi | 1 | @mi 2996 |
 | ![2997](img/HTF/2997.gif) Kimi's Phantom | 1 | @mi 2997 |
 
-## Rewards
+## Treasure Room
+
+??? note "Storyline, click to expand"
+    Unfortunately, persuading Kimi was unsuccessful.
+
+    The unknown phantom voice continued to torment Kimi, filling her heart with pain and doubt. What was that voice? Why was it so cruel to her?.. Deep inside, a suspicion arose that it was because of this voice that Catherine Jet Johnson had fallen under a curse, one that had changed her face.
+
+    Yet, despite everything, even though Kimi despised everyone around her, she had gathered many memories in this place. Now, it was necessary to see this through—to do whatever it took to help her soul find peace and prevent her from feeling abandoned.
+
+    — Thanks to you, all my doubts have finally been resolved, — Catherine Jet Johnson said, casting a grateful glance at her companion. — If you ever decide to send her soul to Heaven, please call me.
+
+    With those words, she opened the exit.
+
+    — I will go first. Just follow me.
+
+    Yet, even as she stepped beyond the factory’s threshold, an uneasy feeling lingered within her. Kimi’s soul was still bound to this place… Would the day ever come when she could finally rest in peace?
 
 After defeating Celine Kimi, proceed through the southwest portal to the treasure room.
 Inside, you'll find 10 treasure box NPCs that will drop items when interacted with.
 
 ## Exchange Shop
 
-Info...
+![HTF-NPC-Shop](img/HTF/HTF-NPC-Shop.png)
+
+You can exchange your Bloody Coins with NPC Mister Cat (**/navi xmas 240/300**) for unique items.
+
+| Item Name | Bloody Coins |
+|-----------|--------------|
+| Red Lantern | 1200 |
+| Old Parasol | 1200 |
+| Noble Cross | 1200 |
+| Evil Glove | 1500 |
+| Celine's Ribbon | 1500 |
+| Costume Lush Rose | 600 |
+| Costume Santa Doll Headband | 600 |
+| Sweet Canape | 5 |
+| Hot Tea | 2 |
+| Big Defense Potion 10 Box | 3 |
+| Big Magic Defense Potion 10 Box | 3 |
