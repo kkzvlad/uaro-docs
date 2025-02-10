@@ -77,6 +77,11 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
 4. After completing the dialogue, locate the new Myst Case NPC to transform into a Myst Case. You must be in this form to advance to the next area. 
 5. Finally, enter the portal to the right of the Green Cookie to progress to the next phase.
 
+| Monster | Quantity | In-game command |
+|---------|----------|----------|
+| ![2989](img/HTF/2989.gif) Vicious Cookie | 31 | @mi 2989 |
+| ![2989](img/HTF/2991.gif) Evil Dwelling Box | 36 | @mi 2991 |
+
 ### Factory Area No.2
 
 ??? note "Storyline, click to expand"
@@ -97,17 +102,153 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
 
 3. Once you’ve spoken to all 10 workers, an announcement will trigger, and all remaining monsters in the room will disappear. After that, go back through the portal you entered from, then proceed through the northern portal to advance to the next phase.
 
+| Monster | Quantity | In-game command |
+|---------|----------|----------|
+| ![2993](img/HTF/2993.gif) Malicious Baby Ghost | 19 | @mi 2993 |
+| ![2989](img/HTF/2991.gif) Evil Dwelling Box | 16 | @mi 2991 |
+| ![2995](img/HTF/2995.gif) Abandoned Teddy bear | 22 | @mi 2995 |
+| ![2992](img/HTF/2992.gif) Creepy Demon | 16 | @mi 2992 |
+
 ### Factory Area No.3
 
-Info...
+??? note "Storyline, click to expand"
+    A cheerful voice echoed through the abandoned factory:
 
-### Boss Step
+    — Listen to me, Santa… I mean, I like this factory! No one owns it, and there are so many things I can use!
 
-Info...
+    However, his companion clearly didn’t share his enthusiasm.
+
+    — You fool! I followed you just to be sure… And now you’re stealing everything from the factory!
+
+    — Hey, what’s the big deal if I have a few extra presents? I don’t see anything wrong with that~
+
+    — Ugh... Fine, but think about how the children will feel when they receive these gifts. How will they feel if they find out you just handed out things that belong to no one?
+
+    Antonio paused for a moment, then burst into laughter:
+
+    — Hmm… Maybe they’ll be happy?! A gift is a gift, after all! Hehehe.
+
+    — The problem isn’t the gift itself! You can’t just take whatever you want!
+
+    Suddenly, a mechanical voice echoed through the speakers:
+
+    "The sending preparations have finished in Factory No.3. Delivery employees, please stand by."
+
+    Antonio’s eyes lit up with excitement.
+
+    — Oh wow! So many presents are being delayed! How about we throw a party today?! — he exclaimed, practically jumping in excitement. — Hey, human! If you want to help, feel free to follow me. Just don’t get in my way!
+
+    His companion sighed in frustration.
+
+    — That guy has no ethics… Hey, maybe you should kick him out? If you hit him a few times, he might just run away. It’s not right to steal from the community!
+
+    He turned to you, waiting for a response. Even if no one technically owned this factory, did that mean anyone could take whatever they wanted?
+
+
+1. Move to the center of the room to initiate a dialogue between Santa and Antonio. Once Antonio vanishes, proceed through the left portal.
+
+2. Inside, you'll encounter numerous monsters, but your main objective is to defeat Antonio. Upon his defeat, an announcement will be made, and all remaining enemies in the room will be eliminated.
+
+!!! Note
+    Antonio may also spawn in the room where the conversation with Santa occurred. Be sure to check that area before heading through the left portal.
+
+3. Afterward, return to the central room and proceed through the right portal to enter the final phase.
+
+| Monster | Quantity | In-game command |
+|---------|----------|----------|
+| ![2994](img/HTF/2994.gif) Dancing Marionette | 37 | @mi 2994 |
+| ![2987](img/HTF/2987.gif) Decorated Evil Tree | 31 | @mi 2987 |
+| ![2995](img/HTF/2995.gif) Abandoned Teddy bear | 43 | @mi 2995 |
+| ![2992](img/HTF/2992.gif) Creepy Demon | 31 | @mi 2992 |
+| ![1247](img/HTF/1247.gif) Antonio | 1 | @mi 2988 |
+
+### Final Phase.
+
+??? note "Storyline, click to expand"
+    Kimi stood in the center of the room, her small figure trembling with pain and confusion.
+
+    — Kimi! Listen to me, — the voice was soft but firm. — I didn’t come here to blame you.
+
+    She shook her head, her eyes, filled with despair, glistening in the dim light.
+
+    — Everyone hates me! — she whispered. — You don’t like me either? But this ugly and creepy doll... it likes me...
+
+    — Kimi, I spoke with the other dolls. They told me about you. The doll maker loved you very much!
+
+    Suddenly, the air grew heavier, and a dark voice echoed from the shadows.
+
+    — Lie!
+
+    Kimi flinched, her lips trembling.
+
+    — If that’s true... why didn’t he look at me with love? Why didn’t he call my name? — her voice wavered with sorrow. — I longed to hear Grandpa’s voice...
+
+    — Yes, Kimi~ He was afraid! He was terrified of you!
+
+    — No, don’t listen to it, Kimi! He truly cherished you!
+
+    She hesitated, doubt flickering in her eyes.
+
+    — Did he... cherish me?
+
+    — Yes! When you started moving, he was so hap...
+
+    But the dark voice interrupted, drowning out the words.
+
+    — He was horrified by your appearance, and his heart stopped, Kimi~ You killed him!
+
+    Fear flashed in Kimi’s eyes.
+
+    — I... I killed him?
+
+    — No, Kimi! That’s not true! He was sick!
+
+    But the doubt had already taken root.
+
+    — I... I... I killed him?..
+
+    — Look at yourself, Kimi~ Look in the mirror~ How do you feel?
+
+    imi shuddered, her hands reaching for her face as if realizing its existence for the first time.
+
+    — I... I...
+
+    — Don’t you agree you’re frightening? No one loves you, Kimi~
+
+    She swayed as if the world around her was collapsing.
+
+    — Because of me... Grandpa is dead...
+
+    The darkness thickened around her, feeding off her pain and sorrow.
+
+    — Rage~ Sorrow~ No one cries for you, Kimi~
+
+    This was getting dangerous. She couldn’t be left like this.
+
+    — I’ll find the emergency exit! — a voice called nearby. — Run, adventurer!
+
+    But Kimi remained frozen, consumed by fear and grief.
+
+    — I don’t want to be abandoned... I don’t want to be left alone... — her voice faded into the encroaching darkness, slowly swallowing her figure.
+
+1. Listen to the conversation between Catherine and Celine Kimi. Once it finishes, both Celine Kimi and her phantom will appear. 
+
+!!! warning "Celine Kimi's Information"
+    She is a Large-sized, Ghost 1 property, and Undead Race creature. Celine Kimi has a large, spongy Max HP, high DEF, and high MDEF. To defeat her efficiently, it is recommended to use high ASPD AoE (Area of Effect) skills.  
+    She also casts various skills, including Pulse Strike, Power Up, Critical Wounds, Wide Soul Drain (indicated by the /mp emoticon), Wide Stone Curse, and Wide Sleep. 
+    If she is separated from her phantom, the phantom will heal her for a significant amount. Therefore, always ensure the phantom stays close to her, and deal damage to both of them at the same time.  
+    If Celine Kimi is moved too far from her spawn area, the fight will reset, so avoid dragging her too far away. It’s advisable to stay near the wall where she spawns to keep her in place and to prevent being knocked back by Pulse Strike.  
+    Additionally, if her HP is 1% lower than her phantom’s, the phantom will heal Celine Kimi for 6% of her max HP.
+
+| Monster | Quantity | In-game command |
+|---------|----------|----------|
+| ![2996](img/HTF/2996.gif) Celine Kimi | 1 | @mi 2996 |
+| ![2997](img/HTF/2997.gif) Kimi's Phantom | 1 | @mi 2997 |
 
 ## Rewards
 
-Info...
+After defeating Celine Kimi, proceed through the southwest portal to the treasure room.
+Inside, you'll find 10 treasure box NPCs that will drop items when interacted with.
 
 ## Exchange Shop
 
