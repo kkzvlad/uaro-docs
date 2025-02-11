@@ -6,8 +6,9 @@ Horror Toy Factory is an instance where players explore a sinister toy factory f
 The instance offers unique rewards, including rare items and equipment, making it popular among players.
 
 ### Requirements
-lvl
-Party
+**Base Level:** 90  
+**Party:** At least one member
+
 
 ## How to get to instance
 
