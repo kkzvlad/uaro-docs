@@ -275,16 +275,18 @@ Inside, you'll find 10 treasure box NPCs that will drop items when interacted wi
 
 You can exchange your Bloody Coins with NPC Mister Cat (**/navi xmas 240/300**) for unique items.
 
-| Item Name | Bloody Coins |
-|-----------|--------------|
-| Red Lantern | 1200 |
-| Old Parasol | 1200 |
-| Noble Cross | 1200 |
-| Evil Glove | 1500 |
-| Celine's Ribbon | 1500 |
-| Costume Lush Rose | 600 |
-| Costume Santa Doll Headband | 600 |
-| Sweet Canape | 5 |
-| Hot Tea | 2 |
-| Big Defense Potion 10 Box | 3 |
-| Big Magic Defense Potion 10 Box | 3 |
+| Item Name | Bloody Coins | In-game command |
+|-----------|--------------|-----------------|
+| ![2976](img/HTF/2976.gif) Red Lantern | 1200 | @ii 2976 |
+| ![13442](img/HTF/13442.gif) Old Parasol | 1200 | @ii 13442 |
+| ![16029](img/HTF/16029.gif) Noble Cross | 1200 | @ii 16029 |
+| ![2980](img/HTF/2980.gif) Evil Glove | 1500 | @ii 2980 |
+| ![18849](img/HTF/18849.gif) Celine's Ribbon | 1500 | @ii 2976 |
+| ![19687](img/HTF/19687.gif) Costume Lush Rose | 600 |  |
+| ![19686](img/HTF/19686.gif) Costume Santa Doll Headband | 600 |  |
+| ![11564](img/HTF/11564.gif) Sweet Canape | 5 | @ii 11564 |
+| ![11563](img/HTF/11563.gif) Hot Tea | 2 | @ii 11563 |
+| ![13749](img/HTF/13749.gif) Big Defense Potion 10 Box | 3 | @ii 13749 |
+| ![13749](img/HTF/13749.gif) Big Magic Defense Potion 10 Box | 3 | @ii 13755 |
+
+**Good luck and have fun!**
