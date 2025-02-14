@@ -240,10 +240,12 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
 
 !!! warning "Celine Kimi's Information"
     She is a Large-sized, Ghost 1 property, and Undead Race creature. Celine Kimi has a large, spongy Max HP, high DEF, and high MDEF. To defeat her efficiently, it is recommended to use high ASPD AoE (Area of Effect) skills.  
-    She also casts various skills, including Pulse Strike, Power Up, Critical Wounds, Wide Soul Drain (indicated by the /mp emoticon), Wide Stone Curse, and Wide Sleep. 
-    If she is separated from her phantom, the phantom will heal her for a significant amount. Therefore, always ensure the phantom stays close to her, and deal damage to both of them at the same time.  
-    If Celine Kimi is moved too far from her spawn area, the fight will reset, so avoid dragging her too far away. It’s advisable to stay near the wall where she spawns to keep her in place and to prevent being knocked back by Pulse Strike.  
-    **Furthermore, if the HP difference between the two Celine variations exceeds 100,000, she will trigger a heal equal to eight times the difference. For example, if the gap is 150,000 HP, she will recover 1.2 million HP (150,000 × 8).**
+
+    She also casts various skills, including Dispell, Power Up, and Critical Wounds.  
+
+    If she is separated from her phantom, the phantom will heal her for a significant amount. Therefore, always ensure the phantom stays close to her, and deal damage to both of them at the same time. If Celine Kimi is moved too far from her spawn area, the fight will reset, so avoid dragging her too far away. It’s advisable to stay near the wall where she spawns to keep her in place.  
+
+    **Furthermore, if her HP is 1.5% (or approximately 100,000 HP lower) than her phantom’s, the phantom will heal Celine Kimi for 8x the difference in HP.**
 
 | Monster | Quantity | In-game command |
 |---------|----------|----------|
@@ -299,6 +301,5 @@ You can exchange your Bloody Coins with NPC Mister Cat (**/navi xmas 240/300**) 
 | ![11563](img/HTF/11563.gif) Hot Tea | 2 | @ii 11563 |
 | ![13749](img/HTF/13749.gif) Big Defense Potion 10 Box | 3 | @ii 13749 |
 | ![13749](img/HTF/13749.gif) Big Magic Defense Potion 10 Box | 3 | @ii 13755 |
-
 
 **Good luck and have fun!**
