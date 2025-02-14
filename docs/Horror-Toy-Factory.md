@@ -243,7 +243,7 @@ Yet, fear kept her from returning alone. She needed help. And now, the choice is
     She also casts various skills, including Pulse Strike, Power Up, Critical Wounds, Wide Soul Drain (indicated by the /mp emoticon), Wide Stone Curse, and Wide Sleep. 
     If she is separated from her phantom, the phantom will heal her for a significant amount. Therefore, always ensure the phantom stays close to her, and deal damage to both of them at the same time.  
     If Celine Kimi is moved too far from her spawn area, the fight will reset, so avoid dragging her too far away. It’s advisable to stay near the wall where she spawns to keep her in place and to prevent being knocked back by Pulse Strike.  
-    Additionally, if her HP is 1% lower than her phantom’s, the phantom will heal Celine Kimi for 6% of her max HP.
+    **Furthermore, if the HP difference between the two Celine variations exceeds 100,000, she will trigger a heal equal to eight times the difference. For example, if the gap is 150,000 HP, she will recover 1.2 million HP (150,000 × 8).**
 
 | Monster | Quantity | In-game command |
 |---------|----------|----------|
@@ -274,11 +274,11 @@ Inside, you'll find 10 treasure box NPCs that will drop items when interacted wi
 |---------|---------|---------|
 | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box - 85%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box - 60%<br> ![616](img/HTF/616.gif) Old Card Album - 30%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 5%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 15%<br> ![644](img/HTF/644.gif) Gift Box - 40%<br> ![7230](img/HTF/7230.gif) Platinum Bullion - 5%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% |
 | Chest 4 | Chest 5 | Chest 6 |
-| ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 30%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7619](img/HTF/7619.gif) Enriched_Elunium - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box - 85%<br> ![616](img/HTF/616.gif) Old Card Album - 30%<br> ![7620](img/HTF/7620.gif) Enriched Oridecon - 5%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box - 60%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![644](img/HTF/644.gif) Gift Box - 5%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% |
+| ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 30%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7619](img/HTF/7619.gif) Enriched_Elunium - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box - 85%<br> ![616](img/HTF/616.gif) Old Card Album - 30%<br> ![7620](img/HTF/7620.gif) Enriched Oridecon - 5%<br> ![2977](img/HTF/2977.gif) Kind Heart [1] - 1% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box - 60%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![644](img/HTF/644.gif) Gift Box - 5%<br> ![2977](img/HTF/2977.gif) Hurt Mind [1] - 1% |
 | Chest 7 | Chest 8 | Chest 9 |
 | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 15%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 10%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![7228](img/HTF/7228.gif) Gold Bullion - 30%<br> ![616](img/HTF/616.gif) Old Card Album - 40%<br> ![7619](img/HTF/7619.gif) Enriched_Elunium - 4%<br> ![14003](img/HTF/14003.gif) Elite Siege Supply Box - 30% | ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![644](img/HTF/644.gif) Gift Box - 85%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7620](img/HTF/7620.gif) Enriched Oridecon - 5%<br> ![2977](img/HTF/2977.gif) Hurt Mind [1] - 1% |
 | Chest 10 |
-| ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box - 60%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 10%<br> ![2977](img/HTF/2977.gif) Kind Hear [1] - 1% |
+| ![7642](img/HTF/7642.gif) Bloody Coin (2-10) - 100%<br> ![603](img/HTF/603.gif) Old Blue Box - 60%<br> ![617](img/HTF/617.gif) Old Purple Box - 40%<br> ![7229](img/HTF/7229.gif) Silver Bullion - 10%<br> ![2977](img/HTF/2977.gif) Kind Heart [1] - 1% |
 
 ## Exchange Shop
 
@@ -290,6 +290,7 @@ You can exchange your Bloody Coins with NPC Mister Cat (**/navi xmas 240/300**) 
 |-----------|--------------|-----------------|
 | ![2976](img/HTF/2976.gif) Red Lantern | 500 | @ii 2976 |
 | ![13442](img/HTF/13442.gif) Old Parasol | 500 | @ii 13442 |
+| ![16029](img/HTF/16029.gif) Noble Cross | 500 | @ii 16029 |
 | ![2980](img/HTF/2980.gif) Evil Glove | 600 | @ii 2980 |
 | ![18849](img/HTF/18849.gif) Celine's Ribbon | 600 | @ii 2976 |
 | ![19687](img/HTF/19687.gif) Costume Lush Rose | 200 |  |
@@ -298,6 +299,6 @@ You can exchange your Bloody Coins with NPC Mister Cat (**/navi xmas 240/300**) 
 | ![11563](img/HTF/11563.gif) Hot Tea | 2 | @ii 11563 |
 | ![13749](img/HTF/13749.gif) Big Defense Potion 10 Box | 3 | @ii 13749 |
 | ![13749](img/HTF/13749.gif) Big Magic Defense Potion 10 Box | 3 | @ii 13755 |
-<!-- | ![16029](img/HTF/16029.gif) Noble Cross | 1200 | @ii 16029 | -->
+
 
 **Good luck and have fun!**
