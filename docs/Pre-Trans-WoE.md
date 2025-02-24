@@ -15,10 +15,11 @@ hide:
 6. [Item Block Lists](#item-block-lists)
 
 ## Overview
-<!--
-The War of Emperium is a game feature where guilds compete to conquer a castle, which then becomes the guild’s headquarters and grants various bonuses and advantages.
-Owning a castle provides several benefits for the guild. First, it unlocks access to a special Guild Dungeon available to all guild members. These dungeons contain powerful monsters that are often not found in the regular world. Additionally, every night, 4 or more treasure chests (depending on the castle’s economy level) appear in the castle, offering valuable items and equipment. Owning a castle raises the guild's prestige.
--->
+
+Pre-Trans WoE in Ragnarok Online is a guild-based PvP event where only second jobs and below can participate, creating a unique and balanced battlefield. Without transcendent skills, strategy and teamwork become even more crucial. Guilds must break the Emperium to claim castles while fending off enemy attacks. Holding a castle grants access to Guild Dungeons and valuable treasures, making competition fierce. The absence of overpowered buffs and gear encourages classic gameplay, where skill rotations, positioning, and proper class synergy matter most. Tanks, wizards, assassins, and supports all have key roles, ensuring a dynamic and engaging experience.
+
+For many players, Pre-Trans WoE brings a strong sense of nostalgia, reminding them of the early days of Ragnarok Online, when guild wars were more about tactics than raw power. Additionally, preparing for this type of WoE is much easier, as the required gear is more accessible compared to WoE FE or WoE SE. This makes it a great option for both new and returning players looking to experience WoE without the heavy grind.
+
 ## Schedule
 
 On our server, WoE takes place every Sunday and lasts for one hour.<br>
@@ -69,7 +70,128 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 
 ### Card Restrictions:
 
-Info...
+??? note "Storyline, click to expand"
+    | Card        | Item Id  |
+    |-------------|----------|
+    | Osiris_Card | 4144 |
+    4147 Baphomet_Card
+    4132 Mistress_Card
+    4128 Golden_Bug_Card
+    4143 Orc_Hero_Card
+    4137 Drake_Card
+    4123 Eddga_Card
+    4146 Maya_Card
+    4131 Moonlight_Flower_Card
+    4148 Pharaoh_Card
+    4121 Phreeoni_Card
+    4135 Orc_Load_Card
+    4318 Knight_Windstorm_Card
+    4324 Garm_Card
+    4168 Dark_Lord_Card
+    4305 Turtle_General_Card
+    4276 Lord_Of_Death_Card
+    4134 Dracula_Card
+    4330 Dark_Snake_Lord_Card
+    4263 Incant_Samurai_Card
+    4236 Amon_Ra_Card
+    4302 Tao_Gunka_Card
+    4342 Rsx_0806_Card
+    4372 Bacsojin_Card
+    4357 B_Seyren_Card
+    4359 B_Eremes_Card
+    4361 B_Harword_Card
+    4363 B_Magaleta_Card
+    4367 B_Shecil_Card
+    4365 B_Katrinn_Card
+    4352 B_Ygnizem_Card
+    4374 Apocalips_H_Card
+    4376 Lady_Tanee_Card
+    4399 Thanatos_Card
+    4386 Detale_Card
+    4403 Kiel_Card
+    4407 Randgris_Card
+    4408 Gloom_Under_Night_Card
+    4419 Ktullanux_Card
+    4425 Atroce_Card
+    4430 Ifrit_Card
+    4441 Fallen_Bishop_Card
+    4145 Berzebub_Card
+    4603 CorruptionRoot_Card
+    4601 Amdarais_Card
+    4047 Ghostring_Card
+    4054 Angeling_Card
+    4174 Deviling_Card
+    4198 Maya_Puple_Card
+    4354 Gemini_Card
+    4349 Erend_Card
+    4334 Noxious_Card
+    4340 Teddy_Bear_Card
+    4358 Seyren_Card
+    4360 Eremes_Card
+    4362 Harword_Card
+    4364 Magaleta_Card
+    4366 Katrinn_Card
+    4368 Shecil_Card
+    4421 Drosera_Card
+    4423 Galion_Card
+    4422 Roween_Card
+    4424 Stapo_Card
+    4341 Metaling_Card
+    4356 Beholder_Card
+    4411 Vanberk_Card
+    4412 Isilla_Card
+    4413 Hodremlin_Card
+    4414 Seeker_Card
+    4409 Agav_Card
+    4410 Echio_Card
+    4158 Flying_Deleter_Card
+    4343 Mole_Card
+    4279 Deleter_Card
+    4394 Solace_Card
+    4388 Deathword_Card
+    4387 Ancient_Mimic_Card
+    4393 Shelter_Card
+    4392 Observation_Card
+    4398 Tha_Dolor_Card
+    4395 Tha_Maero_Card
+    4397 Tha_Despero_Card
+    4396 Tha_Odium_Card
+    4427 Sword_Guardian_Card
+    4428 Bow_Guardian_Card
+    4429 Salamander_Card
+    4431 Kasa_Card 
+    4433 Imp_Card
+    4432 Magmaring_Card
+    4435 Zombie_Slaughter_Card
+    4436 Ragged_Zombie_Card
+    4437 Hell_Poodle_Card
+    4438 Banshee_Card
+    4439 Flame_Skull_Card
+    4440 Necromancer_Card
+    4401 Alicel_Card
+    4402 Aliot_Card
+    4400 Aliza_Card
+    4404 Skogul_Card
+    4405 Frus_Card
+    4448 Cornus_Card
+    4445 Luciola_Vespa_Card
+    4447 Centipede_Card
+    4453 Hilsrion_Card
+    4452 Centipede_Larva_Card
+    4442 Tatacho_Card
+    4443 Aqua_Elemental_Card
+    4449 Dark_Shadow_Card
+    4444 Draco_Card
+    4380 Ferus_Card
+    4381 Ferus__Card
+    4379 Acidus__Card
+    4378 Acidus_Card
+    4384 Hydro_Card
+    4348 Whikebain_Card
+    4350 Rawrel_Card
+    4346 Ygnizem_Card
+    4351 Kavac_Card
+
 
 ### Consumables Restrictions:
 
