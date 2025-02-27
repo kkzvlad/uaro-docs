@@ -36,7 +36,7 @@ Players can gather the required items and turn them in to specific NPCs to claim
 | **Cuir**               | /navi cmd_fild01 362/256   |            45 |            80 | 20 Anolian Skin            |             137,900  |             86,600 |                 6,895  |               4,330  |
 | **Local Villager**     | /navi ein_fild01 43/249    |            60 |            74 | 50 Bacillus                |             500,532  |            288,904 |                10,010  |               5,778  |
 | **Lilla**              | /navi um_fild01 35/281     |            60 |            85 | 50 Sharp Leaf              |             524,970  |            283,670 |                10,499  |               5,673  |
-| **Vegetable Farmer**   | /navi ein_fild06 82/171    |            70 |            95 | 50 Antelope Horn           |             516,978  |            310,310 |                10,339  |               6,206  |
+| **Vegetable Farmer**   | /navi ein_fild06 82/171    |            70 |            85 | 50 Antelope Horn           |             516,978  |            310,310 |                10,339  |               6,206  |
 
 
 ### Item Purchase Locations

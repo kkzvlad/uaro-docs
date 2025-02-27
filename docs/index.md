@@ -293,7 +293,10 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
     [:octicons-arrow-right-24: Endless Cellar](Endless-Cellar.md)
 
+    [:octicons-arrow-right-24: Old Glast Heim](Old-Glast-Heim.md)
   
+    [:octicons-arrow-right-24: Horror Toy Factory ](Horror-Toy-Factory.md)
+
 - 
 
     [:octicons-arrow-right-24: Server Info](Server_info.md)

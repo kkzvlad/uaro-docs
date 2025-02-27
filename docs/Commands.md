@@ -85,43 +85,26 @@
   **Output in-game Example:**  
   ![Dropinfo Output](img/@dropinfo-outline.png)
 
-- `@autoloot {<%>}`  
-  Enables or disables autolooting items from killed mobs.  
-  **Example:** `@autoloot 10`  
-  **Output in-game Example:**  
-  ![Autoloot Output](img/@autoloot-outline.png)
+- `@lootconfig`  
+Enables or disables autolooting items from killed mobs. UI for Easy Autoloot Customization.<br>
+**Toggle Autoloot** – Set a drop rate & enable/disable.<br>
+**Ignore Items** – Exclude unwanted loot.<br>
+**Loot Groups** – Create up to 3 custom loot groups.<br>
+**Quick Setup** – Manage loot easily via UI.<br>
+**Saves Settings** – Preferences reload automatically on login.<br>
+![@lootconfig](img/@lootgonfig.png)
 
-- `@noloot`  
-  You can have 20 items on your nolootitem list. Autoloot must be enabled to use this command.  
-  **Example:**  
-  - To add an item: `@nolootitem +Apple`  
-    ![Noloot Add Output](img/Nolootitemadd.png)  
-  - To remove an item: `@nolootitem -Apple`  
-    ![Noloot Remove Output](img/Nolootitemrem.png)  
-  - Reset the nolootitem list: `@noloot reset`.
+**How to Use `@lootconfig`**  
+1. Type `@lootconfig` to open the UI.  
+2. Choose **Main Autoloot** or **Custom Groups**.  
+3. Enable/Disable **Autoloot** and set a drop rate.  
+4. Add/Remove items from lists.  
+5. Select and manage **loot groups**.  
+6. Changes **apply instantly** and **save automatically**.  
 
-- `@alootid`  
-  Starts or stops autolooting a specified item.  
-  **Example:**  
-  - Add an item: `@alootid +Jellopy`  
-    ![Alootid Add Output](img/@alootid+-outline.png)  
-  - Remove an item: `@alootid -909`  
-    ![Alootid Remove Output](img/@alootid--outline.png)  
-  - Check list: `@alootid`  
-    ![Alootid List Output](img/@alootidList-outline.png)  
-  - Reset the autoloot item list: `@alootid reset`.
-
-- `@autoloottype`  
-  Starts or stops autolooting a specified item type.  
-  **Example:**  
-  - Add an item type: `@autoloottype +card`  
-    ![Aloottype Add Output](img/@aloottype+-outline.png)  
-  - Remove an item type: `@autoloottype -card`  
-    ![Aloottype Remove Output](img/@aloottype--outline.png)  
-  - Check list: `@autoloottype`  
-    ![Aloottype List Output](img/@aloottypeList-outline.png)  
-  - Reset the autoloottype list: `@autoloottype reset`.
-
+!!! warning "Important Change"
+    The `@autoloot` command has been **removed**. Use `@lootconfig` instead.
+  
 - `@whereis <monster name or ID>`  
   Displays the maps in which monster normally spawns.  
   **Example:** `@whereis Demon Pungus`  
@@ -142,10 +125,11 @@
 - `@jailtime`  
   Displays remaining jail time.
 
-- `@killcount <monster ID>`  
-  Count killed monsters.  
-  **Example:** `@killcount 1002` to count Porings.  
-  Reset: `@killcount reset`.
+- `@killcount`<br>
+  Count killed monsters.<br>
+The `@killcount` command has been **rewritten** and now includes a **UI-based tracking system**.  
+Now allows tracking of **multiple monsters** (default: `5`).  
+![KillcountUI](img/@killcountUI.png)
 
 ## Ranking Commands
 
@@ -169,10 +153,14 @@
 - `@request <message>`  
   Sends a message to all connected GMs.
 
-- `@loginsettings`  
-  Personalize your game settings applied on login.  
+- `@settings`  
+  Personalize your game settings applied on login. Offering a streamlined UI for saving preferences like **autoloot, chat channels, and visibility settings**.  
+ `@settings` syncs with in-game commands, so you **don't need to use the menu** separately.  
+
+!!! info "Known Issue"
+    `@hidepet` and `@ignorebg` require a reset upon relog. **A fix is in progress.**
   **Output in-game Example:**  
-  ![Loginsettings Output](img/@loginsettings.png)
+  ![Settings Output](img/@settings.png)
 
 ## Guild Commands
 

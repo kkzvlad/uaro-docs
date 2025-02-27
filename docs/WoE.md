@@ -20,7 +20,7 @@ Owning a castle provides several benefits for the guild. First, it unlocks acces
 
 ## Schedule
 
-On our server, WoE takes place every Saturday and Wednesday and lasts for one hour.<br>
+On our server, WoE takes place every Saturday and lasts for one hour.<br>
 
 ### Saturday
 
@@ -76,3 +76,4 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 
 ![bd_rokisweil](img/bd_rokisweil.gif) Loki's Veil<br>
 ![tk_highjump](img/tk_highjump.gif) High Jump<br>
+![tk_highjump](img/Pre-Trans-WoE/hp_assumptio.gif) Assumptio<br>
