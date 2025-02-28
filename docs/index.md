@@ -14,6 +14,26 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 ---
 
 !!! patchnotes
+    === "February 27"
+
+        <div class="badge">February 27</div>
+
+        ```markdown
+        - **Brasilis Town & Dungeon** added to Warpra Dungeon Warper.
+        - **HTF & OGH Updates**: MvP AI, loot tables, and mob adjustments.
+        - **Branch Room in Prontera**: Rentable arena for opening branches.
+        - **Endless Cellar fixed** and available again.
+        - **Cart Termination Fix**: Stun bypasses Safety Wall as intended.
+        - **WoE Castle Rotation** updated.
+        - **New Cash Shop Items**: Short Hair Costume Set & Megaphone.
+        - **Website Updates**: Merchant list, database fixes, and optimizations.
+        ```
+
+        [:octicons-arrow-right-24: Full Patch Notes](patches02272025.md)
+
+        [:octicons-arrow-right-24: All Patch Notes](All-patch-notes.md)
+
+
     === "January 31"
 
         <div class="badge">January 31</div>
