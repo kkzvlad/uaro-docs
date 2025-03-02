@@ -128,9 +128,9 @@ extra:
     - toc: ["index.md"]  # This disables the TOC for the index page only
 
 # Google Analytics tracking
-google_analytics:
-  - "UA-XXXXXXX-X"  # Replace with your tracking ID
-  - "auto"
+  analytics:
+    provider: google
+    property: G-7XD6KF8G73
 
 extra_javascript:
   - javascripts/mathjax.js
