@@ -34,37 +34,39 @@ On our server, WoE takes place every Sunday and lasts for one hour.<br>
 
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
-| Gondul. Prontera | - | - | - |
-| Bright Arbor. Payon | - | - | - |
+| Skoegul. Prontera | - | - | - |
+| Rothenburg. Aldebaran | - | - | - |
 |
 !!! note
     Castle rotations happen periodically as well as total active castle numbers based on WoE population and is subject to change.
 
 ## Treasure Chest Drop
-<!--
+
 | Castle Name. Town  | Treasure Chest 1 | Treasure Chest 2 |
 |--------------------|------------------|------------------|
-|Kriemhild. Prontera  | ![7539](img/7539.gif) Poring Coin - 100%<br> ![607](img/607.gif) Yggdrasil Berry - 50%<br> ![608](img/608.gif) Yggdrasil Seed - 50%<br> ![2104](img/2104.gif) Buckler [1] - 40%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![616](img/616.gif) Old Card Album - 20n%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![12103](img/12103.gif) Bloody Branch - 10% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![984](img/984.gif) Oridecon - 48.5%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![2407](img/2407.gif) Crystal Pumps - 4.29%<br> ![2269](img/2269.gif) Romantic Flower - 2.5%<br> ![2317](img/2317.gif) Full Plate - 0.35%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
-|Yesnelph. Geffen| ![7539](img/7539.gif) Poring Coin - 100%<br> ![607](img/607.gif) Yggdrasil Berry - 50%<br> ![608](img/608.gif) Yggdrasil Seed - 50%<br> ![2404](img/2404.gif) Shoes [1] - 40%<br> ![2315](img/2315.gif) Chain Mail [1] - 40%<br> ![2104](img/2104.gif) Buckler [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![616](img/616.gif) Old Card Album - 10% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![984](img/984.gif) Oridecon - 48.5%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![2626](img/2626.gif) Rosary [1] - 3%<br> ![1472](img/1472.gif) Soul Staff - 1.67%<br> ![6919](img/6919.gif) Token Honor - 0.25%<br> ![2327](img/2327.gif) Holy Robe - 0.1%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
--->
+| Skoegul. Prontera | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![2124](img/2124.gif) Thorny Buckler [1] - 5%<br> ![2514](img/2514.gif) Pauldron [1] - 5%<br> ![2424](img/2424.gif) Tidal Shoes [1] - 5%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![2114](img/2114.gif) Stone Buckler [1] - 5%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![5022](img/5022.gif) Hat of the Sun God - 0.1%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+| Rothenburg. Aldebaran | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![1238](img/1238.gif) Zeny Knife - 9%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+
 ## Token System
 
-One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% base percentage. Current zone = Payon. When 3 of one type are collected, they can be redeemed for one of the packages of choice listed below via GM. These tokens are non guild-storable or tradeable and must be collected by your designated woe/guild lead.
+One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% base percentage. Current zone = Prontera. When 3 of one type are collected, they can be redeemed for one of the packages of choice listed below via GM. These tokens are non guild-storable or tradeable and must be collected by your designated woe/guild lead.
 
 | Package 1           | Package 2         | Package 3            |
 |---------------------|-------------------|----------------------|
-| ![12103](img/12103.gif) Bloody Branch - 50 | ![12103](img/12103.gif) Bloody Branch - 50 | ![12103](img/12103.gif) Bloody Branch - 50 |
-| ![616](img/616.gif) Old Card Album - 25 | ![616](img/616.gif) Old Card Album - 25 | ![616](img/616.gif) Old Card Album - 25 |
+| ![12103](img/12103.gif) Bloody Branch - 25 | ![12103](img/12103.gif) Bloody Branch - 50 | ![12103](img/12103.gif) Bloody Branch - 50 |
+| ![616](img/616.gif) Old Card Album - 15 | ![616](img/616.gif) Old Card Album - 25 | ![616](img/616.gif) Old Card Album - 25 |
 | ![616](img/616.gif) Mystical Card Album | AD Bottle Sets - 2k |![7619](img/7619.gif) Enriched Elunium - 40 |
 |                     |                   | ![7620](img/7620.gif) Enriched Oridecon - 40 |
 
 ## WoE Mechanics
 
-- 24 member cap within any given castle (Recall prioritizes top most rank downwards until number met) Extended, Baby and Trans classes will yield no movement
-- All MVP cards render no effect within WoE Castles (Still equipable, but have no effect)
-- If you equip an item on the block list, it will yield 0 effect within castles
-- Buffs received by Trans / Extended classes will automatically be removed upon entry into castle (Portal or E-Call)
+- 24 member cap within any given castle (Recall prioritizes top most rank downwards until number met) Extended, Baby and Trans classes will yield no movement  
+- All MVP cards render no effect within WoE Castles (Still equipable, but have no effect)  
+- Reference the pinned document within ⁠🏰emperium-echoes or consult your WoE Leader for a complete list of restricted items(If you equip an item on the block list, it will yield 0 effect within castles)  
+- Buffs received by Trans / Extended classes will automatically be removed upon entry into castle (Portal or E-Call)  
 - Issuing FCP as a creator to members outside of castles prior to entrance into Pre-Trans WoE castles is strictly forbidden and will yield an account ban
+- @GuildHP is now toggleable through @settings (Allows you to view Guild member HP even outside of party)  
+- Guild Emblems must be visible and clearly identifiable to participate  
 
 ## Item Block Lists
 
@@ -209,7 +211,7 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 	![12321](img/Pre-Trans-WoE/12321.gif) Arunafeltz Desert Sandwich<br>
 	![12319](img/Pre-Trans-WoE/12319.gif) Rune Strawberry Cake<br>
 	![12320](img/607.gif) Schwarzwald Pine Jubilee<br>
-     - All Stats Foods
+    - All Stats Foods
 
 ### Gear Restrictions:
 
