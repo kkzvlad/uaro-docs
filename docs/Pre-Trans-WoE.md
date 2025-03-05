@@ -142,57 +142,57 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
     | Beholder Card | 4356 |
     | Vanberk Card | 4411 |
     | Isilla Card | 4412 |
-    | Hodremlin_Card | 4413 |
-    | Seeker_Card | 4414 |
-    | Agav_Card | 4409 |
-    | Echio_Card | 4410 |
-    | Flying_Deleter_Card | 4158 |
-    | Mole_Card | 4343 |
-    | Deleter_Card | 4279 |
-    | Solace_Card | 4394 | 
-    | Deathword_Card | 4388 |
-    | Ancient_Mimic_Card | 4387 | 
-    | Shelter_Card | 4393 |
-    | Observation_Card | 4392 
-    | Tha_Dolor_Card | 4398 |
-    | Tha_Maero_Card | 4395 |
-    | Tha_Despero_Card | 4397 |
-    | Tha_Odium_Card | 4396 |
-    | Sword_Guardian_Card | 4427 |
-    | Bow_Guardian_Card | 4428 |
-    | Salamander_Card | 4429 |
-    | Kasa_Card | 4431 |
-    | Imp_Card | 4433 |
-    | Magmaring_Card | 4432 |
-    | Zombie_Slaughter_Card | 4435 |
-    | Ragged_Zombie_Card | 4436 |
-    | Hell_Poodle_Card | 4437 |
-    | Banshee_Card | 4438 |
-    | Flame_Skull_Card | 4439 |
-    | Necromancer_Card | 4440 |
-    | Alicel_Card | 4401 |
-    | Aliot_Card | 4402 |
-    | Aliza_Card | 4400 |
-    | Skogul_Card | 4404 |
-    | Frus_Card | 4405 |
-    | Cornus_Card | 4448 |
-    | Luciola_Vespa_Card | 4445 |
-    | Centipede_Card | 4447 |
-    | Hilsrion_Card | 4453 |
-    | Centipede_Larva_Card | 4452 | 
-    | Tatacho_Card | 4442 |
-    | Aqua_Elemental_Card | 4443 |
-    | Dark_Shadow_Card | 4449 |
-    | Draco_Card | 4444 |
-    | Ferus_Card | 4380 |
-    | Ferus__Card | 4381 |
-    | Acidus__Card | 4379 |
-    | Acidus_Card | 4378 |
-    | Hydro_Card | 4384 |
-    | Whikebain_Card | 4348 |
-    | Rawrel_Card | 4350 |
-    | Ygnizem_Card | 4346 |
-    | Kavac_Card | 4351 |
+    | Hodremlin Card | 4413 |
+    | Seeker Card | 4414 |
+    | Agav Card | 4409 |
+    | Echio Card | 4410 |
+    | Sky Deleter Card | 4158 |
+    | Mole Card | 4343 |
+    | Earth Deleter Card | 4279 |
+    | Lady Solace Card | 4394 | 
+    | Death Word Card | 4388 |
+    | Ancient Mimic Card | 4387 | 
+    | Mistress of Shelter Card | 4393 |
+    | Dame of Sentinel Card | 4392 |
+    | Dolor of Thanatos Card| 4398 |
+    | Maero of Thanatos Card | 4395 |
+    | Despero of Thanatos Card | 4397 |
+    | Odium of Thanatos Card | 4396 |
+    | Sword Guardian Card | 4427 |
+    | Bow Guardian Card | 4428 |
+    | Salamander Card | 4429 |
+    | Kasa Card | 4431 |
+    | Imp Card | 4433 |
+    | Magmaring Card | 4432 |
+    | Zombie Slaughter Card | 4435 |
+    | Ragged Zombie Card | 4436 |
+    | Hell Poodle Card | 4437 |
+    | Banshee Card | 4438 |
+    | Flame Skull Card | 4439 |
+    | Necromancer Card | 4440 |
+    | Alicel Card | 4401 |
+    | Aliot Card | 4402 |
+    | Aliza Card | 4400 |
+    | Skogul Card | 4404 |
+    | Frus Card | 4405 |
+    | Cornus Card | 4448 |
+    | Luciola Vespa Card | 4445 |
+    | Centipede Card | 4447 |
+    | Hilsrion Card | 4453 |
+    | Centipede Larva Card | 4452 | 
+    | Tatacho Card | 4442 |
+    | Aqua Elemental Card | 4443 |
+    | Dark Shadow Card | 4449 |
+    | Draco Card | 4444 |
+    | Red Ferus Card | 4380 |
+    | Green Ferus Card | 4381 |
+    | Blue Acidus Card | 4379 |
+    | Gold Acidus Card | 4378 |
+    | Hydrolancer Card | 4384 |
+    | Wickebine Tres Card | 4348 |
+    | Laurell Weinder Card | 4350 |
+    | Egnigem Cenia Card | 4346 |
+    | Kavach Icarus Card | 4351 |
 
 
 ### Consumables Restrictions:
@@ -216,109 +216,111 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 ### Gear Restrictions:
 
 ??? note "Gear List, click to expand"
-    5374 L_Magestic_Goat  
-	2348 Wind_Sprits_Armor  
-	2349 Wind_Sprits_Armor_  
-	2344 Flame_Sprits_Armor  
-	2345 Flame_Sprits_Armor_  
-	2346 Water_Sprits_Armor  
-	2347 Water_Sprits_Armor_  
-	2350 Earth_Sprits_Armor  
-	2351 Earth_Sprits_Armor_  
-	2115 Valkyrjas_Shield  
-	2536 Skin_Of_Ventus  
-	1188 Veteran_Sword  
-	5481 Hermose_Cap  
-	1264 Various_Jur  
-	1284 Krishna  
-	1311 Vecer_Axe  
-	1647 Croce_Staff  
-	1561 Hardback  
-	1745 Falken_Blitz  
-	1646 Lacryma_Stick  
-	5138 Magic_Eyes  
-	1377 Hurricane_Fury  
-	1724 Dragon_Wing  
-	1170 Dragon_Slayer_  
-	1234 Moonlight_Sword  
-	1265 Bloody_Roar  
-	1368 Tomahawk  
-	13017 House_Auger_  
-	1560 Diary_Of_Great_Sage  
-	1723 Luna_Bow  
-	2343 Robe_Of_Casting  
-	1241 Cursed_Dagger  
-	1242 Counter_Dagger  
-	5123 Ulle_Cap  
-	1175 Altas_Weapon  
-	2531 Ulfhedinn  
-	1822 Combo_Battle_Glove  
-	1821 Seismic_Fist  
-	2422 High_Fashion_Sandals  
-	5172 Beret  
-	2366 Divine_Cloth  
-	1733 Gust_Bow  
-	1731 Frozen_Bow  
-	1730 Burning_Bow  
-	1732 Earth_Bow  
-	1734 Orc_Archer_Bow  
-	2418 Vidars_Boots  
-	2417 Fricco_Shoes  
-	2354 Goibnes_Armor  
-	2419 Goibnes_Combat_Boots  
-	5128 Goibnes_Helmet  
-	2520 Goibnes_Shoulder_Arms  
-	2515 Wing_Of_Eagle  
-	2655 Bloody_Iron_Ball  
-	2519 Morriganes_Manteau  
-	2650 Morriganes_Belt  
-	5127 Morriganes_Helm  
-	2651 Morriganes_Pendant  
-	1370 Doom_Slayer  
-	2122 Platinum_Shield  
-	2680 Lesser_Elemental_Ring  
-	1270 Drill_Katar  
-	2677 Spiritual_Ring  
-	13404 Platinum_Shotel  
-	1565 Death_Note  
-	2730 Morroc_Seal  
-	2732 Morroc_Ring  
-	2731 Morroc_Charm_Stone  
-	1631 Holy_Stick  
-	1130 Nagan  
-	2719 Iron_Wrist  
-	1630 Release_Of_Wish  
-	1573 Ancient_Magic  
-	1572 Principles_Of_Magic  
-	2517 Valis_Manteau  
-	1810 Claw_  
-	13405 Curved_Sword  
-	2516 Falcon_Robe  
-	2518 Morpheuss_Shawl  
-	1618 Survival_Rod_  
-	1271 Blood_Tears  
-	2001 Divine_Cross  
-	2353 Odins_Blessing  
-	1643 Dead_Tree_Cane  
-	2783 Eyes_Stone_Ring  
-	1548 Veteran_Hammer  
-	1384 Veteran_Axe  
-	5122 Magni_Cap  
-	2114 Stone_Buckler  
-	1269 Inverse_Scale  
-	5126 Morpheuss_Hood  
-	5124 Fricca_Circlet  
-	2648 Morpheuss_Ring  
-	2649 Morpheuss_Armlet  
-	5401 Black_Glasses  
-	5325 Robo_Eye  
-	5592 Sigruns_Wing  
-	5170 Feather_Beret  
-	5800 Blush_Of_Groom  
-	5377 Antique_Pipe  
-	5393 Valentine_Hat  
-	5360 Whikebain_Ears  
-	2319 Glittering_Clothes  
+	| Gear Name   | Item Id  |
+    |-------------|----------|
+    | Gigantic Majestic Goat [0] | 5374 |
+	| Aebecee's Raging Typhoon Armor [0] | 2348 |
+	| Aebecee's Raging Typhoon Armor [1] | 2349 |
+	| Lucius's Fierce Armor of Volcano [0] | 2344 |
+	| Lucius's Fierce Armor of Volcano [1] | 2345 |
+	| Saphien's Armor of Ocean [0] | 2346 |
+	| Saphien's Armor of Ocean [1] | 2347 |
+	| Claytos Cracking Earth Armor [0] | 2350 |
+	| Claytos Cracking Earth Armor [1] | 2351 | 
+	| 2115 | Valkyrjas_Shield  | 
+	| 2536 | Skin_Of_Ventus  | 
+	| 1188 | Veteran_Sword  | 
+	| 5481 | Hermose_Cap  | 
+	| 1264 | Various_Jur  | 
+	| 1284 | Krishna  | 
+	| 1311 | Vecer_Axe  | 
+	| 1647 | Croce_Staff  | 
+	| 1561 | Hardback  | 
+	| 1745 | Falken_Blitz  | 
+	| 1646 | Lacryma_Stick  | 
+	| 5138 | Magic_Eyes  | 
+	| 1377 | Hurricane_Fury  | 
+	| 1724 | Dragon_Wing  | 
+	| 1170 | Dragon_Slayer_  | 
+	| 1234 | Moonlight_Sword  | 
+	| 1265 | Bloody_Roar  | 
+	| 1368 | Tomahawk  | 
+	| 13017 | House_Auger_  | 
+	| 1560 | Diary_Of_Great_Sage |  
+	| 1723 | Luna_Bow  | 
+	| 2343 | Robe_Of_Casting  | 
+	| 1241 | Cursed_Dagger  | 
+	| 1242 | Counter_Dagger  | 
+	| 5123 | Ulle_Cap  | 
+	| 1175 | Altas_Weapon  | 
+	| 2531 | Ulfhedinn  | 
+	| 1822 | Combo_Battle_Glove  | 
+	| 1821 | Seismic_Fist  | 
+	| 2422 | High_Fashion_Sandals|   
+	| 5172 | Beret  | 
+	| 2366 | Divine_Cloth  | 
+	| 1733 | Gust_Bow  | 
+	| 1731 | Frozen_Bow  | 
+	| 1730 | Burning_Bow  | 
+	| 1732 | Earth_Bow  | 
+	| 1734 | Orc_Archer_Bow  | 
+	| 2418 | Vidars_Boots  | 
+	| 2417 | Fricco_Shoes  | 
+	| 2354 | Goibnes_Armor  | 
+	| 2419 | Goibnes_Combat_Boots  | 
+	| 5128 | Goibnes_Helmet  | 
+	| 2520 | Goibnes_Shoulder_Arms  | 
+	| 2515 | Wing_Of_Eagle  | 
+	| 2655 | Bloody_Iron_Ball  | 
+	| 2519 | Morriganes_Manteau  | 
+	| 2650 | Morriganes_Belt  | 
+	| 5127 | Morriganes_Helm  | 
+	| 2651 | Morriganes_Pendant  | 
+	| 1370 | Doom_Slayer  | 
+	| 2122 | Platinum_Shield  | 
+	| 2680 | Lesser_Elemental_Ring  | 
+	| 1270 | Drill_Katar  | 
+	| 2677 | Spiritual_Ring  | 
+	| 13404 | Platinum_Shotel  | 
+	| 1565 | Death_Note  | 
+	| 2730 | Morroc_Seal  | 
+	| 2732 | Morroc_Ring  | 
+	| 2731 | Morroc_Charm_Stone  | 
+	| 1631 | Holy_Stick  | 
+	| 1130 | Nagan  | 
+	| 2719 | Iron_Wrist  | 
+	| 1630 | Release_Of_Wish  | 
+	| 1573 | Ancient_Magic  | 
+	| 1572 | Principles_Of_Magic  | 
+	| 2517 | Valis_Manteau  | 
+	| 1810 | Claw_  | 
+	| 13405 | Curved_Sword  | 
+	| 2516 | Falcon_Robe  | 
+	| 2518 | Morpheuss_Shawl  | 
+	| 1618 | Survival_Rod_  | 
+	| 1271 | Blood_Tears  | 
+	| 2001 | Divine_Cross  | 
+	| 2353 | Odins_Blessing  | 
+	| 1643 | Dead_Tree_Cane  | 
+	| 2783 | Eyes_Stone_Ring  | 
+	| 1548 | Veteran_Hammer  | 
+	| 1384 | Veteran_Axe  | 
+	| 5122 | Magni_Cap  | 
+	| 2114 | Stone_Buckler  | 
+	| 1269 | Inverse_Scale  | 
+	| 5126 | Morpheuss_Hood  | 
+	| 5124 | Fricca_Circlet  | 
+	| 2648 | Morpheuss_Ring  | 
+	| 2649 | Morpheuss_Armlet  | 
+	| 5401 | Black_Glasses  | 
+	| 5325 | Robo_Eye  | 
+	| 5592 | Sigruns_Wing  | 
+	| 5170 | Feather_Beret  | 
+	| 5800 | Blush_Of_Groom  | 
+	| 5377 | Antique_Pipe  | 
+	| 5393 | Valentine_Hat  | 
+	| 5360 | Whikebain_Ears  | 
+	| 2319 | Glittering_Clothes  | 
 
 ??? note "BG Gear List, click to expand"
     13036 BF_Dagger1  
