@@ -227,21 +227,21 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 	| Saphien's Armor of Ocean [1] | 2347 |
 	| Claytos Cracking Earth Armor [0] | 2350 |
 	| Claytos Cracking Earth Armor [1] | 2351 | 
-	| 2115 | Valkyrjas_Shield  | 
-	| 2536 | Skin_Of_Ventus  | 
-	| 1188 | Veteran_Sword  | 
-	| 5481 | Hermose_Cap  | 
-	| 1264 | Various_Jur  | 
-	| 1284 | Krishna  | 
-	| 1311 | Vecer_Axe  | 
-	| 1647 | Croce_Staff  | 
-	| 1561 | Hardback  | 
-	| 1745 | Falken_Blitz  | 
-	| 1646 | Lacryma_Stick  | 
-	| 5138 | Magic_Eyes  | 
-	| 1377 | Hurricane_Fury  | 
-	| 1724 | Dragon_Wing  | 
-	| 1170 | Dragon_Slayer_  | 
+	| Valkyrja's Shield [1] | 2115 |
+	| Skin of Ventus [1] | 2536 |
+	| Veteran Sword [1] | 1188 |
+	| Hermode Cap [1] | 5481 |
+	| Specialty Jur [4] | 1264 |
+	| Krishna [2] | 1284 |
+	| Vecer Axe [2] | 1311 |
+	| Croce Staff [1] | 1647 |
+	| Hardcover Book [1]  | 1561 |
+	| Falken Blitz [2]  | 1745 |
+	| La'cryma Stick [2]  | 1646 |
+	| Magic Eyes [0] | 5138 |
+	| Hurricane's Fury [1] | 1377 |
+	| Dragon Wing [0] | 1724 |
+	| Dragon_Slayer_ | 1170 |
 	| 1234 | Moonlight_Sword  | 
 	| 1265 | Bloody_Roar  | 
 	| 1368 | Tomahawk  | 
