@@ -34,8 +34,8 @@ On our server, WoE takes place every Sunday and lasts for one hour.<br>
 
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
-| Skoegul. Prontera | - | - | - |
-| Rothenburg. Aldebaran | - | - | - |
+| Skoegul. Prontera | ![Prontera Castle](img/Pre-Trans-WoE/Prontera-Skoegul.png) | - | ![Prontera Dun](img/Prontera-Dun.png) |
+| Rothenburg. Aldebaran | ![Aldebaran Castle](img/Pre-Trans-WoE/Aldebaran-Rothenburg.png) | - | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
 |
 !!! note
     Castle rotations happen periodically as well as total active castle numbers based on WoE population and is subject to change.
@@ -62,7 +62,7 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 
 - 24 member cap within any given castle (Recall prioritizes top most rank downwards until number met) Extended, Baby and Trans classes will yield no movement  
 - All MVP cards render no effect within WoE Castles (Still equipable, but have no effect)  
-- Reference the pinned document within ⁠🏰emperium-echoes or consult your WoE Leader for a complete list of restricted items(If you equip an item on the block list, it will yield 0 effect within castles)  
+- If you equip an item on the block list, it will yield 0 effect within castles  
 - Buffs received by Trans / Extended classes will automatically be removed upon entry into castle (Portal or E-Call)  
 - Issuing FCP as a creator to members outside of castles prior to entrance into Pre-Trans WoE castles is strictly forbidden and will yield an account ban
 - @GuildHP is now toggleable through @settings (Allows you to view Guild member HP even outside of party)  
@@ -75,73 +75,73 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 ??? note "Card List, click to expand"
     | Card        | Item Id  |
     |-------------|----------|
-    | Osiris_Card | 4144 |
-    | Baphomet_Card | 4147 |
-    | Mistress_Card | 4132 |
-    | Golden_Bug_Card | 4128 |
-    | Orc_Hero_Card | 4143 |
-    | Drake_Card | 4137 |
-    | Eddga_Card | 4123 |
-    | Maya_Card | 4146 |
-    | Moonlight_Flower_Card | 4131 |
-    | Pharaoh_Card | 4148 |
-    | Phreeoni_Card | 4121 | 
-    | Orc_Load_Card | 4135 |
-    | Knight_Windstorm_Card | 4318 | 
-    | Garm_Card | 4324 |
-    | Dark_Lord_Card | 4168 |
-    | Turtle_General_Card | 4305 |
-    | Lord_Of_Death_Card | 4276 |
-    | Dracula_Card | 4134 |
-    | Dark_Snake_Lord_Card | 4330 |
-    | Incant_Samurai_Card | 4263 |
-    | Amon_Ra_Card | 4236 |
-    | Tao_Gunka_Card | 4302 |
-    | Rsx_0806_Card | 4342 |
-    | Bacsojin_Card | 4372 |
-    | B_Seyren_Card | 4357 |
-    | B_Eremes_Card | 4359 |
-    | B_Harword_Card | 4361 |
-    | B_Magaleta_Card | 4363 | 
-    | B_Shecil_Card | 4367 |
-    | B_Katrinn_Card | 4365 | 
-    | B_Ygnizem_Card | 4352 |
-    | Apocalips_H_Card | 4374 |
-    | Lady_Tanee_Card | 4376 |
-    | Thanatos_Card | 4399 |
-    | Detale_Card | 4386 |
-    | Kiel_Card | 4403 |
-    | Randgris_Card | 4407 | 
-    | Gloom_Under_Night_Card | 4408 | 
-    | Ktullanux_Card | 4419 | 
-    | Atroce_Card | 4425 |
-    | Ifrit_Card | 4430 | 
-    | Fallen_Bishop_Card | 4441 |
-    | Berzebub_Card | 4145 | 
-    | CorruptionRoot_Card | 4603 |
-    | Amdarais_Card | 4601 | 
-    | Ghostring_Card | 4047 |
-    | Angeling_Card | 4054 |
-    | Deviling_Card | 4174 |
-    | Maya_Puple_Card | 4198 |
-    | Gemini_Card | 4354 |
-    | Erend_Card | 4349 |
-    | Noxious_Card | 4334 |
-    | Teddy_Bear_Card | 4340 |
-    | Seyren_Card | 4358 |
-    | Eremes_Card | 4360 |
-    | Harword_Card | 4362 |
-    | Magaleta_Card | 4364 |
-    | Katrinn_Card | 4366 |
-    | Shecil_Card | 4368 |
-    | Drosera_Card | 4421 |
-    | Galion_Card | 4423 |
-    | Roween_Card | 4422 |
-    | Stapo_Card | 4424 | 
-    | Metaling_Card | 4341 |
-    | Beholder_Card | 4356 |
-    | Vanberk_Card | 4411 |
-    | Isilla_Card | 4412 |
+    | Osiris Card | 4144 |
+    | Baphomet Card | 4147 |
+    | Mistress Card | 4132 |
+    | Golden Bug Card | 4128 |
+    | Orc Hero Card | 4143 |
+    | Drake Card | 4137 |
+    | Eddga Card | 4123 |
+    | Maya Card | 4146 |
+    | Moonlight Flower Card | 4131 |
+    | Pharaoh Card | 4148 |
+    | Phreeoni Card | 4121 | 
+    | Orc Load Card | 4135 |
+    | Knight Windstorm Card | 4318 | 
+    | Garm Card | 4324 |
+    | Dark Lord Card | 4168 |
+    | Turtle General Card | 4305 |
+    | Lord Of Death_Card | 4276 |
+    | Dracula Card | 4134 |
+    | Dark Snake Lord_Card | 4330 |
+    | Samurai Spector Card | 4263 |
+    | Amon Ra Card | 4236 |
+    | Tao Gunka Card | 4302 |
+    | Rsx-0806 Card | 4342 |
+    | White Lady Card | 4372 |
+    | Lord Knight Card | 4357 |
+    | Assassin Cross Card | 4359 |
+    | MasterSmith Card | 4361 |
+    | High Priest Card | 4363 | 
+    | Sniper Card | 4367 |
+    | High Wizard Card | 4365 | 
+    | General Egnigem Cenia Card | 4352 |
+    | Vesper Card | 4374 |
+    | Lady Tanee Card | 4376 |
+    | Memory of Thanatos Card | 4399 |
+    | Detardeurus Card | 4386 |
+    | Kiel-D-01 Card | 4403 |
+    | Randgris Card | 4407 | 
+    | Gloom Under Night Card | 4408 | 
+    | Ktullanux Card | 4419 | 
+    | Atroce Card | 4425 |
+    | Ifrit Card | 4430 | 
+    | Fallen Bishop Card | 4441 |
+    | Berzebub Card | 4145 | 
+    | Corruption Root Card | 4603 |
+    | Amdarais Card | 4601 | 
+    | Ghostring Card | 4047 |
+    | Angeling Card | 4054 |
+    | Deviling Card | 4174 |
+    | Maya Puple Card | 4198 |
+    | Gemini-S58 Card | 4354 |
+    | Errende Ebecee Card | 4349 |
+    | Noxious Card | 4334 |
+    | Teddy Bear Card | 4340 |
+    | Seyren Windsor Card | 4358 |
+    | Eremes Guile Card | 4360 |
+    | Howard Alt-Eisen Card | 4362 |
+    | Margaretha Sorin Card | 4364 |
+    | Kathryne Keyron Card | 4366 |
+    | Cecil Damon Card | 4368 |
+    | Drosera Card | 4421 |
+    | Galion Card | 4423 |
+    | Roween Card | 4422 |
+    | Stapo Card | 4424 | 
+    | Metaling Card | 4341 |
+    | Beholder Card | 4356 |
+    | Vanberk Card | 4411 |
+    | Isilla Card | 4412 |
     | Hodremlin_Card | 4413 |
     | Seeker_Card | 4414 |
     | Agav_Card | 4409 |
