@@ -241,30 +241,30 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 	| Magic Eyes [0] | 5138 |
 	| Hurricane's Fury [1] | 1377 |
 	| Dragon Wing [0] | 1724 |
-	| Dragon_Slayer_ | 1170 |
-	| 1234 | Moonlight_Sword  | 
-	| 1265 | Bloody_Roar  | 
-	| 1368 | Tomahawk  | 
-	| 13017 | House_Auger_  | 
-	| 1560 | Diary_Of_Great_Sage |  
-	| 1723 | Luna_Bow  | 
-	| 2343 | Robe_Of_Casting  | 
-	| 1241 | Cursed_Dagger  | 
-	| 1242 | Counter_Dagger  | 
-	| 5123 | Ulle_Cap  | 
-	| 1175 | Altas_Weapon  | 
-	| 2531 | Ulfhedinn  | 
-	| 1822 | Combo_Battle_Glove  | 
-	| 1821 | Seismic_Fist  | 
-	| 2422 | High_Fashion_Sandals|   
-	| 5172 | Beret  | 
-	| 2366 | Divine_Cloth  | 
-	| 1733 | Gust_Bow  | 
-	| 1731 | Frozen_Bow  | 
-	| 1730 | Burning_Bow  | 
-	| 1732 | Earth_Bow  | 
-	| 1734 | Orc_Archer_Bow  | 
-	| 2418 | Vidars_Boots  | 
+	| Dragon Slayer [2] | 1180 |
+	| Moonlight Dagger [0] | 1234 |
+	| Bloody Roar [0] | 1265 |
+	| Tomahawk [0] | 1368 |
+	| Ice Pick [1] | 13017 |
+	| Sage's Diary [2] | 1560 |
+	| Luna Bow [2] | 1723 |
+	| Robe of Cast [0] | 2343 |
+	| Cursed Dagger [0] | 1241 |
+	| Dagger of Counter [0] | 1242 |
+	| Ulle's Cap [1] | 5123 |
+	| Atlas Weapon [1] | 1175 |
+	| Ulfhedinn [1] | 2531 |
+	| Combo Battle Glove [4] | 1822 |
+	| Seismic Fist [3] | 1821 |
+	| High Fashion Sandals [1] | 2422 |
+	| Beret [0] | 5172 |
+	| Divine Cloth [1] | 2366 |
+	| Gust Bow [1] | 1733 |
+	| Frozen Bow [1] | 1731 |
+	| Burning Bow [1] | 1730 |
+	| Earth Bow [1] | 1732 |
+	| Orc Archer Bow [0] | 1734 |
+	| Vidar's Boots [0] | 2418 |
 	| 2417 | Fricco_Shoes  | 
 	| 2354 | Goibnes_Armor  | 
 	| 2419 | Goibnes_Combat_Boots  | 
