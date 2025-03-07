@@ -265,18 +265,18 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 	| Earth Bow [1] | 1732 |
 	| Orc Archer Bow [0] | 1734 |
 	| Vidar's Boots [0] | 2418 |
-	| 2417 | Fricco_Shoes  | 
-	| 2354 | Goibnes_Armor  | 
-	| 2419 | Goibnes_Combat_Boots  | 
-	| 5128 | Goibnes_Helmet  | 
-	| 2520 | Goibnes_Shoulder_Arms  | 
-	| 2515 | Wing_Of_Eagle  | 
-	| 2655 | Bloody_Iron_Ball  | 
-	| 2519 | Morriganes_Manteau  | 
-	| 2650 | Morriganes_Belt  | 
-	| 5127 | Morriganes_Helm  | 
-	| 2651 | Morriganes_Pendant  | 
-	| 1370 | Doom_Slayer  | 
+	| Fricco's Shoes [0] | 2417 |
+	| Goibne's Armor [0] | 2354 |
+	| Goibne's Greaves [0] | 2419 |
+	| Goibne's Helm [0] | 5128 |
+	| Goibne's Spaulders [0] | 2520 |
+	| Eagle Wing [1] | 2515 |
+	| Bloodied Shackle Ball [0] | 2655 |
+	| Morrigane's Manteau [0] | 2519 |
+	| Morrigane's Belt [0] | 2650 |
+	| Morrigane's Helm [0] | 5127 |
+	| Morrigane's Pendant [0] | 2651 |
+	| Doom Slayer [0] | 1370 |
 	| 2122 | Platinum_Shield  | 
 	| 2680 | Lesser_Elemental_Ring  | 
 	| 1270 | Drill_Katar  | 
