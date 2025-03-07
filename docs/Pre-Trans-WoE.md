@@ -34,8 +34,8 @@ On our server, WoE takes place every Sunday and lasts for one hour.<br>
 
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
-| Skoegul. Prontera | ![Prontera Castle](img/Pre-Trans-WoE/Prontera-Skoegul.png) | - | ![Prontera Dun](img/Prontera-Dun.png) |
-| Rothenburg. Aldebaran | ![Aldebaran Castle](img/Pre-Trans-WoE/Aldebaran-Rothenburg.png) | - | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
+| Skoegul. Prontera | ![Prontera Castle](img/Pre-Trans-WoE/Prontera-Skoegul.png) | [![Skoegul Room](img/Skoegul-EmpRoom.png){width=500 height=400}](img/Skoegul-EmpRoom.png) | ![Prontera Dun](img/Prontera-Dun.png) |
+| Rothenburg. Aldebaran | ![Aldebaran Castle](img/Pre-Trans-WoE/Aldebaran-Rothenburg.png) | [![Skoegul Room](img/Rothenburg-EmpRoom.png){width=500 height=400}](img/Rothenburg-EmpRoom.png) | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
 |
 !!! note
     Castle rotations happen periodically as well as total active castle numbers based on WoE population and is subject to change.
@@ -323,181 +323,189 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 	| Glittering Jacket [1] | 2319 |
 
 ??? note "BG Gear List, click to expand"
-    13036 BF_Dagger1  
-    13037 BF_Dagger2  
-    13411 BF_Sword2  
-    13410 BF_Sword1  
-    1183 BF_Two_Handed_Sword1  
-    1425 BF_Spear1  
-    1482 BF_Lance1  
-    1632 BF_Staff1  
-    1633 BF_Staff2  
-    1634 BF_Staff3  
-    1635 BF_Staff4  
-    1543 BF_Morning_Star2  
-    1542 BF_Morning_Star1  
-    1380 BF_Two_Handed_Axe2  
-    1379 BF_Two_Handed_Axe1  
-    13305 BF_Huuma_Shuriken1  
-    13306 BF_Huuma_Shuriken2  
-    1739 BF_Bow2  
-    1738 BF_Bow1  
-    1279 BF_Katar1  
-    1280 BF_Katar2  
-    1924 BF_Instrument2  
-    1923 BF_Instrument1  
-    1978 BF_Whip2  
-    1977 BF_Whip1  
-    1574 BF_Book1  
-    1575 BF_Book2  
-    1824 BF_Knuckle2  
-    1823 BF_Knuckle1  
-    13108 BF_Pistol1  
-    13171 BF_Rifle1  
-    13172 BF_Gatling_Gun1  
-    13173 BF_Shotgun1  
-    13174 BF_Launcher1  
-    2538 Commander_Manteau  
-    2539 Commander_Manteau_  
-    2540 Sheriff_Manteau  
-    2435 Battle_Greave  
-    2436 Combat_Boots  
-    2437 Battle_Boots  
-    2376 Assaulter_Plate  
-    2377 Elite_Engineer_Armor  
-    2378 Assassin_Robe  
-    2379 Warlock_Battle_Robe  
-    2380 Medic_Robe  
-    2381 Elite_Archer_Suit  
-    2382 Elite_Shooter_Suit  
-    2733 Medal_Gunner  
-    2720 Medal_Swordman  
-    2721 Medal_Thief  
-    2722 Medal_Acolyte  
-    2723 Medal_Mage  
-    2724 Medal_Archer  
-    2725 Medal_Merchant  
+	| Gear Name   | Item Id  |
+    |-------------|----------|
+    | Brave Assassin's Damascus [0] | 13036 |
+    | Valorous Assassin's Damascus [0] | 13037 |
+    | Brave Gladiator Blade [0] | 13411 |
+    | Valorous Gladiator Blade [0] | 13410 |
+    | Brave Assaulter's Katzbalger [0] | 1183 |
+    | Assaulter Spear [0] | 1425 |
+    | Assaulter Lance [0] | 1482 |
+    | Warlock's Magic Wand [0] | 1632 |
+    | Warlock's Battle Wand [0] | 1633 |
+    | Strong Recovery Wand [0] | 1634 |
+    | Speedy Recovery Wand [0] | 1635 |
+    | Brave Battlefield Morning Star [0] | 1543 |
+    | Valorous Battlefield Morning Star [0] | 1542 |
+    | Brave Insane Battle Axe [0] | 1380 |
+    | Valorous Insane Battle Axe [0] | 1379 |
+    | Brave Huuma Front Shuriken [0] | 13305 |
+    | Valorous Huuma Front Shuriken [0] | 13306 |
+    | Brave Battle CrossBow [0] | 1739 |
+    | Valorous Battle CrossBow [0] | 1738 |
+    | Brave Carnage Katar [0] | 1279 |
+    | Valorous Carnage Katar [0] | 1280 |
+    | Brave Battlefield Guitar [0] | 1924 |
+    | Valorous Battlefield Guitar [0] | 1923 |
+    | Brave Battle Lariat [0] | 1978 |
+    | Valorous Battle Lariat [0] | 1977 |
+    | Brave Battle Strategy Book [0] | 1574 |
+    | Valorous Battle Strategy Book [0]  | 1575 |
+    | Brave Battle Fist [0] | 1824 |
+    | Valorous Battle Fist [0] | 1823 |
+    | Soldier Revolver [0] | 13108 |
+    | Soldier Rifle [0] | 13171 |
+    | BF_Gatling_Gun1 | 13172 |
+    | Soldier Gatling Gun [0] | 13173 |
+    | Soldier Grenade Launcher [0] | 13174 |
+    | Captain's Manteau [1] | 2538 |
+    | Commander's Manteau [1] | 2539 |
+    | Sheriff's Manteau [1] | 2540 |
+    | Battle Greaves [1] | 2435 |
+    | Combat Boots [1] | 2436 |
+    | Battle Boots [1] | 2437 |
+    | Assaulter Plate [1] | 2376 |
+    | Elite Engineer Armor [1] | 2377 |
+    | Assassin Robe [1] | 2378 |
+    | Warlock_Battle_Robe | 2379 |
+    | Medic's Robe [1] | 2380 |
+    | Elite Archer Suit [1] | 2381 |
+    | Elite Shooter Suit [1] | 2382 | 
+    | Sheriff Badge [0] (Swordman) | 2733 |
+    | Medal of Honor [0] | 2720 |
+    | Medal of Honor [0] (Thief) | 2721 |
+    | Medal of Honor [0] (Acolyte) | 2722 |
+    | Medal of Honor [0] (Mage) | 2723 |
+    | Medal of Honor [0] (Archer) | 2724 |
+    | Medal of Honor [0] (Merchant) | 2725 |
 
 ??? note "Dimonka Headgear List, click to expand"
-    5548 Scarlet_Rose  
-	5289 Vanilmirth_Hat  
-	5518 L_Magestic_Goat2  
-	5664 Filir_Wing  
-	5358 Pecopeco_Wing_Ears  
-	5653 Darkness_Helm_J  
-	5283 Chick_Hat  
-	5463 Rainbow_Scarf  
-	18539 Skull_Cap  
-	5361 Gang_Scarf  
-	5529 Evils_Bone_Hat  
-	5373 Darkness_Helm  
-	5375 L_Orc_Hero_Helm  
-	5324 Little_Angel_Doll  
-	5378 Rabbit_Ear_Hat  
-	5574 Pencil_In_Mouth  
-	5403 Fish_In_Mouth  
-	5137 Alice_Doll  
-	5341 Claris_Doll_Hat  
-	5340 Deprotai_Doll_Hat  
-	5307 Carmen_Mirandas_Hat  
-	5211 Dress_Hat  
-	5208 Rideword_Hat  
-	5356 Pumpkin_Hat_H  
-	5305 Pirate_Dagger  
-	5409 New_Cowboy_Hat  
-	5381 Santa_Poring_Hat  
-	5515 Pisces_Crown  
-	5514 Pisces_Diadem  
-	5502 Necromencers_Hood  
-	5372 Drooping_White_Kitty  
-	5214 Moonlight_Flower_Hat  
-	5380 Fish_Head_Hat  
+	| Gear Name   | Item Id  |
+    |-------------|----------|
+    | Scarlet Rose [0] | 5548 |
+	| Vanilmirth Hat [0] | 5289 |
+	| Gigantic Majestic Goat [0] | 5518 |
+	| Filir's Pinions [0] | 5664 |
+	| Peco Ears [0] | 5358 |
+	| Darkness Helm [1] | 5653 |
+	| Chick Hat [0] | 5283 |
+	| Rainbow Scarf [0] | 5463 |
+	| Skull Cap [1] | 18539 |
+	| Gangster Scarf [0] | 5361 |
+	| Satanic Bone Helm [1] | 5529 |
+	| Dark Randgris Helm [1] | 5373 |
+	| Orc Hero Headdress [1] | 5375 |
+	| Little Angel Doll [0] | 5324 |
+	| Bunny Top Hat [0] | 5378 |
+	| Well-Chewed Pencil [0] | 5574 |
+	| Fish In Mouth [0] | 5403 |
+	| Alice Doll [1] | 5137 |
+	| Glaris Doll Hat [1] | 5341 |
+	| Defolty Doll Hat [1] | 5340 | 
+	| Carmen Miranda's Hat [0] | 5307 |
+	| Dress Hat [1] | 5211 |
+	| Rideword Hat [1] | 5208 |
+	| Festival Pumpkin Hat [0] | 5356 |
+	| Pirate Dagger [0] | 5305 |
+	| Purple Cowboy Hat [1] | 5409 |
+	| Santa Poring Hat [1] | 5381 |
+	| Pisces Crown [0] | 5515 |
+	| Pisces Diadem [0] | 5514 |
+	| Necromancer's Hood [0] | 5502 |
+	| Koneko Hat [0] | 5372 |
+	| Moonlight Flower Hat [0] | 5214 |
+	| Fish Head Hat [0] | 5380 |
 
 ??? note "Slotted item blocks List, click to expand"
-    1568 Book_Of_Billows_  
-	1569 Book_Of_Mother_Earth_  
-	1570 Book_Of_Blazing_Sun_  
-	1571 Book_Of_Gust_Of_Wind_  
-	1309 Orcish_Axe_  
-	1538 Spike_  
-	1726 Hunter_Bow_  
-	1171 Zweihander_  
-	1149 Flamberge_  
-	1266 Infiltrator_  
-	1727 Balistar_  
-	1532 Stunner_  
-	1816 Berserk_  
-	1172 Claymore_  
-	13030 Dragon_Killer_  
-	1275 Katar_Of_Cold_Icicle_  
-	1276 Katar_Of_Thornbush_  
-	1277 Katar_Of_Raging_Blaze_  
-	1278 Katar_Of_Piercing_Wind_  
-	1539 Golden_Mace_  
-	1922 Oriental_Lute_  
-	1955 Wire_  
-	1976 Queens_Whip_  
-	1479 Spectral_Spear_  
-	1480 Gae_Bolg_  
-	1178 Schweizersabel_  
-	1418 Gungnir_  
-	13016 Poison_Knife_  
-	13018 Sucsamad_  
-	13019 Ginnungagap_  
-	13400 Cutlas_  
-	1481 Zephyrus_  
-	13031 Sword_Breaker_  
-	13032 Mail_Breaker_  
-	1180 Dragon_Slayer_  
-	13033 Assasin_Dagger_  
-	1540 Grand_Cross_  
-	1179 Executioner__  
-	5347 Ph_D_Hat_  
-	5348 Big_Sis_Ribbon_  
-	5349 Boys_Cap_  
-	5168 Bongun_Hat_  
-	2715 Skul_Ring_  
-	2432 Spiky_Heel_  
-	2412 Grave_  
-	2514 Pauldron  
-	5120 Fedora_  
-	2121 Memorize_Book_  
-	5093 Blue_Coif_  
-	2359 Ninja_Suit_  
-	5157 Viking_Helm_  
-	2525 Cape_Of_Ancient_Lord_  
-	5158 Holy_Bonnet_  
-	5159 Golden_Gear_  
-	5167 Munak_Turban_  
-	5350 Pirate_Bandana_  
-	5161 Sharp_Gear_  
-	5160 Magestic_Goat_  
-	5163 Corsair_  
-	5164 Tiara_  
-	5165 Crown_  
-	5166 Spinx_Helm_  
-	2360 Robe_Of_Casting_  
-	2671 Thimble_Of_Archer_  
-	2372 Mage_Coat_  
-	2373 Holy_Robe_  
-	2128 Herald_Of_GOD_  
-	2523 Undershirt_  
-	2371 G_Strings_  
-	5353 Helm_Of_Sun_  
+	| Gear Name   | Item Id  |
+    |-------------|----------|
+    | Book of Billows [3] | 1568 |
+	| Book of Mother Earth [3] | 1569 |
+	| Book of Blazing Sun [3] | 1570 |
+	| Book of Gust of Wind [3] | 1571 |
+	| Orcish Axe [4] | 1309 |
+	| Spike [2] | 1538 |
+	| Hunter Bow [1] | 1726 |
+	| Zweihander [2] | 1171 |
+	| Flamberge [2] | 1149 |
+	| Infiltrator [1] | 1266 |
+	| Ballista [1] | 1727 |
+	| Stunner [2] | 1532 |
+	| Berserk [1] | 1816 |
+	| Claymore [2] | 1172 |
+	| Dragon Killer [2] | 13030 |
+	| Katar of Frozen Icicle [3] | 1275 |
+	| Katar of Quaking [3] | 1276 |
+	| Katar of Raging Blaze [3] | 1277 |
+	| Katar of Piercing Wind [3] | 1278 |
+	| Golden Mace [2] | 1539 |
+	| Oriental Lute [2] | 1922 |
+	| Wire Whip [3] | 1955 |
+	| Queen's Whip [2] | 1976 |
+	| Spectral Spear [1] | 1479 |
+	| Gae Bolg [2] | 1480 |
+	| Schweizersabel [2] | 1178 |
+	| Gungnir [2] | 1418 |
+	| Poison Knife [2] | 13016 |
+	| Sucsamad [1] | 13018 |
+	| Ginnungagap [1] | 13019 |
+	| Cutlus [1] | 13400 |
+	| Zephyrus [3] | 1481 |
+	| Swordbreaker [3] | 13031 |
+	| Mailbreaker [3] | 13032 |
+	| Dragon Slayer [2] | 1180 |
+	| Assassin Dagger [1] | 13033 |
+	| Grand Cross [1] | 1540 |
+	| Executioner [1] | 1179 |
+	| Ph.D Hat [1] | 5347 |
+	| Big Ribbon [1] | 5348 |
+	| Boy's Cap [1] | 5349 |
+	| Bongun Hat [1] | 5168 |
+	| Skull Ring [1] | 2715 |
+	| High Heels [1] | 2432 |
+	| Greaves [1] | 2412 |
+	| Pauldron [1] | 2514 |
+	| Bucket Hat [1] | 5120 |
+	| Memory Book [1] | 2121 |
+	| Coif [1] | 5093 |
+	| Ninja Suit [1] | 2359 |
+	| Orc Helm [1] | 5157 |
+	| Ancient Cape [1] | 2525 |
+	| Monk Hat [1] | 5158 |
+	| Golden Gear [1] | 5159 |
+	| Munak Hat [1] | 5167 |
+	| Pirate Bandana [1] | 5350 |
+	| Spiky Band [1] | 5161 |
+	| Majestic Goat [1] | 5160 |
+	| Corsair [1] | 5163 |
+	| Tiara [1] | 5164 |
+	| Crown [1] | 5165 |
+	| Sphinx Hat [1] | 5166 |
+	| Robe of Cast [1] | 2360 |
+	| Bow Thimble [1] | 2671 |
+	| Mage Coat [1] | 2372 |
+	| Holy Robe [1] | 2373 |
+	| Sacred Mission [1] | 2128 |
+	| Undershirt [1] | 2523 |
+	| Pantie [1] | 2371 |
+	| Hat of the Sun God [1] | 5353 |
 
 ??? note "Horror Toy Item List, click to expand"
-    Hot_Tee  
-	Sweet_Canape  
-	Vicious_Cookie_Card  
-	Evil_Dwelling_Box_Card  
-	Creepy_Demon_Card  
-	Malicious_Baby_Ghost_Card  
-	Dancing_Marionette_Card  
-	Abandoned_Teddy_Bear_Card  
-	Celine_Kimi_Card  
-	Decorated_Evil_Tree_Card  
-	B_Def_Potion   
-	B_Mdef_Potion  
+	| Gear Name   | Item Id  |
+    |-------------|----------|
+    | Hot Tea | 11563 |
+	| Sweet Canape | 11564 |
+	| Vicious Cookie Card | 31017 |
+	| Evil Dwelling Box Card | 31018 |
+	| Creepy Demon Card | 31019 |
+	| Malicious Baby Ghost Card | 31020 |
+	| Dancing Marionette Card | 31021 |
+	| Abandoned Teddy Bear Card | 31022 |
+	| Celine Kimi Card | 31023  |
+	| Decorated Evil Tree Card | 31016 |
+	| Big Defense Potion | 14542 |
+	| Big Magic Defense Potion | 14544 |
 
 
 

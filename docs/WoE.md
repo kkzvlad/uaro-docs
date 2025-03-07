@@ -31,9 +31,9 @@ On our server, WoE takes place every Saturday and lasts for one hour.<br>
 
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
-| Swanhild. Prontera | ![Prontera Castle](img/Prontera-Castle.png) | [![Kriemhild Room](img/Kriemhild-EmpRoom.png){width=240 height=384}](img/Kriemhild-EmpRoom.png) | ![Prontera Dun](img/Prontera-Dun.png) |
-| Holy Shadow. Payon |  ![Payon Castle](img/Holy%20Shadow-Payon.png) | [![Yesnelph Room](img/Yesnelph-EmpRoom.jpg){width=550 height=384}](img/Yesnelph-EmpRoom.jpg) | ![Payon Dun](img/Payon-Dun.png) |
-| Hohenschwangau. Aldebaran | ![Aldebaran Castle](img/Aldebaran-Castle.png) | [![Wuerzburg Room](img/Wuerzburg-EmpRoom.jpg){width=284 height=384}](img/Wuerzburg-EmpRoom.jpg) | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
+| Swanhild. Prontera | ![Prontera Castle](img/Prontera-Castle.png) | [![Swanhild Room](img/Swanhild-EmpRoom.png){width=500 height=400}](img/Swanhild-EmpRoom.png) | ![Prontera Dun](img/Prontera-Dun.png) |
+| Holy Shadow. Payon |  ![Payon Castle](img/Holy%20Shadow-Payon.png) | [![Holy Shadow Room](img/Holy%20Shadow-EmpRoom.png){width=550 height=384}](img/Holy%20Shadow-EmpRoom.png) | ![Payon Dun](img/Payon-Dun.png) |
+| Hohenschwangau. Aldebaran | ![Aldebaran Castle](img/Aldebaran-Castle.png) | [![Hohenschwangau Room](img/Hohenschwangau-EmpRoom.png){width=284 height=384}](img/Hohenschwangau-EmpRoom.png) | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
 
 !!! note
     Castle rotations happen periodically as well as total active castle numbers based on WoE population and is subject to change.
