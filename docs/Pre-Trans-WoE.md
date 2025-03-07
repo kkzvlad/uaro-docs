@@ -277,50 +277,50 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 	| Morrigane's Helm [0] | 5127 |
 	| Morrigane's Pendant [0] | 2651 |
 	| Doom Slayer [0] | 1370 |
-	| 2122 | Platinum_Shield  | 
-	| 2680 | Lesser_Elemental_Ring  | 
-	| 1270 | Drill_Katar  | 
-	| 2677 | Spiritual_Ring  | 
-	| 13404 | Platinum_Shotel  | 
-	| 1565 | Death_Note  | 
-	| 2730 | Morroc_Seal  | 
-	| 2732 | Morroc_Ring  | 
-	| 2731 | Morroc_Charm_Stone  | 
-	| 1631 | Holy_Stick  | 
-	| 1130 | Nagan  | 
-	| 2719 | Iron_Wrist  | 
-	| 1630 | Release_Of_Wish  | 
-	| 1573 | Ancient_Magic  | 
-	| 1572 | Principles_Of_Magic  | 
-	| 2517 | Valis_Manteau  | 
-	| 1810 | Claw_  | 
-	| 13405 | Curved_Sword  | 
-	| 2516 | Falcon_Robe  | 
-	| 2518 | Morpheuss_Shawl  | 
-	| 1618 | Survival_Rod_  | 
-	| 1271 | Blood_Tears  | 
-	| 2001 | Divine_Cross  | 
-	| 2353 | Odins_Blessing  | 
-	| 1643 | Dead_Tree_Cane  | 
-	| 2783 | Eyes_Stone_Ring  | 
-	| 1548 | Veteran_Hammer  | 
-	| 1384 | Veteran_Axe  | 
-	| 5122 | Magni_Cap  | 
-	| 2114 | Stone_Buckler  | 
-	| 1269 | Inverse_Scale  | 
-	| 5126 | Morpheuss_Hood  | 
-	| 5124 | Fricca_Circlet  | 
-	| 2648 | Morpheuss_Ring  | 
-	| 2649 | Morpheuss_Armlet  | 
-	| 5401 | Black_Glasses  | 
-	| 5325 | Robo_Eye  | 
-	| 5592 | Sigruns_Wing  | 
-	| 5170 | Feather_Beret  | 
-	| 5800 | Blush_Of_Groom  | 
-	| 5377 | Antique_Pipe  | 
-	| 5393 | Valentine_Hat  | 
-	| 5360 | Whikebain_Ears  | 
-	| 2319 | Glittering_Clothes  | 
+	| Platinum Shield [0] | 2122 |
+	| Lesser Elemental Ring [0] | 2680 |
+	| Drill Katar [1] | 1270 |
+	| Spiritual Ring [0] | 2677 |
+	| Platinum Shotel [1] | 13404 |
+	| Ledger of Death [2] | 1565 |
+	| Seal of Continental Guard [1] | 2730 |
+	| Death Loop [1] | 2732 |
+	| Rune Spellstone [1] | 2731 |
+	| Holy Stick [1] | 1631 |
+	| Nagan [0] | 1130 |
+	| Iron Wrist [0] | 2719 |
+	| Release of Wish [0] | 1630 |
+	| Ancient Magic [2]  | 1573 |
+	| Principles of Magic [2] | 1572 |
+	| Vali's Manteau [0] | 2517 |
+	| Claw [2] | 1810 |
+	| Curved Sword [2] | 13405 |
+	| Falcon Muffler [0] | 2516 |
+	| Morpheus's Shawl [0] | 2518 |
+	| Survivor's Rod [1] | 1618 |
+	| Blood Tears [2] | 1271 |
+	| Divine Cross [0] | 2001 |
+	| Odin's Blessing [1] | 2353 |
+	| Dead Tree Cane [0] | 1643 |
+	| Eye Stone Ring [1] | 2783 |
+	| Veteran Hammer [2] | 1548 |
+	| Veteran Axe [2] | 1384 |
+	| Magni's Cap [0] | 5122 |
+	| Stone Buckler [1] | 2114 |
+	| Inverse Scale [0] | 1269 |
+	| Morpheus's Hood [0] | 5126 |
+	| Fricca's Circlet [0] | 5124 |
+	| Morpheus's Ring [0] | 2648 |
+	| Morpheus's Bracelet [0] | 2649 |
+	| Black Frame Glasses [0] | 5401 |
+	| Robo Eye [0] | 5325 |
+	| Sigrun's Wings [0] | 5592 |
+	| Feather Beret [0] | 5170 |
+	| Blush of Groom [0] | 5800 |
+	| Gentleman's Pipe [0] | 5377 |
+	| Love Valentine's Hat [0] | 5393 |
+	| Hyuke's Black Cat Ears [0] | 5360 |
+	| Glittering Jacket [1] | 2319 |
 
 ??? note "BG Gear List, click to expand"
     13036 BF_Dagger1  
