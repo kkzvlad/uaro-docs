@@ -34,37 +34,39 @@ On our server, WoE takes place every Sunday and lasts for one hour.<br>
 
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
-| Gondul. Prontera | - | - | - |
-| Bright Arbor. Payon | - | - | - |
+| Skoegul. Prontera | ![Prontera Castle](img/Pre-Trans-WoE/Prontera-Skoegul.png) | [![Skoegul Room](img/Skoegul-EmpRoom.png){width=500 height=400}](img/Skoegul-EmpRoom.png) | ![Prontera Dun](img/Prontera-Dun.png) |
+| Rothenburg. Aldebaran | ![Aldebaran Castle](img/Pre-Trans-WoE/Aldebaran-Rothenburg.png) | [![Skoegul Room](img/Rothenburg-EmpRoom.png){width=500 height=400}](img/Rothenburg-EmpRoom.png) | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
 |
 !!! note
     Castle rotations happen periodically as well as total active castle numbers based on WoE population and is subject to change.
 
 ## Treasure Chest Drop
-<!--
+
 | Castle Name. Town  | Treasure Chest 1 | Treasure Chest 2 |
 |--------------------|------------------|------------------|
-|Kriemhild. Prontera  | ![7539](img/7539.gif) Poring Coin - 100%<br> ![607](img/607.gif) Yggdrasil Berry - 50%<br> ![608](img/608.gif) Yggdrasil Seed - 50%<br> ![2104](img/2104.gif) Buckler [1] - 40%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![616](img/616.gif) Old Card Album - 20n%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![12103](img/12103.gif) Bloody Branch - 10% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![984](img/984.gif) Oridecon - 48.5%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![2407](img/2407.gif) Crystal Pumps - 4.29%<br> ![2269](img/2269.gif) Romantic Flower - 2.5%<br> ![2317](img/2317.gif) Full Plate - 0.35%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
-|Yesnelph. Geffen| ![7539](img/7539.gif) Poring Coin - 100%<br> ![607](img/607.gif) Yggdrasil Berry - 50%<br> ![608](img/608.gif) Yggdrasil Seed - 50%<br> ![2404](img/2404.gif) Shoes [1] - 40%<br> ![2315](img/2315.gif) Chain Mail [1] - 40%<br> ![2104](img/2104.gif) Buckler [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![616](img/616.gif) Old Card Album - 10% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![984](img/984.gif) Oridecon - 48.5%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![2626](img/2626.gif) Rosary [1] - 3%<br> ![1472](img/1472.gif) Soul Staff - 1.67%<br> ![6919](img/6919.gif) Token Honor - 0.25%<br> ![2327](img/2327.gif) Holy Robe - 0.1%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
--->
+| Skoegul. Prontera | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![2124](img/2124.gif) Thorny Buckler [1] - 5%<br> ![2514](img/2514.gif) Pauldron [1] - 5%<br> ![2424](img/2424.gif) Tidal Shoes [1] - 5%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![2114](img/2114.gif) Stone Buckler [1] - 5%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![5022](img/5022.gif) Hat of the Sun God - 0.1%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+| Rothenburg. Aldebaran | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![1238](img/1238.gif) Zeny Knife - 9%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+
 ## Token System
 
-One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% base percentage. Current zone = Payon. When 3 of one type are collected, they can be redeemed for one of the packages of choice listed below via GM. These tokens are non guild-storable or tradeable and must be collected by your designated woe/guild lead.
+One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% base percentage. Current zone = Prontera. When 3 of one type are collected, they can be redeemed for one of the packages of choice listed below via GM. These tokens are non guild-storable or tradeable and must be collected by your designated woe/guild lead.
 
 | Package 1           | Package 2         | Package 3            |
 |---------------------|-------------------|----------------------|
-| ![12103](img/12103.gif) Bloody Branch - 50 | ![12103](img/12103.gif) Bloody Branch - 50 | ![12103](img/12103.gif) Bloody Branch - 50 |
-| ![616](img/616.gif) Old Card Album - 25 | ![616](img/616.gif) Old Card Album - 25 | ![616](img/616.gif) Old Card Album - 25 |
+| ![12103](img/12103.gif) Bloody Branch - 25 | ![12103](img/12103.gif) Bloody Branch - 50 | ![12103](img/12103.gif) Bloody Branch - 50 |
+| ![616](img/616.gif) Old Card Album - 15 | ![616](img/616.gif) Old Card Album - 25 | ![616](img/616.gif) Old Card Album - 25 |
 | ![616](img/616.gif) Mystical Card Album | AD Bottle Sets - 2k |![7619](img/7619.gif) Enriched Elunium - 40 |
 |                     |                   | ![7620](img/7620.gif) Enriched Oridecon - 40 |
 
 ## WoE Mechanics
 
-- 24 member cap within any given castle (Recall prioritizes top most rank downwards until number met) Extended, Baby and Trans classes will yield no movement
-- All MVP cards render no effect within WoE Castles (Still equipable, but have no effect)
-- If you equip an item on the block list, it will yield 0 effect within castles
-- Buffs received by Trans / Extended classes will automatically be removed upon entry into castle (Portal or E-Call)
+- 24 member cap within any given castle (Recall prioritizes top most rank downwards until number met) Extended, Baby and Trans classes will yield no movement  
+- All MVP cards render no effect within WoE Castles (Still equipable, but have no effect)  
+- If you equip an item on the block list, it will yield 0 effect within castles  
+- Buffs received by Trans / Extended classes will automatically be removed upon entry into castle (Portal or E-Call)  
 - Issuing FCP as a creator to members outside of castles prior to entrance into Pre-Trans WoE castles is strictly forbidden and will yield an account ban
+- @GuildHP is now toggleable through @settings (Allows you to view Guild member HP even outside of party)  
+- Guild Emblems must be visible and clearly identifiable to participate  
 
 ## Item Block Lists
 
@@ -73,124 +75,124 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 ??? note "Card List, click to expand"
     | Card        | Item Id  |
     |-------------|----------|
-    | Osiris_Card | 4144 |
-    | Baphomet_Card | 4147 |
-    | Mistress_Card | 4132 |
-    | Golden_Bug_Card | 4128 |
-    | Orc_Hero_Card | 4143 |
-    | Drake_Card | 4137 |
-    | Eddga_Card | 4123 |
-    | Maya_Card | 4146 |
-    | Moonlight_Flower_Card | 4131 |
-    | Pharaoh_Card | 4148 |
-    | Phreeoni_Card | 4121 | 
-    | Orc_Load_Card | 4135 |
-    | Knight_Windstorm_Card | 4318 | 
-    | Garm_Card | 4324 |
-    | Dark_Lord_Card | 4168 |
-    | Turtle_General_Card | 4305 |
-    | Lord_Of_Death_Card | 4276 |
-    | Dracula_Card | 4134 |
-    | Dark_Snake_Lord_Card | 4330 |
-    | Incant_Samurai_Card | 4263 |
-    | Amon_Ra_Card | 4236 |
-    | Tao_Gunka_Card | 4302 |
-    | Rsx_0806_Card | 4342 |
-    | Bacsojin_Card | 4372 |
-    | B_Seyren_Card | 4357 |
-    | B_Eremes_Card | 4359 |
-    | B_Harword_Card | 4361 |
-    | B_Magaleta_Card | 4363 | 
-    | B_Shecil_Card | 4367 |
-    | B_Katrinn_Card | 4365 | 
-    | B_Ygnizem_Card | 4352 |
-    | Apocalips_H_Card | 4374 |
-    | Lady_Tanee_Card | 4376 |
-    | Thanatos_Card | 4399 |
-    | Detale_Card | 4386 |
-    | Kiel_Card | 4403 |
-    | Randgris_Card | 4407 | 
-    | Gloom_Under_Night_Card | 4408 | 
-    | Ktullanux_Card | 4419 | 
-    | Atroce_Card | 4425 |
-    | Ifrit_Card | 4430 | 
-    | Fallen_Bishop_Card | 4441 |
-    | Berzebub_Card | 4145 | 
-    | CorruptionRoot_Card | 4603 |
-    | Amdarais_Card | 4601 | 
-    | Ghostring_Card | 4047 |
-    | Angeling_Card | 4054 |
-    | Deviling_Card | 4174 |
-    | Maya_Puple_Card | 4198 |
-    | Gemini_Card | 4354 |
-    | Erend_Card | 4349 |
-    | Noxious_Card | 4334 |
-    | Teddy_Bear_Card | 4340 |
-    | Seyren_Card | 4358 |
-    | Eremes_Card | 4360 |
-    | Harword_Card | 4362 |
-    | Magaleta_Card | 4364 |
-    | Katrinn_Card | 4366 |
-    | Shecil_Card | 4368 |
-    | Drosera_Card | 4421 |
-    | Galion_Card | 4423 |
-    | Roween_Card | 4422 |
-    | Stapo_Card | 4424 | 
-    | Metaling_Card | 4341 |
-    | Beholder_Card | 4356 |
-    | Vanberk_Card | 4411 |
-    | Isilla_Card | 4412 |
-    | Hodremlin_Card | 4413 |
-    | Seeker_Card | 4414 |
-    | Agav_Card | 4409 |
-    | Echio_Card | 4410 |
-    | Flying_Deleter_Card | 4158 |
-    | Mole_Card | 4343 |
-    | Deleter_Card | 4279 |
-    | Solace_Card | 4394 | 
-    | Deathword_Card | 4388 |
-    | Ancient_Mimic_Card | 4387 | 
-    | Shelter_Card | 4393 |
-    | Observation_Card | 4392 
-    | Tha_Dolor_Card | 4398 |
-    | Tha_Maero_Card | 4395 |
-    | Tha_Despero_Card | 4397 |
-    | Tha_Odium_Card | 4396 |
-    | Sword_Guardian_Card | 4427 |
-    | Bow_Guardian_Card | 4428 |
-    | Salamander_Card | 4429 |
-    | Kasa_Card | 4431 |
-    | Imp_Card | 4433 |
-    | Magmaring_Card | 4432 |
-    | Zombie_Slaughter_Card | 4435 |
-    | Ragged_Zombie_Card | 4436 |
-    | Hell_Poodle_Card | 4437 |
-    | Banshee_Card | 4438 |
-    | Flame_Skull_Card | 4439 |
-    | Necromancer_Card | 4440 |
-    | Alicel_Card | 4401 |
-    | Aliot_Card | 4402 |
-    | Aliza_Card | 4400 |
-    | Skogul_Card | 4404 |
-    | Frus_Card | 4405 |
-    | Cornus_Card | 4448 |
-    | Luciola_Vespa_Card | 4445 |
-    | Centipede_Card | 4447 |
-    | Hilsrion_Card | 4453 |
-    | Centipede_Larva_Card | 4452 | 
-    | Tatacho_Card | 4442 |
-    | Aqua_Elemental_Card | 4443 |
-    | Dark_Shadow_Card | 4449 |
-    | Draco_Card | 4444 |
-    | Ferus_Card | 4380 |
-    | Ferus__Card | 4381 |
-    | Acidus__Card | 4379 |
-    | Acidus_Card | 4378 |
-    | Hydro_Card | 4384 |
-    | Whikebain_Card | 4348 |
-    | Rawrel_Card | 4350 |
-    | Ygnizem_Card | 4346 |
-    | Kavac_Card | 4351 |
+    | Osiris Card | 4144 |
+    | Baphomet Card | 4147 |
+    | Mistress Card | 4132 |
+    | Golden Bug Card | 4128 |
+    | Orc Hero Card | 4143 |
+    | Drake Card | 4137 |
+    | Eddga Card | 4123 |
+    | Maya Card | 4146 |
+    | Moonlight Flower Card | 4131 |
+    | Pharaoh Card | 4148 |
+    | Phreeoni Card | 4121 | 
+    | Orc Load Card | 4135 |
+    | Knight Windstorm Card | 4318 | 
+    | Garm Card | 4324 |
+    | Dark Lord Card | 4168 |
+    | Turtle General Card | 4305 |
+    | Lord Of Death_Card | 4276 |
+    | Dracula Card | 4134 |
+    | Dark Snake Lord_Card | 4330 |
+    | Samurai Spector Card | 4263 |
+    | Amon Ra Card | 4236 |
+    | Tao Gunka Card | 4302 |
+    | Rsx-0806 Card | 4342 |
+    | White Lady Card | 4372 |
+    | Lord Knight Card | 4357 |
+    | Assassin Cross Card | 4359 |
+    | MasterSmith Card | 4361 |
+    | High Priest Card | 4363 | 
+    | Sniper Card | 4367 |
+    | High Wizard Card | 4365 | 
+    | General Egnigem Cenia Card | 4352 |
+    | Vesper Card | 4374 |
+    | Lady Tanee Card | 4376 |
+    | Memory of Thanatos Card | 4399 |
+    | Detardeurus Card | 4386 |
+    | Kiel-D-01 Card | 4403 |
+    | Randgris Card | 4407 | 
+    | Gloom Under Night Card | 4408 | 
+    | Ktullanux Card | 4419 | 
+    | Atroce Card | 4425 |
+    | Ifrit Card | 4430 | 
+    | Fallen Bishop Card | 4441 |
+    | Berzebub Card | 4145 | 
+    | Corruption Root Card | 4603 |
+    | Amdarais Card | 4601 | 
+    | Ghostring Card | 4047 |
+    | Angeling Card | 4054 |
+    | Deviling Card | 4174 |
+    | Maya Puple Card | 4198 |
+    | Gemini-S58 Card | 4354 |
+    | Errende Ebecee Card | 4349 |
+    | Noxious Card | 4334 |
+    | Teddy Bear Card | 4340 |
+    | Seyren Windsor Card | 4358 |
+    | Eremes Guile Card | 4360 |
+    | Howard Alt-Eisen Card | 4362 |
+    | Margaretha Sorin Card | 4364 |
+    | Kathryne Keyron Card | 4366 |
+    | Cecil Damon Card | 4368 |
+    | Drosera Card | 4421 |
+    | Galion Card | 4423 |
+    | Roween Card | 4422 |
+    | Stapo Card | 4424 | 
+    | Metaling Card | 4341 |
+    | Beholder Card | 4356 |
+    | Vanberk Card | 4411 |
+    | Isilla Card | 4412 |
+    | Hodremlin Card | 4413 |
+    | Seeker Card | 4414 |
+    | Agav Card | 4409 |
+    | Echio Card | 4410 |
+    | Sky Deleter Card | 4158 |
+    | Mole Card | 4343 |
+    | Earth Deleter Card | 4279 |
+    | Lady Solace Card | 4394 | 
+    | Death Word Card | 4388 |
+    | Ancient Mimic Card | 4387 | 
+    | Mistress of Shelter Card | 4393 |
+    | Dame of Sentinel Card | 4392 |
+    | Dolor of Thanatos Card| 4398 |
+    | Maero of Thanatos Card | 4395 |
+    | Despero of Thanatos Card | 4397 |
+    | Odium of Thanatos Card | 4396 |
+    | Sword Guardian Card | 4427 |
+    | Bow Guardian Card | 4428 |
+    | Salamander Card | 4429 |
+    | Kasa Card | 4431 |
+    | Imp Card | 4433 |
+    | Magmaring Card | 4432 |
+    | Zombie Slaughter Card | 4435 |
+    | Ragged Zombie Card | 4436 |
+    | Hell Poodle Card | 4437 |
+    | Banshee Card | 4438 |
+    | Flame Skull Card | 4439 |
+    | Necromancer Card | 4440 |
+    | Alicel Card | 4401 |
+    | Aliot Card | 4402 |
+    | Aliza Card | 4400 |
+    | Skogul Card | 4404 |
+    | Frus Card | 4405 |
+    | Cornus Card | 4448 |
+    | Luciola Vespa Card | 4445 |
+    | Centipede Card | 4447 |
+    | Hilsrion Card | 4453 |
+    | Centipede Larva Card | 4452 | 
+    | Tatacho Card | 4442 |
+    | Aqua Elemental Card | 4443 |
+    | Dark Shadow Card | 4449 |
+    | Draco Card | 4444 |
+    | Red Ferus Card | 4380 |
+    | Green Ferus Card | 4381 |
+    | Blue Acidus Card | 4379 |
+    | Gold Acidus Card | 4378 |
+    | Hydrolancer Card | 4384 |
+    | Wickebine Tres Card | 4348 |
+    | Laurell Weinder Card | 4350 |
+    | Egnigem Cenia Card | 4346 |
+    | Kavach Icarus Card | 4351 |
 
 
 ### Consumables Restrictions:
@@ -209,291 +211,301 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 	![12321](img/Pre-Trans-WoE/12321.gif) Arunafeltz Desert Sandwich<br>
 	![12319](img/Pre-Trans-WoE/12319.gif) Rune Strawberry Cake<br>
 	![12320](img/607.gif) Schwarzwald Pine Jubilee<br>
-     - All Stats Foods
+    - All Stats Foods
 
 ### Gear Restrictions:
 
 ??? note "Gear List, click to expand"
-    5374 L_Magestic_Goat  
-	2348 Wind_Sprits_Armor  
-	2349 Wind_Sprits_Armor_  
-	2344 Flame_Sprits_Armor  
-	2345 Flame_Sprits_Armor_  
-	2346 Water_Sprits_Armor  
-	2347 Water_Sprits_Armor_  
-	2350 Earth_Sprits_Armor  
-	2351 Earth_Sprits_Armor_  
-	2115 Valkyrjas_Shield  
-	2536 Skin_Of_Ventus  
-	1188 Veteran_Sword  
-	5481 Hermose_Cap  
-	1264 Various_Jur  
-	1284 Krishna  
-	1311 Vecer_Axe  
-	1647 Croce_Staff  
-	1561 Hardback  
-	1745 Falken_Blitz  
-	1646 Lacryma_Stick  
-	5138 Magic_Eyes  
-	1377 Hurricane_Fury  
-	1724 Dragon_Wing  
-	1170 Dragon_Slayer_  
-	1234 Moonlight_Sword  
-	1265 Bloody_Roar  
-	1368 Tomahawk  
-	13017 House_Auger_  
-	1560 Diary_Of_Great_Sage  
-	1723 Luna_Bow  
-	2343 Robe_Of_Casting  
-	1241 Cursed_Dagger  
-	1242 Counter_Dagger  
-	5123 Ulle_Cap  
-	1175 Altas_Weapon  
-	2531 Ulfhedinn  
-	1822 Combo_Battle_Glove  
-	1821 Seismic_Fist  
-	2422 High_Fashion_Sandals  
-	5172 Beret  
-	2366 Divine_Cloth  
-	1733 Gust_Bow  
-	1731 Frozen_Bow  
-	1730 Burning_Bow  
-	1732 Earth_Bow  
-	1734 Orc_Archer_Bow  
-	2418 Vidars_Boots  
-	2417 Fricco_Shoes  
-	2354 Goibnes_Armor  
-	2419 Goibnes_Combat_Boots  
-	5128 Goibnes_Helmet  
-	2520 Goibnes_Shoulder_Arms  
-	2515 Wing_Of_Eagle  
-	2655 Bloody_Iron_Ball  
-	2519 Morriganes_Manteau  
-	2650 Morriganes_Belt  
-	5127 Morriganes_Helm  
-	2651 Morriganes_Pendant  
-	1370 Doom_Slayer  
-	2122 Platinum_Shield  
-	2680 Lesser_Elemental_Ring  
-	1270 Drill_Katar  
-	2677 Spiritual_Ring  
-	13404 Platinum_Shotel  
-	1565 Death_Note  
-	2730 Morroc_Seal  
-	2732 Morroc_Ring  
-	2731 Morroc_Charm_Stone  
-	1631 Holy_Stick  
-	1130 Nagan  
-	2719 Iron_Wrist  
-	1630 Release_Of_Wish  
-	1573 Ancient_Magic  
-	1572 Principles_Of_Magic  
-	2517 Valis_Manteau  
-	1810 Claw_  
-	13405 Curved_Sword  
-	2516 Falcon_Robe  
-	2518 Morpheuss_Shawl  
-	1618 Survival_Rod_  
-	1271 Blood_Tears  
-	2001 Divine_Cross  
-	2353 Odins_Blessing  
-	1643 Dead_Tree_Cane  
-	2783 Eyes_Stone_Ring  
-	1548 Veteran_Hammer  
-	1384 Veteran_Axe  
-	5122 Magni_Cap  
-	2114 Stone_Buckler  
-	1269 Inverse_Scale  
-	5126 Morpheuss_Hood  
-	5124 Fricca_Circlet  
-	2648 Morpheuss_Ring  
-	2649 Morpheuss_Armlet  
-	5401 Black_Glasses  
-	5325 Robo_Eye  
-	5592 Sigruns_Wing  
-	5170 Feather_Beret  
-	5800 Blush_Of_Groom  
-	5377 Antique_Pipe  
-	5393 Valentine_Hat  
-	5360 Whikebain_Ears  
-	2319 Glittering_Clothes  
+	| Gear Name   | Item Id  |
+    |-------------|----------|
+    | Gigantic Majestic Goat [0] | 5374 |
+	| Aebecee's Raging Typhoon Armor [0] | 2348 |
+	| Aebecee's Raging Typhoon Armor [1] | 2349 |
+	| Lucius's Fierce Armor of Volcano [0] | 2344 |
+	| Lucius's Fierce Armor of Volcano [1] | 2345 |
+	| Saphien's Armor of Ocean [0] | 2346 |
+	| Saphien's Armor of Ocean [1] | 2347 |
+	| Claytos Cracking Earth Armor [0] | 2350 |
+	| Claytos Cracking Earth Armor [1] | 2351 | 
+	| Valkyrja's Shield [1] | 2115 |
+	| Skin of Ventus [1] | 2536 |
+	| Veteran Sword [1] | 1188 |
+	| Hermode Cap [1] | 5481 |
+	| Specialty Jur [4] | 1264 |
+	| Krishna [2] | 1284 |
+	| Vecer Axe [2] | 1311 |
+	| Croce Staff [1] | 1647 |
+	| Hardcover Book [1]  | 1561 |
+	| Falken Blitz [2]  | 1745 |
+	| La'cryma Stick [2]  | 1646 |
+	| Magic Eyes [0] | 5138 |
+	| Hurricane's Fury [1] | 1377 |
+	| Dragon Wing [0] | 1724 |
+	| Dragon Slayer [2] | 1180 |
+	| Moonlight Dagger [0] | 1234 |
+	| Bloody Roar [0] | 1265 |
+	| Tomahawk [0] | 1368 |
+	| Ice Pick [1] | 13017 |
+	| Sage's Diary [2] | 1560 |
+	| Luna Bow [2] | 1723 |
+	| Robe of Cast [0] | 2343 |
+	| Cursed Dagger [0] | 1241 |
+	| Dagger of Counter [0] | 1242 |
+	| Ulle's Cap [1] | 5123 |
+	| Atlas Weapon [1] | 1175 |
+	| Ulfhedinn [1] | 2531 |
+	| Combo Battle Glove [4] | 1822 |
+	| Seismic Fist [3] | 1821 |
+	| High Fashion Sandals [1] | 2422 |
+	| Beret [0] | 5172 |
+	| Divine Cloth [1] | 2366 |
+	| Gust Bow [1] | 1733 |
+	| Frozen Bow [1] | 1731 |
+	| Burning Bow [1] | 1730 |
+	| Earth Bow [1] | 1732 |
+	| Orc Archer Bow [0] | 1734 |
+	| Vidar's Boots [0] | 2418 |
+	| Fricco's Shoes [0] | 2417 |
+	| Goibne's Armor [0] | 2354 |
+	| Goibne's Greaves [0] | 2419 |
+	| Goibne's Helm [0] | 5128 |
+	| Goibne's Spaulders [0] | 2520 |
+	| Eagle Wing [1] | 2515 |
+	| Bloodied Shackle Ball [0] | 2655 |
+	| Morrigane's Manteau [0] | 2519 |
+	| Morrigane's Belt [0] | 2650 |
+	| Morrigane's Helm [0] | 5127 |
+	| Morrigane's Pendant [0] | 2651 |
+	| Doom Slayer [0] | 1370 |
+	| Platinum Shield [0] | 2122 |
+	| Lesser Elemental Ring [0] | 2680 |
+	| Drill Katar [1] | 1270 |
+	| Spiritual Ring [0] | 2677 |
+	| Platinum Shotel [1] | 13404 |
+	| Ledger of Death [2] | 1565 |
+	| Seal of Continental Guard [1] | 2730 |
+	| Death Loop [1] | 2732 |
+	| Rune Spellstone [1] | 2731 |
+	| Holy Stick [1] | 1631 |
+	| Nagan [0] | 1130 |
+	| Iron Wrist [0] | 2719 |
+	| Release of Wish [0] | 1630 |
+	| Ancient Magic [2]  | 1573 |
+	| Principles of Magic [2] | 1572 |
+	| Vali's Manteau [0] | 2517 |
+	| Claw [2] | 1810 |
+	| Curved Sword [2] | 13405 |
+	| Falcon Muffler [0] | 2516 |
+	| Morpheus's Shawl [0] | 2518 |
+	| Survivor's Rod [1] | 1618 |
+	| Blood Tears [2] | 1271 |
+	| Divine Cross [0] | 2001 |
+	| Odin's Blessing [1] | 2353 |
+	| Dead Tree Cane [0] | 1643 |
+	| Eye Stone Ring [1] | 2783 |
+	| Veteran Hammer [2] | 1548 |
+	| Veteran Axe [2] | 1384 |
+	| Magni's Cap [0] | 5122 |
+	| Stone Buckler [1] | 2114 |
+	| Inverse Scale [0] | 1269 |
+	| Morpheus's Hood [0] | 5126 |
+	| Fricca's Circlet [0] | 5124 |
+	| Morpheus's Ring [0] | 2648 |
+	| Morpheus's Bracelet [0] | 2649 |
+	| Black Frame Glasses [0] | 5401 |
+	| Robo Eye [0] | 5325 |
+	| Sigrun's Wings [0] | 5592 |
+	| Feather Beret [0] | 5170 |
+	| Blush of Groom [0] | 5800 |
+	| Gentleman's Pipe [0] | 5377 |
+	| Love Valentine's Hat [0] | 5393 |
+	| Hyuke's Black Cat Ears [0] | 5360 |
+	| Glittering Jacket [1] | 2319 |
 
 ??? note "BG Gear List, click to expand"
-    13036 BF_Dagger1  
-    13037 BF_Dagger2  
-    13411 BF_Sword2  
-    13410 BF_Sword1  
-    1183 BF_Two_Handed_Sword1  
-    1425 BF_Spear1  
-    1482 BF_Lance1  
-    1632 BF_Staff1  
-    1633 BF_Staff2  
-    1634 BF_Staff3  
-    1635 BF_Staff4  
-    1543 BF_Morning_Star2  
-    1542 BF_Morning_Star1  
-    1380 BF_Two_Handed_Axe2  
-    1379 BF_Two_Handed_Axe1  
-    13305 BF_Huuma_Shuriken1  
-    13306 BF_Huuma_Shuriken2  
-    1739 BF_Bow2  
-    1738 BF_Bow1  
-    1279 BF_Katar1  
-    1280 BF_Katar2  
-    1924 BF_Instrument2  
-    1923 BF_Instrument1  
-    1978 BF_Whip2  
-    1977 BF_Whip1  
-    1574 BF_Book1  
-    1575 BF_Book2  
-    1824 BF_Knuckle2  
-    1823 BF_Knuckle1  
-    13108 BF_Pistol1  
-    13171 BF_Rifle1  
-    13172 BF_Gatling_Gun1  
-    13173 BF_Shotgun1  
-    13174 BF_Launcher1  
-    2538 Commander_Manteau  
-    2539 Commander_Manteau_  
-    2540 Sheriff_Manteau  
-    2435 Battle_Greave  
-    2436 Combat_Boots  
-    2437 Battle_Boots  
-    2376 Assaulter_Plate  
-    2377 Elite_Engineer_Armor  
-    2378 Assassin_Robe  
-    2379 Warlock_Battle_Robe  
-    2380 Medic_Robe  
-    2381 Elite_Archer_Suit  
-    2382 Elite_Shooter_Suit  
-    2733 Medal_Gunner  
-    2720 Medal_Swordman  
-    2721 Medal_Thief  
-    2722 Medal_Acolyte  
-    2723 Medal_Mage  
-    2724 Medal_Archer  
-    2725 Medal_Merchant  
+	| Gear Name   | Item Id  |
+    |-------------|----------|
+    | Brave Assassin's Damascus [0] | 13036 |
+    | Valorous Assassin's Damascus [0] | 13037 |
+    | Brave Gladiator Blade [0] | 13411 |
+    | Valorous Gladiator Blade [0] | 13410 |
+    | Brave Assaulter's Katzbalger [0] | 1183 |
+    | Assaulter Spear [0] | 1425 |
+    | Assaulter Lance [0] | 1482 |
+    | Warlock's Magic Wand [0] | 1632 |
+    | Warlock's Battle Wand [0] | 1633 |
+    | Strong Recovery Wand [0] | 1634 |
+    | Speedy Recovery Wand [0] | 1635 |
+    | Brave Battlefield Morning Star [0] | 1543 |
+    | Valorous Battlefield Morning Star [0] | 1542 |
+    | Brave Insane Battle Axe [0] | 1380 |
+    | Valorous Insane Battle Axe [0] | 1379 |
+    | Brave Huuma Front Shuriken [0] | 13305 |
+    | Valorous Huuma Front Shuriken [0] | 13306 |
+    | Brave Battle CrossBow [0] | 1739 |
+    | Valorous Battle CrossBow [0] | 1738 |
+    | Brave Carnage Katar [0] | 1279 |
+    | Valorous Carnage Katar [0] | 1280 |
+    | Brave Battlefield Guitar [0] | 1924 |
+    | Valorous Battlefield Guitar [0] | 1923 |
+    | Brave Battle Lariat [0] | 1978 |
+    | Valorous Battle Lariat [0] | 1977 |
+    | Brave Battle Strategy Book [0] | 1574 |
+    | Valorous Battle Strategy Book [0]  | 1575 |
+    | Brave Battle Fist [0] | 1824 |
+    | Valorous Battle Fist [0] | 1823 |
+    | Soldier Revolver [0] | 13108 |
+    | Soldier Rifle [0] | 13171 |
+    | BF_Gatling_Gun1 | 13172 |
+    | Soldier Gatling Gun [0] | 13173 |
+    | Soldier Grenade Launcher [0] | 13174 |
+    | Captain's Manteau [1] | 2538 |
+    | Commander's Manteau [1] | 2539 |
+    | Sheriff's Manteau [1] | 2540 |
+    | Battle Greaves [1] | 2435 |
+    | Combat Boots [1] | 2436 |
+    | Battle Boots [1] | 2437 |
+    | Assaulter Plate [1] | 2376 |
+    | Elite Engineer Armor [1] | 2377 |
+    | Assassin Robe [1] | 2378 |
+    | Warlock_Battle_Robe | 2379 |
+    | Medic's Robe [1] | 2380 |
+    | Elite Archer Suit [1] | 2381 |
+    | Elite Shooter Suit [1] | 2382 | 
+    | Sheriff Badge [0] (Swordman) | 2733 |
+    | Medal of Honor [0] | 2720 |
+    | Medal of Honor [0] (Thief) | 2721 |
+    | Medal of Honor [0] (Acolyte) | 2722 |
+    | Medal of Honor [0] (Mage) | 2723 |
+    | Medal of Honor [0] (Archer) | 2724 |
+    | Medal of Honor [0] (Merchant) | 2725 |
 
 ??? note "Dimonka Headgear List, click to expand"
-    5548 Scarlet_Rose  
-	5289 Vanilmirth_Hat  
-	5518 L_Magestic_Goat2  
-	5664 Filir_Wing  
-	5358 Pecopeco_Wing_Ears  
-	5653 Darkness_Helm_J  
-	5283 Chick_Hat  
-	5463 Rainbow_Scarf  
-	18539 Skull_Cap  
-	5361 Gang_Scarf  
-	5529 Evils_Bone_Hat  
-	5373 Darkness_Helm  
-	5375 L_Orc_Hero_Helm  
-	5324 Little_Angel_Doll  
-	5378 Rabbit_Ear_Hat  
-	5574 Pencil_In_Mouth  
-	5403 Fish_In_Mouth  
-	5137 Alice_Doll  
-	5341 Claris_Doll_Hat  
-	5340 Deprotai_Doll_Hat  
-	5307 Carmen_Mirandas_Hat  
-	5211 Dress_Hat  
-	5208 Rideword_Hat  
-	5356 Pumpkin_Hat_H  
-	5305 Pirate_Dagger  
-	5409 New_Cowboy_Hat  
-	5381 Santa_Poring_Hat  
-	5515 Pisces_Crown  
-	5514 Pisces_Diadem  
-	5502 Necromencers_Hood  
-	5372 Drooping_White_Kitty  
-	5214 Moonlight_Flower_Hat  
-	5380 Fish_Head_Hat  
+	| Gear Name   | Item Id  |
+    |-------------|----------|
+    | Scarlet Rose [0] | 5548 |
+	| Vanilmirth Hat [0] | 5289 |
+	| Gigantic Majestic Goat [0] | 5518 |
+	| Filir's Pinions [0] | 5664 |
+	| Peco Ears [0] | 5358 |
+	| Darkness Helm [1] | 5653 |
+	| Chick Hat [0] | 5283 |
+	| Rainbow Scarf [0] | 5463 |
+	| Skull Cap [1] | 18539 |
+	| Gangster Scarf [0] | 5361 |
+	| Satanic Bone Helm [1] | 5529 |
+	| Dark Randgris Helm [1] | 5373 |
+	| Orc Hero Headdress [1] | 5375 |
+	| Little Angel Doll [0] | 5324 |
+	| Bunny Top Hat [0] | 5378 |
+	| Well-Chewed Pencil [0] | 5574 |
+	| Fish In Mouth [0] | 5403 |
+	| Alice Doll [1] | 5137 |
+	| Glaris Doll Hat [1] | 5341 |
+	| Defolty Doll Hat [1] | 5340 | 
+	| Carmen Miranda's Hat [0] | 5307 |
+	| Dress Hat [1] | 5211 |
+	| Rideword Hat [1] | 5208 |
+	| Festival Pumpkin Hat [0] | 5356 |
+	| Pirate Dagger [0] | 5305 |
+	| Purple Cowboy Hat [1] | 5409 |
+	| Santa Poring Hat [1] | 5381 |
+	| Pisces Crown [0] | 5515 |
+	| Pisces Diadem [0] | 5514 |
+	| Necromancer's Hood [0] | 5502 |
+	| Koneko Hat [0] | 5372 |
+	| Moonlight Flower Hat [0] | 5214 |
+	| Fish Head Hat [0] | 5380 |
 
 ??? note "Slotted item blocks List, click to expand"
-    1568 Book_Of_Billows_  
-	1569 Book_Of_Mother_Earth_  
-	1570 Book_Of_Blazing_Sun_  
-	1571 Book_Of_Gust_Of_Wind_  
-	1309 Orcish_Axe_  
-	1538 Spike_  
-	1726 Hunter_Bow_  
-	1171 Zweihander_  
-	1149 Flamberge_  
-	1266 Infiltrator_  
-	1727 Balistar_  
-	1532 Stunner_  
-	1816 Berserk_  
-	1172 Claymore_  
-	13030 Dragon_Killer_  
-	1275 Katar_Of_Cold_Icicle_  
-	1276 Katar_Of_Thornbush_  
-	1277 Katar_Of_Raging_Blaze_  
-	1278 Katar_Of_Piercing_Wind_  
-	1539 Golden_Mace_  
-	1922 Oriental_Lute_  
-	1955 Wire_  
-	1976 Queens_Whip_  
-	1479 Spectral_Spear_  
-	1480 Gae_Bolg_  
-	1178 Schweizersabel_  
-	1418 Gungnir_  
-	13016 Poison_Knife_  
-	13018 Sucsamad_  
-	13019 Ginnungagap_  
-	13400 Cutlas_  
-	1481 Zephyrus_  
-	13031 Sword_Breaker_  
-	13032 Mail_Breaker_  
-	1180 Dragon_Slayer_  
-	13033 Assasin_Dagger_  
-	1540 Grand_Cross_  
-	1179 Executioner__  
-	5347 Ph_D_Hat_  
-	5348 Big_Sis_Ribbon_  
-	5349 Boys_Cap_  
-	5168 Bongun_Hat_  
-	2715 Skul_Ring_  
-	2432 Spiky_Heel_  
-	2412 Grave_  
-	2514 Pauldron  
-	5120 Fedora_  
-	2121 Memorize_Book_  
-	5093 Blue_Coif_  
-	2359 Ninja_Suit_  
-	5157 Viking_Helm_  
-	2525 Cape_Of_Ancient_Lord_  
-	5158 Holy_Bonnet_  
-	5159 Golden_Gear_  
-	5167 Munak_Turban_  
-	5350 Pirate_Bandana_  
-	5161 Sharp_Gear_  
-	5160 Magestic_Goat_  
-	5163 Corsair_  
-	5164 Tiara_  
-	5165 Crown_  
-	5166 Spinx_Helm_  
-	2360 Robe_Of_Casting_  
-	2671 Thimble_Of_Archer_  
-	2372 Mage_Coat_  
-	2373 Holy_Robe_  
-	2128 Herald_Of_GOD_  
-	2523 Undershirt_  
-	2371 G_Strings_  
-	5353 Helm_Of_Sun_  
+	| Gear Name   | Item Id  |
+    |-------------|----------|
+    | Book of Billows [3] | 1568 |
+	| Book of Mother Earth [3] | 1569 |
+	| Book of Blazing Sun [3] | 1570 |
+	| Book of Gust of Wind [3] | 1571 |
+	| Orcish Axe [4] | 1309 |
+	| Spike [2] | 1538 |
+	| Hunter Bow [1] | 1726 |
+	| Zweihander [2] | 1171 |
+	| Flamberge [2] | 1149 |
+	| Infiltrator [1] | 1266 |
+	| Ballista [1] | 1727 |
+	| Stunner [2] | 1532 |
+	| Berserk [1] | 1816 |
+	| Claymore [2] | 1172 |
+	| Dragon Killer [2] | 13030 |
+	| Katar of Frozen Icicle [3] | 1275 |
+	| Katar of Quaking [3] | 1276 |
+	| Katar of Raging Blaze [3] | 1277 |
+	| Katar of Piercing Wind [3] | 1278 |
+	| Golden Mace [2] | 1539 |
+	| Oriental Lute [2] | 1922 |
+	| Wire Whip [3] | 1955 |
+	| Queen's Whip [2] | 1976 |
+	| Spectral Spear [1] | 1479 |
+	| Gae Bolg [2] | 1480 |
+	| Schweizersabel [2] | 1178 |
+	| Gungnir [2] | 1418 |
+	| Poison Knife [2] | 13016 |
+	| Sucsamad [1] | 13018 |
+	| Ginnungagap [1] | 13019 |
+	| Cutlus [1] | 13400 |
+	| Zephyrus [3] | 1481 |
+	| Swordbreaker [3] | 13031 |
+	| Mailbreaker [3] | 13032 |
+	| Dragon Slayer [2] | 1180 |
+	| Assassin Dagger [1] | 13033 |
+	| Grand Cross [1] | 1540 |
+	| Executioner [1] | 1179 |
+	| Ph.D Hat [1] | 5347 |
+	| Big Ribbon [1] | 5348 |
+	| Boy's Cap [1] | 5349 |
+	| Bongun Hat [1] | 5168 |
+	| Skull Ring [1] | 2715 |
+	| High Heels [1] | 2432 |
+	| Greaves [1] | 2412 |
+	| Pauldron [1] | 2514 |
+	| Bucket Hat [1] | 5120 |
+	| Memory Book [1] | 2121 |
+	| Coif [1] | 5093 |
+	| Ninja Suit [1] | 2359 |
+	| Orc Helm [1] | 5157 |
+	| Ancient Cape [1] | 2525 |
+	| Monk Hat [1] | 5158 |
+	| Golden Gear [1] | 5159 |
+	| Munak Hat [1] | 5167 |
+	| Pirate Bandana [1] | 5350 |
+	| Spiky Band [1] | 5161 |
+	| Majestic Goat [1] | 5160 |
+	| Corsair [1] | 5163 |
+	| Tiara [1] | 5164 |
+	| Crown [1] | 5165 |
+	| Sphinx Hat [1] | 5166 |
+	| Robe of Cast [1] | 2360 |
+	| Bow Thimble [1] | 2671 |
+	| Mage Coat [1] | 2372 |
+	| Holy Robe [1] | 2373 |
+	| Sacred Mission [1] | 2128 |
+	| Undershirt [1] | 2523 |
+	| Pantie [1] | 2371 |
+	| Hat of the Sun God [1] | 5353 |
 
 ??? note "Horror Toy Item List, click to expand"
-    Hot_Tee  
-	Sweet_Canape  
-	Vicious_Cookie_Card  
-	Evil_Dwelling_Box_Card  
-	Creepy_Demon_Card  
-	Malicious_Baby_Ghost_Card  
-	Dancing_Marionette_Card  
-	Abandoned_Teddy_Bear_Card  
-	Celine_Kimi_Card  
-	Decorated_Evil_Tree_Card  
-	B_Def_Potion   
-	B_Mdef_Potion  
+	| Gear Name   | Item Id  |
+    |-------------|----------|
+    | Hot Tea | 11563 |
+	| Sweet Canape | 11564 |
+	| Vicious Cookie Card | 31017 |
+	| Evil Dwelling Box Card | 31018 |
+	| Creepy Demon Card | 31019 |
+	| Malicious Baby Ghost Card | 31020 |
+	| Dancing Marionette Card | 31021 |
+	| Abandoned Teddy Bear Card | 31022 |
+	| Celine Kimi Card | 31023  |
+	| Decorated Evil Tree Card | 31016 |
+	| Big Defense Potion | 14542 |
+	| Big Magic Defense Potion | 14544 |
 
 
 
