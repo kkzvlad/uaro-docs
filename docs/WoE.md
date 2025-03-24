@@ -22,11 +22,11 @@ Owning a castle provides several benefits for the guild. First, it unlocks acces
 
 | Town       | Coordinates          |
 |------------|-----------------------|
-| Prontera ||
-| Alberta ||
-| Morocc ||
-| Aldebaran ||
-| Gonryun ||
+| Prontera | /navi prontera 217/178 |
+| Alberta | /navi alberta 58/248 |
+| Morocc | /navi morocc 212/72 |
+| Aldebaran | /navi aldebaran 207/66 |
+| Gonryun | /navi gonryun 118/140 |
 
 ## Schedule
 
@@ -42,9 +42,10 @@ On our server, WoE takes place every Saturday and lasts for one hour.<br>
 
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
-| Himinn. Yuno | ![Prontera Castle](img/Prontera-Castle.png) | [![Swanhild Room](img/Swanhild-EmpRoom.png){width=500 height=400}](img/Swanhild-EmpRoom.png) | ![Prontera Dun](img/Prontera-Dun.png) |
-| Holy Shadow. Payon |  ![Payon Castle](img/Holy%20Shadow-Payon.png) | [![Holy Shadow Room](img/Holy%20Shadow-EmpRoom.png){width=550 height=384}](img/Holy%20Shadow-EmpRoom.png) | ![Payon Dun](img/Payon-Dun.png) |
-| Bergel. Geffen | ![Aldebaran Castle](img/Aldebaran-Castle.png) | [![Hohenschwangau Room](img/Hohenschwangau-EmpRoom.png){width=284 height=384}](img/Hohenschwangau-EmpRoom.png) | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
+| Himinn. Yuno | ![Yuno Castle](img/Himinn-Yuno.png) | [![Himinn Room](img/Himinn-Yuno-EmpRoom.png){width=500 height=400}](img/Himinn-Yuno-EmpRoom.png) | ![Prontera Dun](img/Yuno-Dun.png) |
+| Bergel. Geffen | ![Geffen Castle](img/Bergel-Geffen.png) | [![Bergel Room](img/Bergel-Geffen-EmpRoom.png){width=284 height=384}](img/Bergel-Geffen-EmpRoom.png) | ![Yuno Dun](img/Geffen-Dun.png) |
+<!-- | Holy Shadow. Payon |  ![Payon Castle](img/Holy%20Shadow-Payon.png) | [![Holy Shadow Room](img/Holy%20Shadow-EmpRoom.png){width=550 height=384}](img/Holy%20Shadow-EmpRoom.png) | ![Payon Dun](img/Payon-Dun.png) | -->
+
 
 !!! note
     Castle rotations happen periodically as well as total active castle numbers based on WoE population and is subject to change.
@@ -53,9 +54,11 @@ On our server, WoE takes place every Saturday and lasts for one hour.<br>
 
 | Castle Name. Town  | Treasure Chest 1 | Treasure Chest 2 |
 |--------------------|------------------|------------------|
-| Swanhild. Prontera | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![2404](img/2404.gif) Shoes [1] - 40%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![616](img/616.gif) Old Card Album - 20%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![2406](img/2406.gif) Boots [1] - 40%<br> ![1142-1](img/1142-1.gif) Jeweled Sword - 10%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+| Himinn. Yuno | ![7539](img/7539.gif) Poring Coin - 100%<br> ![608](img/608.gif) Yggdrasil Berry - 100%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![12103](img/12103.gif) Bloody Branch - 20%<br> ![7620](img/7620.gif) Enriched Oridecon - 25%<br> ![2624](img/2624.gif) Glove [1] - 2.3%<br> ![2286](img/2286.gif) Elven Ears - 1.25%<br> ![616](img/616.gif) Mystical Card Album - 0.01% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![6684](img/6684.gif) Heroic Token - 0.25%<br> ![2114](img/2114.gif) Stone Buckler [1] - 5%<br> ![2528](img/2528.gif) Wool Scarf [1] - 5%<br> ![2353](img/2353.gif) Odin Blessing [1] - 5%<br> ![7619](img/7619.gif) Enriched Elunium - 25%<br>  ![616](img/616.gif) Old Card Album - 50% |
+| Bergel. Geffen | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2404](img/2404.gif) Shoes [1] - 40%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![2104](img/2104.gif) Buckler [1] - 40%<br> ![616](img/616.gif) Old Card Album - 20%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![1143](img/1143-1.gif) Gaia Sword - 2.5%<br> ![1237](img/1237.gif) Grimtooth - 1.88%<br> ![2235](img/2235.gif) Crown - 0.12%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+<!-- | Swanhild. Prontera | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![2404](img/2404.gif) Shoes [1] - 40%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![616](img/616.gif) Old Card Album - 20%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![2406](img/2406.gif) Boots [1] - 40%<br> ![1142-1](img/1142-1.gif) Jeweled Sword - 10%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
 | Holy Shadow. Payon | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2404](img/2404.gif) Shoes [1] - 40%<br> ![2315](img/2315.gif) Chain Mail [1] - 40%<br> ![2104](img/2104.gif) Buckler [1] - 40%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![2624](img/2624.gif) Glove [1] - 1%<br> ![2286](img/2286.gif) Elven Ears - 1%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
-| Hohenschwangau. Aldebaran | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![2404](img/2404.gif) Shoes [1] - 50%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2104](img/2104.gif) Buckler [1] - 40%<br> ![5022](img/5022.gif) Hat of the Sun God - 0.1%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+| Hohenschwangau. Aldebaran | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![2404](img/2404.gif) Shoes [1] - 50%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2104](img/2104.gif) Buckler [1] - 40%<br> ![5022](img/5022.gif) Hat of the Sun God - 0.1%<br> ![616](img/616.gif) Mystical Card Album - 0.01% | -->
 
 <!-- ## Token System
 
