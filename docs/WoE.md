@@ -8,14 +8,25 @@ hide:
 ## Contents
 
 1. [Overview](#overview)
-2. [Schedule](#schedule)
-3. [Treasure Chest Drop](#treasure-chest-drop)
-4. [WoE Mechanics](#woe-mechanics)
+2. [WoE Signs](#woe-signs)
+3. [Schedule](#schedule)
+4. [Treasure Chest Drop](#treasure-chest-drop)
+5. [WoE Mechanics](#woe-mechanics)
 
 ## Overview
 
 The War of Emperium is a game feature where guilds compete to conquer a castle, which then becomes the guild’s headquarters and grants various bonuses and advantages.
 Owning a castle provides several benefits for the guild. First, it unlocks access to a special Guild Dungeon available to all guild members. These dungeons contain powerful monsters that are often not found in the regular world. Additionally, every night, 4 or more treasure chests (depending on the castle’s economy level) appear in the castle, offering valuable items and equipment. Owning a castle raises the guild's prestige.
+
+## WoE Signs
+
+| Town       | Coordinates          |
+|------------|-----------------------|
+| Prontera ||
+| Alberta ||
+| Morocc ||
+| Aldebaran ||
+| Gonryun ||
 
 ## Schedule
 
@@ -31,9 +42,9 @@ On our server, WoE takes place every Saturday and lasts for one hour.<br>
 
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
-| Swanhild. Prontera | ![Prontera Castle](img/Prontera-Castle.png) | [![Swanhild Room](img/Swanhild-EmpRoom.png){width=500 height=400}](img/Swanhild-EmpRoom.png) | ![Prontera Dun](img/Prontera-Dun.png) |
+| Himinn. Yuno | ![Prontera Castle](img/Prontera-Castle.png) | [![Swanhild Room](img/Swanhild-EmpRoom.png){width=500 height=400}](img/Swanhild-EmpRoom.png) | ![Prontera Dun](img/Prontera-Dun.png) |
 | Holy Shadow. Payon |  ![Payon Castle](img/Holy%20Shadow-Payon.png) | [![Holy Shadow Room](img/Holy%20Shadow-EmpRoom.png){width=550 height=384}](img/Holy%20Shadow-EmpRoom.png) | ![Payon Dun](img/Payon-Dun.png) |
-| Hohenschwangau. Aldebaran | ![Aldebaran Castle](img/Aldebaran-Castle.png) | [![Hohenschwangau Room](img/Hohenschwangau-EmpRoom.png){width=284 height=384}](img/Hohenschwangau-EmpRoom.png) | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
+| Bergel. Geffen | ![Aldebaran Castle](img/Aldebaran-Castle.png) | [![Hohenschwangau Room](img/Hohenschwangau-EmpRoom.png){width=284 height=384}](img/Hohenschwangau-EmpRoom.png) | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
 
 !!! note
     Castle rotations happen periodically as well as total active castle numbers based on WoE population and is subject to change.
