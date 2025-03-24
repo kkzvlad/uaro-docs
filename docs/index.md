@@ -14,6 +14,21 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 ---
 
 !!! patchnotes
+    === "March 21"
+
+        <div class="badge">March 21</div>
+
+        ```markdown
+        - WoE castles updated; Skoegul chest & trap mechanics adjusted for Pre-Trans.
+        - New Monster Race & Lottery events introduced.
+        - Battlegrounds improved: item fixes, mechanic tweaks, bug squashes.
+        - Class changes for Smiths & Ninjas; Kiel ASPD pet bonus fixed.
+        - Control Panel now fully functional; QoL and bug fixes applied.
+        ```
+
+        [:octicons-arrow-right-24: Full Patch Notes](patches21032025.md)  
+        [:octicons-arrow-right-24: All Patch Notes](All-patch-notes.md)
+
     === "February 27"
 
         <div class="badge">February 27</div>
