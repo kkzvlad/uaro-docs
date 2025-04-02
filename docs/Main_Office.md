@@ -28,3 +28,4 @@ So come on down to Main Office and see what we have to offer! We're here to help
 | ![Dyeinger](img/2_M_DYEINGER.gif) | Visit our talented **Stylist** and let them work their magic on your hairstyle and hair color. Express your individuality with a new look that's all your own. |
 | ![Reset Girl](img/4_F_ACOLYTE.gif) | Our friendly **Reset Girl** NPC can help you reallocate your stats or skills for a small fee. The cost depends on your character base level, with higher levels requiring a slightly higher fee. |
 | ![Platinum Skill](img/1_F_01.gif) | **Platinum Skill** NPC can give you the special skills available to your job. |
+| ![Lottery](img/1_F_ORIENT_02.gif) | **Lottery** NPC can give you opportunity to participate in a daily lottery and win a **500kk jackpot.** [Details here!](Lottery-NPC.md) |
