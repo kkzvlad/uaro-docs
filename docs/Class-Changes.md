@@ -28,7 +28,7 @@ Fixed an issue where Sage's Free Cast increased ASPD instead of decreasing it at
 Soul Breaker's range increased to 9 cells.
 The Grand Cross skill can now be plagiarized.
 
-6 December 2024
+6 December 2024<br>
 ## 🎯 **Extended Class Skill Reworks**
 
 ### **Gunslinger**
@@ -59,30 +59,30 @@ The Grand Cross skill can now be plagiarized.
 
 
 
-24 July 2024
+24 July 2024<br>
 Lif Homunculus has been reverted to the classic version where Mental Change resets upon respawning the homunculus.
 Ninja can now equip Magic Bible Vol. 1.
 Soul Linker can now equip Staff of Darkness.
 
-04 July 2024
+04 July 2024<br>
 Dragon Fire Formation no longer works under Land Protector.
 
 
-15 June 2024
+15 June 2024<br>
 Taekwon can now equip Swordman Medal of Honor.
 Redemptio cooldown reduced from 10 minutes to 3 minutes.
 
-16 May 2024
+16 May 2024<br>
 Soul Linkers can again perform their skills.
 Skills for few classes no longer show up under the "Etc" Tab.
 High Jump and Running Soul Linker skills now work within Battlegrounds.
 Aspersio can now be used on members outside of your party
 
-11 May 2024
+11 May 2024<br>
 The new skill, Screenshot 2024-05-11 at 00.24.21.png Twilight Alchemy 4, is now available under Alchemist Link. This skill allows you to brew 200 Blue Potions simultaneously.
 Made tweaks to the timings and positioning for certain skills, which theoretically should positively impact the effectiveness of Ninja's Crimson Fire Formation skill.
 
-19 February 2024
+19 February 2024<br>
 Changed the animation delay to match official behavior. skill_amotion_leniency now defaults to 0 which offers a more accurate official behavior.
 Changed Poisoning Weapon to show the type of poison used when applied
 Added the missing EXP rewards for the Amatsu Dungeon quest.
@@ -129,12 +129,12 @@ Removed an incorrect afterCastActDelay from Sacrifice
 Removed the fixed target from some combo skills. Monk skills act on the current target even if the last skill was used on a different enemy.
 
 
-04 January 2024
+04 January 2024<br>
 Bowling Bash Gutterlines Removed
 The Gutterlines in Bowling Bash have been successfully removed.
 
 
-30 November 2023
+30 November 2023<br>
 Fixes in some items, they can now be equipped by some extended classes such as Taekwon, Gunslinger, Ninja, Soul Linker, and Star Gladiator:
 Sprint Mail
 Sprint Ring
@@ -146,14 +146,14 @@ Shield of Naga
 Vesper Cores
 
 
-17 November 2023
+17 November 2023<br>
 Bowling Bash's range increased to 2 cells to reduce the range-mob bug.
 Fixed an issue where Sage's Free Cast increased ASPD instead of decreasing it at skill levels lower than 10.
 Soul Breaker's range increased to 9 cells.
 The Grand Cross skill can now be plagiarized
 
 
-15 September 2023
+15 September 2023<br>
 Brandish Spear
 
 KnockBackTiles: 1.
@@ -202,7 +202,7 @@ Magic Bible Vol
 
 
 
-21 July 2023
+21 July 2023<br>
 Grand Cross
 
 With the new changes, when mobs are gathered in the same cell, each one will feel the full force of every hit.
@@ -229,12 +229,12 @@ Songs additional effect
 There's an additional effect that lasts for 20 seconds after player leave song zone.
 
 
-03 July 2023
+03 July 2023<br>
 Missing Icons for some skills has been added.
 Longing for Freedom skill now appears in a right tab.
 Wand of Hermode skill no longer ensemble skill type and can be used in solo during WoE time.
 
-30.04.2023
+30.04.2023<br>
 Skill Fixes
 Screenshot 2023-04-30 at 21.02.29.png The Back Stab skill has been adjusted and can now be executed from any direction.
 The behaviour of various types of Reflect Skills types has been fixed:
