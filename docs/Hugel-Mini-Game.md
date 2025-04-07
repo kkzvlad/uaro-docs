@@ -1,4 +1,5 @@
 ## 🏇 **Monster Race**
+![Monster Race Logo](img/Hugel-Mini-Games/Monster-Race-Treck.png)
 
 🐾 Monster Races — Hugel's Wildest Betting Game!
 
