@@ -77,27 +77,119 @@ There’s a bunch of items you can exchange them for right in Hugel — from use
 | 1000 Medals| ![2349](img/Hugel-Mini-Games/2349.png) Aebecee's Raging Typhoon Armor [1]<br> ![2351](img/Hugel-Mini-Games/2351.png) Claytos Cracking Earth Armor [1]<br> ![2345](img/Hugel-Mini-Games/2345.png) Lucius's Fierce Armor of Volcano [1]<br> ![2347](img/Hugel-Mini-Games/2347.png) Saphien's Armor of Ocean [1] |
 
 ??? note "Dagger"
+    Ginnungagap
+    Grimtooth
+    Dragon Killer
+    Mail Breaker
+    Ice Pick
+    Bazerald
+    Sword Breaker
+    Sucsamad
+    Kitchen Knife
+    Azoth
+    Exorciser
+    Assassin Dagger
+    Moonlight Dagger
+    Weeder Knife
+    Cursed Dagger
+    Dagger of Counter
+    Combat Knife
+    Fortune Sword
 
 ??? note "One Handed Sword"
+    Nagan
+    Immaterial Sword
+    Mysteltainn
+    Byeollungum
+    Star Dust Blade
+    Caesar's Sword
+    Ice Falchion
+    Excalibur
+    Edge
+    Cutlus
+    Solar Sword
+    Tirfing
+    Fireblend
 
 ??? note "Two Handed Sword"
+    Dragon Slayer
+    Masamune
+    Muramasa
+    Schweizersabel
+    Executioner
+    Zweihander
+    Katzbalger
 
-Axe
+??? note "Axe"
+    Great Axe
+    Guillotine
+    Light Epsilon
+    Bloody Axe
+    Sabbath
+    Slaughter
+    Cleaver
+    Tomahawk
 
-Mace
+??? note "Mace"
+    Golden Mace
+    Grand Cross
+    Long Mace
+    Spike
+    Slash
+    Quadrille
 
-Bow
+??? note "Bow"
+    Roguemaster's Bow
+    Dragon Wing
+    Rudra's Bow
+    Ballista
 
-Staff
+??? note "Staff"
+    Wing Staff
+    Wizardry Staff
 
-Book
+??? note "Book"
+    ![1559](img/Hugel-Mini-Games/1559.gif) Legacy of Dragon
+    ![1557](img/Hugel-Mini-Games/1557.gif) Book of the Apocalypse
+    ![1558](img/Hugel-Mini-Games/1558.gif) Girl's Diary
+    ![1561](img/Hugel-Mini-Games/1561.gif) Hardcover Book
 
-Spear
+??? note "Spear"
+    ![1474](img/Hugel-Mini-Games/1474.gif) Gae Bolg
+    ![1414](img/Hugel-Mini-Games/1414.gif) Gelerdria
+    ![1413](img/Hugel-Mini-Games/1413.gif) Gungnir
+    ![1415](img/Hugel-Mini-Games/1415.gif) Skewer
+    ![1469](img/Hugel-Mini-Games/1469.gif) Longinus's Spear
+    ![1470](img/Hugel-Mini-Games/1470.gif) Brionac
+    ![1467](img/Hugel-Mini-Games/1467.gif) Bill Guisarme
+    ![1468](img/Hugel-Mini-Games/1468.gif) Zephyrus
+    ![1466](img/Hugel-Mini-Games/1466.gif) Crescent Scythe
+    ![1416](img/Hugel-Mini-Games/1416.gif) Tjungkuletti
+    ![1471](img/Hugel-Mini-Games/1471.gif) Hellfire
 
-Katar
+??? note "Katar"
+    ![1261](img/Hugel-Mini-Games/1261.gif) Infiltrator
+    ![1265](img/Hugel-Mini-Games/1265.gif) Bloody Roar
+    ![1263](img/Hugel-Mini-Games/1263.gif) Unholy Touch
 
-Knuckle
+??? note "Knuckle"
+    ![1815](img/Hugel-Mini-Games/1815.gif) Hatii Claw
+    ![1814](img/Hugel-Mini-Games/1814.gif) Berserk
+    ![1813](img/Hugel-Mini-Games/1813.gif) Kaiser Knuckle
 
-Whip
+??? note "Whip"
+    ![1962](img/Hugel-Mini-Games/1962.gif) Lariat Whip
+    ![1963](img/Hugel-Mini-Games/1963.gif) Rapture Rose
+    ![1969](img/Hugel-Mini-Games/1969.gif) Blade Whip
+    ![1964](img/Hugel-Mini-Games/1964.gif) Chemeti Whip
+    ![1970](img/Hugel-Mini-Games/1970.gif)Queen's Whip
 
-Musical Instrument
+??? note "Musical Instrument"
+    ![1918](img/Hugel-Mini-Games/1918.gif) Oriental Lute
+    ![1913](img/Hugel-Mini-Games/1913.gif) Electric Guitar
+
+## Experience
+
+??? note "Base"
+
+??? note "Job"
