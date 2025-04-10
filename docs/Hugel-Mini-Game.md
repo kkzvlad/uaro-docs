@@ -79,7 +79,7 @@ There’s a bunch of items you can exchange them for right in Hugel — from use
 
 **All weapon cost 1500 Prize Medals**  
 
-??? note "Dagger"
+??? note "Dagger"  
     ![13002](img/Hugel-Mini-Games/13002.gif) Ginnungagap  
     ![1237](img/Hugel-Mini-Games/1237.gif) Grimtooth  
     ![13001](img/Hugel-Mini-Games/13001.gif) Dragon Killer  
@@ -99,7 +99,7 @@ There’s a bunch of items you can exchange them for right in Hugel — from use
     ![1228](img/Hugel-Mini-Games/1228.gif) Combat Knife  
     ![1223](img/Hugel-Mini-Games/1223.gif) Fortune Sword  
 
-??? note "One Handed Sword"
+??? note "One Handed Sword"  
     ![1130](img/Hugel-Mini-Games/1130.gif) Nagan  
     ![1141](img/Hugel-Mini-Games/1141.gif) Immaterial Sword  
     ![1138](img/Hugel-Mini-Games/1138.gif) Mysteltainn  
@@ -114,7 +114,7 @@ There’s a bunch of items you can exchange them for right in Hugel — from use
     ![1139](img/Hugel-Mini-Games/1139.gif) Tirfing  
     ![1133](img/Hugel-Mini-Games/1133.gif) Fireblend  
 
-??? note "Two Handed Sword"
+??? note "Two Handed Sword"  
     ![1166](img/Hugel-Mini-Games/1166.gif) Dragon Slayer  
     ![1165](img/Hugel-Mini-Games/1165.gif) Masamune  
     ![1164](img/Hugel-Mini-Games/1164.gif) Muramasa  
@@ -123,7 +123,7 @@ There’s a bunch of items you can exchange them for right in Hugel — from use
     ![1168](img/Hugel-Mini-Games/1168.gif) Zweihander  
     ![1170](img/Hugel-Mini-Games/1170.gif) Katzbalger  
 
-??? note "Axe"
+??? note "Axe"  
     ![1364](img/Hugel-Mini-Games/1364.gif) Great Axe  
     ![1369](img/Hugel-Mini-Games/1369.gif) Guillotine  
     ![1366](img/Hugel-Mini-Games/1366.gif) Light Epsilon  
@@ -133,7 +133,7 @@ There’s a bunch of items you can exchange them for right in Hugel — from use
     ![1305](img/Hugel-Mini-Games/1305.gif) Cleaver  
     ![1368](img/Hugel-Mini-Games/1368.gif) Tomahawk  
 
-??? note "Mace"
+??? note "Mace"  
     ![1524](img/Hugel-Mini-Games/1524.gif) Golden Mace [1]  
     ![1528](img/Hugel-Mini-Games/1528.gif) Grand Cross  
     ![1525](img/Hugel-Mini-Games/1525.gif) Long Mace  
@@ -141,23 +141,23 @@ There’s a bunch of items you can exchange them for right in Hugel — from use
     ![1526](img/Hugel-Mini-Games/1526.gif) Slash  
     ![1527](img/Hugel-Mini-Games/1527.gif) Quadrille  
 
-??? note "Bow"
+??? note "Bow"  
     ![1719](img/Hugel-Mini-Games/1719.gif) Roguemaster's Bow  
     ![1724](img/Hugel-Mini-Games/1724.gif) Dragon Wing  
     ![1720](img/Hugel-Mini-Games/1720.gif) Rudra's Bow  
     ![1722](img/Hugel-Mini-Games/1722.gif) Ballista  
 
-??? note "Staff"
+??? note "Staff"  
     ![1616](img/Hugel-Mini-Games/1616.gif) Wing Staff  
     ![1473](img/Hugel-Mini-Games/1473.gif) Wizardry Staff  
 
-??? note "Book"
+??? note "Book"  
     ![1559](img/Hugel-Mini-Games/1559.gif) Legacy of Dragon  
     ![1557](img/Hugel-Mini-Games/1557.gif) Book of the Apocalypse  
     ![1558](img/Hugel-Mini-Games/1558.gif) Girl's Diary [1]  
     ![1561](img/Hugel-Mini-Games/1561.gif) Hardcover Book [1]  
 
-??? note "Spear"
+??? note "Spear"  
     ![1474](img/Hugel-Mini-Games/1474.gif) Gae Bolg  
     ![1414](img/Hugel-Mini-Games/1414.gif) Gelerdria  
     ![1413](img/Hugel-Mini-Games/1413.gif) Gungnir  
@@ -170,24 +170,24 @@ There’s a bunch of items you can exchange them for right in Hugel — from use
     ![1416](img/Hugel-Mini-Games/1416.gif) Tjungkuletti  
     ![1471](img/Hugel-Mini-Games/1471.gif) Hellfire  
 
-??? note "Katar"
+??? note "Katar"  
     ![1261](img/Hugel-Mini-Games/1261.gif) Infiltrator  
     ![1265](img/Hugel-Mini-Games/1265.gif) Bloody Roar  
     ![1263](img/Hugel-Mini-Games/1263.gif) Unholy Touch  
 
-??? note "Knuckle"
+??? note "Knuckle"  
     ![1815](img/Hugel-Mini-Games/1815.gif) Hatii Claw [1]  
     ![1814](img/Hugel-Mini-Games/1814.gif) Berserk  
     ![1813](img/Hugel-Mini-Games/1813.gif) Kaiser Knuckle  
 
-??? note "Whip"
+??? note "Whip"  
     ![1962](img/Hugel-Mini-Games/1962.gif) Lariat Whip  
     ![1963](img/Hugel-Mini-Games/1963.gif) Rapture Rose  
     ![1969](img/Hugel-Mini-Games/1969.gif) Blade Whip  
     ![1964](img/Hugel-Mini-Games/1964.gif) Chemeti Whip  
     ![1970](img/Hugel-Mini-Games/1970.gif)Queen's Whip  
 
-??? note "Musical Instrument"
+??? note "Musical Instrument"  
     ![1918](img/Hugel-Mini-Games/1918.gif) Oriental Lute  
     ![1913](img/Hugel-Mini-Games/1913.gif) Electric Guitar  
 
