@@ -72,7 +72,7 @@ There’s a bunch of items you can exchange them for right in Hugel — from use
 
 | Prize Medal | Reward |
 |--------|--------|
-| 1 Medal    | Base or Job Experience |
+| 1 Medal    | [Base or Job Experience](#base-experience) |
 | 500 Medals | ![2319](img/Hugel-Mini-Games/2319.png) Glittering Jacket [1] |
 | 1000 Medals| ![2349](img/Hugel-Mini-Games/2349.png) Aebecee's Raging Typhoon Armor [1]<br> ![2351](img/Hugel-Mini-Games/2351.png) Claytos Cracking Earth Armor [1]<br> ![2345](img/Hugel-Mini-Games/2345.png) Lucius's Fierce Armor of Volcano [1]<br> ![2347](img/Hugel-Mini-Games/2347.png) Saphien's Armor of Ocean [1] |
 
