@@ -77,72 +77,72 @@ There’s a bunch of items you can exchange them for right in Hugel — from use
 | 1000 Medals| ![2349](img/Hugel-Mini-Games/2349.png) Aebecee's Raging Typhoon Armor [1]<br> ![2351](img/Hugel-Mini-Games/2351.png) Claytos Cracking Earth Armor [1]<br> ![2345](img/Hugel-Mini-Games/2345.png) Lucius's Fierce Armor of Volcano [1]<br> ![2347](img/Hugel-Mini-Games/2347.png) Saphien's Armor of Ocean [1] |
 
 ??? note "Dagger"
-    Ginnungagap
-    Grimtooth
-    Dragon Killer
-    Mail Breaker
-    Ice Pick
-    Bazerald
-    Sword Breaker
-    Sucsamad
-    Kitchen Knife
-    Azoth
-    Exorciser
-    Assassin Dagger
-    Moonlight Dagger
-    Weeder Knife
-    Cursed Dagger
-    Dagger of Counter
-    Combat Knife
-    Fortune Sword
+    ![13002](img/Hugel-Mini-Games/13002.gif) Ginnungagap
+    ![1237](img/Hugel-Mini-Games/1237.gif) Grimtooth
+    ![13001](img/Hugel-Mini-Games/13001.gif) Dragon Killer
+    ![1225](img/Hugel-Mini-Games/1225.gif) Mail Breaker
+    ![1230](img/Hugel-Mini-Games/1230.gif) Ice Pick
+    ![1231](img/Hugel-Mini-Games/1231.gif) Bazerald
+    ![1224](img/Hugel-Mini-Games/1224.gif) Sword Breaker
+    ![1236](img/Hugel-Mini-Games/1236.gif) Sucsamad
+    ![1229](img/Hugel-Mini-Games/1229.gif) Kitchen Knife
+    ![1235](img/Hugel-Mini-Games/1235.gif) Azoth
+    ![1233](img/Hugel-Mini-Games/1233.gif) Exorciser
+    ![1232](img/Hugel-Mini-Games/1232.gif) Assassin Dagger
+    ![1234](img/Hugel-Mini-Games/1234.gif) Moonlight Dagger
+    ![1227](img/Hugel-Mini-Games/1227.gif) Weeder Knife
+    ![1241](img/Hugel-Mini-Games/1241.gif) Cursed Dagger
+    ![1242](img/Hugel-Mini-Games/1242.gif) Dagger of Counter
+    ![1228](img/Hugel-Mini-Games/1228.gif) Combat Knife
+    ![1223](img/Hugel-Mini-Games/1223.gif) Fortune Sword
 
 ??? note "One Handed Sword"
-    Nagan
-    Immaterial Sword
-    Mysteltainn
-    Byeollungum
-    Star Dust Blade
-    Caesar's Sword
-    Ice Falchion
-    Excalibur
-    Edge
-    Cutlus
-    Solar Sword
-    Tirfing
-    Fireblend
+    ![1130](img/Hugel-Mini-Games/1130.gif) Nagan
+    ![1141](img/Hugel-Mini-Games/1141.gif) Immaterial Sword
+    ![1138](img/Hugel-Mini-Games/1138.gif) Mysteltainn
+    ![1140](img/Hugel-Mini-Games/1140.gif) Byeollungum
+    ![1148](img/Hugel-Mini-Games/1148.gif) Star Dust Blade
+    ![1134](img/Hugel-Mini-Games/1134.gif) Caesar's Sword
+    ![1131](img/Hugel-Mini-Games/1131.gif) Ice Falchion
+    ![1137](img/Hugel-Mini-Games/1137.gif) Excalibur
+    ![1132](img/Hugel-Mini-Games/1132.gif) Edge
+    ![1135](img/Hugel-Mini-Games/1135.gif) Cutlus
+    ![1136](img/Hugel-Mini-Games/1136.gif) Solar Sword
+    ![1139](img/Hugel-Mini-Games/1139.gif) Tirfing
+    ![1133](img/Hugel-Mini-Games/1133.gif) Fireblend
 
 ??? note "Two Handed Sword"
-    Dragon Slayer
-    Masamune
-    Muramasa
-    Schweizersabel
-    Executioner
-    Zweihander
-    Katzbalger
+    ![1166](img/Hugel-Mini-Games/1166.gif) Dragon Slayer
+    ![1165](img/Hugel-Mini-Games/1165.gif) Masamune
+    ![1164](img/Hugel-Mini-Games/1164.gif) Muramasa
+    ![1167](img/Hugel-Mini-Games/1167.gif) Schweizersabel
+    ![1169](img/Hugel-Mini-Games/1169.gif) Executioner
+    ![1168](img/Hugel-Mini-Games/1168.gif) Zweihander
+    ![1170](img/Hugel-Mini-Games/1170.gif) Katzbalger
 
 ??? note "Axe"
-    Great Axe
-    Guillotine
-    Light Epsilon
-    Bloody Axe
-    Sabbath
-    Slaughter
-    Cleaver
-    Tomahawk
+    ![1364](img/Hugel-Mini-Games/1364.gif) Great Axe
+    ![1369](img/Hugel-Mini-Games/1369.gif) Guillotine
+    ![1366](img/Hugel-Mini-Games/1366.gif) Light Epsilon
+    ![1363](img/Hugel-Mini-Games/1363.gif) Bloody Axe
+    ![1365](img/Hugel-Mini-Games/1365.gif) Sabbath
+    ![1367](img/Hugel-Mini-Games/1367.gif) Slaughter
+    ![1305](img/Hugel-Mini-Games/1305.gif) Cleaver
+    ![1368](img/Hugel-Mini-Games/1368.gif) Tomahawk
 
 ??? note "Mace"
-    Golden Mace
-    Grand Cross
-    Long Mace
-    Spike
-    Slash
-    Quadrille
+    ![1524](img/Hugel-Mini-Games/1524.gif) Golden Mace
+    ![1528](img/Hugel-Mini-Games/1528.gif) Grand Cross
+    ![1525](img/Hugel-Mini-Games/1525.gif) Long Mace
+    ![1523](img/Hugel-Mini-Games/1523.gif) Spike
+    ![1526](img/Hugel-Mini-Games/1526.gif) Slash
+    ![1527](img/Hugel-Mini-Games/1527.gif) Quadrille
 
 ??? note "Bow"
-    Roguemaster's Bow
-    Dragon Wing
-    Rudra's Bow
-    Ballista
+    ![1719](img/Hugel-Mini-Games/1719.gif) Roguemaster's Bow
+    ![1724](img/Hugel-Mini-Games/1724.gif) Dragon Wing
+    ![1720](img/Hugel-Mini-Games/1720.gif) Rudra's Bow
+    ![1722](img/Hugel-Mini-Games/1722.gif) Ballista
 
 ??? note "Staff"
     ![1616](img/Hugel-Mini-Games/1616.gif) Wing Staff  
@@ -191,5 +191,16 @@ There’s a bunch of items you can exchange them for right in Hugel — from use
 ## Experience
 
 ??? note "Base"
+    | Level | Exp |
+    |-------|-----|
+    | 1-20  | 300 |
+    | 21-30 | 600 |
+    | 31-40 | 4000 |
+    | 41-50 | 16000 |
+    | 51-60 | 50000 |
+    | 61-70 | 94000 |
+    | 71-80 | 110000 |
+    | 81-99 | 130000 |
+
 
 ??? note "Job"
