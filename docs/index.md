@@ -3,8 +3,6 @@ hide:
   - navigation
   - toc
 ---
-!!! info
-    The wiki is currently under maintenance as we restore information from previous versions. Some guides and other content may be temporarily unavailable. We are working to resolve this issue as quickly as possible, and new information will be added soon. If you find any errors, please report them to us.
 
 # World of Your Dream Documentation
 Welcome to the World of Your Dream Documentation, the official resource for our server. Explore detailed guides for both beginners and veteran players, along with in-depth descriptions of server features, quests, patch notes, and game mechanics. Stay up-to-date with the latest content and unlock the full potential of your gaming experience.
