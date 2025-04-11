@@ -28,7 +28,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         - **Item Changes**: Abandoned Teddy Card reworked, new loot for Bradium Golem.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patchnotes04102025.md)  
+        [:octicons-arrow-right-24: Full Patch Notes](patches10042025.md)  
         [:octicons-arrow-right-24: All Patch Notes](All-patch-notes.md)
 
     === "March 21"
