@@ -7,7 +7,7 @@ hide:
 # World of Your Dream Documentation
 Welcome to the World of Your Dream Documentation, the official resource for our server. Explore detailed guides for both beginners and veteran players, along with in-depth descriptions of server features, quests, patch notes, and game mechanics. Stay up-to-date with the latest content and unlock the full potential of your gaming experience.
 
-![Image title](img/wiki-title.jpg)
+![Image title](img/wiki-title.webp)
 
 ---
 
