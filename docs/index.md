@@ -327,6 +327,10 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
     [:octicons-arrow-right-24: Pre-Trans WoE](Pre-Trans-WoE.md)
     
+
+
+    [:octicons-arrow-right-24: Hugel Mini Game](Hugel-Mini-Game.md)
+    
 -   
 
     [:octicons-arrow-right-24: Card Exchange](Card_Exchange.md)
