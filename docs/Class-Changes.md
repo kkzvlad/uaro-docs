@@ -1,3 +1,4 @@
+Patch Notes - 21 March 2025
 🧙‍♂️ Class Changes¶
 🔧 Smith¶
 Over-Thrust / Max Over-Thrust no longer break weapons
@@ -8,27 +9,19 @@ Fixed animation issue causing stuck sitting / stuck movement while hit
 Cold Heart / Black Cat accessories now complete combos with Rogue Treasure
 
 
-🏹 3. Skill & Mechanic Tweaks¶
-Magnus Exorcismus¶
-Now inflicts damage on monsters of Undead, Demon races or Shadow, Ghost, Undead elements.
-Improved Portal Mechanics¶
-Fly Wing and Teleport will no longer randomly land you within portals, ensuring more control.
-Skill Adjustments¶
-Backstab: Now correctly registers damage at 0 cell range.
-Asura Strike: SP regenerates correctly upon relogging.
-Gravitation Field (High Wizard): Adjusted to behave as expected for optimized gameplay.
+Patch Notes - 07 January, 2025
+Twilight 3 Rework¶
+Updated Twilight 3 to craft 100 of each item (alcohol and bottle sets).
+Adjusted Medicine Bowl requirement from 200 → 300 to align with the new crafting quantities.
 
+
+Patch Notes - 24 December, 2024  
+🌟 Extended Class Changes¶
 Soul Linker max job level extended to 70.
 HP/SP pools remain the same as Job 50.
 All Soul Links (Level 5) now last 10 minutes (previously 5 minutes).
 
-
-Bowling Bash's range increased to 2 cells to reduce the range-mob bug.
-Fixed an issue where Sage's Free Cast increased ASPD instead of decreasing it at skill levels lower than 10.
-Soul Breaker's range increased to 9 cells.
-The Grand Cross skill can now be plagiarized.
-
-6 December 2024<br>
+Patch Notes - 6 December, 2024<br>
 ## 🎯 **Extended Class Skill Reworks**
 
 ### **Gunslinger**
@@ -58,13 +51,45 @@ The Grand Cross skill can now be plagiarized.
 - **Esma SP Cost:** Level 1–10: `4–40`.
 
 
+Patch Notes - 10/30/2024  
+🏹 3. Skill & Mechanic Tweaks¶
+Magnus Exorcismus¶
+Now inflicts damage on monsters of Undead, Demon races or Shadow, Ghost, Undead elements.
+Improved Portal Mechanics¶
+Fly Wing and Teleport will no longer randomly land you within portals, ensuring more control.
+Skill Adjustments¶
+Backstab: Now correctly registers damage at 0 cell range.
+Asura Strike: SP regenerates correctly upon relogging.
+Gravitation Field (High Wizard): Adjusted to behave as expected for optimized gameplay.
+
+
+Patch Notes - 09/27/2024  
+We tackled a few leftover bugs from previous updates, including:
+- The Sonic Blow Animation Sonic Blow and Arrow Vulcan Animation Arrow Vulcan animations have been fixed.
+- Fixed some issues with Devotion targeting.
+- Adjustments were made so that the Devotion Targeting Pressure skill now correctly bypasses Devotion.
+
+
+Patch Notes - 09/18/2024  
+Skill Reversion: Sharpshoot reverted to its original state.
+
 
 24 July 2024<br>
+Skills Fixes
+Devotion can no longer be placed on non-guild members outside of BG.
+The disappearance of the Cursed Water icon has been fixed.
+Levels 6-10 Plagiarized Water Ball are no longer melee attack skills.
+Crimson Fire Formation (Blaze Shield) is fixed and can lock monsters again.
+Paladin Shield skills now persist when swapping with different shields instead of cancelling.
+Kyrie Eleison now reduces Acid Demonstration damage.
+Minor skills description fixes have been made.
+Failed HP buff glitch on Berserk skill trigger has been fixed.
+Class Changes
 Lif Homunculus has been reverted to the classic version where Mental Change resets upon respawning the homunculus.
 Ninja can now equip Magic Bible Vol. 1.
 Soul Linker can now equip Staff of Darkness.
 
-12 July 2024
+12 July 2024  
 Bard/Dancer song icons are now displayed in the interface.
 As sonicblow06.jpg Sonic Blow & Cg arrowvulcan05.jpg Arrow Vulcan animations now reappear.
 Released fix for the Rg plagiarism03.jpg Plagiarism skill and NPC to prevent players from losing skill points.
@@ -78,7 +103,7 @@ Dragon Fire Formation no longer works under Land Protector.
 
  
 
-27 June 2024
+27 June 2024  
 Edited the Sightrasher skill to its correct 7x7 cell range.
 Edited Weapon Perfection levels 1-5 for better consistency. Client-side description updated also.
 Spear Stab no longer double attacks.
@@ -91,7 +116,7 @@ Taekwon can now equip Swordman Medal of Honor.
 Redemptio cooldown reduced from 10 minutes to 3 minutes.
 
 
-08 June 2024
+08 June 2024  
 Reject sword damage cannot exceed the caster's HP.
 Super Novice death count can now be reset with a special NPC located right under Prontera, prt_fild08.Soul
 Fixed issue where Full Buster cooldown prevented use of all consumables.
@@ -167,7 +192,7 @@ Removed an incorrect afterCastActDelay from Sacrifice
 Removed the fixed target from some combo skills. Monk skills act on the current target even if the last skill was used on a different enemy.
 
 
-09 February 2024
+09 February 2024  
 Skill Restrictions at MVP Locations: To maintain the challenge and integrity of MVP encounters, we've implemented restrictions on certain skills at all MVP locations:
 - Warp Portal
 - Ice Wall is blocked, with the exception of Biolab 3
