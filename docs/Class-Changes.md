@@ -64,13 +64,41 @@ Lif Homunculus has been reverted to the classic version where Mental Change rese
 Ninja can now equip Magic Bible Vol. 1.
 Soul Linker can now equip Staff of Darkness.
 
+12 July 2024
+Bard/Dancer song icons are now displayed in the interface.
+As sonicblow06.jpg Sonic Blow & Cg arrowvulcan05.jpg Arrow Vulcan animations now reappear.
+Released fix for the Rg plagiarism03.jpg Plagiarism skill and NPC to prevent players from losing skill points.
+Pf mindbreaker04.jpg Mind Breaker skill now shows icon and updates status
+Cart Termination can now be selectable by level
+
+
 04 July 2024<br>
+Fixed issue with Backstab skill where skills were copied and half of the skill tree was lost
 Dragon Fire Formation no longer works under Land Protector.
+
+ 
+
+27 June 2024
+Edited the Sightrasher skill to its correct 7x7 cell range.
+Edited Weapon Perfection levels 1-5 for better consistency. Client-side description updated also.
+Spear Stab no longer double attacks.
+Devotion in Battlegrounds now works without the need for a party.
+Bonus HP from Sage area skills is now removed if elemental armor is changed or removed.
 
 
 15 June 2024<br>
 Taekwon can now equip Swordman Medal of Honor.
 Redemptio cooldown reduced from 10 minutes to 3 minutes.
+
+
+08 June 2024
+Reject sword damage cannot exceed the caster's HP.
+Super Novice death count can now be reset with a special NPC located right under Prontera, prt_fild08.Soul
+Fixed issue where Full Buster cooldown prevented use of all consumables.
+Fixed nullified messages for Star Gladiator Miracle skill.
+Fixed bug where Super Novice Mental Strength activation caused stat loss.
+Soul Linkers can now equip Thorn Staff of Darkness.
+
 
 16 May 2024<br>
 Soul Linkers can again perform their skills.
@@ -82,29 +110,38 @@ Aspersio can now be used on members outside of your party
 The new skill, Screenshot 2024-05-11 at 00.24.21.png Twilight Alchemy 4, is now available under Alchemist Link. This skill allows you to brew 200 Blue Potions simultaneously.
 Made tweaks to the timings and positioning for certain skills, which theoretically should positively impact the effectiveness of Ninja's Crimson Fire Formation skill.
 
+
+22 April 2024  
+Skill Restrictions in Dungeons: Fixed an issue with the use of Dispel in Endless Tower, Memorial Dungeon, Orc's Memory, and Nidhoggur's Nest; it is now functional. Additionally, the use of Eske and Dispel has been correctly disabled in the Sealed Shrine dungeon as intended.
+
+
 19 February 2024<br>
 Changed the animation delay to match official behavior. skill_amotion_leniency now defaults to 0 which offers a more accurate official behavior.
 Changed Poisoning Weapon to show the type of poison used when applied
-Added the missing EXP rewards for the Amatsu Dungeon quest.
+
 Fixed some interactions of Ki Translation
 It should fail with a skill failure message and not consume requirements when:
-being cast on Gunslinger class
-being cast on a player that already has 5 spheres
-being cast on friendly non-player units (e.g. Mercenary)
+- being cast on Gunslinger class
+- being cast on a player that already has 5 spheres
+- being cast on friendly non-player units (e.g. Mercenary)
+
 Fixed some interactions of Absorb Spirit Sphere
 It should fail and not consume SP when:
-the target player doesn't have spheres
-the target player is of Gunslinger class (due to teh game implementation not allowing them to have spheres)
-the target player is friendly
+- the target player doesn't have spheres
+- the target player is of Gunslinger class (due to teh game implementation not allowing them to have spheres)
+- the target player is friendly
 It should fail and consume SP when:
-used on a BOSS monster
-used on a non-boss monster, but failing the 20% check
-used on non-player units (like mercenaries)
-moved the target check to condition cast end
+- used on a BOSS monster
+- used on a non-boss monster, but failing the 20% check
+- used on non-player units (like mercenaries)
+- moved the target check to condition cast end
+
 Fixed the error message when a gunslinger is attempting to use a skill that requires coins without having the necessary amount.
+
 Fixed the stacking of Poem of The Netherworld to match the behavior described in the 2012.08.22 official patch notes.
-it cannot be placed over another instance of the skill
-when trying to do so, it should show a position error to client
+- it cannot be placed over another instance of the skill
+- when trying to do so, it should show a position error to client
+
 Fixed Sage's free case increasing ASPD instead of decreasing it when the skill level is lower than 10.
 Fixed Triple Attack not applying the same motion delay as the client in the case the next combo is not possible, causing visual glitches.
 Fixed the Triple Attack delay formula increasing delay with dex instead of decreasing it.
@@ -117,10 +154,11 @@ Fixed range and cast time for Soul Destroyer.
 Fixed Dispel not working in duels.
 Fixed songs not triggering their onleft or onout events when overlapping and turning into dissonance.
 Fixed the range checks of Blade Stop:
-Fixed the target's (as in triggering attack target, and Blade Stop caster) equipped weapon wrongly affecting the skill's working range.
-Success range is changed to 2, to match the official behavior.
-In pre-re, changed it to always succeed against player attackers regardless of range.
-Changed it to always succeed for non-player casters regardless of range (custom Hercules behavior, officially only players may cast Blade Stop).
+- Fixed the target's (as in triggering attack target, and Blade Stop caster) equipped weapon wrongly affecting the skill's working range.
+- Success range is changed to 2, to match the official behavior.
+- In pre-re, changed it to always succeed against player attackers regardless of range.
+- Changed it to always succeed for non-player casters regardless of range (custom Hercules behavior, officially only players may cast Blade Stop).
+
 Fixed CELL_NOSTACK making mob AI not being able to reach target under certain conditions.
 Fixed the critical bonus calculation from status effects getting truncated to 0.3 CRIT per point of LUK instead of 1/3.
 Fixed some SC counters (including Storm Gust) not getting reset to 0 when a unit dies.
@@ -129,9 +167,23 @@ Removed an incorrect afterCastActDelay from Sacrifice
 Removed the fixed target from some combo skills. Monk skills act on the current target even if the last skill was used on a different enemy.
 
 
+09 February 2024
+Skill Restrictions at MVP Locations: To maintain the challenge and integrity of MVP encounters, we've implemented restrictions on certain skills at all MVP locations:
+- Warp Portal
+- Ice Wall is blocked, with the exception of Biolab 3
+- Loki's Veil
+Abracadabra Restriction. Can no longer be used in towns.
+Gospel Buffs Reset. All gospel buffs will now reset upon relogging.
+
+
 04 January 2024<br>
 Bowling Bash Gutterlines Removed
 The Gutterlines in Bowling Bash have been successfully removed.
+
+
+20 December 2023  
+Soul Destroyer: The range of Soul Destroyer has been corrected to 9 cells.
+Slow Grace Effect: The Slow Grace effect will now cancel upon death.
 
 
 30 November 2023<br>
@@ -155,19 +207,17 @@ The Grand Cross skill can now be plagiarized
 
 15 September 2023<br>
 Brandish Spear
-
 KnockBackTiles: 1.
-Bowling Bash
 
+Bowling Bash
 SplashRange: 3.
 KnockBackTiles: 0.
 Adjustments made to the Gutter Line.
-Charge Attack
 
+Charge Attack
 The range has been fixed to 14 cells
 
 The following equipment, previously restricted to transcended classes, is now available to Gunslingers, Ninjas, Soul Linkers, Taekwonds, and Star Gladiators:
-
 Armor of Naga [1] [Body]
 Bison Horn [1] [Accessory]
 Black Leather Boots [0] [Footgear]
@@ -201,31 +251,19 @@ Wool Scarf [1]
 Magic Bible Vol
 
 
-
 21 July 2023<br>
 Grand Cross
-
 With the new changes, when mobs are gathered in the same cell, each one will feel the full force of every hit.
 
-Gc-all-mob AdobeExpress.gif
-
-
 Bowling Bash skill modification
-
 Splash Range increased to 2.
 Knock Back distance dicreased to 0.
-Bb-no-demi-gutter-bug 0-knockback AdobeExpress.gif
-
 
 Monster Stack and Grimtooth
-
 Monster stack limit increased from 1 to 7 monsters.
 These changes will pave the way for a more efficient use of the Grimtooth skill.
-Bb.gif
-
 
 Songs additional effect
-
 There's an additional effect that lasts for 20 seconds after player leave song zone.
 
 
@@ -234,10 +272,10 @@ Missing Icons for some skills has been added.
 Longing for Freedom skill now appears in a right tab.
 Wand of Hermode skill no longer ensemble skill type and can be used in solo during WoE time.
 
+
 30.04.2023<br>
 Skill Fixes
-Screenshot 2023-04-30 at 21.02.29.png The Back Stab skill has been adjusted and can now be executed from any direction.
+The Back Stab skill has been adjusted and can now be executed from any direction.
 The behaviour of various types of Reflect Skills types has been fixed:
-The amount of damage cannot be greater than the amount of HP the wearer of the skill has.
-Reflect is not transmitted if the character is in the Safety Wall.
-Monster Valkyrie Randgris is back on map.
+ - The amount of damage cannot be greater than the amount of HP the wearer of the skill has.
+ - Reflect is not transmitted if the character is in the Safety Wall.
