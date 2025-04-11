@@ -14,6 +14,23 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 ---
 
 !!! patchnotes
+    === "April 10"
+
+        <div class="badge">April 10</div>
+
+        ```markdown
+        - **Biolabs 4 Dungeon Released**: Mobs, MVPs, and drops enabled; Wolfchev instance and exchange NPC coming soon.
+        - **BG Revamp**: Team balancing, badge reward changes, and major fixes across KvM, Rush, and more.
+        - **Old Glast Heim**: Level req bumped to 95, EXP adjusted, new Temporal Boot barter added.
+        - **@restock & Branch Room QoL**: Smart auto-supply and streamlined room management.
+        - **New Systems**: Costume convert now allows refined gear; autofeed persists on logout.
+        - **UI / CP Fixes**: Control Panel overhaul, better @whobuy/@whosell formatting, and SN-link gear persistence.
+        - **Item Changes**: Abandoned Teddy Card reworked, new loot for Bradium Golem.
+        ```
+
+        [:octicons-arrow-right-24: Full Patch Notes](patchnotes04102025.md)  
+        [:octicons-arrow-right-24: All Patch Notes](All-patch-notes.md)
+
     === "March 21"
 
         <div class="badge">March 21</div>
