@@ -72,7 +72,7 @@ hide:
 | ![Bacsojin/White Lady](img/1630.gif) Bacsojin/White Lady | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None                                | None                                | None                                | 0.01% |
 | ![Domovoi](img/2336.gif) Domovoi | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food |  None | None | Increases Physical Damage against enemies of Demihuman by 3%.<br>Increases Magical Damage against Demihuman by 3%.<br>Decreases physical damage from Demihuman by 3%. | Event |
 | ![1010](img/1010.gif) Willow | ![Pet Food](img/537.png) Pet Food | ![23257](img/23257.gif) Old Tree's Dew | None | INT +3. | 10% |
-| ![1208](img/1208.gif) Wanderer | ![Pet Food](img/537.png) Pet Food | ![14574](img/14574.gif) Vagabond's Skull | None | AGI +3. | 10% |
+| ![1208](img/1208.gif) Wanderer | ![Pet Food](img/537.png) Pet Food | ![14574](img/14574.gif) Vagabond's Skull | None | AGI +3, DEX +1. | 10% |
 | ![1179](img/1179.gif) Whisper | - | ![12363](img/12363.gif) Ghost Coffin | - | FLEE + 7, Enables the use of Hiding Lv.1. | 5% |
 | ![2210](img/2210.gif) Christmas Snow Rabbit | ![Candy](img/529.gif) Candy | 2024 Christmas Event Special | None | Increases EXP by 3% from all mobs. | Event |
 
