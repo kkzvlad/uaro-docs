@@ -12,6 +12,27 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 ---
 
 !!! patchnotes
+    === "April 18"
+
+        <div class="badge">April 18</div>
+
+        ```markdown
+        - **Easter Event Active**: Eggrings spawning, Sweets Coins available, and +5% EXP from the Egg Shell item.
+        - **New Content**: Craftable Eggring Pet and a nostalgic nod to iRO’s 2010 Easter Event.
+        - **End Date**: Event ends May 1, 2025 — EXP bonus and spawns will be removed after.
+        - **Gameplay Changes**: Grand Baphomet buffed in ET, pet autofeed saved per character.
+        - **Battlegrounds QoL**: Queue from PvP arenas; job-split issue fixed.
+        - **Mob Spawns**: Bradium Golem now appears on Manuk fields.
+        - **WoE**: Aldebaran Castle removed from Pre-Trans rotation.
+        ```
+
+        [:octicons-arrow-right-24: Full Patch Notes](patches18042025.md)
+
+        <br/>
+
+        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+
+
     === "April 10"
 
         <div class="badge">April 10</div>
