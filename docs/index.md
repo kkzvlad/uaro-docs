@@ -26,7 +26,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         - **WoE**: Aldebaran Castle removed from Pre-Trans rotation.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches18042025.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patches04182025.md)
 
         <br/>
 
