@@ -3,17 +3,56 @@ hide:
   - navigation
   - toc
 ---
-!!! info
-    The wiki is currently under maintenance as we restore information from previous versions. Some guides and other content may be temporarily unavailable. We are working to resolve this issue as quickly as possible, and new information will be added soon. If you find any errors, please report them to us.
 
 # World of Your Dream Documentation
 Welcome to the World of Your Dream Documentation, the official resource for our server. Explore detailed guides for both beginners and veteran players, along with in-depth descriptions of server features, quests, patch notes, and game mechanics. Stay up-to-date with the latest content and unlock the full potential of your gaming experience.
 
-![Image title](img/wiki-title.jpg)
+![Image title](img/wiki-title.webp)
 
 ---
 
 !!! patchnotes
+    === "April 18"
+
+        <div class="badge">April 18</div>
+
+        ```markdown
+        - **Easter Event Active**: Eggrings spawning, Sweets Coins available, and +5% EXP from the Egg Shell item.
+        - **New Content**: Craftable Eggring Pet and a nostalgic nod to iRO’s 2010 Easter Event.
+        - **End Date**: Event ends May 1, 2025 — EXP bonus and spawns will be removed after.
+        - **Gameplay Changes**: Grand Baphomet buffed in ET, pet autofeed saved per character.
+        - **Battlegrounds QoL**: Queue from PvP arenas; job-split issue fixed.
+        - **Mob Spawns**: Bradium Golem now appears on Manuk fields.
+        - **WoE**: Aldebaran Castle removed from Pre-Trans rotation.
+        ```
+
+        [:octicons-arrow-right-24: Full Patch Notes](patches04182025.md)
+
+        <br/>
+
+        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+
+
+    === "April 10"
+
+        <div class="badge">April 10</div>
+
+        ```markdown
+        - **Biolabs 4 Dungeon Released**: Mobs, MVPs, and drops enabled; Wolfchev instance and exchange NPC coming soon.
+        - **BG Revamp**: Team balancing, badge reward changes, and major fixes across KvM, Rush, and more.
+        - **Old Glast Heim**: Level req bumped to 95, EXP adjusted, new Temporal Boot barter added.
+        - **@restock & Branch Room QoL**: Smart auto-supply and streamlined room management.
+        - **New Systems**: Costume convert now allows refined gear; autofeed persists on logout.
+        - **UI / CP Fixes**: Control Panel overhaul, better @whobuy/@whosell formatting, and SN-link gear persistence.
+        - **Item Changes**: Abandoned Teddy Card reworked, new loot for Bradium Golem.
+        ```
+
+        [:octicons-arrow-right-24: Full Patch Notes](patches10042025.md)
+
+        <br/>
+
+        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+
     === "March 21"
 
         <div class="badge">March 21</div>
