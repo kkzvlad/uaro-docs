@@ -147,7 +147,7 @@ Now allows tracking of **multiple monsters** (default: `5`).
 - `@autotrade` or `@at`  
   Allows you to continue vending offline.
 
-- `@memo {<0-2>}`  
+- `@memo {<1-4>}`  
   Saves a warp point for the "Warp Portal" skill.
 
 - `@request <message>`  
@@ -157,10 +157,25 @@ Now allows tracking of **multiple monsters** (default: `5`).
   Personalize your game settings applied on login. Offering a streamlined UI for saving preferences like **autoloot, chat channels, and visibility settings**.  
  `@settings` syncs with in-game commands, so you **don't need to use the menu** separately.  
 
-!!! info "Known Issue"
-    `@hidepet` and `@ignorebg` require a reset upon relog. **A fix is in progress.**
   **Output in-game Example:**  
   ![Settings Output](img/@settings.png)
+
+-  `@hidepet {<1-2>}`  
+  Use `@hidepet 1` to hide pets except your own.  
+  Use `@hidepet 2` to hide all pets.  
+
+- `@restockconfig`and `@restock`  
+  3 configurable lists (can be toggled on/off)  
+  Works under 90% weight (current or target %)  
+  Limitations:  
+  Must be used within a Kafra (Card or NPC)  
+  Only works inside towns  
+  Pulls directly from storage to restock items to preset quantities  
+  ![@restockconfig](img/@restockconfig.png)
+
+- `@autofeed`  
+  Persists through logout  
+  Account-wide, based on your setting  
 
 ## Guild Commands
 

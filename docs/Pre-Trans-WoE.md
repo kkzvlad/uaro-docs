@@ -35,8 +35,8 @@ On our server, WoE takes place every Sunday and lasts for one hour.<br>
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
 | Skoegul. Prontera | ![Prontera Castle](img/Pre-Trans-WoE/Prontera-Skoegul.png) | [![Skoegul Room](img/Skoegul-EmpRoom.png){width=500 height=400}](img/Skoegul-EmpRoom.png) | ![Prontera Dun](img/Prontera-Dun.png) |
-| Rothenburg. Aldebaran | ![Aldebaran Castle](img/Pre-Trans-WoE/Aldebaran-Rothenburg.png) | [![Skoegul Room](img/Rothenburg-EmpRoom.png){width=500 height=400}](img/Rothenburg-EmpRoom.png) | ![Aldebaran Dun](img/Aldebaran-Dun.png) |
-|
+<!--| Rothenburg. Aldebaran | ![Aldebaran Castle](img/Pre-Trans-WoE/Aldebaran-Rothenburg.png) | [![Skoegul Room](img/Rothenburg-EmpRoom.png){width=500 height=400}](img/Rothenburg-EmpRoom.png) | ![Aldebaran Dun](img/Aldebaran-Dun.png) | -->
+
 !!! note
     Castle rotations happen periodically as well as total active castle numbers based on WoE population and is subject to change.
 
@@ -45,7 +45,7 @@ On our server, WoE takes place every Sunday and lasts for one hour.<br>
 | Castle Name. Town  | Treasure Chest 1 | Treasure Chest 2 |
 |--------------------|------------------|------------------|
 | Skoegul. Prontera | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![6919](img/6919.gif) Token of Honor - 0.25%<br> ![1158](img/1158.gif) Two-Handed Sword [2] - 35%<br> ![2404](img/2404.gif) Shoes [1] - 40%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
-| Rothenburg. Aldebaran | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![1238](img/1238.gif) Zeny Knife - 9%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+<!-- | Rothenburg. Aldebaran | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![1238](img/1238.gif) Zeny Knife - 9%<br> ![616](img/616.gif) Mystical Card Album - 0.01% | -->
 
 ## Token System
 

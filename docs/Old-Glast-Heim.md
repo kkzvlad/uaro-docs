@@ -7,7 +7,7 @@ Old Glast Heim (OGH) is a dungeon instance in Ragnarok Online designed for advan
 !!! Note
     This instance was designed for Renewal mechanics, but we adapted it for Pre-Renewal mechanics and implemented access to the instance as an open-world map without an instance cooldown.
 
-**Required Level: 90**
+**Required Level: 95**
 
 ## How to get to Old Glast Heim
 
@@ -83,3 +83,9 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 |-----|---------|---------|-----------------|
 | ![4_WHITEKNIGHT](img/OGH/4_WHITEKNIGHT.gif) White Knight | ![6608](img/OGH/6608.gif) Coagulated Spell - 5000 or<br> ![6755](img/OGH/6755.gif) Contaminated Magic - 2000 | ![Card](img/card-1.gif) White Knight Card | @ii 4608 |
 | ![4_F_KHALITZBURG](img/OGH/4_F_KHALITZBURG.gif) Khalitzburg Knight | ![6608](img/OGH/6608.gif) Coagulated Spell - 5000 or<br> ![6755](img/OGH/6755.gif) Contaminated Magic - 2000 | ![Card](img/card-1.gif) Khalitzburg Knight Card | @ii 4609 |
+
+## Ancient Golden Coin
+
+The MVPs **Corrupted Soul** and **Amdarais** have a **0.09%** chance to drop an Ancient Golden Coin. This coin can be exchanged at the **Hugin's Scribe NPC (/navi glast_01 188/270)** for any slotted stat Temporal Boot.  
+
+![Hugin's Scribe NPC](img/OGH/Hugin's-Scribe-NPC.png)
