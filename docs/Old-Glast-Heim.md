@@ -49,7 +49,7 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 |---------|----------|----------|
 | ![2468](img/OGH/2468.gif) Corrupted Palace Guard | 44 | @mi 2468 |
 | ![2469](img/OGH/2469.gif) Wandering Archer | 30 | @mi 2469 |
-| ![2465](img/OGH/2465.gif) Corrupted Monk | 20 | @mi 2465 |
+| ![2465](img/OGH/2465.gif) Corrupted Monk | 30 | @mi 2465 |
 | ![2466](img/OGH/2466.gif) Chamberlain in Pain | 27 | @mi 2466 |
 | ![2470](img/OGH/2470.gif) Corrupt Abysmal Knight | 20 | @mi 2470 |
 | ![2471](img/OGH/2471.gif) Suffered Khalitzburg | 25| @mi 2471 |

@@ -1,19 +1,91 @@
-**First Job**  
+## First Job  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Swordman*  
+
+*Mage*  
+
+*Merchant*  
+
 *Acolyte*  
 
-***Archer***  
+*Thief*  
 
-**Second Job**  
+*Archer*
+
+*TaeKwon Kid*
+
+*Ninja*
+
+*Gunslinger*  
+
+*Super Novice*
+
+## Second Job 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-***Alchemist***  
+*Knight*  
 
-**Advanced**  
+*Crusader*  
+
+![Reflect Shield](img/Class-Changes/Shield_Reflect.png) Reflect Shield  
+
+30.04.2023: The amount of damage cannot be greater than the amount of HP the wearer of the skill has. Reflect is not transmitted if the character is in the Safety Wall.  
+
+*Wizard*  
+
+*Sage*  
+
+*Blacksmith*  
+
+*Alchemist*  
+
+*Priest*  
+
+*Monk*
+
+*Assassin*  
+
+*Rogue*  
+
+![Back Stab](img/Class-Changes/Back_Stab.png) Back Stab  
+
+30.04.2023: Skill has been adjusted and can now be executed from any direction.
+
+*Hunter*  
+
+*Bard and Dancer*  
+
+*Star Gladiator*  
+
+*Soul Linker*  
+
+## Advanced  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-***Creator***  
+*Lord Knight*
+
+*Paladin*  
+
+*High Wizard*  
+
+*Professor*
+
+*Whitesmith*  
+
+*Creator*
+
+*High Priest*
+
+*Champion*  
+
+*Assassin Cross*  
+
+*Stalker*  
+
+*Sniper*  
+
+*Minstrel and Gypsy*
 
 
 
@@ -329,7 +401,7 @@ Wand of Hermode skill no longer ensemble skill type and can be used in solo duri
 
 30.04.2023<br>
 Skill Fixes
-The Back Stab skill has been adjusted and can now be executed from any direction.
+
 The behaviour of various types of Reflect Skills types has been fixed:
  - The amount of damage cannot be greater than the amount of HP the wearer of the skill has.
  - Reflect is not transmitted if the character is in the Safety Wall.
