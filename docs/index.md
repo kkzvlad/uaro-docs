@@ -12,6 +12,29 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 ---
 
 !!! patchnotes
+    === "May 12"
+
+        <div class="badge">May 12</div>
+
+        ```markdown
+        - **Biolab 4 Revamp**: Updated stats, skills, and drops; slotted RLE craftable and exchange NPC at Biolab 1.
+        - **Rotating EXP Areas**: 20–30% bonus EXP in zones that rotate every 48–72 hours via `@mapexp`.
+        - **6th BG Arena**: MVP battle mode with race/element changes and damage scaling by stage.
+        - **Target Dummy**: Test DPS and builds in Prontera with customizable size, element, and race.
+        - **GvG PvP Room**: Two-guild-only arena with BG consumables near Prontera hotel.
+        - **WoE Updates**: New castle rotation; alliance and guild cap changes; all data reset.
+        - **Card Remover NPC**: `Mysterious Granny` removes cards safely for a fee.
+        - **Fixes/QoL**: Fame decay, @restock upgrades, costume convert refinements, BG/job fixes, OGH portal logic.
+        - **New Costumes**: Major additions to the Cash Shop!
+        ```
+
+        [:octicons-arrow-right-24: Full Patch Notes](patches05122025.md)
+
+        <br/>
+
+        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+
+
     === "April 18"
 
         <div class="badge">April 18</div>
