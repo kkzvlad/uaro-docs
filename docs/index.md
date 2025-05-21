@@ -12,6 +12,27 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 ---
 
 !!! patchnotes
+
+    === "May 20"
+
+        <div class="badge">May 20</div>
+
+        ```markdown
+        - **Biolab 4**: NPC repositioned, new Sillit Pong Bottle added to exchange.
+        - **BG Fixes**: Food storage in Tierra Gorge adjusted, Kiel Pet ATK bonus fixed.
+        - **Skill Adjustments**: Absorb Spirit and Asura Strike range now behave correctly.
+        - **QoL**: Chat spammers muted 30m, @restock now works in Moscovia.
+        - **Costumes**: Animated effects restored for multiple visuals (Melody Wing, Valhalla Idol, more).
+        - **WoE**: Kill Count tracking for castle defenders now fixed.
+        ```
+
+        [:octicons-arrow-right-24: Full Patch Notes](patches05202025.md)
+
+        <br/>
+
+        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+
+
     === "May 12"
 
         <div class="badge">May 12</div>
