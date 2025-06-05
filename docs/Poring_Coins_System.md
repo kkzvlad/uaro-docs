@@ -13,32 +13,36 @@ Poring coins are not tied to an account or a character, you can sell them, excha
 
 ## **Contents**
 
-1. [Poring Coins drop changes](#poring-coins-drop-changes)
-2. [Where to exchange Poring Coins](#where-to-exchange-poring-coins)
-3. [List of items that can be exchanged for Poring Coins](#list-of-items-that-can-be-exchanged-for-poring-coins)
-   1. [Consumable items](#consumable-items)
+- [**Contents**](#contents)
+- [**Poring Coins drop changes**](#poring-coins-drop-changes)
+- [**Where to exchange Poring Coins**](#where-to-exchange-poring-coins)
+- [**List of items that can be exchanged for Poring Coins**](#list-of-items-that-can-be-exchanged-for-poring-coins)
+  - [**Consumable items**](#consumable-items)
 
 ## **Poring Coins drop changes**
 
-**PC drop decreased from mobs:**
+**PC drop decreased from mobs:**  
+![Orc Zombie](img/1463.gif) Orc Zombie  
+![Thief Bug Female](img/1053.gif) Thief Bug Female  
+![Thief Bug Male](img/1054.gif) Thief Bug Male  
+![Familiar](img/1005.gif) Familiar  
 
-- ![Orc Zombie](img/1463.gif)
-- ![Thief Bug Female](img/1053.gif)
-- ![Thief Bug](img/1051.gif)
 
-**PC drop removed from mobs:**
-
-- ![Hydra](img/1068.gif) Hydra
-- ![Thief Bug Egg](img/1048.gif) Thief Bug Egg
-- ![Peco Peco Egg](img/Screenshot_2.png) Peco Peco Egg
-- ![Ant Egg](img/Screenshot_3.png) Ant Egg
-- ![Blue Plant](img/1079.gif) Blue Plant
-- ![Green Plant](img/1080.gif) Green Plant
-- ![Yellow Plant](img/1081.gif) Yellow Plant
-- ![White Plant](img/1082.gif) White Plant
-- ![Shining Plant](img/1083.gif) Shining Plant
-- ![Black Mushroom](img/1084.gif) Black Mushroom
-- ![Red Mushroom](img/1085.gif) Red Mushroom
+**PC drop removed from mobs:**  
+![Hydra](img/1068.gif) Hydra  
+![Thief Bug Egg](img/1048.gif) Thief Bug Egg  
+![Peco Peco Egg](img/Screenshot_2.png) Peco Peco Egg  
+![Ant Egg](img/Screenshot_3.png) Ant Egg  
+![Blue Plant](img/1079.gif) Blue Plant  
+![Green Plant](img/1080.gif) Green Plant  
+![Yellow Plant](img/1081.gif) Yellow Plant  
+![White Plant](img/1082.gif) White Plant  
+![Shining Plant](img/1083.gif) Shining Plant  
+![Black Mushroom](img/1084.gif) Black Mushroom  
+![Red Mushroom](img/1085.gif) Red Mushroom  
+![Thief Bug](img/1051.gif) Thief Bug  
+![Tarou](img/1175.gif) Tarou  
+![Plankton](img/1161.gif) Plankton  
 
 ## **Where to exchange Poring Coins**
 

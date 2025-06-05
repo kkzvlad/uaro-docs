@@ -92,6 +92,7 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 - Alliances are allowances with one Guild.<br>
 - @GuildHP is now toggleable through @loginsettings (Allows you to view Guild member HP even outside of party).<br>
 - Guild Emblems must be visible and clearly identifiable to participate<br>
+- RODEX is now blocked<br>
 
 ### Item Restrictions:
 
