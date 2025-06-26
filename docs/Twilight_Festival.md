@@ -91,7 +91,7 @@ Use special Festival Tickets dropped from mobs to spin the Wheel and earn exclus
 ## 6. Visit Event Shops
 Exchange your tickets for powerful items and costumes. Multiple event shops are available in the event area.
 
-![Placeholder](img/twilight-shops@2x.webp)
+![Placeholder](img/0626025-cashshop@2x.webp)
 
 Enjoy the festival and happy hunting!
 
