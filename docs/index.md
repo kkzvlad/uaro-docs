@@ -13,6 +13,25 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 !!! patchnotes
 
+    === "June 25"
+
+        <div class="badge">June 25</div>
+
+        ```markdown
+        - **Twilight Festival**: Summer map with ticket drops and a prize wheel.
+        - **Hunting Missions**: Tier selection, points persist, party scaling.
+        - **Vending Interface**: @whobuy/@whosell price list with remote buying.
+        - **Battlegrounds**: New PvP mode, Katzbalger weapon, rental item boxes.
+        - **New Pets**: Wandering Duck, Dark Lord, and more companions.
+        - **Gameplay Tweaks**: Biolab 4 AI buffed and repeatable quests give more EXP.
+        ```
+
+        [:octicons-arrow-right-24: Full Patch Notes](patches06252025.md)
+
+        <br/>
+
+        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+
     === "May 20"
 
         <div class="badge">May 20</div>
@@ -350,7 +369,6 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 <div class="grid cards" markdown>
 
--   
 
     [:octicons-arrow-right-24: Attendance System](Attendance_System.md)
 
@@ -394,7 +412,6 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
     [:octicons-arrow-right-24: Hugel Mini Game](Hugel-Mini-Game.md)
     
--   
 
     [:octicons-arrow-right-24: Card Exchange](Card_Exchange.md)
 
@@ -423,7 +440,6 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
   
     [:octicons-arrow-right-24: Horror Toy Factory ](Horror-Toy-Factory.md)
 
-- 
 
     [:octicons-arrow-right-24: Server Info](Server_info.md)
 
