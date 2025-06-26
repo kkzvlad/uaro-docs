@@ -1,11 +1,12 @@
 ---
-hide:
-  - toc
+title: "The Twilight Festival"
 ---
 
-# \U0001F306 Twilight Festival
-*July-August 2025*
+# The Twilight Festival
 
+---
+
+![Twilight Festival](img/twilight-cover@2x.webp)
 
 The Twilight Festival invites adventurers to explore an underwater-themed playground filled with monsters, tickets and special prizes.
 
@@ -20,7 +21,7 @@ The Twilight Festival invites adventurers to explore an underwater-themed playgr
 ## 1. Farm for Rental Access Gear
 Hunt mobs in caves and on beaches to collect materials for the **Rental Scuba Mask** and **Rental Oxygen Tank**.
 
-![Placeholder](img/10002.png)
+![Start](img/twilight-fest-step0601@2x.webp)
 
 ---
 
@@ -29,7 +30,7 @@ Visit the **Box Crafter NPC** in the event area.
 **Items Needed:** 200× Cold Ice, 200× Light Granule.
 **Rewards:** Scuba Mask Box and Oxygen Tank Box.
 
-![Placeholder](img/10002.png)
+![Boxes](img/twilight-fest-step0502@2x.webp)
 
 ---
 
@@ -40,7 +41,7 @@ Visit the **Box Crafter NPC** in the event area.
     PvP is enabled in the dungeon but you won't lose experience on death.
 
 =======
-![Placeholder](img/10002.png)
+![Lasagna Enter](img/twilight-fest-step0403@2x.webp)
 
 ---
 
@@ -48,7 +49,7 @@ Visit the **Box Crafter NPC** in the event area.
 Defeat mobs in the Twilight Dungeon to collect tickets for event shops and the **Wheel of Fortune**.
 **No Penalties:** You won't lose experience if you die.
 
-![Placeholder](img/10002.png)
+![Placeholder](img/twilight-fest-step0304@2x.webp)
 
 ---
 
@@ -59,13 +60,12 @@ Use special Festival Tickets dropped from mobs to spin the Wheel and earn exclus
 !!! info "Wheel Cost"
     Each spin costs **1,000,000 Zeny** and **1 Festival Ticket**. Free spins can also drop from the wheel.
 
-![Placeholder](img/10002.png)
+![Placeholder](img/twilight-fest-step0205@2x.webp)
 
 ??? note "Wheel Schedule"
     The wheel starts at **06:00**, **09:00**, **12:00**, **15:00**, **18:00**, **21:00**, **00:00** and **03:00** server time.
 
 =======
-![Placeholder](img/10002.png)
 
 
 ---
@@ -73,5 +73,5 @@ Use special Festival Tickets dropped from mobs to spin the Wheel and earn exclus
 ## 6. Visit Event Shops
 Exchange your tickets for powerful items and costumes. Multiple event shops are available in the event area.
 
-![Placeholder](img/10002.png)
+![Placeholder](img/twilight-shops@2x.webp)
 
