@@ -45,9 +45,6 @@ Visit the **Box Crafter NPC** in the event area.
 - Equip both Rental Scuba Mask and Rental Oxygen Tank
 - 10,000 Zeny per warp
 
-!!! note "PvP Enabled"
-    You won't lose experience if you die in this dungeon.
-
 ![Lasagna Enter](img/twilight-fest-step0403@2x.webp)
 
 ---
