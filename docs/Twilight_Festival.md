@@ -46,7 +46,9 @@ Visit the **Box Crafter NPC** in the event area.
 - 10,000 Zeny per warp
 
 !!! note "PvP Enabled"
-    You won't lose experience if you die in this dungeon.
+    You won't lose experience if you die in this dungeon.  
+    We’ve kept the PvP setting from last year's event for consistency. However, we’ll monitor feedback closely — if it leads to significant negative experiences, we may reconsider the PvP status for this location.
+
 
 ![Lasagna Enter](img/twilight-fest-step0403@2x.webp)
 
