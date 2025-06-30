@@ -369,6 +369,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 <div class="grid cards" markdown>
 
+-   
 
     [:octicons-arrow-right-24: Attendance System](Attendance_System.md)
 
@@ -412,6 +413,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
     [:octicons-arrow-right-24: Hugel Mini Game](Hugel-Mini-Game.md)
     
+-   
 
     [:octicons-arrow-right-24: Card Exchange](Card_Exchange.md)
 
@@ -440,6 +442,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
   
     [:octicons-arrow-right-24: Horror Toy Factory ](Horror-Toy-Factory.md)
 
+- 
 
     [:octicons-arrow-right-24: Server Info](Server_info.md)
 
