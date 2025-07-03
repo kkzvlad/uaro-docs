@@ -7,10 +7,12 @@ hide:
 
 ## **Contents**
 
-1. [Available Pets](#available-non-evolved-pets)
-2. [Taming Items](#taming-items)
-3. [Pet Evolution](#pet-evolution)
-4. [Available Evolved Pets](#available-evolved-pets)
+- [Pet System](#pet-system)
+  - [**Contents**](#contents)
+  - [**Available Non-evolved Pets**](#available-non-evolved-pets)
+  - [**Taming Items**](#taming-items)
+  - [**Pet Evolution**](#pet-evolution)
+  - [**Available Evolved Pets**](#available-evolved-pets)
 
 ## **Available Non-evolved Pets**
 
@@ -75,6 +77,10 @@ hide:
 | ![1208](img/1208.gif) Wanderer | ![Pet Food](img/537.png) Pet Food | ![14574](img/14574.gif) Vagabond's Skull | None | AGI +3, DEX +1. | 10% |
 | ![1179](img/1179.gif) Whisper | - | ![12363](img/12363.gif) Ghost Coffin | - | FLEE + 7. | 5% |
 | ![2210](img/2210.gif) Christmas Snow Rabbit | ![Candy](img/529.gif) Candy | 2024 Christmas Event Special | None | Increases EXP by 3% from all mobs. | Event |
+| ![21089](img/Pet-System/21089.png) Wandering Duck Doll | ![Pet Food](img/537.png) Pet Food | 2025 Summer Event Special | None | Perfect Hit +10  | Event |
+| ![20574](img/Pet-System/20574.png) Mutating White Knight | ![Pet Food](img/537.png) Pet Food | None | None | ATK +2%, MATK +2% | Exchange |
+| ![1782](img/Pet-System/1782.gif) Roween | ![Pet Food](img/537.png) Pet Food | None | None | MATK +3%. | Obtained from monsters |
+| ![1782](img/Pet-System/1198.gif) Dark Priest | ![Pet Food](img/537.png) Pet Food | None | None | INT +4. | Obtained from monsters |
 
 !!! note
     Pet Capture Rates<br>
@@ -109,6 +115,10 @@ The vast majority of taming items drop from monsters according to the RMS databa
 | **Egg**                                           | **Obtained From**                             |
 |---------------------------------------------------|-----------------------------------------------|
 | ![Phreeoni Egg](img/9111.gif) Phreeoni Egg | Phreeoni with a 0.09% chance                  |
+| ![Wandering Duck Doll Egg](img/Pet-System/9125.png) Wandering Duck Doll Egg | 3 Event Token (**2025 Twilight Festival**) at "Robert" Event token NPC redemption in Main Office |
+| ![9133](img/Pet-System/9133.gif) Mutating White Knight Egg | [NPC Pascal](Old-Glast-Heim.md) |
+| ![Roween Egg](img/Pet-System/9104.gif) Roween Egg | Galion with a 0.03% chance |
+| ![Dark Priest Egg](img/Pet-System/9133.gif) Dark Priest Egg | Dark illusion with a 0.09% and Dark Lord with a 0.9% chance |
 
 ---
 
@@ -152,6 +162,13 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![Baby Desert Wolf](img/1107.gif) Baby Desert Wolf | ![Card](img/Card.gif) Desert Wolf Card - 1<br> ![628](img/628.gif) Well-Dried Bone - 3<br> ![7030](img/7030.gif) Claw of Desert Wolf - 300<br> ![919](img/919.gif) Animal Skin - 20 | ![1106](img/1106.gif) Desert Wolf |
 | ![Nightmare Terror](img/1379.gif) Nightmare Terror | ![7120](img/7120.gif) Burning Horseshoe - 1000<br> ![510](img/510.gif) Blue Herb - 100<br> ![935](img/935.gif) Shell - 100<br> ![Card](img/Card.gif) Nightmare Terror Card - 10 | ![20373](img/20373.gif) Rigid Nightmare Terror |
 | ![1208](img/1208.gif) Wanderer | ![Card](img/Card.gif) Wanderer card - 3<br> ![7005](img/7005.gif) Skull - 500<br> ![1009](img/1009.gif) Hand of God - 50<br> ![1059](img/1059.gif) Fabric - 100 | ![20420](img/20420.gif) Contaminated Wanderer |
+| ![20574](img/Pet-System/20574.png) Mutating White Knight | ![7539](img/7539.gif) Poring Coin - 1000<br> ![Card](img/Card.gif) Abysmal Knight card - 3<br> ![7023](img/Pet-System/7023.gif) Blade Lost in Darkness - 100<br> ![1064](img/Pet-System/1064.gif) Reins - 1000<br> | ![4_WHITEKNIGHT](img/OGH/4_WHITEKNIGHT.gif) White Knight |
+| ![20574](img/Pet-System/20574.png) Mutating White Knight | ![7539](img/7539.gif) Poring Coin - 1000<br> ![Card](img/Card.gif) Abysmal Knight card - 3<br> ![7023](img/Pet-System/7023.gif) Blade Lost in Darkness - 100<br> ![1064](img/Pet-System/1064.gif) Reins - 1000<br> | ![2470](img/OGH/2470.gif) Abysmal Knight |
+| ![Wild Rose](img/1586.gif) Wild Rose | ![7198](img/Pet-System/7198.gif) Huge Leaf - 500<br> ![7206](img/Pet-System/7206.gif) Black Cat Doll - 200<br> ![7206](img/Pet-System/1023.gif) Fish Tail - 200<br> ![Card](img/Card.gif) Leaf Cat Card - 10 | ![Wild Rose](img/Pet-System/1261.gif) Wild Rose |
+| ![Wild Rose](img/Pet-System/1261.gif) Wild Rose | ![Card](img/Card.gif) Leaf Cat Card - 10 <br> ![Card](img/Card.gif) Wild Rose Card - 10 <br> ![1030](img/Pet-System/1030.gif) Tiger's Footskin - 20 <br> ![7539](img/7539.gif) Poring Coin - 1000 | ![Eddga](img/Pet-System/1115.gif) Eddga |
+| ![1198](img/Pet-System/1198.gif) Dark Priest | ![7539](img/7539.gif) Poring Coin - 1000<br> ![7005](img/7005.gif) Skull - 1000<br> ![Card](img/Card.gif) Wraith Card - 5<br> ![Card](img/Card.gif) Ghoul Card - 5<br> | ![1302](img/Pet-System/1302.gif) Dark Illusion |
+| ![1302](img/Pet-System/1302.gif) Dark Illusion | ![7539](img/7539.gif) Poring Coin - 1000<br> ![Card](img/Card.gif) Evil Druid Card - 10<br> ![Card](img/Card.gif) Wraith Card - 10<br> ![Card](img/Card.gif) Ghoul Card - 10<br> | ![1302](img/Pet-System/1272.gif) Dark Lord |
+| ![Golem](img/1040.gif) Golem | ![7539](img/7539.gif) Poring Coin - 1000<br> ![12371](img/Pet-System/12371.gif) Magical Lithography - 3<br> ![12371](img/Pet-System/990.gif) Blood Red - 50<br> ![Card](img/Card.gif) Golem Card - 3 | ![Fire Golemm](img/Pet-System/3023.gif) Fire Golem |
 
 ## **Available Evolved Pets**
 
@@ -192,3 +209,10 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![1087](img/1087.gif) Orc Hero | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | ATK +40.<br> Increases critical damage by 1%. | ATK +50.<br> Increases critical damage by 3%. |
 | ![20373](img/20373.gif) Rigid Nightmare Terror | ![Pet Food](img/537.png) Pet Food | None | None | None | INT +3, MaxSP +1%.<br> Prevents Sleep status. | INT +4, MaxSP +3%.<br> Prevents Sleep status. |
 | ![20420](img/20420.gif) Contaminated Wanderer | ![Pet Food](img/537.png) Pet Food | None | None | None | AGI +4, CRIT +2.<br> Increases critical damage by 5%. | AGI +4, CRIT +3.<br> Increases critical damage by 7%. |
+| ![4_WHITEKNIGHT](img/OGH/4_WHITEKNIGHT.gif) White Knight | ![Pet Food](img/537.png) Pet Food | None | None | None | MATK +4%, Increase magic damage on Boss monster by 3%.  | MATK +5%, Increase magic damage on Boss monster by 5%. |
+| ![2470](img/OGH/2470.gif) Abysmal Knight | ![Pet Food](img/537.png) Pet Food | None | None | None | ATK +4%, Increase physical damage on Boss monster by 3%.  | ATK +5%, Increase physical damage on Boss monster by 5%. |
+| ![Wild Rose](img/Pet-System/1261.gif) Wild Rose | ![Pet Food](img/537.png) Pet Food | None | None | None | Increases ASPD by 3%, CRIT +5. | Increases ASPD by 5%, CRIT +7. |
+| ![Eddga](img/Pet-System/1115.gif) Eddga | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | Increases ASPD by 8%, CRIT +12. | Increases ASPD by 10%, CRIT +15. |
+| ![1302](img/Pet-System/1302.gif) Dark Illusion | ![Pet Food](img/537.png) Pet Food | None | None | None | INT +3, Reduces Variable Cast Time by 3%. | INT +4, Reduces Variable Cast Time by 5%. |
+| ![1302](img/Pet-System/1272.gif) Dark Lord | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | INT +4, Reduces Variable Cast Time by 7%, Reduces After Cast Delay by 5%. | INT +5, Reduces Variable Cast Time by 10%, Reduces After Cast Delay by 10%.|
+| ![Fire Golemm](img/Pet-System/3023.gif) Fire Golem | ![Pet Food](img/537.png) Pet Food | None | None | None | MAXHP +400, Increases magical damage with Fire element by 3%. | MAXHP +500, Increases magical damage with Fire element by 5%. |

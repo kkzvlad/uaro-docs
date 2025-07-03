@@ -6,8 +6,9 @@ title: "Patch Notes - 07 January 2025"
 
 | №  | Date       | Link                                       |
 |----|------------|--------------------------------------------|
-| 1  | 05.12.2025 | [Patch Note Detail](patches05122025.md)    |
-| 2  | 05.20.2025 | [Patch Note Detail](patches05202025.md)    |
+| Lasted | 06.25.2025 | [Patch Note Detail](patches06252025.md)    |
+| 1  | 05.20.2025 | [Patch Note Detail](patches05202025.md)    |
+| 2  | 05.12.2025 | [Patch Note Detail](patches05122025.md)    |
 | 3  | 04.18.2025 | [Patch Note Detail](patches04182025.md)    |
 | 4  | 04.10.2025 | [Patch Note Detail](patches10042025.md)    |
 | 5  | 03.21.2025 | [Patch Note Detail](patches21032025.md)    |
