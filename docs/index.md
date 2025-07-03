@@ -368,71 +368,69 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 ## All Features
 
 <div class="grid cards" markdown>
+
 -   
 
- [:octicons-arrow-right-24: Attendance System](Attendance_System.md)
+    [:octicons-arrow-right-24: Attendance System](Attendance_System.md)
 
-[:octicons-arrow-right-24: Hourly Rewards System](Hourly_Rewards_System.md)
+    [:octicons-arrow-right-24: Hourly Rewards System](Hourly_Rewards_System.md)
 
-[:octicons-arrow-right-24: Custom NPC](Custom_NPC.md)
+    [:octicons-arrow-right-24: Custom NPC](Custom_NPC.md)
 
-[:octicons-arrow-right-24: Main Office](Main_Office.md)
+    [:octicons-arrow-right-24: Main Office](Main_Office.md)
 
-[:octicons-arrow-right-24: Warper System](Warper_System.md)
+    [:octicons-arrow-right-24: Warper System](Warper_System.md)
 
-[:octicons-arrow-right-24: Hunting Mission](Hunting_Mission.md)
+    [:octicons-arrow-right-24: Hunting Mission](Hunting_Mission.md)
 
-[:octicons-arrow-right-24: Pet System](Pet_System.md)
+    [:octicons-arrow-right-24: Pet System](Pet_System.md)
     
-[:octicons-arrow-right-24: Headgear Quest](Dimonka_Headgear_Quest.md)
+    [:octicons-arrow-right-24: Headgear Quest](Dimonka_Headgear_Quest.md)
 
-[:octicons-arrow-right-24: WoE](WoE.md)
+    [:octicons-arrow-right-24: WoE](WoE.md)
 
     [:octicons-arrow-right-24: Pre-Trans WoE](Pre-Trans-WoE.md)
     
-
-
     [:octicons-arrow-right-24: Hugel Mini Game](Hugel-Mini-Game.md)
     
 -   
 
     [:octicons-arrow-right-24: Card Exchange](Card_Exchange.md)
 
+    [:octicons-arrow-right-24: Costume Converter](Costume_Converter.md)
 
-[:octicons-arrow-right-24: Costume Converter](Costume_Converter.md)
+    [:octicons-arrow-right-24: Repeatable Quests](expquests.md)
 
-[:octicons-arrow-right-24: Repeatable Quests](expquests.md)
+    [:octicons-arrow-right-24: How to Start](How_to_start.md)
 
-[:octicons-arrow-right-24: How to Start](How_to_start.md)
+    [:octicons-arrow-right-24: Modified Sales Prices](Modified_sales_prices.md)
 
-[:octicons-arrow-right-24: Modified Sales Prices](Modified_sales_prices.md)
-
-[:octicons-arrow-right-24: Remastered Novice Location](Remastered_novice_location.md)
+    [:octicons-arrow-right-24: Remastered Novice Location](Remastered_novice_location.md)
      
-[:octicons-arrow-right-24: Vendor System](Vendor-System.md)
+    [:octicons-arrow-right-24: Vendor System](Vendor-System.md)
             
-[:octicons-arrow-right-24: Auto Events](Auto-Event.md)
+    [:octicons-arrow-right-24: Auto Events](Auto-Event.md)
 
-[:octicons-arrow-right-24: Endless Cellar](Endless-Cellar.md)
+    [:octicons-arrow-right-24: Endless Cellar](Endless-Cellar.md)
 
-[:octicons-arrow-right-24: Old Glast Heim](Old-Glast-Heim.md)
+    [:octicons-arrow-right-24: Old Glast Heim](Old-Glast-Heim.md)
   
     [:octicons-arrow-right-24: Horror Toy Factory ](Horror-Toy-Factory.md)
 
 - 
 
-[:octicons-arrow-right-24: Server Info](Server_info.md)
+    [:octicons-arrow-right-24: Server Info](Server_info.md)
 
-[:octicons-arrow-right-24: Server Rules](Server_rules.md)
+    [:octicons-arrow-right-24: Server Rules](Server_rules.md)
 
-[:octicons-arrow-right-24: Beginner Guide](The_Beginner's_Guide.md)
+    [:octicons-arrow-right-24: Beginner Guide](The_Beginner's_Guide.md)
 
-[:octicons-arrow-right-24: TroubleShooting](Troubleshooting.md)
+    [:octicons-arrow-right-24: TroubleShooting](Troubleshooting.md)
         
-[:octicons-arrow-right-24: Commands](Commands.md)
+    [:octicons-arrow-right-24: Commands](Commands.md)
     
-[:octicons-arrow-right-24: Donations](Donations.md)
+    [:octicons-arrow-right-24: Donations](Donations.md)
         
-[:octicons-arrow-right-24: FAQ](FAQ.md)
+    [:octicons-arrow-right-24: FAQ](FAQ.md)
 
 </div>
