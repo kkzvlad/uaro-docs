@@ -21,4 +21,4 @@ The entrance to Bio Laboratory 4 is located in the bottom-right corner of the Bi
 | ![2226](img/Biolaba4/2226.gif) Alphoccio |  | @mi 2226 |
 | ![2227](img/Biolaba4/2227.gif) Trentini |  | @mi 2227 |
 
-## Ghost Chill and Blood Thirst
+## Ghost Chill and Blood Thirst!
