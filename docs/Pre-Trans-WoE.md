@@ -7,12 +7,20 @@ hide:
 
 ## Contents
 
-1. [Overview](#overview)
-2. [Schedule](#schedule)
-3. [Treasure Chest Drop](#treasure-chest-drop)
-4. [Token System](#token-system)
-5. [WoE Mechanics](#woe-mechanics)
-6. [Item Block Lists](#item-block-lists)
+- [Pre-Trans WoE](#pre-trans-woe)
+	- [Contents](#contents)
+	- [Overview](#overview)
+	- [Schedule](#schedule)
+		- [Saturday](#saturday)
+			- [Available Castles](#available-castles)
+	- [Treasure Chest Drop](#treasure-chest-drop)
+	- [Token System](#token-system)
+	- [WoE Mechanics](#woe-mechanics)
+	- [Item Block Lists](#item-block-lists)
+		- [Card Restrictions:](#card-restrictions)
+		- [Consumables Restrictions:](#consumables-restrictions)
+		- [Gear Restrictions:](#gear-restrictions)
+		- [Skill Restrictions:](#skill-restrictions)
 
 ## Overview
 
@@ -34,8 +42,9 @@ On our server, WoE takes place every Sunday and lasts for one hour.<br>
 
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
-| Skoegul. Prontera | ![Prontera Castle](img/Pre-Trans-WoE/Prontera-Skoegul.png) | [![Skoegul Room](img/Skoegul-EmpRoom.png){width=500 height=400}](img/Skoegul-EmpRoom.png) | ![Prontera Dun](img/Prontera-Dun.png) |
-<!--| Rothenburg. Aldebaran | ![Aldebaran Castle](img/Pre-Trans-WoE/Aldebaran-Rothenburg.png) | [![Skoegul Room](img/Rothenburg-EmpRoom.png){width=500 height=400}](img/Rothenburg-EmpRoom.png) | ![Aldebaran Dun](img/Aldebaran-Dun.png) | -->
+| Yesnelph. Geffen | ![Geffen Castle](img/WoE/Geffen-Yesnelph.png) | [![Yesnelph Room](img/WoE/Geffen-Yesnelph-EmpRoom.jpg){width=500 height=400}](img/WoE/Geffen-Yesnelph-EmpRoom.jpg) | ![Geffen Dun](img/WoE/Geffen-Dun.png) |
+<!--| Skoegul. Prontera | ![Prontera Castle](img/WoE/Prontera-Skoegul.png) | [![Skoegul Room](img/WoE/Prontera-Skoegul-EmpRoom.png){width=500 height=400}](img/WoE/Prontera-Skoegul-EmpRoom.png) | ![Prontera Dun](img/WoE/Prontera-Dun.png) |
+| Rothenburg. Aldebaran | ![Aldebaran Castle](img/Pre-Trans-WoE/Aldebaran-Rothenburg.png) | [![Skoegul Room](img/Rothenburg-EmpRoom.png){width=500 height=400}](img/Rothenburg-EmpRoom.png) | ![Aldebaran Dun](img/Aldebaran-Dun.png) | -->
 
 !!! note
     Castle rotations happen periodically as well as total active castle numbers based on WoE population and is subject to change.
@@ -44,8 +53,9 @@ On our server, WoE takes place every Sunday and lasts for one hour.<br>
 
 | Castle Name. Town  | Treasure Chest 1 | Treasure Chest 2 |
 |--------------------|------------------|------------------|
-| Skoegul. Prontera | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![6919](img/6919.gif) Token of Honor - 0.25%<br> ![1158](img/1158.gif) Two-Handed Sword [2] - 35%<br> ![2404](img/2404.gif) Shoes [1] - 40%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
-<!-- | Rothenburg. Aldebaran | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![1238](img/1238.gif) Zeny Knife - 9%<br> ![616](img/616.gif) Mystical Card Album - 0.01% | -->
+| Yesnelph. Geffen | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 15%<br> ![Jewelry Box](img/12106.gif) Jewelry Box - 2%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![616](img/616.gif) Old Card Album - 25% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 15%<br> ![6919](img/6919.gif) Token of Honor - 0.25%<br> ![6443](img/6443.gif) Silit Pong - 0.03%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+<!--| Skoegul. Prontera | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![6919](img/6919.gif) Token of Honor - 0.25%<br> ![1158](img/1158.gif) Two-Handed Sword [2] - 35%<br> ![2404](img/2404.gif) Shoes [1] - 40%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+| Rothenburg. Aldebaran | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![1238](img/1238.gif) Zeny Knife - 9%<br> ![616](img/616.gif) Mystical Card Album - 0.01% | -->
 
 ## Token System
 
@@ -207,15 +217,15 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
     ![607](img/607.gif) Yggdrasil Berry<br>
     ![608](img/608.gif) Yggdrasil Seeds<br>
     ![12192](img/12192.gif) Pumpkin Pie<br>
-	![12016](img/Pre-Trans-WoE/12016.gif) Speed Potion<br>
-	![12188](img/Pre-Trans-WoE/12188.gif) Grace Moon Cake<br>
-	![12118](img/Pre-Trans-WoE/12118.gif) Fireproof Potion<br>
-	![12119](img/Pre-Trans-WoE/12119.gif) Coldproof Potion<br>
-	![12120](img/Pre-Trans-WoE/12120.gif) Earthproof Potion<br>
-	![12121](img/Pre-Trans-WoE/12121.gif) Thunderproof Potion<br>
-	![12354](img/Pre-Trans-WoE/12354.gif) Buche De Noel<br>
-	![12321](img/Pre-Trans-WoE/12321.gif) Arunafeltz Desert Sandwich<br>
-	![12319](img/Pre-Trans-WoE/12319.gif) Rune Strawberry Cake<br>
+	![12016](img/WoE/12016.gif) Speed Potion<br>
+	![12188](img/WoE/12188.gif) Grace Moon Cake<br>
+	![12118](img/WoE/12118.gif) Fireproof Potion<br>
+	![12119](img/WoE/12119.gif) Coldproof Potion<br>
+	![12120](img/WoE/12120.gif) Earthproof Potion<br>
+	![12121](img/WoE/12121.gif) Thunderproof Potion<br>
+	![12354](img/WoE/12354.gif) Buche De Noel<br>
+	![12321](img/WoE/12321.gif) Arunafeltz Desert Sandwich<br>
+	![12319](img/WoE/12319.gif) Rune Strawberry Cake<br>
 	![12320](img/607.gif) Schwarzwald Pine Jubilee<br>
     - All Stats Foods
 
@@ -517,6 +527,6 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 
 ### Skill Restrictions:
 
-![bd_rokisweil](img/bd_rokisweil.gif) Loki's Veil<br>
-![tk_highjump](img/tk_highjump.gif) High Jump<br>
-![tk_highjump](img/Pre-Trans-WoE/hp_assumptio.gif) Assumptio<br>
+![bd_rokisweil](img/WoE/bd_rokisweil.gif) Loki's Veil<br>
+![tk_highjump](img/WoE/tk_highjump.gif) High Jump<br>
+![tk_highjump](img/WoE/hp_assumptio.gif) Assumptio<br>

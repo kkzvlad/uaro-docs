@@ -1,17 +1,19 @@
 # Commands
 
 ## Contents
-1. [System Commands](#system-commands)
-2. [Database Commands](#database-commands)
-3. [Player Information Commands](#player-information-commands)
-4. [Ranking Commands](#ranking-commands)
-5. [Action Commands](#action-commands)
-6. [Guild Commands](#guild-commands)
-7. [Homunculus Commands](#homunculus-commands)
-8. [Battleground Commands](#battleground-commands)
-9. [Duel Commands](#duel-commands)
-10. [Channel Commands](#channel-commands)
-11. [Lite Graphics Plugin (LGP) Commands](#lite-graphics-plugin-lgp-commands)
+- [Commands](#commands)
+  - [Contents](#contents)
+  - [System Commands](#system-commands)
+  - [Database Commands](#database-commands)
+  - [Player Information Commands](#player-information-commands)
+  - [Ranking Commands](#ranking-commands)
+  - [Action Commands](#action-commands)
+  - [Guild Commands](#guild-commands)
+  - [Homunculus Commands](#homunculus-commands)
+  - [Battleground Commands](#battleground-commands)
+  - [Duel Commands](#duel-commands)
+  - [Channel Commands](#channel-commands)
+  - [Lite Graphics Plugin (LGP) Commands](#lite-graphics-plugin-lgp-commands)
 
 ## System Commands
 
@@ -130,6 +132,9 @@ Enables or disables autolooting items from killed mobs. UI for Easy Autoloot Cus
 The `@killcount` command has been **rewritten** and now includes a **UI-based tracking system**.  
 Now allows tracking of **multiple monsters** (default: `5`).  
 ![KillcountUI](img/@killcountUI.png)
+
+- `@mapexp`<br>
+The @mapexp command introduces a rotating bonus EXP zone that updates every 48 to 72 hours. During this period, selected areas grant an additional 20–30% EXP.  
 
 ## Ranking Commands
 

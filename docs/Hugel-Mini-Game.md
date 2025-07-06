@@ -9,9 +9,11 @@ Looking for a fun way to spend some zeny in Hugel? 🎲 Try your luck with the M
 
 Buy a Monster Ticket for 2,000z per race.
 
-Singles win: ![Prize Medal](img/Hugel-Mini-Games/7515.gif) Prize Medals - 4
+Singles Race win: ![Prize Medal](img/Hugel-Mini-Games/7515.gif) Prize Medals - 4  
+Dual Race win: ![Prize Medal](img/Hugel-Mini-Games/7515.gif) Prize Medals - 15  
 
-While the chances of winning singles are 1 in 6!
+While the chances of winning singles are 1 in 6!  
+While the chances of winning duals are 1 in 15!  
 
 👾 Who’s Racing?
 

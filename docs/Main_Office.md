@@ -24,8 +24,6 @@ So come on down to Main Office and see what we have to offer! We're here to help
 | ![Lydia](img/4_F_NFLOSTGIRL.gif) | Head over to NPC **Lydia** and exchange your Poring Coin for a variety of [valuable items](Poring_Coins_System.md). It's a great way to get your hands on some essential gear and enhance your gaming experience. |
 | ![Dimonka](img/4_F_JP_NOAH.gif) | **Dimonka** NPC trades your loots and Poring Coin for [valuable headgear](Dimonka_Headgear_Quest.md). |
 | ![Katryn](img/4_F_GELKA.gif) | **Katryn** NPC exchanges your Poring Coin for unique costumes. |
-| ![Platinum Stylist](img/4_M_OILMAN.gif) | With just 2 [Cash Coins](Donations.md), our **Platinum Stylist** can help you revamp your character's look by customizing their outfit colors. Express your individuality and create a style that's uniquely you. |
-| ![Dyeinger](img/2_M_DYEINGER.gif) | Visit our talented **Stylist** and let them work their magic on your hairstyle and hair color. Express your individuality with a new look that's all your own. |
 | ![Reset Girl](img/4_F_ACOLYTE.gif) | Our friendly **Reset Girl** NPC can help you reallocate your stats or skills for a small fee. The cost depends on your character base level, with higher levels requiring a slightly higher fee. |
 | ![Platinum Skill](img/1_F_01.gif) | **Platinum Skill** NPC can give you the special skills available to your job. |
 | ![Lottery](img/1_F_ORIENT_02.gif) | **Lottery** NPC can give you opportunity to participate in a daily lottery and win a **500kk jackpot.** [Details here!](Lottery-NPC.md) |

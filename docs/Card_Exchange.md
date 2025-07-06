@@ -18,4 +18,12 @@ In Prontera nearby with Main Office (**/navi prontera 130/192**) you can find NP
 
 Enter the Name of Card (png)
 
-**Note**: Be careful when you enter the name of cards, some cards' official names will not reflect their ingame description.
+**Note**: Be careful when you enter the name of cards, some cards' official names will not reflect their ingame description.  
+
+
+## Blacklisted cards from the Card Exchange  
+![Card](img/Card.gif) Thief Bug Card  
+![Card](img/Card.gif) Female Thief Bug Card  
+![Card](img/Card.gif) Male Thief Bug Card  
+![Card](img/Card.gif) Tarou Card  
+![Card](img/Card.gif) Plankton Card  
