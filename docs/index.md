@@ -13,6 +13,25 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 !!! patchnotes
 
+    === "July 7"
+
+        <div class="badge">July 7</div>
+
+        ```markdown
+        - @whobuy/@whosell UI restored with improvements
+        - Hunting Mission EXP preview, party range boost
+        - Elven Bow [0]/[1] + Elven Arrows added
+        - Delay config fixes + BG pot reuse delay
+        - Surf Board/Poring Aura in Event Wheel
+        - Deviling Coin event + vending rewards
+        ```
+
+        [:octicons-arrow-right-24: Full Patch Notes](patches07072025.md)
+
+        <br/>
+
+        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+
     === "June 25"
 
         <div class="badge">June 25</div>
