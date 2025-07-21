@@ -18,7 +18,8 @@ In Prontera nearby with Main Office (**/navi prontera 130/192**) you can find NP
 
 Enter the Name of Card (png)
 
-**Note**: Be careful when you enter the name of cards, some cards' official names will not reflect their ingame description.  
+!!! note
+      Be careful when you enter the name of cards, some cards' official names will not reflect their ingame description.  
 
 
 ## Blacklisted cards from the Card Exchange  
