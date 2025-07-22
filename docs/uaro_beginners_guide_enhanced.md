@@ -118,7 +118,6 @@ It also has a very detailed, player made FAQ resource.
 
 ### uaRO Wiki
 There is interesting information in it, and it will improve further soon. Recommendations to read.  
-
 **[Main page](https://wiki.uaro.net/site/)**
 
 
@@ -214,7 +213,7 @@ First decide which class you want to take. Then create a new Character, choose n
 **[ More informarion about Novice Ground ](Remastered_novice_location.md)**
 
 ### First Class Job Change Quest
-Every class article in iRO Wiki has a job change guide included. If you prefer a video instead go to youtube and search for “ragnarok online CLASS job change”. Follow the guide and change your job.
+Every class article in iRO Wiki has a job change guide included. If you prefer a video instead go to youtube and search for “ragnarok online CLASS job change”. Follow the guide and change your job.  
 [**Classes Job List**](https://irowiki.org/classic/Classes):
 
 
@@ -229,45 +228,9 @@ There exist three types of Mercenaries:
 - Spearman. You get them in Prontera, they have high defense and good HP regeneration.  
 - Bowman. You get them one map above Payon, they have decent damage and ranged attacks, but not much defense.  
 - Fencer. You get them in Izlude, they have some flee but less defense and regeneration as spearman does.  
+
+**[ More informarion about Mercenaries ](Mercenary-System.md)**
   
-**Create Mercenaries wiki page**
-<!--
-### Mercenary AI
-You can follow this guide, it worked perfectly for me: 
-Or you can download it from GitHub using this: 
-If you have trouble with it, ask in the uaRO Discord, either General, Support or Merchant channels are fine for it.
-Hint: To change the AI settings, go to your RO folder and open the … \uaRO\AI\USER\_AI\AzzyAIConfig.exe
-Hint: Put a shortcut to it on your desktop or elsewhere.
-To change between custom and basic AI, type /merai in your in-game chat. The Chat tells you what AI will be active.
-**Link to download AIs**
-
-### Mercenary Commands
-Keep the ALT key pressed and click on the ground or a target to order your mercenary to move there or attack it.
-The combination ALT + R will open the Mercenary Stat Window. You can dismiss it, if you want to get a new one or just get rid of it. But you can as well open the Skill window. If you put a Skill of it on your skill bar you can use it just like your own skills. Using an aggressive Skill is a good way to command it to attack, too.
-The best way to command your Mercenary is your AI. The basic AI attacks if you or they get attacked, or you command them to do so. They won’t use skills. Custom AIs usually are set as aggressive by default until they fall under a special HP threshold. They use skills on their own which is a huge increase in kill speed. Set the settings as you want them to be. If you read something about “dancing” I recommend you deactivate this.
-
-### Mercenary Levels
-Your base level determines which level of Mercenary you can buy: It needs to be Scrolllevel x 10 + 5 to buy the scroll. So you need to be level 15 to buy a level 1 Scroll, and level 25 to buy a level 2 Scroll, and so on. Short said: The higher the better. For details about skills and stats take a look in iRO Wiki.
-
-### Mercenary Strategies
-Mercenaries provide two main uses for you. They can take and deal damage. One point you will always keep in mind when choosing a strategy: Do. Not. Die.
-If you die, your mercenary run away, you have to go back to the map, and so on. Both is annoying. Just don’t die. It’s better and cheaper to use some potions instead. If a situation becomes risky, use a Fly Wing. 
-There are four main strategies you can use:
-5.4.5.1. Let the Mercenary do everything
-This is recommended in lower levels. Spearman Mercenaries are well suited for it, they can survive in areas like Culverts 2 and Spores (1 map below payon) well. A level 3 Spearman can easily survive Wolfes. A level 2 can at least survive for a while and give you some great exp.
-You want to set your AI as aggressive (Aggro HP: 1-10). It is okay if it dies, as long as it provided enough found for you to buy a new one. As Thief class you have little chances to heal, except using Mercenary Potions. Waiting for it to regenerate HP most likely is a waste of time. Do this if you lack only a few steps to your next x5 level.
-5.4.5.2. Let your Mercenary tank for you and deal damage
-This is well suited when you want to attack on range. If you attack in melee, there is a chance the enemy will switch and attack you instead.
-5.4.5.3. Tank for your Mercenary and let it deal (additional) damage
-This is well suited when you have either good equip (for example flat +HP things like Pupa or Remover Card; combined with potions) or flee or another possibility to tank the monster while your Mercenary deals damage to it and don’t be attacked in return. The Bowman Mercenaries are good for this, because they can attack from distance and the mob won’t switch.
-You want to set your AI as defensive (Aggro HP: 100), so it only attacks by itself if you get attacked, or command it to do so.
-5.4.5.4. The Lazy Archer
-Buy a Bowman Mercenary and go to Geographer. Search a single one (they heal each other) and let it kill. They will die slowly but can’t move and don’t be much of a threat to you. This can be done well after your base level is 55 and you can purchase a lvl 5 Bowman. They have enough Hit to hit and deal some Damage with DS 5. Before you might go to Floras instead, but care for aggressive Monsters around them.
-Hint: If you go for Geographer, here is an instant respawn Point:
-
-### Mercenary Potions
-Mercenary Concentration and Awakening (for level 4+ scrolls) are a useful investment, just as for you. Mercenary Red and Blue Potions are situational. They can provide quite a boost, but are somehow expensive especially for beginners, too. But it is always better to use a Merc. Red Pot instead of buying a new one.
--->
 ### 15 - 35
 After your job change, talk to the Kafra and warp to Prontera. We have 2 things to do there:
 1. Enter the Main Office (south-west from prontera fountain; left to where you spawn) and talk to the Platinum Skill NPC. You will receive the Quest Skills without further quest. At least Back Slide is something you might need.
@@ -345,7 +308,6 @@ A bit later:
 ### Second Class Job Change Quest  
 
 Once you hit Job 40 you can change to your second class. Change as soon as you have all necessary first class skills.  
-
 [**Classes Job List**](https://irowiki.org/classic/Classes)  
 
 Every class article in iRO Wiki has a job change guide included. If you prefer a video instead go to youtube and search for “ragnarok online CLASS job change”. Follow the guide and change your job.
@@ -411,19 +373,8 @@ To open a buying store, you need to do that quest **[ More informarion about Buy
 
 ### Navigation System and World Map  
 
-**Create Navigator System wiki page**
+**[ More informarion about Navigation System and World Map ](Navigation-System.md)**  
 
-<!--
-The navigation System is the fifth icon in the second row. Click on it and search what you are looking for, may it be a monster or a map name (it doesn’t seem to work with NPC names). Select the Map you want to go and click on “Find”. A window will appear that shows you where to go on your map, as well as yellow arrows on the ground that show you the fastest direct way.
-
-Using Teleport or Fly wings still might be faster! It does not take Kafra Teleport or other things into account, only the fastest walking route.
-If you open your World Map, either the fourth Icon in the second row or pressing **CTRL + ´**, you can see the path over the maps.
-
-As you can see it will be faster to teleport from Prontera to Payon first, because it is much closer.
-Hint: If you get the message “failed to find a path” in your chat, there is no direct connection to the map. Most of the times you need to use an NPC, like a Boatman, to reach your destination. 
-Hint 2: By using the command /navi mapname X/Y in your chat you can set your navigation system to lead you to a specific cell. This is useful to find specific NPCs. Example: /navi prontera 41/337 
-Hint 3: If you want to survey the World Map I recommend using the RMS Site instead of the ingame tool: 
--->
 ### Bank System
 
 The second icon in the third row, or CTRL + B. You can store and transfer Zeny between all your characters without a fee to everywhere. I recommend having at least some Zeny on every character to use services like Kafra Storage and Teleport, but to store the main Zeny in your bank account, so you can access it easily at any time.
