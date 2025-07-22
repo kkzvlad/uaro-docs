@@ -437,6 +437,8 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
     [:octicons-arrow-right-24: Old Glast Heim](Old-Glast-Heim.md)
   
     [:octicons-arrow-right-24: Horror Toy Factory ](Horror-Toy-Factory.md)
+ 
+    [:octicons-arrow-right-24: Mercenary System ](Mercenary-System.md)  
 
 - 
 
@@ -444,7 +446,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
     [:octicons-arrow-right-24: Server Rules](Server_rules.md)
 
-    [:octicons-arrow-right-24: Beginner Guide](The_Beginner's_Guide.md)
+    [:octicons-arrow-right-24: Beginner Guide & Quick Starting Guide](uaro_beginners_guide_enhanced.md)
 
     [:octicons-arrow-right-24: TroubleShooting](Troubleshooting.md)
         
@@ -453,5 +455,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
     [:octicons-arrow-right-24: Donations](Donations.md)
         
     [:octicons-arrow-right-24: FAQ](FAQ.md)
+            
+    [:octicons-arrow-right-24: Navigation System](Navigation-System.md)  
 
 </div>
