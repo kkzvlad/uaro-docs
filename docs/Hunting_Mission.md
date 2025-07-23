@@ -4,7 +4,9 @@ hide:
 ---
 # Hunting Mission
 
-**/navi prontera 204/192** png
+![Hobota](img/Hobota.png)
+
+**/navi prontera 204/192**
 
 With the update, you now have the capability to undertake Hunting Missions. Upon completion of a mission, you will be rewarded with *Experience*, *Zeny*, and *Mission Points* that can be redeemed at a *Mission Store*.
 
@@ -13,7 +15,7 @@ To get the mission, talk to the NPC *Hobota* in Prontera Inn (**/navi prontera 2
 Please note the following restrictions:
 
 - Mission conditions may be reset as many times as desired, with each reset costing *50,000 zeny*.
-- Only one mission can be completed every *12 hours*.
+- Only one mission can be completed every *8 hours*.
 - Missions can only be taken on one character per account.
 - Monsters that are killed by your party members within your screen view will be counted as being killed by you.
 
