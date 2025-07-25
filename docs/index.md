@@ -13,6 +13,26 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 !!! patchnotes
 
+    === "July 25"
+
+        <div class="badge">July 24</div>
+
+        ```markdown
+        - Global instance reset system (ET, EC, HTF) now weekly at 06:00.
+        - Daily Mission NPC added to all Inns.
+        - Cart/Mammonite cost reduction item added (500z).
+        - @whosell/@whobuy interface now handles 200 items.
+        - Stylist and dye system revamped with presets.
+        - Dozens of fixes, skill tweaks, item balance updates.
+        ```
+
+        [:octicons-arrow-right-24: Full Patch Notes](patches07252025.md)
+
+        <br/>
+
+        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+
+
     === "July 7"
 
         <div class="badge">July 7</div>
