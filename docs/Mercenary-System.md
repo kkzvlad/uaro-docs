@@ -15,6 +15,9 @@ There are three types of mercenaries, each found in different towns:
 !!! info "Minimum Requirement"
      Mercenaries become available starting from Base Level 15.
 
+!!! note
+     1-7  level of scroll can be placed in storage. 8-10  level of scroll can not and will be locked to character
+
 ## :bar_chart: Leveling, Cost, and Loyalty
 
 ### :scroll: Contract Details
