@@ -77,9 +77,11 @@ hide:
 **4.3** **Vending Gameplay**  
 &nbsp;&nbsp;&nbsp;&nbsp;**4.3.1** Do not put false advertisements in the shop title with the intention of deceiving buyers.  
 &nbsp;&nbsp;&nbsp;&nbsp;**4.3.2** Do not attempt to block vending locations for the sole sake of reserving space. Server staff reserves the right to kick and/or punish violators of shops at their discretion.  
-&nbsp;&nbsp;&nbsp;&nbsp;**4.3.3** Do not set up a Buying Store with prices less than their value sale to NPC.  
-&nbsp;&nbsp;&nbsp;&nbsp;**4.3.4**  Players are strictly prohibited from misrepresenting the rarity or value of store items during their sale. Any attempts to deceive or manipulate other players by falsely advertising the rarity or exclusivity of these items are strictly forbidden. All transactions involving store items must provide accurate information regarding their actual rarity and value.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**4.3.5** Overlapping/Stacking your vend on a pre-existing player's vend in an attempt to steal their spot is strictly prohibited.
+&nbsp;&nbsp;&nbsp;&nbsp;**4.3.3** Do not set up a Buying Store with prices less than their value sale to NPC.
+&nbsp;&nbsp;&nbsp;&nbsp;**4.3.4** Do not set up a Vend Shop with prices more than their original price from NPC.
+&nbsp;&nbsp;&nbsp;&nbsp;**4.3.5** Do not set up a Vending Store with prices MORE than their value sale to NPC.  
+&nbsp;&nbsp;&nbsp;&nbsp;**4.3.6**  Players are strictly prohibited from misrepresenting the rarity or value of store items during their sale. Any attempts to deceive or manipulate other players by falsely advertising the rarity or exclusivity of these items are strictly forbidden. All transactions involving store items must provide accurate information regarding their actual rarity and value.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;**4.3.7** Overlapping/Stacking your vend on a pre-existing player's vend in an attempt to steal their spot is strictly prohibited.
 
 **4.4** **Dead Branches, Bloody Branches, Azoth or Hylozoist Card**  
 &nbsp;&nbsp;&nbsp;&nbsp;**4.4.1** All monsters from Dead Branches and Bloody Branches are FFA (Free For All).  
