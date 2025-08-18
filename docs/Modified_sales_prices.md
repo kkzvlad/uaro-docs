@@ -13,7 +13,4 @@ Sale prices for various items are decreased for economic purposes to prevent inf
 | ![2613](img/2613.png) Diamond Ring | 22,500 Z | 7,500 Z |
 | ![2610](img/2610.png) Gold Ring | 15,500 Z | 5,500 Z |
 | ![1216](img/1216.png) Stiletto | 9,750 Z | 7,200 Z |
-| ![722](img/722.png) Pearl | 3,000 Z | 2,250 Z |
-| ![539](img/539.png) Piece of Cake | 1,500 Z | 1,200 Z |
-| ![526](img/526.png) Royal Jelly | 3,500 Z | 2,500 Z |
 | ![522](img/522.png) Mastela Fruit | 4,250 Z | 3,250 Z |
