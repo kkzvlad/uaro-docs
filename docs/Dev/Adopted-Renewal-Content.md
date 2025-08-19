@@ -1,4 +1,4 @@
-Instans
+ Instans
  - Horror Toy Factory
 
  Dungeons
@@ -7,3 +7,6 @@ Instans
 
   Open World Map
   - Brasil
+  
+ Items
+ - Elvin Bow
