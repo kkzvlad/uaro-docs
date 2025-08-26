@@ -73,6 +73,7 @@ hide:
 **4.2** **MvP/Mini-Boss Gameplay**  
 &nbsp;&nbsp;&nbsp;&nbsp;**4.2.1** MvP and Mini-Boss Encounters: Free For All (FFA). Competition for MvPs and Mini-Bosses is open to all players, with the understanding that certain skills are restricted to maintain fair play.  
 &nbsp;&nbsp;&nbsp;&nbsp;Continuous abuse of the teleport mechanic on MvPs is prohibited and will result in punishment.
+&nbsp;&nbsp;&nbsp;&nbsp;**4.2.2** Blocking entrance/exit portals of maps with ice wall is prohibited.
 
 **4.3** **Vending Gameplay**  
 &nbsp;&nbsp;&nbsp;&nbsp;**4.3.1** Do not put false advertisements in the shop title with the intention of deceiving buyers.  
