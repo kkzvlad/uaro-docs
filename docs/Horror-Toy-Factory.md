@@ -294,7 +294,7 @@ You can exchange your Bloody Coins with NPC Mister Cat (**/navi xmas 240/300**) 
 | ![13442](img/HTF/13442.gif) Old Parasol | 500 | @ii 13442 |
 | ![16029](img/HTF/16029.gif) Noble Cross | 500 | @ii 16029 |
 | ![2980](img/HTF/2980.gif) Evil Glove | 600 | @ii 2980 |
-| ![18849](img/HTF/18849.gif) Celine's Ribbon | 600 | @ii 2976 |
+| ![18849](img/HTF/18849.gif) Celine's Ribbon | 600 | @ii 18849 |
 | ![19687](img/HTF/19687.gif) Costume Lush Rose | 200 |  |
 | ![19686](img/HTF/19686.gif) Costume Santa Doll Headband | 200 |  |
 | ![11564](img/HTF/11564.gif) Sweet Canape | 3 | @ii 11564 |
