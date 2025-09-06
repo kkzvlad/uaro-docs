@@ -18,7 +18,7 @@ Step inside the [Main Office](Main_Office.md) and you’ll find more to explore,
 
 | NPC | Location | Description |
 |:-----:|----------|-------------|
-| ![Plagiarism NPC](img/NPC/plagiarism.gif)<br>**Plagiarism Copier** | `/navi prontera 166/212` | Every thief needs a mark — Rogues and Stalkers with Plagiarism can copy select skills here for 25,000z. |
+| ![Plagiarism NPC](img/NPC/plagiarism.gif)<br>**Plagiarism Tutor** | `/navi prontera 166/212` | Every thief needs a mark — Rogues and Stalkers with Plagiarism can copy select skills here for 25,000z. |
 | ![Salvia NPC](img/NPC/salvia.gif)<br>**Star Gladiator Resetter** | `/navi prt_in 232/128` | Star Gladiators, looking to let go of old grudges? **Salvia** offers Feeling resets for 500,000z and Hatred resets for 250,000z. |
 
 ### Cards
