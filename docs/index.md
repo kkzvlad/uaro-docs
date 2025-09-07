@@ -11,7 +11,50 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 ---
 
+
 !!! patchnotes
+
+    === "September 5"
+
+        <div class="badge">September 5</div>
+
+        ```markdown
+        - Party menu buff letters refactored and fixed.
+        - Added #recruit channel toggle in @settings (15s cooldown).
+        - Client toggle for Peco/Falcon visibility.
+        - BG Happy Hour: 3x daily, 2× badges.
+        - Hard Rice Cake Egg chase range + auto-feed.
+        - Multiple fixes: Blood Sucker sprite, Payon inn, Infinite Fly Wing, descriptions, HM script, Izlude PvP map.
+        - All Katryn/Cash Shop costumes now properly store in Costume tab.
+        ```
+
+        [:octicons-arrow-right-24: Full Patch Notes](patches09052025.md)
+
+        <br/>
+
+        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+
+
+    === "September 1"
+
+        <div class="badge">Sep 1</div>
+
+        ```markdown
+        - Built-in client proxies for smoother gameplay (NY, São Paulo, Singapore, Tokyo, Sydney).
+        - Gold Point system reworked → exchange Virtual Points for Golden Coins.
+        - Bio3/4 mini-boss auras + DB spawn updates.
+        - Thor Volcano Lv.2 quest added (200k/150k EXP).
+        - QoL: MOTD visibility, minimap recall marker, bulk Guarana/Cursed Water.
+        - Items: Bag of Gold Coins weight reduced, Snake Hat rare drop, OCA pool cleanup.
+        - Skills/NPCs: New hairstyles, reset NPC improvements, Super Novice skill changes.
+        ```
+        
+        [:octicons-arrow-right-24: Full Patch Notes](patches09012025.md)
+
+        <br/>
+
+        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+
 
     === "July 25"
 
