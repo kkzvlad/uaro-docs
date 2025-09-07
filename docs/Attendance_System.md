@@ -37,4 +37,3 @@ This system operates independently and is linked to a player's account, function
 | 18 | ![ESB](img/14003_1.png) | 3x Elite Supply Box |
 | 19 | ![Life Insurance](img/12209_1.png) | 5x Life Insurance |
 | 20 | ![Field Manual 100%](img/12263_1.png) | 2x Field Manual 100% |
-
