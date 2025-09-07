@@ -3,9 +3,7 @@ hide:
   - toc
 ---
 # Attendance System
- Each day, players receive a daily reward upon login- that greatly enhances their gameplay experience.
-
-This system operates independently and is linked to a player's account, functioning automatically.
+Log in each day to claim a daily reward that gives your adventures a helpful boost. Rewards are tied to your account and delivered automatically.
 
 *In-game example:*
 
