@@ -1,35 +1,58 @@
----
-hide:
-  - toc
----
-# Hunting Mission
+# Hunting Missions — Hobota
 
-![Hobota](img/Hobota.png)
+![Hobota](img/NPC/hobota.gif)
 
-**/navi prontera 204/192**
+Hunting Missions let you track down specific monsters for rewards including zeny, experience, and Mission Points.
 
-With the update, you now have the capability to undertake Hunting Missions. Upon completion of a mission, you will be rewarded with *Experience*, *Zeny*, and *Mission Points* that can be redeemed at a *Mission Store*.
+You’ll find **Hobota** in every inn, including the Prontera inn location at `/navi prt_in 66/140`.
 
-To get the mission, talk to the NPC *Hobota* in Prontera Inn (**/navi prontera 204/192**)
+## How missions work
 
-Please note the following restrictions:
+All missions:
 
-- Mission conditions may be reset as many times as desired, with each reset costing *50,000 zeny*.
-- Only one mission can be completed every *8 hours*.
-- Missions can only be taken on one character per account.
-- Monsters that are killed by your party members within your screen view will be counted as being killed by you.
+- Each mission assigns three monsters to hunt.
+- There are four difficulty levels: beginner, intermediate, advanced, and elite. Higher difficulties mean tougher monsters and bigger rewards.
+- Missions can be taken solo or with a party once every 8 hours.
+  
+For party missions:
 
-## **Mission Shop**
+- All members must be online, inside the same inn, and not already on a mission.
+- The party leader accepts the mission, and all members receive the same objectives and rewards.
+- To get kill credit, party members must be on the same screen when the monster is defeated.
 
-| Image                              | Item name                        | Price           |
-|------------------------------------|---------------------------------|-----------------|
-| ![Blue Butterfly Wing Box](img/13855.gif) | Blue Butterfly Wing Box           | 5 Mission Points  |
-| ![Green Butterfly Wing 5 Box](img/13855.gif) | Green Butterfly Wing 5 Box       | 5 Mission Points  |
-| ![Red Butterfly Wing 5 Box](img/13855.gif) | Red Butterfly Wing 5 Box          | 5 Mission Points  |
-| ![Elite Siege Supply Box](img/14003.gif)  | Elite Siege Supply Box            | 25 Mission Points |
-| ![Enriched Elunium 5 Box](img/13610.gif) | Enriched Elunium 5 Box            | 70 Mission Points |
-| ![Enriched Oridecon 5 Box](img/13610.gif) | Enriched Oridecon 5 Box           | 70 Mission Points |
-| ![Taming Gift Set](img/12105.gif)       | [Taming Gift Set](Timing-Gift-Set.md)  | 35 Mission Points |
-| ![Jewelry Box](img/12106.gif)           | [Jewelry Box](Jewelry-Box.md)          | 100 Mission Points |
+## Abandoning missions
+If a mission doesn’t suit you, it can be abandoned for a fee:
 
-If you have additional items you would like to recommend to the Mission Shop, simply post your suggestions in the [Suggestions channel](https://discord.com/channels/702960460168953946/1056606733218365512) on our Discord.
+- Beginner and intermediate: 50,000z
+- Advanced and elite: 100,000z
+  
+You can immediately pick a new mission after abandoning. In parties, everyone must abandon before the leader can choose a new mission.
+
+## Restrictions
+Keep these rules in mind:
+
+1. Only one mission can be completed every 8 hours.
+2. Missions can only be accepted on one character per account.
+3. Kill counts and rewards are tied to the character that accepted the mission.
+4. Missions can be reset as often as you like by paying the abandonment fee.
+5. Monsters killed by party members within your screen view count toward your total.
+
+## Mission Shop
+Mission Points earned from missions can be spent on items in the Mission Shop, available at Hobota.
+
+| Image | Item name | Price |
+|-------|-----------|-------|
+| ![Dungeon Tele 3 Scroll Box](img/Hunting_Mission/35655-dungeon-teleport-scroll-3-box-10.gif) | Dungeon Tele 3 Scroll Box (10) | 15 Mission Points |
+| ![Blue Butterfly Wing Box](img/Hunting_Mission/13855-blue-butterfly-wing-box-5.gif) | Blue Butterfly Wing Box (5) | 5 Mission Points |
+| ![Green Butterfly Wing Box](img/Hunting_Mission/13851-green-butterfly-wing-box-5.gif) | Green Butterfly Wing Box (5) | 5 Mission Points |
+| ![Red Butterfly Wing Box](img/Hunting_Mission/13853-red-butterfly-wing-box-5.gif) | Red Butterfly Wing Box (5) | 5 Mission Points |
+| ![Elite Siege Supply Box](img/Hunting_Mission/14003-elite-supply-box.gif) | Elite Siege Supply Box | 25 Mission Points |
+| ![Enriched Elunium Box](img/Hunting_Mission/14219-enriched-elunium-box-5.gif) | Enriched Elunium Box (5) | 70 Mission Points |
+| ![Enriched Oridecon Box](img/Hunting_Mission/14220-enriched-oridecon-box-5.gif) | Enriched Oridecon Box (5) | 70 Mission Points |
+| ![Taming Gift Set](img/Hunting_Mission/12105-taming-gift-set.gif) | [Taming Gift Set](Timing-Gift-Set.md) | 35 Mission Points |
+| ![Jewelry Box](img/Hunting_Mission/12106-jewelry-box.gif) | [Jewelry Box](Jewelry-Box.md) | 100 Mission Points |
+| ![Costume Protect Cloth (Black)](img/Hunting_Mission/420163-costume-protect-cloth-black.png) | Costume Protect Cloth (Black) | 1,000 Mission Points |
+| ![Costume Majestic Goat of Dawn](img/Hunting_Mission/400124-costume-majestic-goat-of-dawn.png) | Costume Majestic Goat of Dawn | 1,000 Mission Points |
+| ![Costume Dark Lord Cloak](img/Hunting_Mission/480288-costume-dark-lord-cloak.png) | Costume Dark Lord Cloak | 1,000 Mission Points |
+
+If you’d like to see more items in the Mission Shop, share your ideas in our [Discord #server-suggestions channel](https://discord.com/channels/702960460168953946/1056606733218365512).
