@@ -95,7 +95,7 @@ These are important for three reasons:
 Most Exp items can be sold to players for a reasonable price, so it's a possible source of money.
 The Killing Quests can help you to level faster (namely Dryad and Remover).
 Once you rebirth, you will have a lot of Huge and Sharp Leaf (Pinguicula drop them). They will help you to become a higher level really quick.  
-**[ More informarion aboutRepeatable Exp Quests ](expquests.md)**
+**[ More informarion aboutRepeatable Exp Quests ](Repeatable_Quests.md)**
 
 
 ### Reset NPC

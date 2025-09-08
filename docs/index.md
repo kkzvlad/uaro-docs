@@ -439,7 +439,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 - **Repeatable Quests**  
   Collect specific items to earn EXP rewards. These items are tradable and valuable.  
-  [:octicons-arrow-right-24: Read More](expquests.md)
+  [:octicons-arrow-right-24: Read More](Repeatable_Quests.md)
 
 - **Main Office**  
   Located in Prontera, exchange Poring Coins, reset stats, and shop for valuable items.  
@@ -483,7 +483,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
     [:octicons-arrow-right-24: Costume Converter](Costume_Converter.md)
 
-    [:octicons-arrow-right-24: Repeatable Quests](expquests.md)
+    [:octicons-arrow-right-24: Repeatable Quests](Repeatable_Quests.md)
 
     [:octicons-arrow-right-24: How to Start](How_to_start.md)
 
