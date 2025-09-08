@@ -505,9 +505,9 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 - 
 
-    [:octicons-arrow-right-24: Server Info](Server_info.md)
+    [:octicons-arrow-right-24: Server Info](Server_Info.md)
 
-    [:octicons-arrow-right-24: Server Rules](Server_rules.md)
+    [:octicons-arrow-right-24: Server Rules](Server_Rules.md)
 
     [:octicons-arrow-right-24: Beginner Guide & Quick Starting Guide](uaro_beginners_guide_enhanced.md)
 
