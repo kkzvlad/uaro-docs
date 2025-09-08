@@ -425,8 +425,8 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
   Monsters have a 5% chance to drop Poring Coins, which can also be earned through quests and events.  
   [:octicons-arrow-right-24: Read More](Poring_Coins_System.md)
 
-- **Warpra Teleport System**  
-  Quest Warper provides easy access to quest locations for all characters on your account.  
+- **Warper System**  
+  Dungeon Warper provides easy access to quest locations for all characters on your account.
   [:octicons-arrow-right-24: Read More](Warper_System.md)
 
 - **Cute Pet System**  
@@ -434,7 +434,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
   [:octicons-arrow-right-24: Read More](Pet_System.md)
 
 - **Hunting Missions**  
-  Complete missions for Experience, Zeny, and Mission Points. Available at Prontera Inn.  
+  Complete missions for Experience, Zeny, and Mission Points. Available at every Inn.  
   [:octicons-arrow-right-24: Read More](Hunting_Mission.md)
 
 - **Repeatable Quests**  
