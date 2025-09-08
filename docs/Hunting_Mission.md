@@ -37,6 +37,12 @@ Keep these rules in mind:
 4. Missions can be reset as often as you like by paying the abandonment fee.
 5. Monsters killed by party members within your screen view count toward your total.
 
+## Extra notes
+
+- Leaving your party won’t cause you to lose a mission. You can rejoin the same group or join a new one and still hunt the monsters on your list.
+- XP rewards stack with other bonuses, including weekend rates and Battle Manuals.
+- Missions don’t expire: you have unlimited time to complete them.
+
 ## Mission Shop
 Mission Points earned from missions can be spent on items in the Mission Shop, available at Hobota.
 
