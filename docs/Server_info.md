@@ -41,7 +41,6 @@ hide:
 - Daily Rewards System
 - Lots of Classic Quests
 - Treasure Hunter Guild
-- Godlike Items Quests
 
 ## **Technical Information**
 * Server Configuration: x4 Intel Xeon 3.5 GHz, 16 Gb RAM, SSD, 1Gbps
