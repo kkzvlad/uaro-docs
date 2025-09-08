@@ -28,7 +28,7 @@
 - Minimum Usable Items Delay: 100ms
 - International Server
 - Server Language: English
-- Server Time: CET (Central European Time)
+- Server Time: [UTC+0](https://dayspedia.com/time/zones/utc+0/)
 
 ## Server Features
 - No Custom Items
