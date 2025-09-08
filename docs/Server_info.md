@@ -6,7 +6,7 @@
 - x5 / x5 / x5
 
 ### Weekend Rates
-- x7.5 / x7.5 / x5[**](#weekend-rates-1)
+- x7.5 / x7.5 / x5[**](#about-weekend-rates)
 
 ### Static Rates
 - Normal Cards: x5 (0.05%)
@@ -49,7 +49,7 @@
 
 ## Info FAQ
 
-### Weekend Rates
+### About Weekend Rates
 - Runs Saturday 00:00 to Sunday 23:59 server time 
 - Increased rates influence [Repeatable EXP Quests](Repeatable_Quests.md), [Hunting Missions](Hunting_Mission.md), and Quest EXP
 - Bonus stacks with EXP Manuals
