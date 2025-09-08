@@ -37,7 +37,6 @@ hide:
 ## **Server Features**
 - No Custom Items
 - No Healer, No Warper, No Job Changer
-- PvP Mode on Most Locations After 80 lvl
 - Daily Rewards System
 - Lots of Classic Quests
 - Treasure Hunter Guild
