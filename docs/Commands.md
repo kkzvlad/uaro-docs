@@ -1,20 +1,5 @@
 # Commands
 
-## Contents
-- [Commands](#commands)
-  - [Contents](#contents)
-  - [System Commands](#system-commands)
-  - [Database Commands](#database-commands)
-  - [Player Information Commands](#player-information-commands)
-  - [Ranking Commands](#ranking-commands)
-  - [Action Commands](#action-commands)
-  - [Guild Commands](#guild-commands)
-  - [Homunculus Commands](#homunculus-commands)
-  - [Battleground Commands](#battleground-commands)
-  - [Duel Commands](#duel-commands)
-  - [Channel Commands](#channel-commands)
-  - [Lite Graphics Plugin (LGP) Commands](#lite-graphics-plugin-lgp-commands)
-
 ## System Commands
 
 - `@rates`  
@@ -182,6 +167,9 @@ The @mapexp command introduces a rotating bonus EXP zone that updates every 48 t
   Persists through logout  
   Account-wide, based on your setting  
 
+## Trade Commands
+Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating shops.
+
 ## Guild Commands
 
 - `@breakguild <guild_name>`  
@@ -209,7 +197,6 @@ The @mapexp command introduces a rotating bonus EXP zone that updates every 48 t
 
 - `@bg shop`  
   Open the Battleground shop.
-
 
 ## Duel Commands
 
