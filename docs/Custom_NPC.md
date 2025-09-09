@@ -15,7 +15,6 @@ Step inside the [Main Office](Main_Office.md) and you’ll find more to explore,
 | ![Dewata Merchant Warper NPC](img/NPC/merchant-warp.gif)<br>**Dewata Marketplace** | `/navi prontera 139/171` | Merchants, step right up! The **Merchant Warp NPC** will take you straight to Dewata, the heart of our [Vendor System](Vendor_System.md). |
 
 ### Skills
-
 | NPC | Location | Description |
 |:-----:|----------|-------------|
 | ![Plagiarism NPC](img/NPC/plagiarism.gif)<br>**Plagiarism Tutor** | `/navi prontera 166/212` | Every thief needs a mark — Rogues and Stalkers with Plagiarism can copy select skills here for 25,000z. |
@@ -46,8 +45,9 @@ Step inside the [Main Office](Main_Office.md) and you’ll find more to explore,
 ### Other
 | NPC | Location | Description |
 |:-----:|----------|-------------|
-| ![Banker NPC](img/NPC/banker.gif)<br>**Banker** | `/navi prontera 133/216` | The **Banker** lets you access your zeny bank. You can also open your bank anytime with CTRL+B." |
+| ![Banker NPC](img/NPC/banker.gif)<br>**Banker** | `/navi prontera 133/216` | The **Banker** lets you access your zeny bank. You can also open your bank anytime with CTRL+B. |
 | ![Contractor NPC](img/NPC/contractor.gif)<br>**Private Rooms** | `/navi prontera 129/212` | **Contractor NPC** rents out a private room for 120 minutes at a cost of 1,200,000z. You, your party, or your guild may leave and re-enter freely during the rental period. |
+| ![Gold Points NPC](img/NPC/gold-points.gif)<br>**Hourly Rewards** | `/navi prt_in 56/142` | The **Gold Points Manager** handles our [Hourly Rewards System](Hourly_Rewards_System.md), where you receive Gold Coins for every hour you play. Collect coins as you go, then visit the [Main Office](Main_Office.md) to exchange them for special prizes. |
 
 ## Something missing?
 ### Our approach
