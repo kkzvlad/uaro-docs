@@ -24,11 +24,11 @@ When the event starts, you’ll see an announcement:
 
 ![Find the Mushroom Announcement](img/Auto_Events/find-the-mushroom-announcement.png)
 
-During this event, **Black Mushrooms** are randomly summoned in one of the cities. Defeat them to earn 4x [Poring Coins](Poring_Coins_System.md) for each mushroom. The event ends once all mushrooms are defeated or after 30 minutes have passed.
+During this event, **Black Mushrooms** are randomly summoned in one of the cities. Defeat them to earn 4x [Poring Coins](Poring_Coins_System.md) for each mushroom. The event ends once all mushrooms are defeated or after 1 hour has passed and all mushrooms are despawned.
 
 ### Event Details
-- **Duration:** 30 minutes
-- **Frequency:** Every 2 hours
+- **Duration:** 1 hour
+- **Frequency:** Every hour
 - **Rewards:** ![Poring Coin](img/7539_1.png) 4x Poring Coins per mushroom killed
 
 ### Check Event Status
