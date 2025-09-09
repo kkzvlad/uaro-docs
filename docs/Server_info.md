@@ -51,5 +51,24 @@
 
 ### About Weekend Rates
 - Runs Saturday 00:00 to Sunday 23:59 server time 
-- Increased rates influence [Repeatable EXP Quests](Repeatable_Quests.md), [Hunting Missions](Hunting_Mission.md), and Quest EXP
-- Bonus stacks with EXP Manuals
+- Increases EXP earned from [Repeatable EXP Quests](Repeatable_Quests.md) and Quests
+- Does not increase EXP earned from [Hunting Missions](Hunting_Mission.md)
+
+### About Field Manuals
+- Manuals last for 30 minutes
+- Increases EXP earned from [Repeatable EXP Quests](Repeatable_Quests.md) and Quests
+- Does not increase EXP earned from [Hunting Missions](Hunting_Mission.md)
+- Bonuses EXP earned stacks with Weekend Rates
+- Manuals cannot be traded, dropped, mailed, put in cart, stored in guild storage, or sold to NPC 
+
+#### Field Manual (`@ii 12263`)
+- Increases Base EXP earned by 50%
+- Earned from [Novice Grounds](Remastered_novice_location.md)
+- Earned from [Attendance Rewards](Attendance_System.md)
+- Cannot be stored
+  
+#### Field Manual 100% (`@ii 14533`)
+- Increases Base EXP earned by 100%
+- Can be purchased with [Poring Coins](Poring_Coins_System.md)
+- Earned from [Attendance Rewards](Attendance_System.md)
+- Can be stored in personal storage
