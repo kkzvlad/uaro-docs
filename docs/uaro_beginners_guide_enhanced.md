@@ -95,7 +95,7 @@ These are important for three reasons:
 Most Exp items can be sold to players for a reasonable price, so it's a possible source of money.
 The Killing Quests can help you to level faster (namely Dryad and Remover).
 Once you rebirth, you will have a lot of Huge and Sharp Leaf (Pinguicula drop them). They will help you to become a higher level really quick.  
-**[ More informarion aboutRepeatable Exp Quests ](expquests.md)**
+**[ More informarion aboutRepeatable Exp Quests ](Repeatable_Quests.md)**
 
 
 ### Reset NPC
@@ -247,7 +247,7 @@ That’s what we saved up 7k Zeny for: Hire Mercenary -> 1st Grade Spear Mercena
 
 After we picked up the Skills and one Scroll, go back to any Kafra (or use one of your Novice Butterfly Wings). There are a few areas to go now, I recommend going to Spores, one Map south of Payon. Now let your mercenary rage on for 30 minutes. Do not attack on your own, because you risk dying and losing your mercenary.
 After that, you will be level 25 or higher and have some Strawberry.  
-Sell these to players using @whobuy Strawberry. Every single one of them will give you more than 1k zeny and provide enough funds to buy your next Scroll: go to Prontera, buy a level 2 scroll, and go back to Payon. Repeat this until you are level 35.
+Sell these to players using `@wb2 Strawberry`. Every single one of them will give you more than 1k zeny and provide enough funds to buy your next Scroll: go to Prontera, buy a level 2 scroll, and go back to Payon. Repeat this until you are level 35.
 
 !!! Hint
      A level 2 Spearman can survive at Wolves (2 maps south of payon) for a while. They will die but kill some of them. This is faster Exp, but you might need a new one sooner.
@@ -281,8 +281,8 @@ Your Stat is still STR only for weight limit. After you hit job 24 you can let i
 ### 35+
 Once you hit base 35, you can Dismiss your Mercenary, go to Prontera and buy 1 - 2 level 3 Spearman Scrolls and restock some Fly Wings from the Tool Dealer. You should have enough Money to look for your first Equipment now:  
 
-@whosell Pantie  
-@whosell Undershirt  
+`@ws2 Pantie` 
+`@ws2 Undershirt` 
 
 Now you can go to Wolfes, two Maps south of Payon. Your Mercenary can deal with them easily and well, and your job again is to move around so they can kill for you. Continue this for 30 Minutes until your Mercenary expires. You should be around 45-50 now.
 An alternative leveling Spot is Payon Cave first floor. Some of them are aggressive, so care for your life. And they do not provide good standard loot.
@@ -290,7 +290,7 @@ An alternative leveling Spot is Payon Cave first floor. Some of them are aggress
 ### 50+
 Either you go on for another round of wolves to gather some Strawberries or you switch to higher leveling places. This will also switch your Role: Instead of just watching it kill with ease, you have to do your part, because the mercenaries will more and more drop off in strength and don’t survive on their own anymore. If your build has a defensive Stat (usually AGI, sometimes VIT) you can push it and follow the “Tank for your Mercenary” strategy. 
 It’s suggested to buy some Meat with your Merchant. It is heavy but the best item in terms of Zeny to health ratio.
-You can go to Morroc and move to /navi moc_fild17 208/346 , killing hodes, but watch out for Frilldoras. Don’t forget to take the killing quest.
+You can go to Morroc and move to `/navi moc_fild17 208/346`, killing hodes, but watch out for Frilldoras. Don’t forget to take the killing quest.
 Ideas for alternative leveling spots:  
 
 - Porcellio  
@@ -355,21 +355,21 @@ The Chats **#main**, **#trade** and **#party** can be accessed everywhere by eve
 
 You can leave and join them with the commands:  
 
-@channel leave #main
-@channel join #main  
+`@channel leave #main`
+`@channel join #main`
 
 ### Selling and stuff
 
-How to find and open a shop **[ More informarion about Vendor System ](Vendor-System.md)** 
-The command “@autotrade” allows you to set up a store from a different account and play your main one:  
+How to find and open a shop **[ More informarion about Vendor System ](Vendor_System.md)** 
+The command `@autotrade` allows you to set up a store from a different account and play your main one:  
 
 - log into your trading account  
 - open your store  
-- type @autotrade or @at  
+- type `@autotrade` or `@at` 
 - you get logged out while your merchant stays ingame  
 - log into your main (or other) account and play  
   
-To open a buying store, you need to do that quest **[ More informarion about Buying store ](Vendor-System.md#how-to-create-a-buying-store)**
+To open a buying store, you need to do that quest **[ More informarion about Buying store ](Vendor_System.md#how-to-create-a-buying-store)**
 
 ### Navigation System and World Map  
 

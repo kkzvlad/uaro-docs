@@ -425,8 +425,8 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
   Monsters have a 5% chance to drop Poring Coins, which can also be earned through quests and events.  
   [:octicons-arrow-right-24: Read More](Poring_Coins_System.md)
 
-- **Warpra Teleport System**  
-  Quest Warper provides easy access to quest locations for all characters on your account.  
+- **Warper System**  
+  Dungeon Warper provides easy access to quest locations for all characters on your account.
   [:octicons-arrow-right-24: Read More](Warper_System.md)
 
 - **Cute Pet System**  
@@ -434,12 +434,12 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
   [:octicons-arrow-right-24: Read More](Pet_System.md)
 
 - **Hunting Missions**  
-  Complete missions for Experience, Zeny, and Mission Points. Available at Prontera Inn.  
+  Complete missions for Experience, Zeny, and Mission Points. Available at every Inn.  
   [:octicons-arrow-right-24: Read More](Hunting_Mission.md)
 
 - **Repeatable Quests**  
   Collect specific items to earn EXP rewards. These items are tradable and valuable.  
-  [:octicons-arrow-right-24: Read More](expquests.md)
+  [:octicons-arrow-right-24: Read More](Repeatable_Quests.md)
 
 - **Main Office**  
   Located in Prontera, exchange Poring Coins, reset stats, and shop for valuable items.  
@@ -475,7 +475,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
     
     [:octicons-arrow-right-24: Hugel Mini Game](Hugel-Mini-Game.md)
     
-    [:octicons-arrow-right-24: Biolaba 4](Biolaba4.md)   
+    [:octicons-arrow-right-24: Biolab 4](Biolab4.md)   
 
 -   
 
@@ -483,7 +483,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
     [:octicons-arrow-right-24: Costume Converter](Costume_Converter.md)
 
-    [:octicons-arrow-right-24: Repeatable Quests](expquests.md)
+    [:octicons-arrow-right-24: Repeatable Quests](Repeatable_Quests.md)
 
     [:octicons-arrow-right-24: How to Start](How_to_start.md)
 
@@ -491,9 +491,9 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
     [:octicons-arrow-right-24: Remastered Novice Location](Remastered_novice_location.md)
      
-    [:octicons-arrow-right-24: Vendor System](Vendor-System.md)
+    [:octicons-arrow-right-24: Vendor System](Vendor_System.md)
             
-    [:octicons-arrow-right-24: Auto Events](Auto-Event.md)
+    [:octicons-arrow-right-24: Auto Events](Auto_Events.md)
 
     [:octicons-arrow-right-24: Endless Cellar](Endless-Cellar.md)
 
@@ -505,9 +505,9 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 - 
 
-    [:octicons-arrow-right-24: Server Info](Server_info.md)
+    [:octicons-arrow-right-24: Server Info](Server_Info.md)
 
-    [:octicons-arrow-right-24: Server Rules](Server_rules.md)
+    [:octicons-arrow-right-24: Server Rules](Server_Rules.md)
 
     [:octicons-arrow-right-24: Beginner Guide & Quick Starting Guide](uaro_beginners_guide_enhanced.md)
 
