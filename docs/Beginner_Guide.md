@@ -393,7 +393,7 @@ To open a buying store, [you need to do a small quest](Vendor_System.md#how-to-c
 
 
 ### Navigation System and World Map  
-[Learn about the Navigation System and World Map](Navigation-System.md). 
+[Learn about the Navigation System and World Map](Navigation_System.md). 
 
 
 ### Bank System

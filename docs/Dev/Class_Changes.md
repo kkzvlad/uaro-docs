@@ -28,7 +28,7 @@
 
 *Crusader*  
 
-![Reflect Shield](img/Class-Changes/Shield_Reflect.png) Reflect Shield  
+![Reflect Shield](../img/Class_Changes/Shield_Reflect.png) Reflect Shield  
 
 30.04.2023: The amount of damage cannot be greater than the amount of HP the wearer of the skill has. Reflect is not transmitted if the character is in the Safety Wall.  
 
@@ -48,7 +48,7 @@
 
 *Rogue*  
 
-![Back Stab](img/Class-Changes/Back_Stab.png) Back Stab  
+![Back Stab](../img/Class_Changes/Back_Stab.png) Back Stab  
 
 30.04.2023: Skill has been adjusted and can now be executed from any direction.
 

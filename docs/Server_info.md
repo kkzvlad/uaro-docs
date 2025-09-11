@@ -11,7 +11,7 @@
 ### Static Rates
 - Normal Cards: x5 (0.05%)
 - MvP Drop: x3
-- MvP/Mini-Boss Cards: x3 (0.03%)
+- MvP/Mini-Boss Cards: x1 (0.01%)
 - Quest EXP Rate: x2
 - Pet/Homunculus Intimacy: x3
 
@@ -63,7 +63,7 @@
 
 #### Field Manual (`@ii 12263`)
 - Increases Base EXP earned by 50%
-- Earned from [Novice Grounds](Remastered_novice_location.md)
+- Earned from [Novice Grounds](Remastered_Novice_Location.md)
 - Earned from [Attendance Rewards](Attendance_System.md)
 - Cannot be stored
   
