@@ -55,8 +55,8 @@ Mission Points earned from missions can be spent on items in the Mission Shop, a
 | ![Elite Siege Supply Box](img/Hunting_Mission/14003-elite-supply-box.gif) | Elite Siege Supply Box | 25 Mission Points |
 | ![Enriched Elunium Box](img/Hunting_Mission/14219-enriched-elunium-box-5.gif) | Enriched Elunium Box (5) | 70 Mission Points |
 | ![Enriched Oridecon Box](img/Hunting_Mission/14220-enriched-oridecon-box-5.gif) | Enriched Oridecon Box (5) | 70 Mission Points |
-| ![Taming Gift Set](img/Hunting_Mission/12105-taming-gift-set.gif) | [Taming Gift Set](Timing-Gift-Set.md) | 35 Mission Points |
-| ![Jewelry Box](img/Hunting_Mission/12106-jewelry-box.gif) | [Jewelry Box](Jewelry-Box.md) | 100 Mission Points |
+| ![Taming Gift Set](img/Hunting_Mission/12105-taming-gift-set.gif) | [Taming Gift Set](Taming_Gift_Set.md) | 35 Mission Points |
+| ![Jewelry Box](img/Hunting_Mission/12106-jewelry-box.gif) | [Jewelry Box](Jewelry_Box.md) | 100 Mission Points |
 | ![Costume Protect Cloth (Black)](img/Hunting_Mission/420163-costume-protect-cloth-black.png) | Costume Protect Cloth (Black) | 1,000 Mission Points |
 | ![Costume Majestic Goat of Dawn](img/Hunting_Mission/400124-costume-majestic-goat-of-dawn.png) | Costume Majestic Goat of Dawn | 1,000 Mission Points |
 | ![Costume Dark Lord Cloak](img/Hunting_Mission/480288-costume-dark-lord-cloak.png) | Costume Dark Lord Cloak | 1,000 Mission Points |
