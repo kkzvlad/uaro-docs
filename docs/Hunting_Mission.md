@@ -16,7 +16,7 @@ All missions:
   
 For party missions:
 
-- All members must be online, inside the same inn, and not already on a mission.
+- All members must be online, inside an inn, and not already on a mission.
 - The party leader accepts the mission, and all members receive the same objectives and rewards.
 - To get kill credit, party members must be on the same screen when the monster is defeated.
 
