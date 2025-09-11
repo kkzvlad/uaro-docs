@@ -156,7 +156,7 @@ Dominka is found in the [Main Office](Main_Office.md) and offers a unique select
 </tr>
 <tr>
 <td><img src="../img/5403.png" alt="Fish in Mouth"><br>Fish in Mouth</td>
-<td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 2000<br><img src="../img/1054.png" alt="Ancient Lips"> Ancient Lips - 350<br><img src="../img/995.png" alt="Mystic Frozen"> Mystic Frozen - 50<br><img src="../img/996.png" alt="Rough Wind"> Rough Wind - 50</td>
+<td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 700<br><img src="../img/1054.png" alt="Ancient Lips"> Ancient Lips - 350<br><img src="../img/995.png" alt="Mystic Frozen"> Mystic Frozen - 50<br><img src="../img/996.png" alt="Rough Wind"> Rough Wind - 50</td>
 <td>A fish that won't rot in your mouth.<br>Killing monsters grants a chance to drop Fresh Fish.<br>Increases Fresh Fish recovery rate by 25%.</td>
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 0<br><strong>Position</strong>: Lower<br><strong>Weight</strong>: 20<br><strong>Level Requirement</strong>: 30<br><strong>Jobs</strong>: All</td>
 </tr>
@@ -219,18 +219,6 @@ Dominka is found in the [Main Office](Main_Office.md) and offers a unique select
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1200<br><img src="../img/2236.png" alt="Santa Hat"> Santa Hat - 10<br><img src="../img/2254.png" alt="Angel Wing"> Angel Wing - 1<br><img src="../img/7294.png" alt="Turquoise"> Turquoise - 20</td>
 <td>A cute hat made from a hopping Poring wearing a Santa's Hat.<br>Increases physical damage inflicted on Shadow elemental monsters by 3%.<br>Reduces damage taken from Shadow elemental attack by 3%.</td>
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 2<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 10<br><strong>Jobs</strong>: All</td>
-</tr>
-<tr>
-<td><img src="../img/5515.png" alt="Pisces Crown"><br>Pisces Crown</td>
-<td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1200<br><img src="../img/2235.png" alt="Crown"> Crown - 1<br><img src="../img/720.png" alt="Aquamarine"> Aquamarine - 70</td>
-<td>This crown honors Pisces, the 12th astrological sing in the zodiac calendar. Its power increases defense from Water attacks.<br>Int +1, Mdef +1.<br>Increases resistance to Water attacks by 5%.<br>If refined to +7 or higher:<br>Mdef +5, Matk +2%.</td>
-<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 3<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 30<br><strong>Level Requirement</strong>: 70<br><strong>Jobs</strong>: All</td>
-</tr>
-<tr>
-<td><img src="../img/5514.png" alt="Pisces Diadem"><br>Pisces Diadem</td>
-<td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1200<br><img src="../img/5002.png" alt="Jewel Crow"> Jewel Crow - 1<br><img src="../img/721.png" alt="Emerald "> Emerald - 70</td>
-<td>This diadem honors Pisces, the 12th astrological sing in the zodiac calendar. Its power increases defense from Water attacks.<br>Mdef +5<br>Increases resistance to Water attacks by 7%.<br>If refined to +7 or higher:<br>Int +3, Matk +2%.</td>
-<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 3<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 30<br><strong>Level Requirement</strong>: 70<br><strong>Jobs</strong>: All</td>
 </tr>
 <tr>
 <td><img src="../img/5502.png" alt="Necromancer's Hood"><br>Necromancer's Hood</td>
