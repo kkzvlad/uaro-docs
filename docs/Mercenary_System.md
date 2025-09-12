@@ -177,7 +177,7 @@ Passive farming from level 55+
 !!! tip "Grinding"
      Use maps with fast respawn and non-aggressive mobs for efficient EXP gain.  
      If you go for Geographer, here is an instant respawn Point:  
-     ![ein_fild03](img/Begginer-and-Quick-Guide/ein_fild03.png)
+     ![ein_fild03](img/Beginner_Guide/ein_fild03.png)
 
 ## :pill: Mercenary Potions
 

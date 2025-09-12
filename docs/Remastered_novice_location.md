@@ -2,7 +2,8 @@
 hide:
   - toc
 ---
-# Getting Started
+
+# Remastered Novice Location
 
 Training Ground in World of Your Dream is a special area designated for players who have just created a new character, also known as Novice.
 
@@ -19,7 +20,7 @@ Once the player finishes the tutorial and reaches job level 10, they can choose 
 ![Screenshot_2023-01-21_at_18.33](img/Screenshot_2023-01-21_at_18.33.png)
 <br>*Novice Training ground*
 
-### **Training Ground Improvements**
+## Training Ground Improvements
 
 Our server features a training ground that has been specifically designed to utilize the latest and most advanced renewal mechanics, providing players with a more efficient and streamlined leveling experience.
 
@@ -33,15 +34,14 @@ This is a great way for new players to quickly and easily advance their characte
 
 ![Screenshot_2023-01-21_at_18.37](img/Screenshot_2023-01-21_at_18.37.png)
 <br>*Improved Training ground*
-## **Rewards Obtained Upon Completion of the Training Grounds**
 
-### **Novice Items**
+## Rewards Obtained Upon Completion of the Training Grounds
 
 | Item | Description |
 |------|-------------|
 | ![12215 1-1](img/12215_1-1.png) | 10x LV10 Blessing Scroll |
 | ![12215 1-1](img/12215_1-1.png) | 10x LV10 Agil Scroll |
-| ![12263 1](img/12263_1.png) | 2x Battle Manual |
+| ![12263 1](img/12263_1.png) | 2x Field Manual |
 | ![569](img/569.gif) | 400x Novice Potion |
 | ![12887](img/12887.gif) | 50x Novice Fly Wing |
 | ![12324](img/12324.gif) | 20x Novice Butterfly Wing |
