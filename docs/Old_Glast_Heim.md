@@ -132,13 +132,13 @@ You can obtain the Mutating White Knight Egg by exchanging the required loot wit
 
 | Items | Loots |
 |-------|-------|
-| ![9133](img/Pet-System/9133.gif) Mutating White Knight Egg | ![7802](img/Pet-System/7802.gif) Old Dusty Tomb Vol 1 - 1<br> ![7802](img/Pet-System/7802.gif) Old Dusty Tomb Vol 2 - 1<br> ![7802](img/Pet-System/7802.gif) Old Dusty Tomb Vol 3 - 1<br> ![7802](img/Pet-System/7802.gif) Old Dusty Tomb Vol 4 - 1<br>  |
+| ![9133](img/Pet_System/9133.gif) Mutating White Knight Egg | ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 1 - 1<br> ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 2 - 1<br> ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 3 - 1<br> ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 4 - 1<br>  |
 
 
 
 | Items | Monster | Chance |
 |-------|---------|--------|
-| ![2464](img/OGH/2464.gif) Corrupted Steward | ![7802](img/Pet-System/7802.gif) Old Dusty Tomb Vol 1 | 0.05% |
-| ![2466](img/OGH/2466.gif) Chamberlain in Pain | ![7802](img/Pet-System/7802.gif) Old Dusty Tomb Vol 2 | 0.05% |
-| ![2470](img/OGH/2470.gif) Corrupt Abysmal Knight | ![7802](img/Pet-System/7802.gif) Old Dusty Tomb Vol 3 | 0.06% |
-| ![2472](img/OGH/2472.gif) Suffered Bloody Knight | ![7802](img/Pet-System/7802.gif) Old Dusty Tomb Vol 4 | 0.06% |
+| ![2464](img/OGH/2464.gif) Corrupted Steward | ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 1 | 0.05% |
+| ![2466](img/OGH/2466.gif) Chamberlain in Pain | ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 2 | 0.05% |
+| ![2470](img/OGH/2470.gif) Corrupt Abysmal Knight | ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 3 | 0.06% |
+| ![2472](img/OGH/2472.gif) Suffered Bloody Knight | ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 4 | 0.06% |
