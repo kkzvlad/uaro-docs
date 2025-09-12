@@ -3,21 +3,24 @@ hide:
   - toc
 ---
 
+# Poring Coins System
+
 uaRO: World of Your Dream introduce **Poring Coins System**
 
 Each monster on our server drops ![Poring Coin](img/7539.gif) Poring Coin with a 5% chance.
 
 You can also get them for completing various in-game quests and participating in events.
 
-Poring coins are not tied to an account or a character, you can sell them, exchange them with other players or just throw them away xD.
+Poring Coins are not tied to an account or a character, you can sell them, exchange them with other players, and use them for certain quests.
 
 ## **Contents**
 
-- [**Contents**](#contents)
-- [**Poring Coins drop changes**](#poring-coins-drop-changes)
-- [**Where to exchange Poring Coins**](#where-to-exchange-poring-coins)
-- [**List of items that can be exchanged for Poring Coins**](#list-of-items-that-can-be-exchanged-for-poring-coins)
-  - [**Consumable items**](#consumable-items)
+- [Poring Coins System](#poring-coins-system)
+  - [**Contents**](#contents)
+  - [**Poring Coins drop changes**](#poring-coins-drop-changes)
+  - [**Where to exchange Poring Coins**](#where-to-exchange-poring-coins)
+  - [**List of items that can be exchanged for Poring Coins**](#list-of-items-that-can-be-exchanged-for-poring-coins)
+    - [**Consumable items**](#consumable-items)
 
 ## **Poring Coins drop changes**
 

@@ -6,7 +6,7 @@ The Navigation System is a powerful feature that helps players find their way ac
 
 The Navigation Tool is the fifth icon in the second row of your interface.  
 
-![Navigation1](img/Begginer-and-Quick-Guide/Navigation1.png)
+![Navigation1](img/Beginner_Guide/Navigation1.png)
 
 Click on it to open the search interface.
 
@@ -16,7 +16,7 @@ Select your desired map and click "Find".
 
 A window will appear with directions and yellow arrows on the ground showing the fastest path.  
 
-![Navigation2](img/Begginer-and-Quick-Guide/Navigation2.png)
+![Navigation2](img/Beginner_Guide/Navigation2.png)
 
 !!! tip "Teleport Tip"
      Using Teleport or Fly Wings can often be faster than walking. The system calculates only walking paths and doesn't consider Kafra teleport or other means.
@@ -31,12 +31,12 @@ Or press CTRL + ´
 
 This will show the inter-map path for your destination.
 
-![Navigation3](img/Begginer-and-Quick-Guide/Navigation3.png)  
+![Navigation3](img/Beginner_Guide/Navigation3.png)  
 
 !!! warning "No Path Found"
      You may find it faster to teleport from Prontera to Payon first, instead of walking, as it's a much closer route.
      If you see the message:
-     ![Navigation4-error](img/Begginer-and-Quick-Guide/Navigation4-error.png)
+     ![Navigation4-error](img/Beginner_Guide/Navigation4-error.png)
      It means there's **no direct walking route**. You likely need to use an **NPC service** (e.g., **Boatman** or airship).
 
 ## :keyboard: Useful Commands

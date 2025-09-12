@@ -1,6 +1,6 @@
 ![OGH](img/OGH.jpg)
 
-## Overview
+# Old Glast Heim
 
 Old Glast Heim (OGH) is a dungeon instance in Ragnarok Online designed for advanced players. It is steeped in dark, medieval fantasy aesthetics, offering a glimpse into the past of the ruined city of Glast Heim. Players are transported to a corrupted version of the city, filled with undead creatures, powerful knights, and sinister magic. The instance is notorious for its eerie atmosphere and challenging mechanics.
 
@@ -64,18 +64,54 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 
 ## Temporal Boots
 
-| NPC | Require | Obtain | Chance |
-|-----|---------|---------|--------|
-| ![1_F_04](img/OGH/1_F_04.gif) Hugin's Butler | ![6607](img/OGH/6607.gif) Temporal Crystal - 100 | ![2499](img/OGH/2499.gif) Temporal boots [0] | 100% |
-| ![1_F_04](img/OGH/1_F_04.gif) Hugin's Butler | ![2499](img/OGH/2499.gif) Temporal boots - 1<br> ![6607](img/OGH/6607.gif) Temporal Crystal - 1000 | ![22008](img/OGH/22008.gif) Upgraded Temporal boots [0] (Agi,Dex,Str,Vit,Int,Luk) | 100% |
-| ![4_F_JOB_BLACKSMITH](img/OGH/4_F_JOB_BLACKSMITH.gif) Hugin's Craftsman | ![22008](img/OGH/22008.gif) Upgraded Temporal boots [0] - 1<br> ![6607](img/OGH/6607.gif) Temporal Crystal - 1500<br> 15.000 000 Zeny | ![22008](img/OGH/22008.gif) Upgraded Temporal boots [1] (Agi,Dex,Str,Vit,Int,Luk) | 50% |
+<table>
+    <thead>
+        <tr>
+            <th>NPC</th>
+            <th style="width: 45%">Require</th>
+            <th style="width: 38%">Obtain</th>
+            <th>Chance</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><img src="../img/OGH/1_F_04.gif" alt="1_F_04"><br>Hugin's Butler</td>
+            <td><img src="../img/OGH/6607.gif" alt="6607"> Temporal Crystal - 100</td>
+            <td><img src="../img/OGH/2499.gif" alt="2499"> Temporal boots [0]</td>
+            <td>100%</td>
+        </tr>
+        <tr>
+            <td><img src="../img/OGH/1_F_04.gif" alt="1_F_04"><br>Hugin's Butler</td>
+            <td><img src="../img/OGH/2499.gif" alt="2499"> Temporal boots - 1<br><img src="../img/OGH/6607.gif" alt="6607"> Temporal Crystal - 1000</td>
+            <td><img src="../img/OGH/22008.gif" alt="22008"> Upgraded Temporal boots [0] (Agi,Dex,Str,Vit,Int,Luk)</td>
+            <td>100%</td>
+        </tr>
+        <tr>
+            <td><img src="../img/OGH/4_F_JOB_BLACKSMITH.gif" alt="4_F_JOB_BLACKSMITH"><br> Hugin's Craftsman</td>
+            <td><img src="../img/OGH/22008.gif" alt="22008"> Upgraded Temporal boots [0] - 1<br><img src="../img/OGH/6607.gif" alt="6607"> Temporal Crystal - 1500<br>15,000,000 Zeny</td>
+            <td><img src="../img/OGH/22008.gif" alt="22008"> Upgraded Temporal boots [1] (Agi,Dex,Str,Vit,Int,Luk)</td>
+            <td>50%</td>
+        </tr>
+    </tbody>
+</table>
 
 !!! Note
     - Can slot only ![22008](img/OGH/22008.gif) Upgraded Temporal boots [0] (Agi,Dex,Str,Vit,Int,Luk)
     - The boots lose all refine when attempting slot.
     - Failure uses all mats and breaks boots.
 
-![Temporal-AGI-Boots](img/OGH/Temporal-AGI-Boots.png) ![Temporal-DEX-Boots](img/OGH/Temporal-DEX-Boots.png) ![Temporal-INT-Boots](img/OGH/Temporal-INT-Boots.png) ![Temporal-LUK-Boots](img/OGH/Temporal-LUK-Boots.png) ![Temporal-STR-Boots](img/OGH/Temporal-STR-Boots.png) ![Temporal-VIT-Boots](img/OGH/Temporal-VIT-Boots.png)
+<table style="border: none; border-radius: 0;">
+<tr style="transition: none; display: inline-block; margin-bottom: -11px;">
+<td style="border: none; padding: 0;"><img src="../img/OGH/temporal-agi-boots.png" alt="Temporal AGI Boots"></td>
+<td style="border: none; padding: 0;"><img src="../img/OGH/temporal-dex-boots.png" alt="Temporal DEX Boots"></td>
+<td style="border: none; padding: 0;"><img src="../img/OGH/temporal-int-boots.png" alt="Temporal INT Boots"></td>
+</tr>
+<tr style="transition: none; display: inline-block;">
+<td style="border: none; padding: 0;"><img src="../img/OGH/temporal-luk-boots.png" alt="Temporal LUK Boots"></td>
+<td style="border: none; padding: 0;"><img src="../img/OGH/temporal-str-boots.png" alt="Temporal STR Boots"></td>
+<td style="border: none; padding: 0;"><img src="../img/OGH/temporal-vit-boots.png" alt="Temporal VIT Boots"></td>
+</tr>
+</table>
 
 ## Card Trade
 
@@ -96,13 +132,13 @@ You can obtain the Mutating White Knight Egg by exchanging the required loot wit
 
 | Items | Loots |
 |-------|-------|
-| ![9133](img/Pet-System/9133.gif) Mutating White Knight Egg | ![7802](img/Pet-System/7802.gif) Old Dusty Tomb Vol 1 - 1<br> ![7802](img/Pet-System/7802.gif) Old Dusty Tomb Vol 2 - 1<br> ![7802](img/Pet-System/7802.gif) Old Dusty Tomb Vol 3 - 1<br> ![7802](img/Pet-System/7802.gif) Old Dusty Tomb Vol 4 - 1<br>  |
+| ![9133](img/Pet_System/9133.gif) Mutating White Knight Egg | ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 1 - 1<br> ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 2 - 1<br> ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 3 - 1<br> ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 4 - 1<br>  |
 
 
 
 | Items | Monster | Chance |
 |-------|---------|--------|
-| ![2464](img/OGH/2464.gif) Corrupted Steward | ![7802](img/Pet-System/7802.gif) Old Dusty Tomb Vol 1 | 0.05% |
-| ![2466](img/OGH/2466.gif) Chamberlain in Pain | ![7802](img/Pet-System/7802.gif) Old Dusty Tomb Vol 2 | 0.05% |
-| ![2470](img/OGH/2470.gif) Corrupt Abysmal Knight | ![7802](img/Pet-System/7802.gif) Old Dusty Tomb Vol 3 | 0.06% |
-| ![2472](img/OGH/2472.gif) Suffered Bloody Knight | ![7802](img/Pet-System/7802.gif) Old Dusty Tomb Vol 4 | 0.06% |
+| ![2464](img/OGH/2464.gif) Corrupted Steward | ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 1 | 0.05% |
+| ![2466](img/OGH/2466.gif) Chamberlain in Pain | ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 2 | 0.05% |
+| ![2470](img/OGH/2470.gif) Corrupt Abysmal Knight | ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 3 | 0.06% |
+| ![2472](img/OGH/2472.gif) Suffered Bloody Knight | ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 4 | 0.06% |

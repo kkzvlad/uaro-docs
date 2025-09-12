@@ -26,5 +26,5 @@ So come on down to Main Office and see what we have to offer! We're here to help
 | ![Katryn](img/4_F_GELKA.gif) | **Katryn** NPC exchanges your Poring Coin for unique costumes. |
 | ![Reset Girl](img/4_F_ACOLYTE.gif) | Our friendly **Reset Girl** NPC can help you reallocate your stats or skills for a small fee. The cost depends on your character base level, with higher levels requiring a slightly higher fee. |
 | ![Platinum Skill](img/1_F_01.gif) | **Platinum Skill** NPC can give you the special skills available to your job. |
-| ![Lottery](img/1_F_ORIENT_02.gif) | **Lottery** NPC can give you opportunity to participate in a daily lottery and win a **500kk jackpot.** [Details here!](Lottery-NPC.md) |
+| ![Lottery](img/1_F_ORIENT_02.gif) | **Lottery** NPC can give you opportunity to participate in a daily lottery and win a **500kk jackpot.** [Details here!](Lottery_NPC.md) |
 | ![Perchik](img/1_M_01.gif) | **Perchik** NPC can signs your name on eligible items. |
