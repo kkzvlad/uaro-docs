@@ -42,9 +42,9 @@ WoE information signs can be found in these cities. When WoE is active, these si
 
 ### Skill Restrictions
 
-![bd_rokisweil](img/WoE/bd_rokisweil.gif) Loki's Veil<br>
-![tk_highjump](img/WoE/tk_highjump.gif) High Jump<br>
-![tk_highjump](img/WoE/hp_assumptio.gif) Assumptio<br>
+![bd_rokisweil](img/WoE/restrictions/bd_rokisweil.gif) Loki's Veil<br>
+![tk_highjump](img/WoE/restrictions/tk_highjump.gif) High Jump<br>
+![tk_highjump](img/WoE/restrictions/hp_assumptio.gif) Assumptio<br>
 
 
 
