@@ -6,7 +6,7 @@ Owning a castle provides several benefits for the guild. First, it unlocks acces
 
 Additionally, every night, 4 or more treasure chests (depending on the castle’s economy level) appear in the castle, offering valuable items and equipment. Owning a castle raises the guild's prestige.
 
-You can also participate in [Pre-Trans WoE](Pre-Trans-WoE.md).
+You can also participate in [Pre-Trans WoE](Pre_Trans_WoE.md).
 
 
 
@@ -23,31 +23,6 @@ WoE information signs can be found in these cities. When WoE is active, these si
 
 
 
-## WoE Mechanics
-
-- 36 member cap within any given castle (Recall prioritizes top most rank downwards until number met)
-- All MVP cards render no effect within WoE Castles (Still equippable, but have no effect)
-- The following mini-boss cards render no effect within WoE Castles: Ghostring, Angeling, Deviling and Maya Purple
-- Alliances are limited to one guild (1 out of Guild bridge character allowed)
-- `@guildhp` is now toggleable through `@settings` (Allows you to view Guild member HP even outside of party)
-- Guild Emblems must be visible and clearly identifiable to participate
-- RODEX Mail is blocked during WoE within castles
-
-### Item Restrictions
-
-![607](img/607.gif) Yggdrasil Berry<br>
-![608](img/608.gif) Yggdrasil Seeds<br>
-![12192](img/12192.gif) Pumpkin Pie<br>
-![Kafra Card](img/12211.gif) Kafra Card<br> 
-
-### Skill Restrictions
-
-![bd_rokisweil](img/WoE/restrictions/bd_rokisweil.gif) Loki's Veil<br>
-![tk_highjump](img/WoE/restrictions/tk_highjump.gif) High Jump<br>
-![tk_highjump](img/WoE/restrictions/hp_assumptio.gif) Assumptio<br>
-
-
-
 ## Schedule
 On our server, WoE takes place every **Saturday** and lasts for **one hour**. These times are in **Standard Time** (non-DST). Please verify if your area is using Daylight Savings Time (DT) seasonally. 
 <br>
@@ -56,7 +31,7 @@ On our server, WoE takes place every **Saturday** and lasts for **one hour**. Th
 |---|---|---|---|---|---|--|---|
 | 15:00 | 16:00 | 17:00 | 20:30 | 08:00 | 09:00 | 10:00 | 11:00 |
 
-You can check the current server time in-game with `@time`, or [in you browser on Daypedia](https://dayspedia.com/time/zones/utc+0/).
+You can check the current server time in-game with `@time`, or [in your browser on Daypedia](https://dayspedia.com/time/zones/utc+0/).
 
 
 ## Available Castles
@@ -131,7 +106,43 @@ Participating guild members can receive special prizes for joining the fight.
 
 
 
+## WoE Mechanics
+
+- **36 member cap** within any given castle (Recall prioritizes top most rank downwards until number met)
+- All MVP cards render no effect within WoE Castles (Still equippable, but have no effect)
+- If you equip an item on the block list, it will yield 0 effect within castles  
+- Alliances are limited to one guild (1 out of Guild bridge character allowed)
+- `@guildhp` is now toggleable through `@settings` (Allows you to view Guild member HP even outside of party)
+- Guild Emblems must be visible and clearly identifiable to participate
+- RODEX Mail is blocked during WoE within castles
+
+### Item Restrictions
+
+| Item | Item ID |
+|---|---|
+| ![607](img/WoE/restrictions/607.gif) Yggdrasil Berry | 607 |
+| ![608](img/WoE/restrictions/608.gif) Yggdrasil Seed | 608 |
+| ![12192](img/WoE/restrictions/12192.gif) Pumpkin Pie | 12192 |
+| ![Kafra Card](img/WoE/restrictions/12211.gif) Kafra Card | 12211 |
+| ![Card](img/WoE/restrictions/card.gif) All MVP Cards |  |
+| ![Card](img/WoE/restrictions/card.gif) Ghostring Card | 4047 |
+| ![Card](img/WoE/restrictions/card.gif) Angeling Card | 4054 |
+| ![Card](img/WoE/restrictions/card.gif) Deviling Card | 4174 |
+| ![Card](img/WoE/restrictions/card.gif) Maya Puple Card | 4198 |
+
+
+
+### Skill Restrictions
+
+![bd_rokisweil](img/WoE/restrictions/bd_rokisweil.gif) Loki's Veil<br>
+![tk_highjump](img/WoE/restrictions/tk_highjump.gif) High Jump<br>
+![tk_highjump](img/WoE/restrictions/hp_assumptio.gif) Assumptio<br>
+
+
+
 ## Discord
 [Join us on Discord](https://discord.com/channels/702960460168953946/1292191638936096788) in `#emperium-echos`, `#war-room`, and `#woe-videos` for discussion. The latest information on WoE can be found in `#woe-information`.
+
 <br>
+
 <br>
