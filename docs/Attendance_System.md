@@ -8,7 +8,7 @@ Log in each day to claim a daily reward that gives your adventures a helpful boo
 
 *In-game example:*
 
-![In-game example](img/screenshots/attendance.png)
+![In-game example](img/Attendance_System/attendance.png)
 
 
 
