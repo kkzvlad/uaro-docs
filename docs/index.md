@@ -32,7 +32,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
         <br/>
 
-        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+        [:octicons-book-24: All Patch Notes](All_Patch_Notes.md)
 
 
     === "September 1"
@@ -53,7 +53,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
         <br/>
 
-        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+        [:octicons-book-24: All Patch Notes](All_Patch_Notes.md)
 
 
     === "July 25"
@@ -73,7 +73,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
         <br/>
 
-        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+        [:octicons-book-24: All Patch Notes](All_Patch_Notes.md)
 
 
     === "July 7"
@@ -93,7 +93,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
         <br/>
 
-        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+        [:octicons-book-24: All Patch Notes](All_Patch_Notes.md)
 
     === "June 25"
 
@@ -112,7 +112,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
         <br/>
 
-        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+        [:octicons-book-24: All Patch Notes](All_Patch_Notes.md)
 
     === "May 20"
 
@@ -131,7 +131,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
         <br/>
 
-        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+        [:octicons-book-24: All Patch Notes](All_Patch_Notes.md)
 
 
     === "May 12"
@@ -154,7 +154,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
         <br/>
 
-        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+        [:octicons-book-24: All Patch Notes](All_Patch_Notes.md)
 
 
     === "April 18"
@@ -175,7 +175,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
         <br/>
 
-        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+        [:octicons-book-24: All Patch Notes](All_Patch_Notes.md)
 
 
     === "April 10"
@@ -196,7 +196,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
         <br/>
 
-        [:octicons-book-24: All Patch Notes](All-patch-notes.md)
+        [:octicons-book-24: All Patch Notes](All_Patch_Notes.md)
 
     === "March 21"
 
@@ -211,7 +211,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         ```
 
         [:octicons-arrow-right-24: Full Patch Notes](patches21032025.md)  
-        [:octicons-arrow-right-24: All Patch Notes](All-patch-notes.md)
+        [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
 
     === "February 27"
 
@@ -230,7 +230,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
         [:octicons-arrow-right-24: Full Patch Notes](patches02272025.md)
 
-        [:octicons-arrow-right-24: All Patch Notes](All-patch-notes.md)
+        [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
 
 
     === "January 31"
@@ -251,7 +251,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
         [:octicons-arrow-right-24: Full Patch Notes](patches01312025.md)
 
-        [:octicons-arrow-right-24: All Patch Notes](All-patch-notes.md)
+        [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
 
     === "January 17"
 
@@ -265,7 +265,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
         [:octicons-arrow-right-24: Full Patch Notes](patchnotes01172025.md)
 
-        [:octicons-arrow-right-24: All Patch Notes](All-patch-notes.md)
+        [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
 
     === "January 7"
 
@@ -282,7 +282,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
         [:octicons-arrow-right-24: Full Patch Notes](patches01072025.md)
 
-        [:octicons-arrow-right-24: All Patch Notes](All-patch-notes.md)
+        [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
 
     === "December 24"
 
@@ -471,9 +471,9 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
     [:octicons-arrow-right-24: WoE](WoE.md)
 
-    [:octicons-arrow-right-24: Pre-Trans WoE](Pre-Trans-WoE.md)
+    [:octicons-arrow-right-24: Pre-Trans WoE](Pre_Trans_WoE.md)
     
-    [:octicons-arrow-right-24: Hugel Mini Game](Hugel-Mini-Game.md)
+    [:octicons-arrow-right-24: Hugel Mini Game](Hugel_Mini_Game.md)
     
     [:octicons-arrow-right-24: Biolab 4](Biolab4.md)   
 
@@ -485,23 +485,23 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
     [:octicons-arrow-right-24: Repeatable Quests](Repeatable_Quests.md)
 
-    [:octicons-arrow-right-24: How to Start](How_to_start.md)
+    [:octicons-arrow-right-24: How to Start](How_To_Start.md)
 
-    [:octicons-arrow-right-24: Modified Sales Prices](Modified_sales_prices.md)
+    [:octicons-arrow-right-24: Modified Sales Prices](Modified_Sales_Prices.md)
 
-    [:octicons-arrow-right-24: Remastered Novice Location](Remastered_novice_location.md)
+    [:octicons-arrow-right-24: Remastered Novice Location](Remastered_Novice_Location.md)
      
     [:octicons-arrow-right-24: Vendor System](Vendor_System.md)
             
     [:octicons-arrow-right-24: Auto Events](Auto_Events.md)
 
-    [:octicons-arrow-right-24: Endless Cellar](Endless-Cellar.md)
+    [:octicons-arrow-right-24: Endless Cellar](Endless_Cellar.md)
 
-    [:octicons-arrow-right-24: Old Glast Heim](Old-Glast-Heim.md)
+    [:octicons-arrow-right-24: Old Glast Heim](Old_Glast_Heim.md)
   
-    [:octicons-arrow-right-24: Horror Toy Factory ](Horror-Toy-Factory.md)
+    [:octicons-arrow-right-24: Horror Toy Factory ](Horror_Toy_Factory.md)
  
-    [:octicons-arrow-right-24: Mercenary System ](Mercenary-System.md)  
+    [:octicons-arrow-right-24: Mercenary System ](Mercenary_System.md)  
 
 - 
 
@@ -509,7 +509,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
     [:octicons-arrow-right-24: Server Rules](Server_Rules.md)
 
-    [:octicons-arrow-right-24: Beginner Guide & Quick Starting Guide](uaro_beginners_guide_enhanced.md)
+    [:octicons-arrow-right-24: Beginner Guide & Quick Starting Guide](Beginner_Guide.md)
 
     [:octicons-arrow-right-24: TroubleShooting](Troubleshooting.md)
         
@@ -519,6 +519,6 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
         
     [:octicons-arrow-right-24: FAQ](FAQ.md)
             
-    [:octicons-arrow-right-24: Navigation System](Navigation-System.md)  
+    [:octicons-arrow-right-24: Navigation System](Navigation_System.md)  
 
 </div>

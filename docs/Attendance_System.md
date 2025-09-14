@@ -2,12 +2,13 @@
 hide:
   - toc
 ---
+
 # Attendance System
 Log in each day to claim a daily reward that gives your adventures a helpful boost. Rewards are tied to your account and delivered automatically.
 
 *In-game example:*
 
-![In-game example](img/screenshots/attendance.png)
+![In-game example](img/Attendance_System/attendance.png)
 
 
 
