@@ -1,11 +1,4 @@
----
-hide:
-  - toc
----
 # Repeatable EXP Quests
-
-## Overview
-
 The *uaRO* server offers a variety of **repeatable quests** where players are tasked to collect a specific number of items, typically **20**, **25**, or **50**.
 
 Upon completing these quests, players receive **EXP rewards**. These items are highly valuable as they can be:
@@ -17,7 +10,10 @@ Upon completing these quests, players receive **EXP rewards**. These items are h
     
 Players can gather the required items and turn them in to specific NPCs to claim their rewards. These quests provide an efficient way to gain **EXP** and valuable resources.
 
+
+
 ---
+
 ## Item Turn-In Quests
 
 | **NPC**               | **Location**               | **Min Level** | **Max Level** | **Items**                 | **Base EXP Reward** | **Job EXP Reward** | **Base EXP Per Item** | **Job EXP Per Item** |
@@ -48,7 +44,11 @@ Some items can be bought from NPCs:
   - /navi moc_ruins 93/53
 - **Acorn** can be bought in Moscovia from the Acorn Dealer: /navi moscovia 208/182
 - **Antelope Horn** can be bought in Niflheim from the Tool Dealer: /navi niflheim 218/197
+
+
+
 ---
+
 ## Monster Hunting
 
 The following NPCs offer players a choice of how many monsters they want to hunt, with options of **50**, **100**, or **150**. All three options yield the same EXP per kill, with hunting **100 monsters** rewarding twice as much as hunting **50**.

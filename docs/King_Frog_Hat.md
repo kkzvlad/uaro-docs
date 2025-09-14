@@ -1,8 +1,3 @@
----
-hide:
-  - toc
----
-
 # 🐸 King Frog Hat Quest
 
 ## 🌟 Quest Overview

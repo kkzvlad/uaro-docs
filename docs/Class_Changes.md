@@ -1,3 +1,7 @@
+# Class Changes
+
+!!! warning "This page is a work in progress."
+
 ## First Job  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -60,7 +64,7 @@
 
 *Soul Linker*  
 
-## Advanced  
+## Transcendent   
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 *Lord Knight*
@@ -123,7 +127,7 @@ HP/SP pools remain the same as Job 50.
 All Soul Links (Level 5) now last 10 minutes (previously 5 minutes).
 
 Patch Notes - 6 December, 2024<br>
-## 🎯 **Extended Class Skill Reworks**
+## Extended
 
 ### **Gunslinger**
 | Skill Name         | Change                                |

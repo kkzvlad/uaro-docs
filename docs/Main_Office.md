@@ -1,12 +1,4 @@
----
-hide:
-  - toc
----
-
 # Main Office
-
-
-## **Overview**
 
 Welcome to Main Office, your one-stop shop for all things useful in Prontera! Located in the heart of the city **(/navi prontera 134/184)**, Main Office is home to a variety of helpful NPCs who can assist you with your adventures.
 
@@ -16,8 +8,6 @@ Need to exchange loots and Poring Coins for Quest hats? Main Office is the place
 
 So come on down to Main Office and see what we have to offer! We're here to help you make the most of your experience.
 
-
-## **NPC**
 
 | NPC                    | Description                                                                                          |
 |------------------------|------------------------------------------------------------------------------------------------------|

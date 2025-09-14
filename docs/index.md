@@ -1,11 +1,5 @@
----
-hide:
-  - navigation
-  - toc
----
-
 # World of Your Dream Documentation
-Welcome to the World of Your Dream Documentation, the official resource for our server. Explore detailed guides for both beginners and veteran players, along with in-depth descriptions of server features, quests, patch notes, and game mechanics. Stay up-to-date with the latest content and unlock the full potential of your gaming experience.
+Welcome to the World of Your Dream Documentation, the official resource for the uaRO server. Explore detailed guides for both beginners and veteran players, along with in-depth descriptions of server features, quests, patch notes, and game mechanics. Stay up-to-date with the latest content and unlock the full potential of your gaming experience.
 
 ![Image title](img/wiki-title.webp)
 
@@ -417,7 +411,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 
 
-## Main Features
+### Main Features
 
 <div class="grid cards" markdown>
 
@@ -447,7 +441,7 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
 </div>
 
-## All Features
+### All Features
 
 <div class="grid cards" markdown>
 
@@ -455,70 +449,86 @@ Welcome to the World of Your Dream Documentation, the official resource for our 
 
     [:octicons-arrow-right-24: Attendance System](Attendance_System.md)
 
-    [:octicons-arrow-right-24: Hourly Rewards System](Hourly_Rewards_System.md)
+    [:octicons-arrow-right-24: Auto Events](Auto_Events.md)
 
-    [:octicons-arrow-right-24: Custom NPC](Custom_NPC.md)
+    [:octicons-arrow-right-24: Beginner Guide](Beginner_Guide.md)
 
-    [:octicons-arrow-right-24: Main Office](Main_Office.md)
-
-    [:octicons-arrow-right-24: Warper System](Warper_System.md)
-
-    [:octicons-arrow-right-24: Hunting Mission](Hunting_Mission.md)
-
-    [:octicons-arrow-right-24: Pet System](Pet_System.md)
-    
-    [:octicons-arrow-right-24: Headgear Quest](Dimonka_Headgear_Quest.md)
-
-    [:octicons-arrow-right-24: WoE](WoE.md)
-
-    [:octicons-arrow-right-24: Pre-Trans WoE](Pre_Trans_WoE.md)
-    
-    [:octicons-arrow-right-24: Hugel Mini Game](Hugel_Mini_Game.md)
-    
-    [:octicons-arrow-right-24: Biolab 4](Biolab4.md)   
-
--   
+    [:octicons-arrow-right-24: Biolab 4](Biolab4.md)
 
     [:octicons-arrow-right-24: Card Exchange](Card_Exchange.md)
 
+    [:octicons-arrow-right-24: Class Changes](Class_Changes.md)
+
+    [:octicons-arrow-right-24: Commands](Commands.md)
+
     [:octicons-arrow-right-24: Costume Converter](Costume_Converter.md)
 
-    [:octicons-arrow-right-24: Repeatable Quests](Repeatable_Quests.md)
+    [:octicons-arrow-right-24: Custom NPC](Custom_NPC.md)
 
-    [:octicons-arrow-right-24: How to Start](How_To_Start.md)
-
-    [:octicons-arrow-right-24: Modified Sales Prices](Modified_Sales_Prices.md)
-
-    [:octicons-arrow-right-24: Remastered Novice Location](Remastered_Novice_Location.md)
-     
-    [:octicons-arrow-right-24: Vendor System](Vendor_System.md)
-            
-    [:octicons-arrow-right-24: Auto Events](Auto_Events.md)
+    [:octicons-arrow-right-24: Donations](Donations.md)
 
     [:octicons-arrow-right-24: Endless Cellar](Endless_Cellar.md)
 
-    [:octicons-arrow-right-24: Old Glast Heim](Old_Glast_Heim.md)
-  
+    [:octicons-arrow-right-24: FAQ](FAQ.md)
+
+    [:octicons-arrow-right-24: Headgear Quest](Dimonka_Headgear_Quest.md)
+
     [:octicons-arrow-right-24: Horror Toy Factory ](Horror_Toy_Factory.md)
- 
+
+    [:octicons-arrow-right-24: Hourly Rewards System](Hourly_Rewards_System.md)
+
+    [:octicons-arrow-right-24: How to Start](How_To_Start.md)
+
+    [:octicons-arrow-right-24: Hugel Mini Games](Hugel_Mini_Game.md)
+
+    [:octicons-arrow-right-24: Hunting Missions](Hunting_Mission.md)
+
+    [:octicons-arrow-right-24: Jewelry Box](Jewelry_Box.md)
+
+    [:octicons-arrow-right-24: King Frog Hat](King_Frog_Hat.md)
+       
+-   
+
+    [:octicons-arrow-right-24: Lottery](Lottery_NPC.md)
+    
+    [:octicons-arrow-right-24: Main Office](Main_Office.md)
+
     [:octicons-arrow-right-24: Mercenary System ](Mercenary_System.md)  
 
-- 
+    [:octicons-arrow-right-24: Modified Sales Prices](Modified_Sales_Prices.md)
+
+    [:octicons-arrow-right-24: Navigation System](Navigation_System.md)
+
+    [:octicons-arrow-right-24: Old Glast Heim](Old_Glast_Heim.md)
+
+    [:octicons-arrow-right-24: Pre-Trans WoE](Pre_Trans_WoE.md)
+
+    [:octicons-arrow-right-24: Pet System](Pet_System.md)
+
+    [:octicons-arrow-right-24: Poring Coin System](Poring_Coins_System.md)
+
+    [:octicons-arrow-right-24: QOL Improvements](Improvements.md)
+
+    [:octicons-arrow-right-24: Remastered Novice Location](Remastered_Novice_Location.md)
+     
+    [:octicons-arrow-right-24: Repeatable Quests](Repeatable_Quests.md)
 
     [:octicons-arrow-right-24: Server Info](Server_Info.md)
 
     [:octicons-arrow-right-24: Server Rules](Server_Rules.md)
 
-    [:octicons-arrow-right-24: Beginner Guide & Quick Starting Guide](Beginner_Guide.md)
+    [:octicons-arrow-right-24: Taming Gift Set](Taming_Gift_Set.md)
 
-    [:octicons-arrow-right-24: TroubleShooting](Troubleshooting.md)
-        
-    [:octicons-arrow-right-24: Commands](Commands.md)
-    
-    [:octicons-arrow-right-24: Donations](Donations.md)
-        
-    [:octicons-arrow-right-24: FAQ](FAQ.md)
-            
-    [:octicons-arrow-right-24: Navigation System](Navigation_System.md)  
+    [:octicons-arrow-right-24: Troubleshooting](Troubleshooting.md)
+
+    [:octicons-arrow-right-24: Twilight Festival](Twilight_Festival.md)
+
+    [:octicons-arrow-right-24: Vendor System](Vendor_System.md)
+
+    [:octicons-arrow-right-24: Warper System](Warper_System.md)
+
+    [:octicons-arrow-right-24: WoE](WoE.md)
+
+-
 
 </div>

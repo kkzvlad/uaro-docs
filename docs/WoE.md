@@ -1,26 +1,4 @@
----
-hide:
-  - toc
----
-
 # WoE
-
-## Contents
-
-- [WoE](#woe)
-  - [Contents](#contents)
-  - [Overview](#overview)
-  - [WoE Signs](#woe-signs)
-  - [Schedule](#schedule)
-    - [Saturday](#saturday)
-      - [Available Castles](#available-castles)
-  - [Treasure Chest Drop](#treasure-chest-drop)
-  - [Token System](#token-system)
-  - [WoE Mechanics](#woe-mechanics)
-    - [Item Restrictions:](#item-restrictions)
-    - [Skill Restrictions:](#skill-restrictions)
-
-## Overview
 
 The War of Emperium is a game feature where guilds compete to conquer a castle, which then becomes the guild’s headquarters and grants various bonuses and advantages.
 Owning a castle provides several benefits for the guild. First, it unlocks access to a special Guild Dungeon available to all guild members. These dungeons contain powerful monsters that are often not found in the regular world. Additionally, every night, 4 or more treasure chests (depending on the castle’s economy level) appear in the castle, offering valuable items and equipment. Owning a castle raises the guild's prestige.

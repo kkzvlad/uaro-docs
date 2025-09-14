@@ -9,7 +9,7 @@ Old Glast Heim (OGH) is a dungeon instance in Ragnarok Online designed for advan
 
 **Required Level: 99**
 
-## How to get to Old Glast Heim
+## How to get to there
 
 ![OGH-Hugin](img/OGH-Hugin.png)<br>
 

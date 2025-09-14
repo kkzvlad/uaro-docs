@@ -1,4 +1,4 @@
-## :crossed_swords: Mercenary System Overview
+# :crossed_swords: Mercenary System Overview
 
 Welcome to the uaRO Mercenary System guide. This page covers everything you need to know about hiring, using, and optimizing mercenaries. Whether you're a beginner or looking to master AI automation, this guide has you covered.
 

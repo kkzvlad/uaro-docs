@@ -51,8 +51,7 @@ Step inside the [Main Office](Main_Office.md) and you’ll find more to explore,
 
 <!-- TEMPLATE // | ![Alt Text](img/name.gif)<br> **Functional Name** | `/navi map_name X/Y` | Description: includes actual NPC name, what is does, and what it costs if anything. Link out to other pages if relevant. | // END TEMPLATE -->
 
-## Something missing?
-### Our approach
+## Our approach
 We aim for a classic, balanced experience, so you won’t find the shortcut NPCs common on heavily customized servers. Travel, quests, and party play are all part of the journey here.
 
 ### Got ideas?

@@ -36,18 +36,19 @@ theme:
 
 # Navigation setup
 nav: 
-  - Welcome to uaRO!: index.md
+  - Welcome to uaRO: index.md
   - Server Information: Server_Info.md
   - Server Rules: Server_Rules.md 
   - Donations: Donations.md 
   - Patch Notes: All_Patch_Notes.md 
-  - Join us on Discord!: https://discord.gg/uaro-the-world-of-your-dream-702960460168953946
+  - Download uaRO ↗: https://www.uaro.net/cp/?module=service&action=downloads
+  - Join us on Discord ↗: https://discord.gg/uaro-the-world-of-your-dream-702960460168953946
   - Getting Started: 
     - How to start: How_To_Start.md 
-    - Download the game: https://www.uaro.net/cp/?module=service&action=downloads
     - Commands: Commands.md
     - Beginner Guide: Beginner_Guide.md 
-    - Quality of Life Changes: Improvements.md
+    - Class Changes: Class_Changes.md
+    - QOL Improvements: Improvements.md
     - Troubleshooting: Troubleshooting.md
     - FAQ: FAQ.md
   - Key Features:
