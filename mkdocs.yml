@@ -36,52 +36,52 @@ theme:
 
 # Navigation setup
 nav: 
-  - Welcome to uaRO: index.md
-  - Server Information: Server_Info.md
-  - Server Rules: Server_Rules.md 
-  - Donations: Donations.md 
-  - Patch Notes: All_Patch_Notes.md 
-  - Download uaRO ↗: https://www.uaro.net/cp/?module=service&action=downloads
-  - Join us on Discord ↗: https://discord.gg/uaro-the-world-of-your-dream-702960460168953946
+  - 👋 Welcome to uaRO: index.md
+  - ℹ️ Server Information: Server_Info.md
+  - 📖 Server Rules: Server_Rules.md 
+  - 🌳 Donations: Donations.md 
+  - 🧵 Patch Notes: All_Patch_Notes.md 
+  - 🚀 Download uaRO ↗: https://www.uaro.net/cp/?module=service&action=downloads
+  - 👾 Join us on Discord ↗: https://discord.gg/uaro-the-world-of-your-dream-702960460168953946
   - Getting Started: 
-    - How to start: How_To_Start.md 
-    - Commands: Commands.md
-    - Beginner Guide: Beginner_Guide.md 
-    - Class Changes: Class_Changes.md
-    - QOL Improvements: Improvements.md
-    - Troubleshooting: Troubleshooting.md
-    - FAQ: FAQ.md
+    - ⭐ How to start: How_To_Start.md 
+    - ⚙️ Commands: Commands.md
+    - 🌱 Beginner Guide: Beginner_Guide.md 
+    - 🔮 Class Changes: Class_Changes.md
+    - 🦋 QOL Improvements: Improvements.md
+    - 🛟 Troubleshooting: Troubleshooting.md
+    - 💬 FAQ: FAQ.md
   - Key Features:
-    - Main Office: Main_Office.md
-    - Cute Pet System: Pet_System.md
-    - Hunting Missions: Hunting_Mission.md
-    - Poring Coin System: Poring_Coins_System.md
-    - Repeatable Quests: Repeatable_Quests.md 
-    - Vendor System: Vendor_System.md
-    - Warper System: Warper_System.md
+    - 🏡 Main Office: Main_Office.md
+    - 🐱 Cute Pet System: Pet_System.md
+    - ⚔️ Hunting Missions: Hunting_Mission.md
+    - 💖 Poring Coin System: Poring_Coins_System.md
+    - 🎉 Repeatable Quests: Repeatable_Quests.md 
+    - 💰 Vendor System: Vendor_System.md
+    - 🌀 Warper System: Warper_System.md
   - Enhancements: 
-    - Attendance Rewards: Attendance_System.md
-    - Card Exchange: Card_Exchange.md 
-    - Custom NPCs: Custom_NPC.md
-    - Costume Converter: Costume_Converter.md
-    - Headgear Quests: Dimonka_Headgear_Quest.md 
-    - Hourly Rewards: Hourly_Rewards_System.md 
-    - Mercenary System: Mercenary_System.md 
-    - Modified Sales Prices: Modified_Sales_Prices.md 
-    - Navigation System: Navigation_System.md 
-    - Remastered Novice Grounds: Remastered_Novice_Location.md 
+    - 🔔 Attendance Rewards: Attendance_System.md
+    - 🎟️ Card Exchange: Card_Exchange.md 
+    - 🧚 Custom NPCs: Custom_NPC.md
+    - 🎭 Costume Converter: Costume_Converter.md
+    - 👒 Headgear Quests: Dimonka_Headgear_Quest.md 
+    - 🕥 Hourly Rewards: Hourly_Rewards_System.md 
+    - 🔪 Mercenary System: Mercenary_System.md 
+    - 💎 Modified Sales Prices: Modified_Sales_Prices.md 
+    - 🗺️ Navigation System: Navigation_System.md 
+    - 🐣 Remastered Novice Grounds: Remastered_Novice_Location.md 
   - Dungeons: 
-    - Biolabs 4: Biolab4.md 
-    - Endless Cellar: Endless_Cellar.md 
+    - 🧪 Biolabs 4: Biolab4.md 
+    - ⏳ Endless Cellar: Endless_Cellar.md 
     # - Endless Tower: Endless_Tower.md 
-    - Horror Toy Factory: Horror_Toy_Factory.md 
-    - Old Glast Heim: Old_Glast_Heim.md 
+    - 🎁 Horror Toy Factory: Horror_Toy_Factory.md 
+    - 👻 Old Glast Heim: Old_Glast_Heim.md 
   - Events & Activites:
-    - Auto Events: Auto_Events.md 
-    - Lottery: Lottery_NPC.md 
-    - Hugel Mini Games: Hugel_Mini_Game.md
-    - War of Emperium: WoE.md
-    - Pre-Trans WoE: Pre_Trans_WoE.md
+    - 🍀 Auto Events: Auto_Events.md 
+    - 🎲 Lottery: Lottery_NPC.md 
+    - 🐎 Hugel Mini Games: Hugel_Mini_Game.md
+    - 🏰 War of Emperium: WoE.md
+    - 🏯 Pre-Trans WoE: Pre_Trans_WoE.md
   
 # Markdown extensions
 markdown_extensions:
