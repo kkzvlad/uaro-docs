@@ -1,10 +1,8 @@
----
-hide:
-  - toc
----
+# Dimonka Headgear Quests
 
-# Dominka Headgear Quests
-Dominka is found in the [Main Office](Main_Office.md) and offers a unique selection of practical headgear to support your adventures.<br>
+![Dimonka NPC](img/NPC/dimonka.gif)
+
+Dimonka is found in the [Main Office](Main_Office.md) and offers a unique selection of practical headgear to support your adventures.<br>
 
 <table>
 <thead>

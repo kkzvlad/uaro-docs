@@ -20,7 +20,7 @@ For party missions:
 - The party leader accepts the mission, and all members receive the same objectives and rewards.
 - To get kill credit, party members must be on the same screen when the monster is defeated.
 
-## Abandoning missions
+### Abandoning missions
 If a mission doesn’t suit you, it can be abandoned for a fee:
 
 - Beginner and intermediate: 50,000z
@@ -37,7 +37,7 @@ Keep these rules in mind:
 4. Missions can be reset as often as you like by paying the abandonment fee.
 5. Monsters killed by party members within your screen view count toward your total.
 
-## Extra notes
+### Extra notes
 
 - Leaving your party won’t cause you to lose a mission. You can rejoin the same group or join a new one and still hunt the monsters on your list.
 - XP rewards stack with other bonuses, including weekend rates and Battle Manuals.

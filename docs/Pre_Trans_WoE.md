@@ -1,28 +1,4 @@
----
-hide:
-  - toc
----
-
 # Pre-Trans WoE
-
-## Contents
-
-- [Pre-Trans WoE](#pre-trans-woe)
-	- [Contents](#contents)
-	- [Overview](#overview)
-	- [Schedule](#schedule)
-		- [Saturday](#saturday)
-			- [Available Castles](#available-castles)
-	- [Treasure Chest Drop](#treasure-chest-drop)
-	- [Token System](#token-system)
-	- [WoE Mechanics](#woe-mechanics)
-	- [Item Block Lists](#item-block-lists)
-		- [Card Restrictions:](#card-restrictions)
-		- [Consumables Restrictions:](#consumables-restrictions)
-		- [Gear Restrictions:](#gear-restrictions)
-		- [Skill Restrictions:](#skill-restrictions)
-
-## Overview
 
 Pre-Trans WoE in Ragnarok Online is a guild-based PvP event where only second jobs and below can participate, creating a unique and balanced battlefield. Without transcendent skills, strategy and teamwork become even more crucial. Guilds must break the Emperium to claim castles while fending off enemy attacks. Holding a castle grants access to Guild Dungeons and valuable treasures, making competition fierce. The absence of overpowered buffs and gear encourages classic gameplay, where skill rotations, positioning, and proper class synergy matter most. Tanks, wizards, assassins, and supports all have key roles, ensuring a dynamic and engaging experience.
 

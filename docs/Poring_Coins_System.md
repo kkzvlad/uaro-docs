@@ -1,8 +1,3 @@
----
-hide:
-  - toc
----
-
 # Poring Coins System
 
 uaRO: World of Your Dream introduce **Poring Coins System**
@@ -13,23 +8,13 @@ You can also get them for completing various in-game quests and participating in
 
 Poring Coins are not tied to an account or a character, you can sell them, exchange them with other players, and use them for certain quests.
 
-## **Contents**
-
-- [Poring Coins System](#poring-coins-system)
-  - [**Contents**](#contents)
-  - [**Poring Coins drop changes**](#poring-coins-drop-changes)
-  - [**Where to exchange Poring Coins**](#where-to-exchange-poring-coins)
-  - [**List of items that can be exchanged for Poring Coins**](#list-of-items-that-can-be-exchanged-for-poring-coins)
-    - [**Consumable items**](#consumable-items)
-
-## **Poring Coins drop changes**
+## Details
 
 **PC drop decreased from mobs:**  
 ![Orc Zombie](img/1463.gif) Orc Zombie  
 ![Thief Bug Female](img/1053.gif) Thief Bug Female  
 ![Thief Bug Male](img/1054.gif) Thief Bug Male  
 ![Familiar](img/1005.gif) Familiar  
-
 
 **PC drop removed from mobs:**  
 ![Hydra](img/1068.gif) Hydra  
@@ -47,13 +32,11 @@ Poring Coins are not tied to an account or a character, you can sell them, excha
 ![Tarou](img/1175.gif) Tarou  
 ![Plankton](img/1161.gif) Plankton  
 
-## **Where to exchange Poring Coins**
+## Exchange
 
 Poring Coins can be exchanged for you by Lydia, she is in the main office of Prontera.
 
 ![Lydia](img/Screenshot_2023-01-02_at_08.52.06.png)
-
-## **List of items that can be exchanged for Poring Coins**
 
 ### **Consumable items**
 

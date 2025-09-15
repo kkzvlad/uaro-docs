@@ -1,8 +1,3 @@
----
-hide:
-  - toc
----
-
 # Attendance System
 Log in each day to claim a daily reward that gives your adventures a helpful boost. Rewards are tied to your account and delivered automatically.
 
@@ -10,9 +5,6 @@ Log in each day to claim a daily reward that gives your adventures a helpful boo
 
 ![In-game example](img/Attendance_System/attendance.png)
 
-
-
-## Attendance rewards items list
 
 | Day | Item Image | Description |
 |-----|------------|-------------|

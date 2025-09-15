@@ -1,7 +1,3 @@
----
-title: "Patch Notes - 07 January 2025"
----
-
 # 📝 List of Patches
 
 | №  | Date       | Link                                       |

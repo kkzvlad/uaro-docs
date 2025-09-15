@@ -8,13 +8,7 @@ While playing on the server is free, donations assist with covering expenses suc
 
 **Minimum donation**: $10
 
-## Contents
-1. [Donation Rules](#donation-rules)
-2. [Donation Options](#donation-options)
-3. [Donation with PayPal](#donation-with-paypal)
-4. [How to make a donation using different method](#how-to-make-a-donation-using-different-method)
-
-## Donation Rules
+### Donation Rules
 
 - Donations to our service are entirely optional, and any benefits received from donations are non-refundable.
 - Attempting to open a PayPal dispute, chargeback, or using stolen payment methods (carding) will result in the suspension of your account on uaRO.
@@ -22,14 +16,14 @@ While playing on the server is free, donations assist with covering expenses suc
 - Please note that making a donation does not excuse you from following the server rules.
 - By making a donation, you are agreeing to these terms and conditions.
 
-## Donation Options
+### Donation Options
 
 At this time, we are manually processing donations. The following donation methods are available:
 
 - PayPal (automatic)
 - Cryptocurrency (manual)
 
-## Donation with PayPal
+### Donation with PayPal
 
 1. Visit [Donation Page](https://uaro.net/cp/?module=donate).
 2. Choose the donation amount.
@@ -39,7 +33,7 @@ At this time, we are manually processing donations. The following donation metho
    
    ![Cash Shop Preview](img/400px-Cash-shop-preview.png)
 
-## How to make a donation using different method
+### How to make a donation using different method
 
 Contact me directly on Discord: **Privettema#2016**.
 

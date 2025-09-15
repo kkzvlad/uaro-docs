@@ -1,6 +1,6 @@
-![HTF](img/HTF/HTF.jpg)
+# Horror Toy Factory
 
-## Overview
+![HTF](img/HTF/HTF.jpg)
 
 Horror Toy Factory is an instance where players explore a sinister toy factory filled with aggressive monsters and ghosts. The main objective is to defeat the final boss, Celine Kimi, while overcoming traps and powerful enemies along the way.  
 The instance offers unique rewards, including rare items and equipment, making it popular among players.
@@ -10,7 +10,7 @@ The instance offers unique rewards, including rare items and equipment, making i
 **Party:** At least one member
 
 
-## How to get to instance
+## How to get there
 
 ![HTF-NPC](img/HTF/HTF-NPC.jpg.png)<br>
 To start this instance, you need to go to Lutie and find the NPC Catherine Jet Johnson (**/navi xmas 237/303**). Talk to her and agree to help her.

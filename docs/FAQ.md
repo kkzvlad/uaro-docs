@@ -1,7 +1,3 @@
----
-hide:
-  - toc
----
 # FAQ
 
 ## How to delete a character?

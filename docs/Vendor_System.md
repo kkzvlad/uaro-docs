@@ -33,7 +33,7 @@ To streamline the process, we have introduced the **Vendor Management System**:
 
 
 
-## How to find a store
+## Find a store
 There are several ways to find and buy items.
 
 ### Use @ws2 command
@@ -68,7 +68,7 @@ Our Discord server has a [#selling](https://discord.com/channels/702960460168953
 
 
 
-## How to find a buying store
+## Find a buying store
 There are several ways to sell items to other players.
 
 ### Use @wb2 command
@@ -90,7 +90,7 @@ Our Discord server has a [#buying](https://discord.com/channels/7029604601689539
 
 
 
-## How to create a buying store
+## Create a buying store
 Any class can create a buying store. Here are the main requirements for creating a store:
 
 - **Possession of the item**: You must possess the item you wish to purchase. 

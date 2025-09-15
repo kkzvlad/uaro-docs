@@ -1,10 +1,4 @@
----
-hide:
-  - toc
----
 # Hourly Rewards System
-
-##**Hourly Rewards**
 
 In the top right corner of the screen, you will see a timer.
 
