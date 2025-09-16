@@ -1,4 +1,15 @@
-# Pet System
+# Cute Pet System
+
+## Feeding
+Automatic feeding is available for evolved pets or pets without an evolution. Pets that starve will return to their egg with intimacy at Awkward, instead of running away.
+
+!!! warning "Remember to enable auto-feed before leaving your pet unattended!"
+
+| Type | Feeding |
+|---|---|
+| Pet Pre-Evolution | Only manual. Example: Poring evolves into Mastering, so it does not have auto-feed. |
+| Evolved Pet | Can be auto-fed. Example: Angeling is an evolved pet, so it can use auto-feed. |
+| Pet without Evolution | Can be auto-fed. Example: Incubus does not have an evolution tree, so it can use auto-feed. |
 
 ## Non-evolved Pets
 
