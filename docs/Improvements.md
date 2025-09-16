@@ -90,3 +90,7 @@ This is a great way for new players to quickly and easily advance their characte
 ![Screenshot_2023-01-21_at_18.37](img/Screenshot_2023-01-21_at_18.37.png)
 
 *Renewal Training Ground*
+
+## Improved Mechanics
+- Fly Wing and Teleport will no longer randomly land you within portals, ensuring more control.
+- Monster stack limit is increased from 1 to 7.

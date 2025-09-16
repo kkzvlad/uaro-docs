@@ -30,3 +30,29 @@
     list-style-type: decimal;
     padding-left: 20px;
 }
+
+.class-changes-table th:nth-child(1) {
+    width: 250px;
+}
+
+.class-changes-table th:nth-child(2) {
+    width: 350px;
+}
+
+.class-changes-table th:nth-child(3) {
+    width: 350px;
+}
+
+.class-changes-table img {
+    vertical-align: top;
+    margin-right: 6px;
+    position: relative;
+    top: -2px;
+    width: 24px;
+    height: 24px;
+}
+
+.class-changes-table ul {
+    padding-left: 0;
+    margin-left: 0 !important;
+}
