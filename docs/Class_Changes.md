@@ -98,6 +98,14 @@
                 <td>The amount of damage cannot be greater than the amount of HP the wearer of the skill has. Reflect is not transmitted if the character is within a Safety Wall. </td>
             </tr>
             <tr>
+                <td><img src="../img/Class_Changes/cr_devotion.gif" alt="">Devotion</td>
+                <td>Placeholder</td>
+                <td>
+                    Cannot be placed on non-guild members outside of Battlegrounds.<br><br>
+                    Buff icon is displayed when active for caster and receiver.
+                </td>
+            </tr>
+            <tr>
                 <td><img src="../img/Class_Changes/placeholder.gif" alt="">Grand Cross</td>
                 <td>Placeholder</td>
                 <td>Due to increase mob stack size, mobs on the same cell take 100% of the damage from every hit.</td>
@@ -106,14 +114,6 @@
                 <td><img src="../img/Class_Changes/placeholder.gif" alt="">Gospel</td>
                 <td></td>
                 <td>Buffs reset upon relog.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/placeholder.gif" alt="">Devotion</td>
-                <td>Placeholder</td>
-                <td>
-                    Cannot be placed on non-guild members outside of Battlegrounds.<br><br>
-                    Buff icon is displayed when active for caster and receiver.
-                </td>
             </tr>
         </tbody>
     </table>
