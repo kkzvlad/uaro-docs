@@ -12,6 +12,7 @@ theme:
     - navigation.top
     - navigation.sections
     - navigation.expand
+    - navigation.footer
     - toc.integrate
     - search.suggest
     - search.highlight
