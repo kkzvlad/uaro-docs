@@ -92,26 +92,57 @@ This is a great way for new players to quickly and easily advance their characte
 *Renewal Training Ground*
 
 
+<!-- TODO: 
+
+### Rodex Mail System
+You can send Items from and to everywhere for a small fee of 2.5k per item stack. So you can restock consumables and send your loot away wherever you want. You have to care less for weight limit because your solution is only a few seconds away. You can send more than one mail and open them one after the other when you want, they are stored for 14 days. You can only send tradeable items this way, not account bound ones.
+- 2.5k per stack
+- Max weight 2000
+- Expires after 14 days
+- Blocked during WoE
+- Restricted items: Great Nature, etc...
+
+-->
 
 ## Improved Mechanics
 
-| Change | Description |
+| Feature | Description |
 |---|---|
 | **Easy Access to Prontera** | Distant cities have warp access to Prontera for 25,000z. |
-| **Expanded Guild Storage Access** | Guild storage can be accessed from most Kafras. |
-| **Senisble Telporting** | Fly Wing and Teleport will no longer randomly land you within portals, ensuring more control. |
+| **Sensible Teleporting** | Fly Wing and Teleport will no longer randomly land you within portals, ensuring more control. |
+| **Minimap Recall** | Track your previous teleport or fly wing location by configuring in `@settings`.  |
 | **Stacking Monsters** | Monster stack limit is increased from 1 to 7. |
+| **Rotating Bonus EXP Maps** | Two bonus areas are selected every 48-72 hours to receive an 20-30% EXP boost until the next rotation. You can check the current areas with `@mapexp`. |
+| **Test Your Build** | [Target Dummy](Custom_NPC.md#combat) NPCs are available to test our your equipment and build against most scenarios. |
+| **Safe Card Removal** | [Mysterious Granny](Custom_NPC.md#cards) can remove cards from equipment with 100% success for a significant fee. |
+| **Buying Shop: Cards** | Buying shops can trade Cards in addition to Consumables and Etc items. | |
 | **Summon Timeout** | Monsters spawned from Dead Branch, Bloody Branch, Azeroth, Abracadabra, etc will now auto-kill with no EXP or loot after 4 hours. |
+| **Action Prompts** | Fishing and mining spots ask for confirmation instead of automatically activating. Default option will cancel the action. |
 | **Ninja Ammo Balance** | Cost and weight rebalanced for fairer gameplay. |
+
+
+
+### Guilds
+| Feature | Description |
+|---|---|
+| **Guild Storage Access** | Guild storage can be accessed from most Kafras. |
+| **Guild Storage Logs** | Guild leader can check `@guildlog` to see who accessed storage, when they accessed it, and permit others to see the logs based on title. |
 
 
 
 ## Equipment Changes
 
-| Equip | Description |
-|---|---|
-| Sigrun's Wings | +1 STR to Star Gladiator |
-| Wedding Dress | +15 MDF |
+| Item | Item ID | Position | Description |
+|---|---|---|
+| Sigrun's Wings | 000 | Middle Headgear | Adds +1 STR to Star Gladiator |
+| Wedding Dress | 000 | Body | Adds +15 MDF |
+| Dagger of Counter | 000 | Weapon | ATK increased to 140. |
+| Sting Hat | 000 | Upper Headgear | Drops from Sting. |
+| Crown of Deceit | 000 | Upper Headgear | Drops from Fallen Bishop. INT adjusted from 3 → 4. |
+| Mercury Riser [1] | 000 | Upper Headgear | Placeholder, nerfed. |
+| Blood Sucker | 000 | Lower Headgear | Placeholder, nerfed. |
+
+
 
 
 
@@ -124,3 +155,22 @@ In addition to the **Quest x2 EXP Bonus**, some game quests are improved or give
 | Rachel Sanctuary | x5 EXP Bonus |
 | Curse of Gaebolg | x5 EXP Bonus |
 | Continental Messenger Quest | NPCs no longer force proximity-based pop-ups. |
+| Boys Cap Quest | Requires 5 Tiger's Footskin instead of 10. |
+
+
+
+## Customized Experience
+
+| Feature | Description |
+|---|---|
+| **Cash Shop Costumes** | Placeholder. |
+| **Event Token Costumes** | Placeholder. |
+| **Gold Coin Costumes** | Placeholder. |
+| **WoE Costumes** | Placeholder. |
+| **Hunting Mission Costumes** | Placeholder. |
+| **Seasonal Event Costumes** | Placeholder. |
+| **Poring Coin Costumes** | Placeholder. |
+| **Merchant Cart Costumes** | Placeholder. |
+| **Stylist** | Placeholder. |
+| **New Hairstyles** | Placeholder. |
+| **Hide Falcon** | Hunter and Snipers can hide their own Falcon in `@settings`. |
