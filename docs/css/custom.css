@@ -4,18 +4,6 @@
     - Use var() from theme to support light/dark mode. ie, color: var(--md-default-fg-color); 
 */
 
-.md-card {
-    padding: 1.25rem; /* 20px */
-    border-radius: 0.5rem; /* 8px */
-    background-color: var(--md-default-bg-color--lightest);
-    box-shadow: 0 0.125rem 0.5rem var(--md-default-bg-color--light); /* 0 2px 8px */
-    transition: transform 0.2s ease;
-}
-
-.md-card:hover {
-    transform: scale(1.02);
-}
-
 .grid__col-6 {
     padding: 1.25rem; /* 20px */
 }
