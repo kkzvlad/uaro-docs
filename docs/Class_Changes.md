@@ -686,6 +686,26 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Vendors]
 
 
 
+<!-------------------------------------------->
+## Adopted
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Maximum Stats</td>
+                <td></td>
+                <td>Increased to 99</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 ---
 
@@ -704,6 +724,10 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Vendors]
 
 
 ---
+
+<!-- Placeholder -->
+⚡ **Autospell Bolts** at max level are now **level 5.**
+🛡️ **Stun status now bypasses** Safety Wall **when using Cart Termination**, as intended. Stun now properly applies **through Safety Wall**, restoring intended PvP mechanics.
 
 
 <!-- Needs clarification -------------------------------------->
