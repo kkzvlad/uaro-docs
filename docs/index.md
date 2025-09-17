@@ -22,16 +22,13 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - All Katryn/Cash Shop costumes now properly store in Costume tab.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches09052025.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches09052025.md)
 
-        <br/>
-
-        [:octicons-book-24: All Patch Notes](All_Patch_Notes.md)
 
 
     === "September 1"
 
-        <div class="badge">Sep 1</div>
+        <div class="badge">September 1</div>
 
         ```markdown
         - Built-in client proxies for smoother gameplay (NY, São Paulo, Singapore, Tokyo, Sydney).
@@ -43,11 +40,8 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Skills/NPCs: New hairstyles, reset NPC improvements, Super Novice skill changes.
         ```
         
-        [:octicons-arrow-right-24: Full Patch Notes](patches09012025.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches09012025.md)
 
-        <br/>
-
-        [:octicons-book-24: All Patch Notes](All_Patch_Notes.md)
 
 
     === "July 25"
@@ -63,11 +57,8 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Dozens of fixes, skill tweaks, item balance updates.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches07252025.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches07252025.md)
 
-        <br/>
-
-        [:octicons-book-24: All Patch Notes](All_Patch_Notes.md)
 
 
     === "July 7"
@@ -83,11 +74,8 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Deviling Coin event + vending rewards
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches07072025.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches07072025.md)
 
-        <br/>
-
-        [:octicons-book-24: All Patch Notes](All_Patch_Notes.md)
 
     === "June 25"
 
@@ -102,11 +90,8 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Gameplay Tweaks**: Biolab 4 AI buffed and repeatable quests give more EXP.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches06252025.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches06252025.md)
 
-        <br/>
-
-        [:octicons-book-24: All Patch Notes](All_Patch_Notes.md)
 
     === "May 20"
 
@@ -121,11 +106,8 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **WoE**: Kill Count tracking for castle defenders now fixed.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches05202025.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches05202025.md)
 
-        <br/>
-
-        [:octicons-book-24: All Patch Notes](All_Patch_Notes.md)
 
 
     === "May 12"
@@ -144,12 +126,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **New Costumes**: Major additions to the Cash Shop!
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches05122025.md)
-
-        <br/>
-
-        [:octicons-book-24: All Patch Notes](All_Patch_Notes.md)
-
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches05122025.md)
 
     === "April 18"
 
@@ -165,12 +142,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **WoE**: Aldebaran Castle removed from Pre-Trans rotation.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches04182025.md)
-
-        <br/>
-
-        [:octicons-book-24: All Patch Notes](All_Patch_Notes.md)
-
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches04182025.md)
 
     === "April 10"
 
@@ -186,11 +158,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Item Changes**: Abandoned Teddy Card reworked, new loot for Bradium Golem.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches10042025.md)
-
-        <br/>
-
-        [:octicons-book-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches10042025.md)
 
     === "March 21"
 
@@ -204,8 +172,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Control Panel now fully functional; QoL and bug fixes applied.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches21032025.md)  
-        [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches03212025.md)  
 
     === "February 27"
 
@@ -222,9 +189,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Website Updates**: Merchant list, database fixes, and optimizations.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches02272025.md)
-
-        [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches02272025.md)
 
 
     === "January 31"
@@ -243,9 +208,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Gameplay Adjustments**: Adjustments to skill descriptions, BG cooldowns, kill-steal mechanics, and new item shop additions.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches01312025.md)
-
-        [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches01312025.md)
 
     === "January 17"
 
@@ -257,9 +220,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **New Cash Shop Costumes**: Visit the **Cash Shop NPC** in Prontera for the latest additions.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patchnotes01172025.md)
-
-        [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches01172025.md)
 
     === "January 7"
 
@@ -274,9 +235,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Dungeons/Instances**: Fixed Corrupted Soul MVP behavior, auto-die for Maggots, reduced monster chat spam.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches01072025.md)
-
-        [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches01072025.md)
 
     === "December 24"
 
@@ -291,7 +250,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **New Costumes**: 18 fresh arrivals in the Cash Shop.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches12242024.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches12242024.md)
 
     === "December 6"
 
@@ -308,7 +267,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Event NPC**: Token exchanger added in the Main Office.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches12062024.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches12062024.md)
 
     === "November 19"
 
@@ -325,7 +284,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Endless Cellar**: Temporarily closed for adjustments.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patchnotes11192024.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches11192024.md)
 
     === "November 04"
 
@@ -340,7 +299,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Client Update**: Fresh client download links will be updated within 12 hours.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches11042024.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches11042024.md)
 
     === "November 01"
 
@@ -354,7 +313,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Quality of Life**: Clickable item links for @iteminfo and @mobinfo.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches11012024.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches11012024.md)
 
     === "October 30"
 
@@ -366,7 +325,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **Bug Fixes and Improvements**: Endless Cellar reset, skill tweaks, and visual updates.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches10302024.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches10302024.md)
 
     === "September 18"
 
@@ -378,7 +337,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - **New Additions**: Twilight Festival costumes and Cash Shop items.
         ```
 
-        [:octicons-arrow-right-24: Full Patch Notes](patches09182024.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2024/patches09182024.md)
 
     === "August 31"
 
