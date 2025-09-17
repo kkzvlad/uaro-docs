@@ -7,9 +7,16 @@ Automatic feeding is available for evolved pets or pets without an evolution. Pe
 
 | Type | Feeding |
 |---|---|
-| Pet Pre-Evolution | Only manual. Example: Poring evolves into Mastering, so it does not have auto-feed. |
+| Evolvable Pet | Only manual. Example: Poring evolves into Mastering, so it does not have auto-feed. |
 | Evolved Pet | Can be auto-fed. Example: Angeling is an evolved pet, so it can use auto-feed. |
 | Pet without Evolution | Can be auto-fed. Example: Incubus does not have an evolution tree, so it can use auto-feed. |
+
+### Exceptions
+| Pet | Type | Feeding |
+|---|---|---|
+| Leaf Cat | Evolvable | Auto-feed Available |
+
+
 
 ## Non-evolved Pets
 

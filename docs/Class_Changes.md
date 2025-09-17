@@ -225,6 +225,7 @@
                 <td><img src="../img/Class_Changes/placeholder.gif" alt="">Cart Termination</td>
                 <td></td>
                 <td>
+                    Cost is reduced to 0z.<br><br>
                     Skill is now selectable by level.<br><br>
                     Cart weight requirement is removed.
                 </td>

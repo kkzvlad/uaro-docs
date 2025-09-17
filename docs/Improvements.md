@@ -97,9 +97,12 @@ This is a great way for new players to quickly and easily advance their characte
 
 | Change | Description |
 |---|---|
+| **Easy Access to Prontera** | Distant cities have warp access to Prontera for 25,000z. |
+| **Expanded Guild Storage Access** | Guild storage can be accessed from most Kafras. |
 | **Senisble Telporting** | Fly Wing and Teleport will no longer randomly land you within portals, ensuring more control. |
 | **Stacking Monsters** | Monster stack limit is increased from 1 to 7. |
 | **Summon Timeout** | Monsters spawned from Dead Branch, Bloody Branch, Azeroth, Abracadabra, etc will now auto-kill with no EXP or loot after 4 hours. |
+| **Ninja Ammo Balance** | Cost and weight rebalanced for fairer gameplay. |
 
 
 
@@ -109,3 +112,11 @@ This is a great way for new players to quickly and easily advance their characte
 |---|---|
 | Sigrun's Wings | +1 STR to Star Gladiator |
 | Wedding Dress | +15 MDF |
+
+
+
+## Quest Improvements
+
+| Equip | Description |
+|---|---|
+| Continental Messenger Quest | NPCs no longer force proximity-based pop-ups. |
