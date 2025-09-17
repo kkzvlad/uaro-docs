@@ -116,7 +116,11 @@ This is a great way for new players to quickly and easily advance their characte
 
 
 ## Quest Improvements
+In addition to the **Quest x2 EXP Bonus**, some game quests are improved or give even larger bonuses.
 
-| Equip | Description |
+| Quest | Description |
 |---|---|
+| Nameless Island | x5 EXP Bonus |
+| Rachel Sanctuary | x5 EXP Bonus |
+| Curse of Gaebolg | x5 EXP Bonus |
 | Continental Messenger Quest | NPCs no longer force proximity-based pop-ups. |
