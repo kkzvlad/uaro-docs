@@ -4,9 +4,11 @@
 
 ## Inn Tool Dealer
 
+<!-- TODO: ![Inn Tool Dealer](img/NPC/tool-dealer.gif)<br> -->
+
 | <div style="width:120px">NPC</div> | <div style="width:120px">Location</div> |
 |:---:|---|
-| ![Inn Tool Dealer](img/NPC/tool-dealer.gif)<br>**Tool Dealer** | `/navi prt_in XX/YY` | 
+| **Tool Dealer** | `/navi prt_in XX/YY` | 
 
 | <div style="width:200px">Name</div> | <div style="width:100px;">Item ID</div> | <div style="width:100px;">Cost</div> |
 |---|---|---|
@@ -47,9 +49,13 @@
 
 
 ## Ninja Materials
+
+
+<!-- TODO: ![Ninja Dealer](img/NPC/ninja-dealer.gif)<br> -->
+
 | <div style="width:120px">NPC</div> | <div style="width:120px">Location</div> |
 |:---:|---|
-| ![Ninja Dealer](img/NPC/ninja-dealer.gif)<br>**Jackie** | `/navi prt_in XX/YY` | 
+| **Jackie** | `/navi prt_in XX/YY` | 
 
 | <div style="width:200px">Name</div> | <div style="width:100px;">Item ID</div> | <div style="width:100px;">Cost</div> |
 |---|---|---|
@@ -72,9 +78,11 @@
 | Shadow Orb | 000 | 30 Z |
 
 ## Gunslinger Materials
+<!-- TODO: ![Gunslinger Dealer](img/NPC/gunslinger-dealer.gif)<br> -->
+
 | <div style="width:120px">NPC</div> | <div style="width:120px">Location</div> |
 |:---:|---|
-| ![Gunslinger Dealer](img/NPC/gunslinger-dealer.gif)<br>**Vincenzo** | `/navi prt_in XX/YY` | 
+| **Vincenzo** | `/navi prt_in XX/YY` | 
 
 | <div style="width:200px">Name</div> | <div style="width:100px;">Item ID</div> | <div style="width:100px;">Cost</div> |
 |---|---|---|
