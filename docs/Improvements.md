@@ -91,6 +91,21 @@ This is a great way for new players to quickly and easily advance their characte
 
 *Renewal Training Ground*
 
+
+
 ## Improved Mechanics
-- Fly Wing and Teleport will no longer randomly land you within portals, ensuring more control.
-- Monster stack limit is increased from 1 to 7.
+
+| Change | Description |
+|---|---|
+| **Senisble Telporting** | Fly Wing and Teleport will no longer randomly land you within portals, ensuring more control. |
+| **Stacking Monsters** | Monster stack limit is increased from 1 to 7. |
+| **Summon Timeout** | Monsters spawned from Dead Branch, Bloody Branch, Azeroth, Abracadabra, etc will now auto-kill with no EXP or loot after 4 hours. |
+
+
+
+## Equipment Changes
+
+| Equip | Description |
+|---|---|
+| Sigrun's Wings | +1 STR to Star Gladiator |
+| Wedding Dress | +15 MDF |
