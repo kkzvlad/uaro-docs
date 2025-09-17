@@ -241,7 +241,7 @@
 
 
 ### Alchemist / Creator
-Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#inn-tool-dealer) in addition to typical locations.
+Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in addition to typical locations.
 
 <div class="class-changes-table">
     <table>
@@ -271,7 +271,7 @@ Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#inn-tool-dealer
 
 <!-------------------------------------------->
 ## Acolyte
-Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#inn-tool-dealer) in additional to typical locations.
+Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in additional to typical locations.
 
 
 <div class="class-changes-table">
@@ -357,10 +357,10 @@ Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#inn-tool-dealer) in addi
 
 <!-------------------------------------------->
 ## Thief
-A selection of arrows can are our [Inn Tool Dealers](Dealers.md#inn-tool-dealer). Additional speciality arrows must be crafted.
+A selection of arrows can are our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
 
 ### Assassin / Assassin Cross
-Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#inn-tool-dealer) in addition to typical locations.
+Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in addition to typical locations.
 
 <div class="class-changes-table">
     <table>
@@ -416,11 +416,11 @@ Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#inn-tool-dealer) i
 
 <!-------------------------------------------->
 ## Archer
-A selection of arrows can are our [Inn Tool Dealers](Dealers.md#inn-tool-dealer). Additional speciality arrows must be crafted.
+A selection of arrows can are our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
 
 
 ### Hunter / Sniper
-Traps are sold at our [Inn Tool Dealers](Dealers.md#inn-tool-dealer) in additional to typical locations.
+Traps are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in additional to typical locations.
 
 
 ### Dancer / Gypsy & Bard / Clown (Minstrel) 

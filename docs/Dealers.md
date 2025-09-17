@@ -1,8 +1,8 @@
-# Enhanced NPC Vendors
+# Convenient NPC Dealers
 
-!!! note "Items prices at enhanced NPC vendors are identical to their official counterparts."
+!!! note "Items prices at enhanced NPC dealers are identical to their official counterparts."
 
-## Inn Tool Dealer
+## Enhanced Tool Dealer
 
 <!-- TODO: ![Inn Tool Dealer](img/NPC/tool-dealer.gif)<br> -->
 
