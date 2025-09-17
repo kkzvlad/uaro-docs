@@ -1,9 +1,13 @@
 # Cute Pet System
+<!--TODO: Add intro flavor text -->
+<!--TODO: Add Familiar pet -->
 
 ## Feeding
-Automatic feeding is available for evolved pets or pets without an evolution. Pets that starve will return to their egg with intimacy at Awkward, instead of running away.
+Automatic feeding (Auto-feed) is available for evolved pets or pets without an evolution. Pets that starve will return to their egg with intimacy at Awkward, instead of running away.
 
 !!! warning "Remember to enable auto-feed before leaving your pet unattended!"
+
+Auto-feed command `@autofeed` is enabled account-wide and persists through logout. If you have a pet currently equipped that cannot be autofed with auto-feed enabled, a message will appear to remind you.
 
 | Type | Feeding |
 |---|---|
