@@ -12,8 +12,7 @@ The area also features NPCs that offer helpful advice and guidance to new player
 
 Once the player finishes the tutorial and reaches job level 10, they can choose to become a swordsman, mage, or archer in the next step, or leave the Novice Training Ground and enter the main game world.
 
-![Screenshot_2023-01-21_at_18.33](img/Screenshot_2023-01-21_at_18.33.png)
-<br>*Novice Training ground*
+![Entering Novice Grounds](img/Remastered_Novice_Location/novice-location-2.png)
 
 ## Improvements
 
@@ -27,8 +26,7 @@ Furthermore, completing the various quests provided by the Job NPCs in the Renew
 
 This is a great way for new players to quickly and easily advance their characters, and gain a deeper understanding of the game's mechanics and systems.
 
-![Screenshot_2023-01-21_at_18.37](img/Screenshot_2023-01-21_at_18.37.png)
-<br>*Improved Training ground*
+![Renewal Novice Grounds](img/Remastered_Novice_Location/novice-location-1.png)
 
 ## Completion Rewards
 

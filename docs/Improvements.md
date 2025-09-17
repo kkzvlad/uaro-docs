@@ -71,7 +71,7 @@ These items include arrows of various types such as Iron Arrows, Silver Arrows, 
 
 Additionally, items such as Berserk Potions, Yggdrasil Leaf, and Blue Gemstones are also readily available at these retailers, making it convenient for players to obtain them as they progress through the game.
 
-*Tool dealer in Every Inn*
+*Tool dealer in every Inn*
 
 
 
@@ -87,7 +87,7 @@ Furthermore, completing the various quests provided by the Job NPCs in the Renew
 
 This is a great way for new players to quickly and easily advance their characters and gain a deeper understanding of the game's mechanics and systems.
 
-![Screenshot_2023-01-21_at_18.37](img/Screenshot_2023-01-21_at_18.37.png)
+![Remastered Novice Location](img/Improvements/novice-location-1.png)
 
 *Renewal Training Ground*
 
@@ -122,7 +122,7 @@ You can send Items from and to everywhere for a small fee of 2.5k per item stack
 
 
 
-### Guilds
+### Guild Enhancements
 | Feature | Description |
 |---|---|
 | **Guild Storage Access** | Guild storage can be accessed from most Kafras. |
