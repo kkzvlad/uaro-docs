@@ -1,5 +1,6 @@
 # Patch Notes
 
+## 2025
 **[☕ September 5, 2025](patch-notes/2025/patches09052025.md) (⭐ Latest Patch ⭐)**<br>
 [🍁 September 1, 2025](patch-notes/2025/patches09012025.md)<br>
 [🏖️ July 25, 2025](patch-notes/2025/patches07252025.md)<br>
@@ -15,6 +16,8 @@
 [🏔️ January 31, 2025](patch-notes/2025/patches01312025.md)<br>
 [🧊 January 17, 2025](patch-notes/2025/patches01172025.md)<br>
 [🎆 January 7, 2025](patch-notes/2025/patches01072025.md)<br>
+
+## 2024
 [🎄 December 24, 2024](patch-notes/2024/patches12242024.md)<br>
 [🎁 December 6, 2024](patch-notes/2024/patches12062024.md)<br>
 [🦃 November 19, 2024](patch-notes/2024/patches11192024.md)<br>
