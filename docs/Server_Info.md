@@ -34,6 +34,7 @@
 - No Custom Items
 - No Job Changer
 - No Free Healer or Buffer
+- [Welcome Package](Custom_NPC.md#key-helpers)
 - [Quest-based Dungeon Warper](Warper_System.md)
 - [Poring Coin System](Poring_Coins_System.md)
 - [Daily Rewards System](Attendance_System.md)
@@ -52,7 +53,7 @@
 ## Technical
 - Server Configuration: x4 Intel Xeon 3.5 GHz, 16 Gb RAM, SSD, 1Gbps
 - Server Location: Germany, Frankfurt
-- Proxies: Asia, South America
+- Proxies: New York, São Paulo, Singapore, Tokyo, and Syndney
 - Anti-cheat: Gepard 3.0 (Antibot, WPE/RPE/DLL, Anti-nodelay)
 - Anti DDoS
 
@@ -84,4 +85,5 @@
 #### Battle Manual <!--TODO: Add (`@ii`)-->
 - Increases Base *and* Job EXP earned by 50%
 - Earned from [Novice Grounds](Remastered_Novice_Location.md)
+- Earned from [Welcome Package](Custom_NPC.md#key-helpers)
 <!--TODO: Verify info -->
