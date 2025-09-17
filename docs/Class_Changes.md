@@ -475,6 +475,11 @@ Traps are sold at our [Inn Tool Dealers](Dealers.md#inn-tool-dealer) in addition
                 <!-- TODO: Add NPC to custom NPCs, add location coords. -->
                 <td>Super Novice death count can be reset at a special NPC south of Prontera at `/navi prt_fild08`.</td>
             </tr>
+            <tr>
+                <td>Soul Link</td>
+                <td>Placeholder</td>
+                <td>Items with restrictions equipped during Soul Link will remain equipped through logout and persist until unequipped.</td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -711,6 +716,40 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Vendors]
 
 
 
+
+
+
+
+
+<!-- Placeholder -->
+- **Super Novice – 3 Skills Added (Nerfed)**
+!!! note "Super Novice ATK Behavior"
+    The added “ATK” behaves like **Sword Mastery** (applied in damage formula) and **will not** appear on `ALT+A` Attack stat.
+
+  ![Super Novice Skills](patch-notes/2025/img/sn-skill-list.webp)
+
+- **Gunslinger – Adjustment**:
+  ```
+  - SP: 15 → 10
+  - Coin: 2 → 1
+  - Duration: 30s → 60s
+  ```
+- **Preserve (Skill)**:
+  ```
+  - Now a toggle on/off.
+  - Persists through logout.
+  - Still dispellable unless Soul Linked.
+  ```
+- **Cart Revo / Cart Termination**: Removed **weight** from formula (acts as if cart weight is **max**).
+- **Shadow Slash (Ninja)**: Correctly flagged as **physical melee**.
+- **Magnus Exorcismus**: Damage ticks correctly even when caster is `Stunned / Petrified / Frozen`.
+- **Sighttrasher**: Now checks for **obstructions** before applying damage.
+- 
+⚡ **Autospell Bolts** at max level are now **level 5.**
+🛡️ **Stun status now bypasses** Safety Wall **when using Cart Termination**, as intended. Stun now properly applies **through Safety Wall**, restoring intended PvP mechanics.
+
+Gunslinger:
+
 | Skill Name         | Change                                |
 |--------------------|---------------------------------------|
 | Rapid Shot         | SP cost per level 1–10: `12–20`.     |
@@ -721,16 +760,23 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Vendors]
 | Flip the Coin      | SP cost: `2 → 1`. Success Rate: `100%`.
 
 
-
-
----
-
-<!-- Placeholder -->
-⚡ **Autospell Bolts** at max level are now **level 5.**
-🛡️ **Stun status now bypasses** Safety Wall **when using Cart Termination**, as intended. Stun now properly applies **through Safety Wall**, restoring intended PvP mechanics.
-
-
 <!-- Needs clarification -------------------------------------->
+Something about "Fame Points" Decaying by 10% monthly. Is this related to rankings?
+
+Cart term / mammo 500z when possessing a certain item? 7/4/25
+
+- **Rapid Shower (Gunslinger):**
+  ```
+  - Lv 1–2 = 1 ammo
+  - Lv 3–4 = 2
+  - Lv 5–6 = 3
+  - Lv 7–8 = 4
+  - Lv 9–10 = 5
+  ```
+- `Throw Zeny (Ninja)`: Cost disabled in BG.
+- `Isilla Card`: Now applies to both `AoE` and `Single-Target` magic.
+- Amplify Magic mechanic refactored:
+  > Now triggers for each damage tick during casting (`Meteor Storm`, `Storm Gust`, `LoV`).
 
 <!-- Which monk skills? -->
 Removed the fixed target from some combo skills. 
