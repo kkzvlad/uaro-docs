@@ -1,10 +1,6 @@
----
-title: "The Twilight Festival"
----
-
 # The Twilight Festival
 
----
+!!! warning "The Twilight Festival has ended. Hope to see you again next summer!"
 
 ![Twilight Festival](img/twilight-cover@2x.webp)
 

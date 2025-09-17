@@ -15,7 +15,7 @@
 - Quest EXP Rate: x2
 - Pet/Homunculus Intimacy: x3
 
-## Detailed Information
+## Details
 - Episode 13.1: Ash Vacuum
 - Server mode: Classic Pre-renewal
 - Emulator: Hercules
@@ -40,14 +40,14 @@
 - Treasure Hunter Guild
 - Lots of Classic Quests
 
-## Technical Information
+## Technical
 - Server Configuration: x4 Intel Xeon 3.5 GHz, 16 Gb RAM, SSD, 1Gbps
 - Server Location: Germany, Frankfurt
 - Proxies: Asia, South America
 - Anti-cheat: Gepard 3.0 (Antibot, WPE/RPE/DLL, Anti-nodelay)
 - Anti DDoS
 
-## Info FAQ
+## Breakdown
 
 ### About Weekend Rates
 - Runs Saturday 00:00 to Sunday 23:59 server time 

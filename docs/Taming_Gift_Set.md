@@ -4,8 +4,6 @@
 
 The Taming Gift Set is a beautifully decorated gift set that contains a taming item. Using it gives you a random taming item.
 
-## Items from Taming Gift Set
-
  ![Orange Juice](img/620.gif) **Orange Juice**<br>
  ![Bitter Herb](img/621.gif) **Bitter Herb**<br>
  ![Rainbow Carrot](img/622.gif) **Rainbow Carrot**<br>

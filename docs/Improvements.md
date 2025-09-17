@@ -1,4 +1,4 @@
-# Improvements to Overall Well-Being
+# Quality of Life Improvements
 
 At World of Your Dream, we are dedicated to providing the ultimate gaming experience for our players.
 
@@ -8,18 +8,8 @@ We are constantly working to add new features and improvements that will enhance
 
 From new game modes to updates to existing content, we are committed to making World of Your Dream a truly immersive and satisfying experience for all players.
 
-- [Improvements to Overall Well-Being](#improvements-to-overall-well-being)
-  - [Increased Natural HP/SP Recovery\*\*](#increased-natural-hpsp-recovery)
-    - [Restrictions](#restrictions)
-  - [Superior Inns](#superior-inns)
-    - [For 10,000 Zeny You Will Get](#for-10000-zeny-you-will-get)
-    - [Inns Are Available in the Following Towns](#inns-are-available-in-the-following-towns)
-  - [Retailers of Uniform Equipment](#retailers-of-uniform-equipment)
-  - [Remastered Novice Location](#remastered-novice-location)
 
-
-
-## Increased Natural HP/SP Recovery**
+## Increased Natural Recovery
 
 ![Fast Regen](img/Fastregensit.gif)
 
@@ -73,7 +63,7 @@ Overall, the inns in uaRO are designed to provide players with a comprehensive a
 
 
 
-## Retailers of Uniform Equipment
+## Enhanced Tool Dealer
 
 Each town in the game has at least one prominent retailer of tools and equipment, who offers a wide range of items that players may use during their gameplay.
 

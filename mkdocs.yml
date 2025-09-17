@@ -9,11 +9,13 @@ theme:
   logo: img/logo.png
   name: material
   features:
-    - navigation.sections
-    - content.tabs
     - navigation.top
+    - navigation.sections
+    - navigation.expand
+    - toc.integrate
     - search.suggest
     - search.highlight
+    - content.tabs
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
@@ -30,20 +32,64 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode    
       primary: black
-      accent: lime
+      accent: blue
 
 # Navigation setup
-nav:
-  - Home: index.md
-
-
+nav: 
+  - 👋 Welcome to uaRO: index.md
+  - ℹ️ Server Information: Server_Info.md
+  - 📖 Server Rules: Server_Rules.md 
+  - 🌳 Donations: Donations.md 
+  - 🧵 Patch Notes: All_Patch_Notes.md 
+  - 🚀 Download uaRO ↗: https://www.uaro.net/cp/?module=service&action=downloads
+  - 👾 Join us on Discord ↗: https://discord.gg/uaro-the-world-of-your-dream-702960460168953946
+  - Getting Started: 
+    - ⭐ How to start: How_To_Start.md 
+    - ⚙️ Commands: Commands.md
+    - 🌱 Beginner Guide: Beginner_Guide.md 
+    - 🔮 Class Changes: Class_Changes.md
+    - 🦋 QOL Improvements: Improvements.md
+    - 🛟 Troubleshooting: Troubleshooting.md
+    - 💬 FAQ: FAQ.md
+  - Key Features:
+    - 🏡 Main Office: Main_Office.md
+    - 🐱 Cute Pet System: Pet_System.md
+    - ⚔️ Hunting Missions: Hunting_Mission.md
+    - 💖 Poring Coin System: Poring_Coins_System.md
+    - 🎉 Repeatable Quests: Repeatable_Quests.md 
+    - 💰 Vendor System: Vendor_System.md
+    - 🌀 Warper System: Warper_System.md
+  - Enhancements: 
+    - 🔔 Attendance Rewards: Attendance_System.md
+    - 🎟️ Card Exchange: Card_Exchange.md 
+    - 🧚 Custom NPCs: Custom_NPC.md
+    - 🎭 Costume Converter: Costume_Converter.md
+    - 👒 Headgear Quests: Dimonka_Headgear_Quest.md 
+    - 🕥 Hourly Rewards: Hourly_Rewards_System.md 
+    - 🔪 Mercenary System: Mercenary_System.md 
+    - 💎 Modified Sales Prices: Modified_Sales_Prices.md 
+    - 🗺️ Navigation System: Navigation_System.md 
+    - 🐣 Remastered Novice Grounds: Remastered_Novice_Location.md 
+  - Dungeons: 
+    - 🧪 Biolabs 4: Biolab4.md 
+    - ⏳ Endless Cellar: Endless_Cellar.md 
+    # - Endless Tower: Endless_Tower.md 
+    - 🎁 Horror Toy Factory: Horror_Toy_Factory.md 
+    - 👻 Old Glast Heim: Old_Glast_Heim.md 
+  - Events & Activites:
+    - 🍀 Auto Events: Auto_Events.md 
+    - 🎲 Lottery: Lottery_NPC.md 
+    - 🐎 Hugel Mini Games: Hugel_Mini_Game.md
+    - 🏰 War of Emperium: WoE.md
+    - 🏯 Pre-Trans WoE: Pre_Trans_WoE.md
+  
 # Markdown extensions
 markdown_extensions:
   # Table of contents with anchor links
   - toc:
       permalink: true
       permalink_title: "Anchor link to this section"
-      toc_depth: 3
+      toc_depth: 2
 
   # Abbreviations
   - abbr
@@ -121,11 +167,13 @@ extra:
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/uaro-the-world-of-your-dream-702960460168953946
-      name: Discord
-  footer:
-    text: "© 2023-2024 World of Your Dream"
-  hide:
-    - toc: ["index.md"]  # This disables the TOC for the index page only
+      name: uaRO Discord
+    - icon: fontawesome/solid/globe
+      link: https://www.uaro.net/
+      name: uaRO Website
+    - icon: fontawesome/solid/download
+      link: https://www.uaro.net/cp/?module=service&action=downloads
+      name: Download uaRO
 
 # Google Analytics tracking
   analytics:
@@ -135,3 +183,5 @@ extra:
 extra_javascript:
   - javascripts/mathjax.js
   - javascripts/tablesort.js
+
+copyright: © 2023-2025 World of Your Dream / uaRO 

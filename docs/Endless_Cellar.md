@@ -1,26 +1,4 @@
----
-hide:
-- toc
----
-
 # Endless Cellar
-
-## Contents
-
-1. [Overview](#overview)
-2. [Mechanics](#mechanics)
-3. [Schedule](#schedule)
-4. [How to start instance](#how-to-start-instance)
-5. [Floors](#floors)
-    1. [1 - 24](#1-24)
-    2. [25 - 52](#25-52)
-    3. [53 - 76](#53-76)
-    4. [77](#77-final-floor)
-6. [Finish](#finish)
-
-
-
-## Overview
 
 Endless Cellar is one of the most popular instances uaRO, designed for team-based gameplay. It is part of the so-called "endless" instances, offering players a challenge in the form of a series of dungeons filled with increasingly powerful monsters, mini-bosses, and mighty MVPs. This is not only an engaging PvE experience but also a place where players can earn valuable rewards and test their skills in teamwork. It’s a perfect challenge for guilds and friends who aim to overcome obstacles together. The Cellar is always ready to challenge those seeking adventure in the world of Your Dreams.
 
@@ -36,9 +14,7 @@ Endless Cellar is one of the most popular instances uaRO, designed for team-base
 - Level 85+ to enter
 - Monsters remaining per floor will be announced starting with 5 remaining
 
-## Schedule
-
-- **Global reset per account** at `06:00 Server Time` every **Monday**.
+!!! note "**Global reset per account** at `06:00 Server Time` every **Monday**."
 
 ## How to start instance
 
@@ -55,7 +31,7 @@ We are interested in the NPC **Cellar Protection Stone**. Talk to the Cellar Pro
 ![EC-Cellar-Prot-Stone1](img/EC-Cellar%20Prot-Stone1.png)
 
 ## Floors
-## 1-24
+### 1-24
 
 | Floor 1 | Floor 2 | Floor 3 | Floor 4 |
 |:---------|:---------|:---------|:---------|
@@ -71,7 +47,7 @@ We are interested in the NPC **Cellar Protection Stone**. Talk to the Cellar Pro
 | **Floor 21** | **Floor 22** | **Floor 23** | **Floor 24** |
 | ![1174](img/1174.gif) Stainer - 30<br> ![1211](img/1211.gif) Brilight - 20 | ![1045](img/1045.gif) Marc - 15<br> ![1279](img/1279.gif) Tri Joint - 15<br> ![1317](img/1317.gif) Fur Seal - 15<br> ![1323](img/1323.gif) Sea Otter - 15 | ![1880](img/1880.gif) Wood Goblin - 20<br> ![1881](img/1881.gif) Les - 20<br> ![1884](img/1884.gif) Mavka - 10 | ![1882](img/1882.gif) Babayaga - 20<br> ![1883](img/1883.gif) Uzhas - 10<br> ![1885](img/1885.gif) Gopinich - 1 |
 
-## 25-52
+### 25-52
 
 | Floor 25 | Floor 26 | Floor 27 | Floor 28 |
 |----------|----------|----------|----------|
@@ -89,7 +65,7 @@ We are interested in the NPC **Cellar Protection Stone**. Talk to the Cellar Pro
 | **Floor 49** | **Floor 50** | **Floor 51** | **Floor 52** |
 | ![1753](img/1753.gif) Frus - 50 | ![1978](img/1978.gif) Hell Apocalips - 25<br> ![1365](img/1365.gif) Apocalips - 25 | ![1979](img/1979.gif) Zakudam - 25<br> ![1668](img/1668.gif) Archdam - 25 | ![1796](img/1796.gif) Aunoe - 25<br> ![1797](img/1797.gif) Fanat - 25<br> ![1768](img/1768.gif) Gloom Under Night - 1 |
 
-## 53-76
+### 53-76
 
 | Floor 53 | Floor 54 | Floor 55 | Floor 56 |
 |----------|----------|----------|----------|
@@ -109,13 +85,13 @@ We are interested in the NPC **Cellar Protection Stone**. Talk to the Cellar Pro
     Wounded Morroc in EC has a reduced drop rate. This was done to maintain competition for top-tier gear on the server.
 
 
-## 77 (Final Floor)
+### 77 (Final Floor)
 
 | Stage 1 | Stage 2 | Stage 3 | Stage 4 |
 |---------|---------|---------|---------|
 | ![1002](img/1002.gif) Poring - 1 | ![1649](img/1649.gif) High Priest Magaleta (MVP) - 1<br> ![1645](img/1645.gif) High Wizard Katrinn (MVP) - 1<br> ![1644](img/1644.gif) Sniper Shecil (MVP) - 1<br> ![1641](img/1641.gif) Assassin Cross Eremes (MVP) - 1<br> ![1642](img/1642.gif) Whitesmith Harword (MVP) - 1<br> ![1640](img/1640.gif) Lord Knight Seyren (MVP) - 1 | ![1399](img/1399.gif) Super Baphomet - 1<br> ![1930](img/1930.gif) Piamette - 2<br> ![1931](img/1931.gif) Wish Maiden - 2 | ![1502](img/1502.gif) Pori Pori - 1<br> ![1840](img/1840.gif) Golden Savage - 10<br> ![1894](img/1894.gif) Pouring - 10<br> ![1904](img/1904.gif) Bomb Poring - 20 |
 
-## Finish
+### Finish
 
 ![EC-ArcPoriPori](img/EC-ArcPoriPori.png)<br>
 

@@ -1,20 +1,6 @@
----
-hide:
-  - toc
----
-
 # Pet System
 
-## **Contents**
-
-- [Pet System](#pet-system)
-  - [**Contents**](#contents)
-  - [**Available Non-evolved Pets**](#available-non-evolved-pets)
-  - [**Taming Items**](#taming-items)
-  - [**Pet Evolution**](#pet-evolution)
-  - [**Available Evolved Pets**](#available-evolved-pets)
-
-## **Available Non-evolved Pets**
+## Non-evolved Pets
 
 | Pets                   | Food                     | Taming Item                   | Accessory                   | Equip Bonus                      | Capture Rates |
 |------------------------|--------------------------|-------------------------------|-----------------------------|----------------------------------|---------------|
@@ -98,7 +84,7 @@ hide:
 
 ---
 
-## **Taming Items**
+## Taming Items
 
 The vast majority of taming items drop from monsters according to the RMS database or from ![Taming Gift Set](img/12105.gif) [**Taming Gift Set**](Taming_Gift_Set.md), but there are exceptions for our server that are described in this section:
 
@@ -122,7 +108,7 @@ The vast majority of taming items drop from monsters according to the RMS databa
 
 ---
 
-## **Pet Evolution**
+## Pet Evolution
 
 To evolve a pet, it must be in Loyal intimacy state and require the following items below:
 
@@ -170,7 +156,7 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![1302](img/Pet_System/1302.gif) Dark Illusion | ![7539](img/7539.gif) Poring Coin - 1000<br> ![Card](img/Card.gif) Evil Druid Card - 10<br> ![Card](img/Card.gif) Wraith Card - 10<br> ![Card](img/Card.gif) Ghoul Card - 10<br> | ![1302](img/Pet_System/1272.gif) Dark Lord |
 | ![Golem](img/1040.gif) Golem | ![7539](img/7539.gif) Poring Coin - 1000<br> ![12371](img/Pet_System/12371.gif) Magical Lithography - 3<br> ![12371](img/Pet_System/990.gif) Blood Red - 50<br> ![Card](img/Card.gif) Golem Card - 3 | ![Fire Golemm](img/Pet_System/3023.gif) Fire Golem |
 
-## **Available Evolved Pets**
+## Evolved Pets
 
 | Pets                      | Food                   | Accessory | Awkward/Shy                     | Neutral                          | Cordial                                   | Loyal                                |
 |---------------------------------|-------------------------------|-------------------|--------------------------------|----------------------------------|-------------------------------------------|---------------------------------------|
