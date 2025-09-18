@@ -1,16 +1,14 @@
 # Convenient NPC Dealers
-Need supplies? Our Convenient NPC Dealers carry the essentials without changing prices — everything costs the same as at official shops, but gathered in one spot for easier access.
-
-!!! note "Items prices are unchanged at these dealers from official counterparts."
+Need supplies? Our Convenient NPC Dealers carry the essentials without changing prices — everything costs the same as at official shops, but gathered in one spot for easier access. Note, standard Tool Dealers found across RO are unchanged.
 
 <!-- TODO: Add item sprites -->
 
 ## Enhanced Tool Dealer
-Found in every inn, the Enhanced Tool Dealer stocks basic supplies and consumables to keep you prepared for any adventure. From potions and fly wings to arrows and potions, you’ll find all the core items here in one place.
+Located within [every inn](Inns.md), the Enhanced Tool Dealer stocks basic supplies and consumables to keep you prepared for any adventure. From potions and fly wings to arrows and potions, you’ll find all the core items here in one place. 
 
 | <div style="width:7.5rem">NPC</div> | <div style="width:14rem">Location</div> |
 |:---:|---|
-| ![Inn Tool Dealer](img/NPC/tool-dealer.gif)<br>**Tool Dealer** | `/navi prt_in 72/136`<br>Tool Dealer can be found in [every inn](Improvements.md#inns-are-available-in-the-following-towns). | 
+| ![Inn Tool Dealer](img/NPC/tool-dealer.gif)<br>**Tool Dealer** | `/navi prt_in 72/136`<br>Tool Dealer can be found in every inn. | 
 
 | <div style="width:10rem">Name</div> | <div style="width:5rem;">Item ID</div> | <div style="width:5rem;">Cost</div> |
 |---|---|---|
@@ -52,7 +50,7 @@ Found in every inn, the Enhanced Tool Dealer stocks basic supplies and consumabl
 
 
 ## Ninja Materials
-Practicing ninjutsu takes plenty of tools. Jackie, located in Prontera, provides a full range of ninja-exclusive items like shuriken, kunai, and elemental stones, so you’ll never be caught unprepared.
+Practicing ninjutsu takes plenty of tools. Jackie is located at the [Prontera West inn location](Inns.md). He provides a full range of ninja-exclusive items like shuriken, kunai, and elemental stones, so you’ll never be caught unprepared.
 
 | <div style="width:7.5rem">NPC</div> | <div style="width:14rem">Location</div> |
 |:---:|---|
@@ -79,7 +77,7 @@ Practicing ninjutsu takes plenty of tools. Jackie, located in Prontera, provides
 | Shadow Orb | 7524 | 30 Z |
 
 ## Gunslinger Materials
-Vincenzo in Prontera keeps every marksman armed and ready. Stock up on bullets of every type or pick up elemental spheres to unleash powerful shots in battle.
+Vincenzo keeps every marksman armed and ready, located at the [Prontera West inn location](Inns.md). Stock up on bullets of every type or pick up elemental spheres to unleash powerful shots in battle.
 
 | <div style="width:7.5rem">NPC</div> | <div style="width:14rem">Location</div> |
 |:---:|---|

@@ -1,8 +1,6 @@
 # Quality of Life Improvements
 
-At World of Your Dream, we are dedicated to providing the ultimate gaming experience for our players.
-
-One of our top priorities is to actively listen to player feedback and use it to improve the game.
+At World of Your Dream, we are dedicated to providing the ultimate gaming experience for our players. One of our top priorities is to actively listen to player feedback and use it to improve the game.
 
 We are constantly working to add new features and improvements that will enhance the gameplay and make it even more enjoyable for everyone.
 
@@ -11,7 +9,7 @@ From new game modes to updates to existing content, we are committed to making W
 
 ## Increased Natural Recovery
 
-![Fast Regen](img/Fastregensit.gif)
+![Fast Regen](img/Improvements/Fastregensit.gif)
 
 When a player is idle or not engaged in combat and has not been hit by a mob, they will experience a significant increase in HP and SP regeneration.
 
@@ -28,83 +26,50 @@ The regeneration is based on a fixed percentage, rather than a fixed value, so i
 
 ## Superior Inns
 
-In the World of Your Dream, inns are a staple feature in the game and serve as a vital location for players to rest and recover their health and mana points.
+![Inn Benefits](img/Improvements/Inn-Employee-NPC.png)
 
-These inns provide a safe haven for players to recuperate and prepare for their next adventure.
+Inns have always been a safe stop between adventures, giving players a place to recover and get ready for what’s ahead. On uaRO, we’ve expanded on that idea to make inns even more useful by adding features that support both newcomers and veterans.
 
-However, in uaRO, we have taken the concept of inns to the next level by incorporating a variety of additional features that enhance the player's experience.
+For **10,000z**, inns will fully restore your HP/SP and provide Blessing and Increase Agility buffs for 10 minutes. Every inn also includes Hobota for [Hunting Missions](Hunting_Mission.md) and our [Enhanced Tool Dealer](Dealers.md#enhanced-tool-dealer) for quick access to supplies.
 
-Overall, the inns in uaRO are designed to provide players with a comprehensive and enjoyable gaming experience, making it an essential aspect of the game.
-
-### For 10,000 Zeny You Will Get
-* Full HP/SP heal
-* Blessing and Increase Agi for 10 minutes
-
-![Inn Benefits](img/Inn-Employee-NPC.png)
-
-### Inns Are Available in the Following Towns
-
-* Prontera
-* Izlude
-* Geffen
-* Payon
-* Morroc
-* Alberta
-* Aldebaran
-* Yuno
-* Rachel
-* Lighthalzen
-* Hugel
-* Veins
-* Amatsu
-* Lutie
-* Gonryun (Kunlun)
-* Ayothaya
+[:octicons-arrow-right-24: Rest and recover at an inn](Inns.md)
 
 
 
 ## Enhanced Tool Dealer
+Every town has a Tool Dealer located inside the inn, offering a wide range of supplies for your journey. Arrows of many types — including Iron, Silver, and Fire — plus traps are no longer limited to specific shops, so you can pick them up wherever you go. You’ll also find essentials like Berserk Potions, Yggdrasil Leaves, and Blue Gemstones, making it easy to stay stocked as you progress.
 
-Each town in the game has at least one prominent retailer of tools and equipment, who offers a wide range of items that players may use during their gameplay.
-
-These items include arrows of various types such as Iron Arrows, Silver Arrows, Fire Arrows, and Traps, which are no longer exclusive to specific locations.
-
-Additionally, items such as Berserk Potions, Yggdrasil Leaf, and Blue Gemstones are also readily available at these retailers, making it convenient for players to obtain them as they progress through the game.
-
-*Tool dealer in every Inn*
+[:octicons-arrow-right-24: Check the available supplies](Dealers.md#enhanced-tool-dealer)
 
 
 
 ## Remastered Novice Location
 
-Our server features [an enhanced training ground](Remastered_Novice_Location.md) that has been specifically designed to utilize the latest and most advanced renewal mechanics, providing players with a more efficient and streamlined leveling experience.
-
-The Renewal Training Grounds offer the same immersive and engaging gameplay experience as the pre-renewal version, but with the added convenience of not requiring players to allocate stat points initially.
-
-This allows new players to focus on honing their skills and mastering the game's mechanics, without the added stress of having to make complex decisions about character development.
-
-Furthermore, completing the various quests provided by the Job NPCs in the Renewal Training Grounds can provide new players with valuable supplies and EXP, if they are willing to invest a small amount of time and effort into the process.
-
-This is a great way for new players to quickly and easily advance their characters and gain a deeper understanding of the game's mechanics and systems.
-
 ![Remastered Novice Location](img/Improvements/novice-location-1.png)
 
-*Renewal Training Ground*
+Our server features an enhanced Training Grounds built with the latest renewal mechanics, offering a smoother and more efficient leveling experience. The Renewal version delivers the same immersive gameplay as pre-renewal, but with the added convenience of not requiring players to allocate stat points at the start.
+
+This lets new players focus on honing skills and learning core mechanics without the stress of early complex decisions about character development. Quests from the Job NPCs provide valuable supplies and EXP for those who invest a bit of time, making it a simple and rewarding way to progress while gaining a deeper understanding of the game’s systems.
+
+[:octicons-arrow-right-24: Start your adventure right](Dealers.md#enhanced-tool-dealer)
 
 
-<!-- TODO: 
 
-### Rodex Mail System
-You can send Items from and to everywhere for a small fee of 2.5k per item stack. So you can restock consumables and send your loot away wherever you want. You have to care less for weight limit because your solution is only a few seconds away. You can send more than one mail and open them one after the other when you want, they are stored for 14 days. You can only send tradeable items this way, not account bound ones.
-- 2.5k per stack
-- Max weight 2000
-- Expires after 14 days
-- Blocked during WoE
-- Restricted items: Great Nature, etc...
+## RODEX Mail System
+The RODEX mail system is one of the most convenient tools in uaRO, letting you stay supplied no matter where you are. For a small fee, you can send and receive items directly from the field instead of heading back to town. This makes it easy to restock consumables, free up weight, and keep hunting without interruption.
 
--->
+**Key Features**
 
-## Improved Mechanics
+- **Fee**: 2,500z per item stack, 10,000z total for 5 item stacks
+- **Weight Limit**: Items up to 2,000 total weight can be added
+- **Short Term Storage**: Mail remains in your inbox for 14 days, then is deleted automatically
+- **Restrictions**: Only tradeable items may be sent, check an item's *Movement Restrictions* in the item details
+- **WoE Blocked**: Not available during War of Emperium
+
+You can queue multiple mails, open them when you’re ready, and use the system as a lightweight storage option between runs. With RODEX, your next solution is always just a few clicks away.
+
+
+## Optimized Mechanics
 
 | Feature | Description |
 |---|---|
@@ -122,18 +87,20 @@ You can send Items from and to everywhere for a small fee of 2.5k per item stack
 
 
 
-### Guild Enhancements
+### Guild Refinements
 | Feature | Description |
 |---|---|
 | **Guild Storage Access** | Guild storage can be accessed from most Kafras. |
 | **Guild Storage Logs** | Guild leader can check `@guildlog` to see who accessed storage, when they accessed it, and permit others to see the logs based on title. |
+| **Optimized WoE** | [Weekly FE and SE WoE](WoE.md) gives flexibility in guild-based war. uaRO works closely with guild war leaders to optimize the WoE experience. |
+| **Pre-Trans WoE** | [Special weekly WoE mode](Pre_Trans_WoE.md) just for Pre-Trans Classes and Extended Classes. |
 
 
 
 ## Equipment Changes
 
 | Item | Item ID | Position | Description |
-|---|---|---|
+|---|---|---|---|
 | Sigrun's Wings | 000 | Middle Headgear | Adds +1 STR to Star Gladiator |
 | Wedding Dress | 000 | Body | Adds +15 MDF |
 | Dagger of Counter | 000 | Weapon | ATK increased to 140. |
@@ -141,8 +108,6 @@ You can send Items from and to everywhere for a small fee of 2.5k per item stack
 | Crown of Deceit | 000 | Upper Headgear | Drops from Fallen Bishop. INT adjusted from 3 → 4. |
 | Mercury Riser [1] | 000 | Upper Headgear | Placeholder, nerfed. |
 | Blood Sucker | 000 | Lower Headgear | Placeholder, nerfed. |
-
-
 
 
 
@@ -159,7 +124,9 @@ In addition to the **Quest x2 EXP Bonus**, some game quests are improved or give
 
 
 
-## Customized Experience
+<!--- TODO: Find a home for all the info about our large selection of costumes / cosmetics.
+
+## Cosmetic Flair
 
 | Feature | Description |
 |---|---|
@@ -174,3 +141,5 @@ In addition to the **Quest x2 EXP Bonus**, some game quests are improved or give
 | **Stylist** | Placeholder. |
 | **New Hairstyles** | Placeholder. |
 | **Hide Falcon** | Hunter and Snipers can hide their own Falcon in `@settings`. |
+
+-->
