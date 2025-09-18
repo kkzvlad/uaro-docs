@@ -5,7 +5,7 @@
 | Pets                   | Food                     | Taming Item                   | Accessory                   | Equip Bonus                      | Capture Rates |
 |------------------------|--------------------------|-------------------------------|-----------------------------|----------------------------------|---------------|
 | ![Poring](img/1725.gif) Poring | ![Apple Juice](img/531.gif) Apple Juice | ![Unripe Apple](img/7821.gif) Unripe Apple | ![Backpack](img/10013.gif) Backpack | LUK +3, CRIT +1 | 20% |
-| ![Drops](img/1113.gif) Drops        | ![Yellow Herb](img/508.gif) Yellow Herb      | ![Orange Juice](img/620.png) Orange Juice      | ![Backpack](img/10013.gif) Backpack      | HIT +3, ATK +3                         | 15% |
+| ![Drops](img/1113.gif) Drops        | ![Yellow Herb](img/508.gif) Yellow Herb      | ![Orange Juice](img/620.png) Orange Juice      | ![Backpack](img/10013.gif) Backpack      | HIT +5, ATK +5                         | 15% |
 | ![Poporing](img/1031.gif) Poporing  | ![Green Herb](img/511.png) Green Herb       | ![Bitter Herb](img/621.png) Bitter Herb       | ![Backpack](img/10013.gif) Backpack      | LUK +2, Poison Resistance +10%         | 10% |
 | ![Lunatic](img/1063.gif) Lunatic    | ![Carrot Juice](img/534.png) Carrot Juice   | ![Rainbow Carrot](img/622.png) Rainbow Carrot | ![Silk Ribbon](img/10007.png) Silk Ribbon | ATK +3, CRIT +3                        | 15% |
 | ![Picky](img/1049.gif) Picky        | ![Red Herb](img/507.gif) Red Herb          | ![Earthworm the Dude](img/623.png) Earthworm the Dude | ![Tiny Egg Shell](img/10012.gif) Tiny Egg Shell | STR +1, ATK +5             | 20% |
@@ -54,19 +54,34 @@
 | ![Scatleton](img/Scatleton1.gif) Scatleton  | ![Fresh Fish](img/579.png) Fresh Fish | 2023 Halloween Event Special        | None                                | Increases the recovery rate of Fresh Fish consumables by a whopping 70% | Event |
 | ![Christmas Goblin](img/1245.gif) Christmas Goblin | ![Scell](img/911.gif) Scell | 2023 Christmas Event Special        | None                                | Max HP +150, +5% Damage against Water Element | Event |
 | ![Gremlin](img/1632.gif) Gremlin            | None                              | ![Airship Part](img/231800_1.png) Airship Part | None                                | DEX +2, HIT +1                         | 5% |
-| ![Nine Tail](img/1180.gif) Nine Tail      | ![Suspicious Bottle](img/25231.gif) Suspicious Bottle | ![Sap Jelly](img/23187.gif) Sap Jelly  | None                                | HIT +3, CRIT +2                     | 10% |
+| ![Nine Tail](img/1180.gif) Nine Tail      | ![Suspicious Bottle](img/25231.gif) Suspicious Bottle | ![Sap Jelly](img/23187.gif) Sap Jelly  | None                                | HIT +3, CRIT +3                     | 10% |
 | ![Mummy](img/1041.gif) Mummy              | ![Memento](img/934.gif) Memento         | ![Spiritual Bandage](img/23256.gif) Spiritual Bandage | None                                | HIT +5                              | 10% |
 | ![Teddy Bear](img/1622.gif) Teddy Bear    | ![Cotton Tufts](img/25233.png) Cotton Tufts | ![Small Doll Needle](img/23189.gif) Small Doll Needle | None                                | Max SP +100                         | 5% |
 | ![Bacsojin/White Lady](img/1630.gif) Bacsojin/White Lady | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None                                | None                                | None                                | 0.01% |
 | ![Domovoi](img/2336.gif) Domovoi | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food |  None | None | Increases Physical Damage against enemies of Demihuman by 3%.<br>Increases Magical Damage against Demihuman by 3%.<br>Decreases physical damage from Demihuman by 3%. | Event |
 | ![1010](img/1010.gif) Willow | ![Pet Food](img/537.png) Pet Food | ![23257](img/23257.gif) Old Tree's Dew | None | INT +3. | 10% |
 | ![1208](img/1208.gif) Wanderer | ![Pet Food](img/537.png) Pet Food | ![14574](img/14574.gif) Vagabond's Skull | None | AGI +3, DEX +1. | 10% |
-| ![1179](img/1179.gif) Whisper | - | ![12363](img/12363.gif) Ghost Coffin | - | FLEE + 7. | 5% |
+| ![1179](img/1179.gif) Whisper | - | ![12363](img/12363.gif) Ghost Coffin | - | FLEE + 7, DEF -3. | 5% |
 | ![2210](img/2210.gif) Christmas Snow Rabbit | ![Candy](img/529.gif) Candy | 2024 Christmas Event Special | None | Increases EXP by 3% from all mobs. | Event |
 | ![21089](img/Pet_System/21089.png) Wandering Duck Doll | ![Pet Food](img/537.png) Pet Food | 2025 Summer Event Special | None | Perfect Hit +10  | Event |
 | ![20574](img/Pet_System/20574.png) Mutating White Knight | ![Pet Food](img/537.png) Pet Food | None | None | ATK +2%, MATK +2% | Exchange |
 | ![1782](img/Pet_System/1782.gif) Roween | ![Pet Food](img/537.png) Pet Food | None | None | MATK +3%. | Obtained from monsters |
-| ![1782](img/Pet_System/1198.gif) Dark Priest | ![Pet Food](img/537.png) Pet Food | None | None | INT +4. | Obtained from monsters |
+| ![1798](img/Pet_System/1198.gif) Dark Priest | ![Pet Food](img/537.png) Pet Food | None | None | INT +4. | Obtained from monsters |
+| ![1005](img/Pet_System/1005.gif) Familiar | ![Pet Food](img/537.png) Pet Food | None | None | INT +4, Prevents Hallucination status. | Obtained from monsters |
+
+!!! Intimacy
+    HungerDecrement        = 3 (all)<br>
+    OwnerDeathDecrement    = 5 (all)<br>
+
+    FeedIncrements:<br>
+    - Evolved (1st tier)         = 40<br>
+    - Evolved (2nd or final)     = 30<br>
+    - Evolved (3rd and final)    = 20<br>
+    - Non-evolvable              = 30<br>
+
+    Exceptions:<br>
+    - Phreeoni (MVP, final)      = 20<br>
+    - Incubus / Succubus         = 20<br>
 
 !!! note
     Pet Capture Rates<br>
@@ -105,6 +120,7 @@ The vast majority of taming items drop from monsters according to the RMS databa
 | ![9133](img/Pet_System/9133.gif) Mutating White Knight Egg | [NPC Pascal](Old_Glast_Heim.md#npc-pascal) |
 | ![Roween Egg](img/Pet_System/9104.gif) Roween Egg | Galion with a 0.03% chance |
 | ![Dark Priest Egg](img/Pet_System/9133.gif) Dark Priest Egg | Dark illusion with a 0.09% and Dark Lord with a 0.9% chance |
+| ![Familiar Egg](img/Pet_System/9133.gif) Familiar Egg | Dracula with a 0.45% chance |
 
 ---
 
@@ -133,13 +149,13 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![1564](img/1564.gif) Evil Nymph | ![Card](img/Card.gif) Mao Guai Card - 10 <br> ![Card](img/Card.gif) Jing Guai Card - 10 <br> ![Card](img/Card.gif) Zhu Po Long Card - 10 <br> ![7539](img/7539.gif) Poring Coin - 1000 | ![1630](img/1630.gif) Bacsojin/White Lady |
 | ![1180](img/1180.gif) Nine Tail | ![23187](img/23187.gif) Sap Jelly - 3 <br> ![1022](img/1022.png) Nine Tails - 999 <br> ![10008](img/10008.gif) Punisher <br> ![Card](img/Card.gif) Nine Tail Card | ![1307](img/1307.gif) Cat o' Nine Tails |
 | ![1307](img/1307.gif) Cat o' Nine Tails | ![Card](img/Card.gif) Nine Tail Card - 10 <br> ![Card](img/Card.gif) Sohee Card - 10 <br> ![Card](img/Card.gif) Munak Card - 10 <br> ![7539](img/7539.gif) Poring Coin - 1000 | ![1150](img/1150.gif) Moonlight Flower |
-| ![1632](img/1632.gif) Gremlin   | ![231800_1](img/231800_1.png) Airship Part - 3 <br> ![7539](img/7539.gif) Poring Coin - 1000 <br> ![7340](img/7340.png) Will of the Darkness - 200 <br> ![Card](img/Card.gif) Hodremlin Card | ![1773](img/1773.gif) Hodremlin |
+| ![1632](img/1632.gif) Gremlin   | ![231800_1](img/231800_1.png) Airship Part - 3 <br> ![7539](img/Pet_System/6100.gif) Damp Darkness - 50 <br> ![7340](img/7340.png) Will of the Darkness - 200 <br> ![Card](img/Card.gif) Hodremlin Card | ![1773](img/1773.gif) Hodremlin |
 | ![1773](img/1773.gif) Hodremlin | ![Card](img/Card.gif) Hodremlin Card - 10<br> ![Card](img/Card.gif) Isilla Card - 10<br> ![Card](img/Card.gif) Agav Card - 10<br> ![7539](img/7539.gif) Poring Coin - 1000 | ![1768](img/1768.gif) Gloom Under Night |
 | ![1063](img/1063.gif) Lunatic   | ![7198](img/7198.gif) Huge Leaf - 100 <br> ![705](img/705.gif) Clover - 25 <br> ![706](img/706.png) Four-Leaf Clover - 30 <br> ![Card](img/Card.gif) Lunatic Card - 5 | ![3496](img/3496.gif) Leaf Lunatic
 | ![1041](img/1041.gif) Mummy     | ![23256](img/23256.gif) Spiritual Bandage - 3 <br> ![7511](img/7511.gif) Rune of the Darkness - 200 <br> ![969](img/969.png) Gold - 30 <br> ![Card](img/Card.gif) Ancient Mummy Card | ![1297](img/1297.gif) Ancient Mummy |
 | ![1622](img/1622.gif) Teddy Bear | ![23189](img/23189.gif) Small Doll Needle - 3 <br> ![7442](img/7442.png) Cursed Seal - 300 <br> ![724](img/724.gif) Cursed Ruby - 50 <br> ![Card](img/Card.gif) Teddy Bear Card | ![2995](img/2995.gif) Abandoned Teddy Bear |
 | ![Teddy Bear](img/1622.gif) Teddy Bear | ![7317](img/7317.gif) Rusty Screw - 500<br> ![518](img/518.gif) Honey - 100<br> ![727](img/727.gif) Opal - 10<br> ![Card](img/Card.gif) Teddy Bear Card | ![1736](img/1736.gif) Aliot |
-| ![1736](img/1736.gif) Aliot | ![Card](img/Card.gif) Alicel Card - 10 <br> ![Card](img/Card.gif) Aliza Card - 10 <br> ![Card](img/Card.gif) Aliot Card - 10 <br> ![7539](img/7539.gif) Poring Coin - 1000 | ![1734](img/1734.gif) Kiel D-01 |
+| ![1736](img/1736.gif) Aliot | ![Card](img/Card.gif) Alicel Card - 10 <br> ![Card](img/Card.gif) Aliza Card - 10 <br> ![Card](img/Card.gif) Aliot Card - 5 <br> ![7539](img/7539.gif) Poring Coin - 1000 | ![1734](img/1734.gif) Kiel D-01 |
 | ![Teddy Bear](img/1622.gif) Teddy Bear | ![7317](img/7317.gif) Rusty Screw - 500<br> ![518](img/518.gif) Honey - 100<br> ![7449](img/7449.gif) Bloody Page - 50<br> ![Card](img/Card.gif) Teddy Bear Card | ![1735](img/1735.gif) Alicel |
 | ![Alice](img/1275.gif) Alice | ![7047](img/7047.png) Alice's Apron - 500<br> ![511](img/511.png) Green Herb - 200<br> ![985](img/985.gif) Elunium - 30<br> ![Card](img/Card.gif) Alice Card | ![1746](img/1746.gif) Aliza |
 | ![Baphomet Jr.](img/1101.gif) Baphomet Jr.   | ![923](img/923.gif) Evil Horn - 300<br> ![7054](img/7054.gif) Brigan - 300<br> ![Yellow Herb](img/508.gif) Yellow Herb - 100<br>  ![Card](img/Card.gif) Bapho Jr Card - 2 | ![Chaotic Bapho Jr](img/20525.gif) Chaotic Bapho Jr |
@@ -167,22 +183,22 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![Grand Peco](img/1369.gif) Grand Peco | ![Pet Food](img/537.png) Pet Food | None              | MaxHP +150                      | MaxHP +200                        | MaxHP +300                              | MaxHP +400                            |
 | ![Yao Jun](img/1512.gif) Yao Jun   | ![Pet Food](img/537.png) Pet Food | None              | VIT +1, Stun Resistance +1%     | VIT +2, Stun Resistance +2%       | VIT +3, Increases tolerance to Stun by 3%, 1% chance to restore 1% damage as SP on physical atk | VIT +4, Increases tolerance to Stun by 4%, 1% chance to restore 1% damage as SP on physical atk |
 | ![Am Mut](img/1301.gif) Am Mut      | ![Pet Food](img/537.png) Pet Food | None              | MATK +1%                        | MATK +2%                          | MATK +3%                                | MATK +4%                              |
-| ![Bacsojin/White Lady](img/1630.gif) Bacsojin/White Lady | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None          | SP +2%                           | SP +3%, After Cast Delay -1%      | SP +4%, After Cast Delay -2%             | SP +5%, After Cast Delay -3%          |
-| ![Choco](img/1214.gif) Choco        | ![Pet Food](img/537.png) Pet Food | None              | CRIT +3, Increases long-range physical damage +1% | CRIT +7, Increases long-ranged physical damage +2% | CRIT +7, Increases long-ranged physical damage +2% | CRIT +9, Increases long-ranged physical damage +3% |
+| ![Bacsojin/White Lady](img/1630.gif) Bacsojin/White Lady | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None          | SP +2%                           | SP +3%, After Cast Delay -1%      | SP +4%, After Cast Delay -2%, Heal Power +10%             | SP +5%, After Cast Delay -3%, Heal Power +15%          |
+| ![Choco](img/1214.gif) Choco        | ![Pet Food](img/537.png) Pet Food | None              | CRIT +3 | CRIT +5, Increases long-ranged physical damage +1% | CRIT +7, Increases long-ranged physical damage +2% | CRIT +9, Increases long-ranged physical damage +3% |
 | ![Skelion](img/Skelion1.gif) Skelion | ![Delicious Meat](img/11616.gif) Delicious Meat | ![Dark Mane](img/10042.gif) Dark Mane | None | None | Doubles Fresh Fish recovery rate! | Doubles Fresh Fish recovery rate! |
 | ![Earth Deleter](img/1385.gif) Earth Deleter | ![Pet Food](img/537.png) Pet Food | None              | Increases ASPD by 1%            | AGI +1, Increases ASPD by 1%       | AGI +2, Increases ASPD by 2%             | AGI +3, Increases ASPD by 3%          |
 | ![Eggring](img/3505.gif) Eggring    | ![Pet Food](img/537.png) Pet Food | None              | None                             | None                              | None                                     | HIT +15, ATK +15                      |
 | ![Sweet Drops](img/3790.gif) Sweet Drops | ![Candy](img/529.gif) Candy | None              | None                             | None                              | None                                     | EXP +5% from all monsters             |
 | ![Little Isis](img/1029.gif) Little Isis | ![Pet Food](img/537.png) Pet Food | None              | ATK +1%                          | ATK +2%                            | ATK +3%                                 | ATK +4%                               |
-| ![Savage](img/1221.gif) Savage      | ![Pet Food](img/537.png) Pet Food | None              | VIT +1, MaxHP +50                | VIT +1, MaxHP +50                  | VIT +1, MaxHP +100                      | VIT +2, MaxHP +200                    |
-| ![Diabolic](img/1382.gif) Diabolic  | ![Pet Food](img/537.png) Pet Food | None              | ATK +1%, MATK +1%                | ATK +1%, MATK +1%   MaxHP + 1% MaxSP + 1%               | ATK +2%, MATK +2%, MaxHP +1%, MaxSP +1% | ATK +2%, MATK +2%, MaxHP +1%, MaxSP +1% Autocast Fire Bolt lv. 3 when attacking |
+| ![Savage](img/1221.gif) Savage      | ![Pet Food](img/537.png) Pet Food | None              | VIT +1, MaxHP +50                | VIT +2, MaxHP +50                  | VIT +2, MaxHP +100                      | VIT +2, MaxHP +200                    |
+| ![Diabolic](img/1382.gif) Diabolic  | ![Pet Food](img/537.png) Pet Food | None              | ATK +1%, MATK +1%                | ATK +1%, MATK +1%   MaxHP + 1% MaxSP + 1%               | ATK +2%, MATK +2%, MaxHP +1%, MaxSP +1% | ATK +2%, MATK +2%, MaxHP +2%, MaxSP +2% Autocast Fire Bolt lv. 3 when attacking |
 | ![Cat o' Nine Tails](img/1307.gif) Cat o' Nine Tails | ![Pet Food](img/537.png) Pet Food | None              | CRI +2, HIT +2                   | CRI +3, HIT +3                     | CRI +4, HIT +4,  Chance to recover 300 HP per second for 5 seconds on physical damage                         | CRI +5, HIT +5, Chance to recover 400 per second for 5 seconds on physical damage                         |
 | ![Moonlight Flower](img/1150.gif) Moonlight Flower | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None         | CRIT +3, HIT +3                  | CRIT +4, HIT +4, <br> 1% chance to recover 300 HP per second for 5 seconds on physical attack                   | CRIT +5, HIT +6, <br> 2% chance to recover 400 HP and 10 SP per second for 5 seconds on physical attack | CRIT +5, HIT +6, <br> 3% chance to recover 500 HP and 20 SP per second for 5 seconds on physical attack |
 | ![Hodremlin](img/1773.gif) Hodremlin | ![Pet Food](img/537.png) Pet Food | None              | HIT +1, DEX +1                   | HIT +1, DEX +2                     | CRIT DMG +7%, HIT +2, DEX +2             | CRIT DMG +9%, HIT +2, DEX +2          |
 | ![Leaf Lunatic](img/3496.gif) Leaf Lunatic | ![Pet Food](img/537.png) Pet Food | None              | CRIT +2, ATK +2                  | CRIT +3, ATK +3                    | CRIT +4, ATK +4, Damage against formless race monsters increased by 3%                           | CRIT +5, ATK +5, Damage against formless race monsters increased by 6% |
 | ![Ancient Mummy](img/1297.gif) Ancient Mummy | ![Pet Food](img/537.png) Pet Food | None              | HIT +4                           | HIT +5                             | HIT +6, Damage against dragon race monsters increased by 3% | HIT +6, Damage against dragon race monsters increased by 6% |
 | ![Abandoned Teddy Bear](img/2995.gif) Abandoned Teddy Bear | ![Pet Food](img/537.png) Pet Food | None              | Max SP +50                       | Max SP +100                        | Max SP +150, Chance to restore 30 SP per 5 seconds for dealing magic damage | Max SP +150, Chance to restore 40 SP per 5 seconds for dealing magic damage |
-| ![Phreeoni](img/1159.gif) Phreeoni | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None          | HIT +6                            | HIT +10,     Perfect Hit+5                          | HIT+14,  Perfect Hit+14                      | HIT +18, Perfect Hit +15              |
+| ![Phreeoni](img/1159.gif) Phreeoni | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None          | HIT +6                            | HIT +10,     Perfect Hit+5                          | HIT+14,  Perfect Hit+10                      | HIT +18, Perfect Hit +15              |
 | ![1746](img/1746.gif) Aliza | ![Pet Food](img/537.png) Pet Food | None | None | None | MDEF +6.<br>Increases Healing skills effectiveness by 4%. | MDEF +7.<br>Increases Healing skills effectiveness by 6%. |
 | ![1736](img/1736.gif) Aliot | ![Pet Food](img/537.png) Pet Food | None | None | None | ASPD +4%.<br> HIT +9. | ASPD +5%.<br> HIT +12. |
 | ![1735](img/1735.gif) Alicel | ![Pet Food](img/537.png) Pet Food | None | None | None | Reduces Variable Cast Time by 4%.<br> Increases Neutral Magic Damage by 3%. | Reduces Variable Cast Time by 5%.<br> Increases Neutral Magic Damage by 5%. |
@@ -191,7 +207,7 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![20940](img/20940.gif) Blue Moon Loli Ruri | ![Pet Food](img/537.png) Pet Food | None | None | None | VIT +3, MaxHP +3%.<br>Random chance to autocast Level 2 Kyrie Eleison on yourself when recieving physical damage.(If you learned a higher Level, it will auto cast that Level instead.) | VIT +4, MaxHP +5%.<br>Random chance to autocast Level 2 Kyrie Eleison on yourself when recieving physical damage.(If you learned a higher Level, it will auto cast that Level instead.) |
 | ![1106](img/1106.gif) Desert Wolf | ![Pet Food](img/537.png) Pet Food | None | None | None | INT +1, MaxSP +50.<br> Increases Earth Property Magical Damage by 3%. | INT +2, MaxSP +75.<br> Increases Earth Property Magical Damage by 5%. |
 | ![1768](img/1768.gif) Gloom Under Night | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | MATK +30.<br> Increases magical damage with Ghost and Fire element by 5%. | MATK +40.<br> Increases magical damage with Ghost and Fire element by 7%. |
-| ![1734](img/1734.gif) Kiel D-01 | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | ASPD +3%, HIT +15<br> Increases melee physical damage by 3%. | ASPD +7%, HIT +18<br> Increases melee physical damage by 5%. |
+| ![1734](img/1734.gif) Kiel D-01 | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | ASPD +5%, HIT +15<br> Increases melee physical damage by 3%. | ASPD +7%, HIT +18<br> Increases melee physical damage by 5%. |
 | ![1087](img/1087.gif) Orc Hero | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | ATK +40.<br> Increases critical damage by 1%. | ATK +50.<br> Increases critical damage by 3%. |
 | ![20373](img/20373.gif) Rigid Nightmare Terror | ![Pet Food](img/537.png) Pet Food | None | None | None | INT +3, MaxSP +1%.<br> Prevents Sleep status. | INT +4, MaxSP +3%.<br> Prevents Sleep status. |
 | ![20420](img/20420.gif) Contaminated Wanderer | ![Pet Food](img/537.png) Pet Food | None | None | None | AGI +4, CRIT +2.<br> Increases critical damage by 5%. | AGI +4, CRIT +3.<br> Increases critical damage by 7%. |
