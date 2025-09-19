@@ -82,8 +82,7 @@
 - Earned from [Attendance Rewards](Attendance_System.md)
 - Can be stored in personal storage
 
-#### Battle Manual <!--TODO: Add (`@ii`)-->
+#### Battle Manual (`@ii 12208`)
 - Increases Base *and* Job EXP earned by 50%
 - Earned from [Novice Grounds](Remastered_Novice_Location.md)
 - Earned from [Welcome Package](Custom_NPC.md#key-helpers)
-<!--TODO: Verify info -->

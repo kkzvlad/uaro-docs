@@ -56,7 +56,7 @@ Defeat mobs in the Twilight Dungeon to collect tickets for event shops and the *
 **No Penalties:**
 - You won't lose experience if you die.
 
-![Placeholder](img/Twilight_Festival/twilight-fest-step0304@2x.webp)
+![Twilight Festival Step 4](img/Twilight_Festival/twilight-fest-step0304@2x.webp)
 
 ---
 
@@ -67,7 +67,7 @@ Use special Festival Tickets dropped from mobs to spin the Wheel and earn exclus
 !!! info "Wheel Cost"
     Each spin costs **1,000,000 Zeny** and **1 Festival Ticket**. Free spins can also drop from the wheel.
 
-![Placeholder](img/Twilight_Festival/twilight-fest-step0205@2x.webp)
+![Twilight Festival Step 5](img/Twilight_Festival/twilight-fest-step0205@2x.webp)
 
 ??? note "Wheel Schedule"
     Spins begin at the following hours (server time):
