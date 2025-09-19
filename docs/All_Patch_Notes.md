@@ -1,22 +1,30 @@
-# 📝 List of Patches
+# Patch Notes
 
-| №  | Date       | Link                                       |
-|----|------------|--------------------------------------------|
-| Lasted | 06.25.2025 | [Patch Note Detail](patches06252025.md)    |
-| 1  | 05.20.2025 | [Patch Note Detail](patches05202025.md)    |
-| 2  | 05.12.2025 | [Patch Note Detail](patches05122025.md)    |
-| 3  | 04.18.2025 | [Patch Note Detail](patches04182025.md)    |
-| 4  | 04.10.2025 | [Patch Note Detail](patches10042025.md)    |
-| 5  | 03.21.2025 | [Patch Note Detail](patches21032025.md)    |
-| 6  | 02.27.2025 | [Patch Note Detail](patches02272025.md)    |
-| 7  | 01.31.2025 | [Patch Note Detail](patches01312025.md)    |
-| 8  | 01.17.2025 | [Patch Note Detail](patchnotes01172025.md) |
-| 9  | 01.07.2025 | [Patch Note Detail](patches01072025.md)    |
-| 10 | 12.24.2024 | [Patch Note Detail](patches12242024.md)    |
-| 11 | 12.06.2024 | [Patch Note Detail](patches12062024.md)    |
-| 12 | 11.19.2024 | [Patch Note Detail](patchnotes11192024.md) |
-| 13 | 11.04.2024 | [Patch Note Detail](patches11042024.md)    |
-| 14 | 11.01.2024 | [Patch Note Detail](patches11012024.md)    |
-| 15 | 10.30.2024 | [Patch Note Detail](patches10302024.md)    |
-| 16 | 09.27.2024 | [Patch Note Detail](patches09262024.md)    |
-| 17 | 09.18.2024 | [Patch Note Detail](patches09182024.md)    |
+## 2025
+**[☕ September 5, 2025](patch-notes/2025/patches09052025.md) (⭐ Latest Patch ⭐)**<br>
+[🍁 September 1, 2025](patch-notes/2025/patches09012025.md)<br>
+[🏖️ July 25, 2025](patch-notes/2025/patches07252025.md)<br>
+[🍉 July 7, 2025](patch-notes/2025/patches07072025.md)<br>
+[🧨 July 1, 2025](patch-notes/2025/patches07012025.md)<br>
+[🕶️ June 25, 2025](patch-notes/2025/patches06252025.md)<br>
+[🌈 May 20, 2025](patch-notes/2025/patches05202025.md)<br>
+[🌷 May 12, 2025](patch-notes/2025/patches05122025.md)<br>
+[☂️ April 18, 2025](patch-notes/2025/patches04182025.md)<br>
+[🌧️ April 10, 2025](patch-notes/2025/patches10042025.md)<br>
+[☘️ March 21, 2025](patch-notes/2025/patches03212025.md)<br>
+[💞 February 27, 2025](patch-notes/2025/patches02272025.md)<br>
+[🏔️ January 31, 2025](patch-notes/2025/patches01312025.md)<br>
+[🧊 January 17, 2025](patch-notes/2025/patches01172025.md)<br>
+[🎆 January 7, 2025](patch-notes/2025/patches01072025.md)<br>
+
+## 2024
+[🎄 December 24, 2024](patch-notes/2024/patches12242024.md)<br>
+[🎁 December 6, 2024](patch-notes/2024/patches12062024.md)<br>
+[🦃 November 19, 2024](patch-notes/2024/patches11192024.md)<br>
+[🪾 November 4, 2024](patch-notes/2024/patches11042024.md)<br>
+[📚 November 1, 2024](patch-notes/2024/patches11012024.md)<br>
+[🎃 October 30, 2024](patch-notes/2024/patches10302024.md)<br>
+[🍂 September 27, 2024](patch-notes/2024/patches09262024.md)<br>
+[🎒 September 18, 2024](patch-notes/2024/patches09182024.md)<br>
+
+*Patch notes prior to September 18, 2024 are not tracked here.*

@@ -23,8 +23,8 @@ For party missions:
 ### Abandoning missions
 If a mission doesn’t suit you, it can be abandoned for a fee:
 
-- Beginner and intermediate: 50,000z
-- Advanced and elite: 100,000z
+- Solo: 50,000z
+- Party: 100,000z
   
 You can immediately pick a new mission after abandoning. In parties, everyone must abandon before the leader can choose a new mission.
 

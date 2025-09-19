@@ -1,8 +1,6 @@
 # Quality of Life Improvements
 
-At World of Your Dream, we are dedicated to providing the ultimate gaming experience for our players.
-
-One of our top priorities is to actively listen to player feedback and use it to improve the game.
+At World of Your Dream, we are dedicated to providing the ultimate gaming experience for our players. One of our top priorities is to actively listen to player feedback and use it to improve the game.
 
 We are constantly working to add new features and improvements that will enhance the gameplay and make it even more enjoyable for everyone.
 
@@ -11,7 +9,7 @@ From new game modes to updates to existing content, we are committed to making W
 
 ## Increased Natural Recovery
 
-![Fast Regen](img/Fastregensit.gif)
+![Fast Regen](img/Improvements/Fastregensit.gif)
 
 When a player is idle or not engaged in combat and has not been hit by a mob, they will experience a significant increase in HP and SP regeneration.
 
@@ -28,65 +26,103 @@ The regeneration is based on a fixed percentage, rather than a fixed value, so i
 
 ## Superior Inns
 
-In the World of Your Dream, inns are a staple feature in the game and serve as a vital location for players to rest and recover their health and mana points.
+![Inn Benefits](img/Improvements/Inn-Employee-NPC.png)
 
-These inns provide a safe haven for players to recuperate and prepare for their next adventure.
+Inns have always been a safe stop between adventures, giving players a place to recover and get ready for what’s ahead. On uaRO, we’ve expanded on that idea to make inns even more useful by adding features that support both newcomers and veterans.
 
-However, in uaRO, we have taken the concept of inns to the next level by incorporating a variety of additional features that enhance the player's experience.
+For **10,000z**, inns will fully restore your HP/SP and provide Blessing and Increase Agility buffs for 10 minutes. Every inn also includes Hobota for [Hunting Missions](Hunting_Mission.md) and our [Enhanced Tool Dealer](Dealers.md#enhanced-tool-dealer) for quick access to supplies.
 
-Overall, the inns in uaRO are designed to provide players with a comprehensive and enjoyable gaming experience, making it an essential aspect of the game.
-
-### For 10,000 Zeny You Will Get
-* Full HP/SP heal
-* Blessing and Increase Agi for 10 minutes
-
-![Inn Benefits](img/Inn-Employee-NPC.png)
-
-### Inns Are Available in the Following Towns
-
-* Prontera
-* Izlude
-* Geffen
-* Payon
-* Morroc
-* Alberta
-* Aldebaran
-* Yuno
-* Rachel
-* Lighthalzen
-* Hugel
-* Veins
-* Amatsu
-* Lutie
-* Gonryun (Kunlun)
-* Ayothaya
+[:octicons-arrow-right-24: Rest and recover at an inn](Inns.md)
 
 
 
 ## Enhanced Tool Dealer
+Every town has a Tool Dealer located inside the inn, offering a wide range of supplies for your journey. Arrows of many types — including Iron, Silver, and Fire — plus traps are no longer limited to specific shops, so you can pick them up wherever you go. You’ll also find essentials like Berserk Potions, Yggdrasil Leaves, and Blue Gemstones, making it easy to stay stocked as you progress.
 
-Each town in the game has at least one prominent retailer of tools and equipment, who offers a wide range of items that players may use during their gameplay.
-
-These items include arrows of various types such as Iron Arrows, Silver Arrows, Fire Arrows, and Traps, which are no longer exclusive to specific locations.
-
-Additionally, items such as Berserk Potions, Yggdrasil Leaf, and Blue Gemstones are also readily available at these retailers, making it convenient for players to obtain them as they progress through the game.
-
-*Tool dealer in Every Inn*
+[:octicons-arrow-right-24: Check the available supplies](Dealers.md#enhanced-tool-dealer)
 
 
 
 ## Remastered Novice Location
 
-Our server features [an enhanced training ground](Remastered_Novice_Location.md) that has been specifically designed to utilize the latest and most advanced renewal mechanics, providing players with a more efficient and streamlined leveling experience.
+![Remastered Novice Location](img/Improvements/novice-location-1.png)
 
-The Renewal Training Grounds offer the same immersive and engaging gameplay experience as the pre-renewal version, but with the added convenience of not requiring players to allocate stat points initially.
+Our server features an enhanced Training Grounds built with the latest renewal mechanics, offering a smoother and more efficient leveling experience. The Renewal version delivers the same immersive gameplay as pre-renewal, but with the added convenience of not requiring players to allocate stat points at the start.
 
-This allows new players to focus on honing their skills and mastering the game's mechanics, without the added stress of having to make complex decisions about character development.
+This lets new players focus on honing skills and learning core mechanics without the stress of early complex decisions about character development. Quests from the Job NPCs provide valuable supplies and EXP for those who invest a bit of time, making it a simple and rewarding way to progress while gaining a deeper understanding of the game’s systems.
 
-Furthermore, completing the various quests provided by the Job NPCs in the Renewal Training Grounds can provide new players with valuable supplies and EXP, if they are willing to invest a small amount of time and effort into the process.
+[:octicons-arrow-right-24: Start your adventure right](Dealers.md#enhanced-tool-dealer)
 
-This is a great way for new players to quickly and easily advance their characters and gain a deeper understanding of the game's mechanics and systems.
 
-![Screenshot_2023-01-21_at_18.37](img/Screenshot_2023-01-21_at_18.37.png)
 
-*Renewal Training Ground*
+## RODEX Mail System
+The RODEX mail system is one of the most convenient tools in uaRO, letting you stay supplied no matter where you are. For a small fee, you can send and receive items directly from the field instead of heading back to town. This makes it easy to restock consumables, free up weight, and keep hunting without interruption.
+
+- **Fee**: 2,500z per item stack, 10,000z total for 5 item stacks
+- **Weight Limit**: Items up to 2,000 total weight can be added
+- **Short Term Storage**: Mail remains in your inbox for 14 days, then is deleted automatically
+- **Restrictions**: Only tradeable items may be sent, check an item's *Movement Restrictions* in the item details
+- **WoE Blocked**: Not available during War of Emperium
+
+
+
+## Optimized Mechanics
+
+| Feature | Description |
+|---|---|
+| **Easy Access to Prontera** | Distant cities have warp access to Prontera for 25,000z. |
+| **Sensible Teleporting** | Fly Wing and Teleport will no longer randomly land you within portals, ensuring more control. |
+| **Minimap Recall** | Track your previous teleport or fly wing location by configuring in `@settings`.  |
+| **Stacking Monsters** | Monster stack limit is increased from 1 to 7. |
+| **Rotating Bonus EXP Maps** | Two bonus areas are selected every 48-72 hours to receive an 20-30% EXP boost until the next rotation. You can check the current areas with `@mapexp`. |
+| **Test Your Build** | [Target Dummy](Custom_NPC.md#combat) NPCs are available to test our your equipment and build against most scenarios. |
+| **Safe Card Removal** | [Mysterious Granny](Custom_NPC.md#cards) can remove cards from equipment with 100% success for a significant fee. |
+| **Buying Shop: Cards** | Buying shops can trade Cards in addition to Consumables and Etc items. | |
+| **Summon Timeout** | Monsters spawned from Dead Branch, Bloody Branch, Azeroth, Abracadabra, etc will now auto-kill with no EXP or loot after 4 hours. |
+| **Action Prompts** | Fishing and mining spots ask for confirmation instead of automatically activating. Default option will cancel the action. |
+| **Ninja Ammo Balance** | Cost and weight rebalanced for fairer gameplay. |
+
+
+
+### Guild Refinements
+| Feature | Description |
+|---|---|
+| **Guild Storage Access** | Guild storage can be accessed from most Kafras. |
+| **Guild Storage Logs** | Guild leader can check `@guildlog` to see who accessed storage, when they accessed it, and permit others to see the logs based on title. |
+| **Optimized WoE** | [Weekly FE and SE WoE](WoE.md) gives flexibility in guild-based war. uaRO works closely with guild war leaders to optimize the WoE experience. |
+| **Pre-Trans WoE** | [Special weekly WoE mode](Pre_Trans_WoE.md) just for Pre-Trans Classes and Extended Classes. |
+
+
+
+## Quest Improvements
+In addition to the **Quest x2 EXP Bonus**, some game quests are improved or give even larger bonuses.
+
+| Quest | Description |
+|---|---|
+| Nameless Island | x5 EXP Bonus |
+| Rachel Sanctuary | x5 EXP Bonus |
+| Curse of Gaebolg | x5 EXP Bonus |
+| Continental Messenger Quest | NPCs no longer force proximity-based pop-ups. |
+| Boys Cap Quest | Requires 5 Tiger's Footskin instead of 10. |
+
+
+
+<!--- TODO: Find a home for all the info about our large selection of costumes / cosmetics.
+
+## Cosmetic Flair
+
+| Feature | Description |
+|---|---|
+| **Cash Shop Costumes** | Placeholder. |
+| **Event Token Costumes** | Placeholder. |
+| **Gold Coin Costumes** | Placeholder. |
+| **WoE Costumes** | Placeholder. |
+| **Hunting Mission Costumes** | Placeholder. |
+| **Seasonal Event Costumes** | Placeholder. |
+| **Poring Coin Costumes** | Placeholder. |
+| **Merchant Cart Costumes** | Placeholder. |
+| **Stylist** | Placeholder. |
+| **New Hairstyles** | Placeholder. |
+| **Hide Falcon** | Hunter and Snipers can hide their own Falcon in `@settings`. |
+
+-->
