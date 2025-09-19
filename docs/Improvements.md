@@ -58,15 +58,11 @@ This lets new players focus on honing skills and learning core mechanics without
 ## RODEX Mail System
 The RODEX mail system is one of the most convenient tools in uaRO, letting you stay supplied no matter where you are. For a small fee, you can send and receive items directly from the field instead of heading back to town. This makes it easy to restock consumables, free up weight, and keep hunting without interruption.
 
-**Key Features**
-
 - **Fee**: 2,500z per item stack, 10,000z total for 5 item stacks
 - **Weight Limit**: Items up to 2,000 total weight can be added
 - **Short Term Storage**: Mail remains in your inbox for 14 days, then is deleted automatically
 - **Restrictions**: Only tradeable items may be sent, check an item's *Movement Restrictions* in the item details
 - **WoE Blocked**: Not available during War of Emperium
-
-You can queue multiple mails, open them when you’re ready, and use the system as a lightweight storage option between runs. With RODEX, your next solution is always just a few clicks away.
 
 
 
