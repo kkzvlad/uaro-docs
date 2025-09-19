@@ -20,23 +20,21 @@
 
 /* Class_Changes.md: Sets a consistent width to columns */ 
 .class-changes-table th:nth-child(1) {
-    width: 15.625; /* 250px */
+    width: 15.625rem; /* 250px */
 }
 
 .class-changes-table th:nth-child(2) {
-    width: 21.875; /* 350px */
+    width: 21.875rem; /* 350px */
 }
 
 .class-changes-table th:nth-child(3) {
-    width: 21.875; /* 350px */
+    width: 21.875rem; /* 350px */
 }
 
 /* Class_Changes.md: Styles the skill image */
 .class-changes-table img {
-    vertical-align: top;
+    vertical-align: middle;
     margin-right: 0.25rem; /* 4px */
-    position: relative;
-    top: -0.08rem; /* 2px */
     width: 1.5rem; /* 24px */
     height: 1.5rem; /* 24px */
 }
