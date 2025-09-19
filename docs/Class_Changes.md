@@ -1,5 +1,5 @@
 # Class Changes
-uaRO uses the pre-renewal class system, but with selected adjustments to skills and mechanics for balance and smoother gameplay. These changes preserve the classic feel while improving the overall experience.
+uaRO uses the pre-renewal class system, with selected adjustments to skills and mechanics for balance and smoother gameplay. These changes preserve the classic feel while improving the overall experience.
 
 For full reference on unmodified pre-renewal skills, you can [visit the iRO Classic Wiki](https://irowiki.org/classic/Main_Page).
 
@@ -38,7 +38,8 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
 
 
 
-<!-------------------------------------------->
+<!---------------------------------------------------------------------------->
+
 ## Swordsman
 
 ### Knight / Lord Knight
@@ -120,7 +121,8 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
 
 
 
-<!-------------------------------------------->
+<!---------------------------------------------------------------------------->
+
 ## Mage
 
 ### Wizard / High Wizard
@@ -199,8 +201,11 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
 
 
 
-<!-------------------------------------------->
+<!---------------------------------------------------------------------------->
+
 ## Merchant
+
+<!-- mammo 500z when possessing a certain item? 7/4/25, pending info -->
 
 <div class="class-changes-table">
     <table>
@@ -234,7 +239,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         <tbody>
             <tr>
                 <td>Fame System</td>
-                <td>Fame points earned are kept permanently. A weapon created by ranked blacksmith will deal an extra +10 seeking damage, which pierces defense and never misses. Ranking can be checked in-game with `/blacksmith`.</td>
+                <td>Fame points earned are kept permanently. A weapon created by ranked blacksmith will deal an extra +10 seeking damage, which pierces defense and never misses. Ranking can be checked in-game with <code>/blacksmith</code>.</td>
                 <td>Fame points decay by 10% per month, to support better game balance.</td>
             </tr>
             <tr>
@@ -282,7 +287,7 @@ Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-d
         <tbody>
             <tr>
                 <td>Fame System</td>
-                <td>Fame points earned are kept permanently. Potions made by the 10 top ranked alchemists will receive a 50% bonus to their potency. Rankings can be checked with `/alchemist` in game.</td>
+                <td>Fame points earned are kept permanently. Potions made by the 10 top ranked alchemists will receive a 50% bonus to their potency. Rankings can be checked with <code>/alchemist</code> in game.</td>
                 <td>Fame points decay by 10% per month, to support better game balance.</td>
             </tr>
             <tr>
@@ -301,7 +306,8 @@ Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-d
 
 
 
-<!-------------------------------------------->
+<!---------------------------------------------------------------------------->
+
 ## Acolyte
 Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in additional to typical locations.
 
@@ -373,14 +379,15 @@ Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in
 
 
 
-<!-------------------------------------------->
+<!---------------------------------------------------------------------------->
+
 ## Thief
 A selection of arrows can are our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
 
 ### Assassin / Assassin Cross
 Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in addition to typical locations.
 
-No changes to Assassin skills.
+No other changes to Assassin skills.
 
 ### Rogue / Stalker
 <div class="class-changes-table">
@@ -424,14 +431,15 @@ No changes to Assassin skills.
 
 
 
-<!-------------------------------------------->
+<!---------------------------------------------------------------------------->
+
 ## Archer
 A selection of arrows can are our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
 
 ### Hunter / Sniper
 Traps are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in additional to typical locations.
 
-No changes to Hunter.
+No other changes to Hunter skills.
 
 ### Dancer / Gypsy & Bard / Clown (Minstrel) 
 <div class="class-changes-table">
@@ -468,6 +476,9 @@ No changes to Hunter.
     </table>
 </div>
 
+
+
+<!---------------------------------------------------------------------------->
 ## Super Novice
 <div class="class-changes-table">
     <table>
@@ -525,54 +536,11 @@ No changes to Hunter.
 ---
 
 ## Extended Classes
-
-<!-- TODO: Add item ID, maybe images? -->
-
-### Equipment
-The following equipment was previously restricted to only Transcendent classes and is now available for Extended classes.
-
-| Armor Name | Equip Position |
-|---|---|
-| Armor of Naga [1] | Body |
-| Bison Horn [1] | Accessory |
-| Black Leather Boots [0] | Footgear |
-| Divine Cloth [1] | Body |
-| Dragon Breath [1] | Garment |
-| Expert Ring [1] | Accessory |
-| Nydhorgg's Shadow Garb [1] | Garment |
-| Orleans's Glove [1] | Accessory |
-| Orleans's Gown [1] | Body |
-| Orleans's Server [1] | Shield |
-| Platinum Shield [0] | Shield |
-| Ring Of Flame Lord [0] | Accessory |
-| Ring Of Resonance [0] | Accessory |
-| Shadow Walk [0] |  |
-| Shield of Naga [1] | Shield |
-| Sprint Mail [1] | Body |
-| Sprint Ring [0] | Accessory |
-| Sprint Shoes [1] | Footgear |
-| Thorny Buckler [1] | Shield |
-| Tidal Shoes [1] | Footgear |
-| Valkyrian Armor [1] | Body |
-| Valkyrian Manteau [1] | Garment |
-| Valkyrian Helm [1] | Upper Headgear |
-| Valkyrian Shoes [1] | Footgear |
-| Vesper Core 01 [0] | Accessory |
-| Vesper Core 02 [0] | Accessory |
-| Vesper Core 03 [0] | Accessory |
-| Vesper Core 04 [0] | Accessory |
-| Vital Tree Shoes [0] | Accessory |
-| Wool Scarf [1] | Garment |
-| Magic Bible Vol. 1 | Accessory |
+Many previously unequippable items are now accessible to Extended Classes: [see the full list](Item_Changes.md#extended-classes).
 
 
-
-<!-------------------------------------------->
+<!---------------------------------------------------------------------------->
 ### Taekwon
-
-| Armor Name | Equip Position |
-|---|---|
-| Swordsman Medal of Honor | Accessory |
 
 <div class="class-changes-table">
     <table>
@@ -586,14 +554,19 @@ The following equipment was previously restricted to only Transcendent classes a
         <tbody>
             <tr>
                 <td>Fame System</td>
-                <td>Fame points earned are kept permanently. The top 10 ranked taekwon players are able to perform infinite combos and receive tripled Maximum HP and SP at level 90. Fame points are ignored if player changes job to Star Gladiator. Rankings can be checked with `/taekwon` in game.</td>
+                <td>Fame points earned are kept permanently. The top 10 ranked taekwon players are able to perform infinite combos and receive tripled Maximum HP and SP at level 90. Fame points are ignored if player changes job to Star Gladiator. Rankings can be checked with <code>/taekwon</code> in game.</td>
                 <td>Fame points decay by 10% per month, to support better game balance.</td>
             </tr>
         </tbody>
     </table>
 </div>
 
+
+
+<!---------------------------------------------------------------------------->
+
 #### Star Gladiator
+
 <div class="class-changes-table">
     <table>
         <thead>
@@ -625,10 +598,9 @@ The following equipment was previously restricted to only Transcendent classes a
 
 
 
+<!---------------------------------------------------------------------------->
+
 #### Soul Linker
-| Armor Name | Equip Position |
-|---|---|
-| Thorny Staff of Darkness | Weapon |
 
 <div class="class-changes-table">
     <table>
@@ -661,7 +633,8 @@ The following equipment was previously restricted to only Transcendent classes a
 
 
 
-<!-------------------------------------------->
+<!---------------------------------------------------------------------------->
+
 ### Ninja 
 Ninja's skill materials and ammo can are sold by our [Enhanced NPC Dealers](Dealers.md#ninja-materials) in addition to their typical locations. Weapons and other gear are not sold at this NPC.
 
@@ -715,7 +688,8 @@ Ninja's skill materials and ammo can are sold by our [Enhanced NPC Dealers](Deal
 
 
 
-<!-------------------------------------------->
+<!---------------------------------------------------------------------------->
+
 ### Gunslinger
 Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers](Dealers.md#gunslinger-materials) in addition to their typical locations. Weapons and other gear are not sold at this NPC.
 
@@ -788,8 +762,10 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers]
 
 
 
-<!-------------------------------------------->
-## Adopted
+<!---------------------------------------------------------------------------->
+
+## Adoptee
+
 <div class="class-changes-table">
     <table>
         <thead>
@@ -808,21 +784,3 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers]
         </tbody>
     </table>
 </div>
-
-
-
-<!-- mammo 500z when possessing a certain item? 7/4/25 -->
-
-<!-- Is this skill implemented?: Changed Poisoning Weapon to show the type of poison used when applied -->
-  
-<!-- Battlegrounds page content
-Devotion in Battlegrounds now works without the need for a party.
-
-High Jump and Running Soul Linker skills now work within Battlegrounds.
--->
-
-<!-- Item based changes
-- `Isilla Card`: Now applies to both `AoE` and `Single-Target` magic.
-
-Cold Heart / Black Cat accessories now complete combos with Rogue Treasure
--->

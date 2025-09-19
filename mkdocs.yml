@@ -48,10 +48,7 @@ nav:
     - ⭐ How to start: How_To_Start.md 
     - ⚙️ Commands: Commands.md
     - 🌱 Beginner Guide: Beginner_Guide.md 
-    - 🔮 Class Changes: Class_Changes.md
     - 🦋 QOL Improvements: Improvements.md
-    - 💤 Adventurer Inns: Inns.md
-    - 🍬 Convenient Dealers: Dealers.md
     - 🛟 Troubleshooting: Troubleshooting.md
     - 💬 FAQ: FAQ.md
   - Key Features:
@@ -63,12 +60,16 @@ nav:
     - 💰 Vendor System: Vendor_System.md
     - 🌀 Warper System: Warper_System.md
   - Enhancements: 
+    - 💤 Adventurer Inns: Inns.md
     - 🔔 Attendance Rewards: Attendance_System.md
     - 🎟️ Card Exchange: Card_Exchange.md 
+    - 🔮 Class Changes: Class_Changes.md
+    - 🍬 Convenient Dealers: Dealers.md
     - 🧚 Custom NPCs: Custom_NPC.md
     - 🎭 Costume Converter: Costume_Converter.md
     - 👒 Headgear Quests: Dimonka_Headgear_Quest.md 
     - 🕥 Hourly Rewards: Hourly_Rewards_System.md 
+    - 👕 Item Changes: Item_Changes.md
     - 🔪 Mercenary System: Mercenary_System.md 
     - 💎 Modified Sales Prices: Modified_Sales_Prices.md 
     - 🗺️ Navigation System: Navigation_System.md 

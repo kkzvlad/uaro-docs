@@ -69,6 +69,7 @@ The RODEX mail system is one of the most convenient tools in uaRO, letting you s
 You can queue multiple mails, open them when you’re ready, and use the system as a lightweight storage option between runs. With RODEX, your next solution is always just a few clicks away.
 
 
+
 ## Optimized Mechanics
 
 | Feature | Description |
@@ -94,20 +95,6 @@ You can queue multiple mails, open them when you’re ready, and use the system 
 | **Guild Storage Logs** | Guild leader can check `@guildlog` to see who accessed storage, when they accessed it, and permit others to see the logs based on title. |
 | **Optimized WoE** | [Weekly FE and SE WoE](WoE.md) gives flexibility in guild-based war. uaRO works closely with guild war leaders to optimize the WoE experience. |
 | **Pre-Trans WoE** | [Special weekly WoE mode](Pre_Trans_WoE.md) just for Pre-Trans Classes and Extended Classes. |
-
-
-
-## Equipment Changes
-
-| Item | Item ID | Position | Description |
-|---|---|---|---|
-| Sigrun's Wings | 000 | Middle Headgear | Adds +1 STR to Star Gladiator |
-| Wedding Dress | 000 | Body | Adds +15 MDF |
-| Dagger of Counter | 000 | Weapon | ATK increased to 140. |
-| Sting Hat | 000 | Upper Headgear | Drops from Sting. |
-| Crown of Deceit | 000 | Upper Headgear | Drops from Fallen Bishop. INT adjusted from 3 → 4. |
-| Mercury Riser [1] | 000 | Upper Headgear | Placeholder, nerfed. |
-| Blood Sucker | 000 | Lower Headgear | Placeholder, nerfed. |
 
 
 
