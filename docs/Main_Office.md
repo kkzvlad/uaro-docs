@@ -9,8 +9,8 @@ Need to exchange loots and Poring Coins for Quest hats? Main Office is the place
 So come on down to Main Office and see what we have to offer! We're here to help you make the most of your experience.
 
 
-| NPC                    | Description                                                                                          |
-|------------------------|------------------------------------------------------------------------------------------------------|
+| NPC | Description |
+|---|---|
 | ![Lydia](img/4_F_NFLOSTGIRL.gif) | Head over to NPC **Lydia** and exchange your Poring Coin for a variety of [valuable items](Poring_Coins_System.md). It's a great way to get your hands on some essential gear and enhance your gaming experience. |
 | ![Dimonka](img/4_F_JP_NOAH.gif) | **Dimonka** NPC trades your loots and Poring Coin for [valuable headgear](Dimonka_Headgear_Quest.md). |
 | ![Katryn](img/4_F_GELKA.gif) | **Katryn** NPC exchanges your Poring Coin for unique costumes. |
@@ -18,3 +18,18 @@ So come on down to Main Office and see what we have to offer! We're here to help
 | ![Platinum Skill](img/1_F_01.gif) | **Platinum Skill** NPC can give you the special skills available to your job. |
 | ![Lottery](img/1_F_ORIENT_02.gif) | **Lottery** NPC can give you opportunity to participate in a daily lottery and win a **500kk jackpot.** [Details here!](Lottery_NPC.md) |
 | ![Perchik](img/1_M_01.gif) | **Perchik** NPC can signs your name on eligible items. |
+
+<!-- TODO: Add manual exchange NPC from 9/1/5 patch
+- **Manual Exchange (100%) – Main Office**: Added `x1` exchanges for:
+  ```
+  - Level 10 Blessing Scroll Box (10 scrolls)
+  - Level 10 Agi Scroll Box (10 scrolls)
+  - Kafra Card ×1
+  ```
+-->
+
+<!-- TODO: Add gold coins costume NPC -->
+
+<!-- TODO: Add details to reset about free resets -->
+
+<!-- TODO: Clarify name signing requirements -->

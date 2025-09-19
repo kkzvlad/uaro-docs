@@ -1,32 +1,76 @@
-.md-card {
-    padding: 20px;
-    border-radius: 8px;
-    background-color: #f9f9f9;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-    transition: transform 0.2s ease;
-}
-
-.md-card:hover {
-    transform: scale(1.02);
-}
+/* Dev Note: 
+    - Use REMs instead of PX, for accessibility and responsive. 
+    - REM calculation is based on 16px. ( # / 16 = #rem)
+    - Use var() from theme to support light/dark mode. ie, color: var(--md-default-fg-color); 
+*/
 
 .grid__col-6 {
-    padding: 20px;
-}
-
-.md-typeset .tabbed-set {
-    margin-top: 20px;
-    border-radius: 8px;
-    background-color: #f5f5f5;
-    padding: 10px;
+    padding: 1.25rem; /* 20px */
 }
 
 .md-typeset ul {
     list-style-type: disc;
-    padding-left: 20px;
+    padding-left: 1.25rem; /* 20px */
 }
 
 .md-typeset ol {
     list-style-type: decimal;
-    padding-left: 20px;
+    padding-left: 1.25rem; /* 20px */
+}
+
+/* Class_Changes.md: Sets a consistent width to columns */ 
+.class-changes-table th:nth-child(1) {
+    width: 15.625rem; /* 250px */
+}
+
+.class-changes-table th:nth-child(2) {
+    width: 21.875rem; /* 350px */
+}
+
+.class-changes-table th:nth-child(3) {
+    width: 21.875rem; /* 350px */
+}
+
+/* Class_Changes.md: Styles the skill image */
+.class-changes-table img {
+    vertical-align: middle;
+    margin-right: 0.25rem; /* 4px */
+    width: 1.5rem; /* 24px */
+    height: 1.5rem; /* 24px */
+}
+
+/* Class_Changes.md: Removes extra space from <ul> in table */
+.class-changes-table ul {
+    padding-left: 0;
+    margin-left: 0 !important;
+}
+
+/* index.md: Styles the links at the bottom of each patch note */
+#index-patch-notes .tabbed-block p a {
+    display: inline-block;
+    font-weight: bold;
+}
+
+/* index.md: Adds space between links at the bottom of each patch note */
+#index-patch-notes .tabbed-block p a:last-of-type {
+    margin-left: 0.75rem; /* 12px */
+}
+
+/* index.md: Insets the tab content */
+#index-patch-notes .tabbed-block {
+   padding: 0.5rem 1rem; /* 8px 16px */
+   background: var(--md-default-fg-color--lightest);
+   font-family: monospace;
+}
+
+/* index.md: Removes extra space from <ul> in patch notes */
+#index-patch-notes .tabbed-block ul {
+    margin: 1rem 0; /* 16px 0px */
+    padding-left: 0.25rem; /* 4px */
+}
+
+/* index.md: Links in the main features cards have their own line */
+#main-features-cards a {
+    display: block;
+    margin-top: 0.5rem; /* 8px */
 }

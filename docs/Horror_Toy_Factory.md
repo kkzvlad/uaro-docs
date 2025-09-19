@@ -9,6 +9,7 @@ The instance offers unique rewards, including rare items and equipment, making i
 **Base Level:** 90  
 **Party:** At least one member
 
+!!! note "**Global reset per account** at `06:00 Server Time` every **Monday**."
 
 ## How to get there
 

@@ -74,7 +74,7 @@ Once you finish a Dungeon access quest you can unlock a Warpra helper. This allo
 Using an Inn costs 10k and gives you Agi Up and Blessing 10 for 10 Minutes. This is very useful if you level on maps you can access very fast, close to a town, with a warp if you are Aco Class, or with Warpra.  
 
 
-### [Sitting Regeneration](Improvements.md#increased-natural-hpsp-recovery)
+### [Sitting Regeneration](Improvements.md#increased-natural-recovery)
 If you sit, after 10 seconds you have a super regeneration that fills your HP / SP very fast. This values SP pool over SP regeneration at least for solo leveling. For mass parties you still want to have regeneration.  
 
 
@@ -389,7 +389,7 @@ You can leave and join them with the [commands](Commands.md):
 - You get logged out while your merchant stays ingame  
 - Log into your main (or other) account and play  
   
-To open a buying store, [you need to do a small quest](Vendor_System.md#how-to-create-a-buying-store).
+To open a buying store, [you need to do a small quest](Vendor_System.md#create-a-buying-store).
 
 
 ### Navigation System and World Map  
