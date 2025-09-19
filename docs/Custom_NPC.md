@@ -48,6 +48,7 @@ Step inside the [Main Office](Main_Office.md) and you’ll find more to explore,
 | ![Banker NPC](img/NPC/banker.gif)<br>**Banker** | `/navi prontera 133/216` | The **Banker** lets you access your zeny bank. You can also open your bank anytime with CTRL+B. |
 | ![Contractor NPC](img/NPC/contractor.gif)<br>**Branch Rooms** | `/navi prontera 129/212` | Rent a private branch room with the **Contractor NPC** for 120 minutes at a cost of 1,200,000z. You, your party, or your guild may leave and re-enter freely during the rental period. |
 | ![Gold Points NPC](img/NPC/gold-points.gif)<br>**Hourly Rewards** | `/navi prt_in 56/142` | The **Gold Points Manager** handles our [Hourly Rewards System](Hourly_Rewards_System.md), where you receive Gold Coins for every hour you play. Collect coins as you go, then visit the [Main Office](Main_Office.md) to exchange them for special prizes. |
+| ![Super Novice Death Reset NPC](img/NPC/sn-death-reset.gif)<br>**Super Novice Reset** | `/navi prt_field08 135/359` | Super Novices can reset their death record for free, making it easy to shake off bad luck and continue the adventure with a clean slate. |
 
 <!-- TEMPLATE // | ![Alt Text](img/name.gif)<br> **Functional Name** | `/navi map_name X/Y` | Description: includes actual NPC name, what is does, and what it costs if anything. Link out to other pages if relevant. | // END TEMPLATE -->
 
