@@ -214,11 +214,8 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/mc_mammonite.gif" alt="">Mammonite</td>
-                <td>Putting items in your cart increases the damage by up to 100% more (1% per 80 weight as it has 8000 weight max).</td>
-                <td>
-                    Cart assumes max weight regardless of cart weight.<br>
-                    Reduced price to maximum of 500z while possessing Bag of Coins (<code>#670</code>) within inventory.
-                </td>
+                <td>Uses 100-1000z to increase ATK for the next attack.</td>
+                <td>Reduced price to maximum of 500z while possessing <a href="#bag-of-gold-coins">Bag of Gold Coins</a> within inventory.</td>
             </tr>
         </tbody>
     </table>
@@ -255,9 +252,8 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                 <td>Uses the power of Zeny to strike a single enemy with your cart. Damage is dependent on the cart's weight.</td>
                 <td>
                     Cart assumes max weight regardless of cart weight.<br>
-                    Skill selectable by level.<br>
                     Cost is reduced to 0z in Battlegrounds.<br>
-                    Reduced price to 500z while possessing Bag of Coins (<code>#670</code>) within inventory.
+                    Reduced price to 500z while possessing <a href="#bag-of-gold-coins">Bag of Gold Coins</a> within inventory.
                 </td>
             </tr>
             <tr>
@@ -268,7 +264,6 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         </tbody>
     </table>
 </div>
-
 
 
 ### Alchemist / Creator
@@ -292,15 +287,15 @@ Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-d
             <tr>
                 <td><img src="../img/Class_Changes/am_twilight3.gif" alt="">Twilight Alchemy</td>
                 <td>N/A</td>
-                <td>
-                    Revamped all inclusive skill. Brews up to 300 of any create potion item, based on available resources in inventory.<br>
-                    Requires Soul Link.
-                </td>
+                <td>Revamped all inclusive skill. Brews up to 300 of any create potion item, based on available resources in inventory. Requires Soul Link.</td>
             </tr>
         </tbody>
     </table>
 </div>
 
+
+### Bag of Gold Coins
+Bag of Gold Coins (`#670`) can be acquired at the Blacksmith Guild in Geffen (`/navi geffen_in 100/174`) for 50,000,000z. It reduces the cost of Mammonite and Cart Termination to 500z when held in your inventory. It has a weight of 500 and cannot be dropped, put in cart, traded, mailed, sold, or put in guild storage. It can be put in your personal storage to be shared with characters on the same account.
 
 
 <!---------------------------------------------------------------------------->
