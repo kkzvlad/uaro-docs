@@ -1,411 +1,802 @@
 # Class Changes
-
-!!! warning "This page is a work in progress."
-
-## First Job  
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-*Swordman*  
-
-*Mage*  
-
-*Merchant*  
-
-*Acolyte*  
-
-*Thief*  
-
-*Archer*
-
-*TaeKwon Kid*
-
-*Ninja*
-
-*Gunslinger*  
-
-*Super Novice*
-
-## Second Job 
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-*Knight*  
-
-*Crusader*  
-
-![Reflect Shield](img/Class_Changes/Shield_Reflect.png) Reflect Shield  
-
-30.04.2023: The amount of damage cannot be greater than the amount of HP the wearer of the skill has. Reflect is not transmitted if the character is in the Safety Wall.  
-
-*Wizard*  
-
-*Sage*  
-
-*Blacksmith*  
-
-*Alchemist*  
-
-*Priest*  
-
-*Monk*
-
-*Assassin*  
-
-*Rogue*  
-
-![Back Stab](img/Class_Changes/Back_Stab.png) Back Stab  
-
-30.04.2023: Skill has been adjusted and can now be executed from any direction.
-
-*Hunter*  
-
-*Bard and Dancer*  
-
-*Star Gladiator*  
-
-*Soul Linker*  
-
-## Transcendent   
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-*Lord Knight*
-
-*Paladin*  
-
-*High Wizard*  
-
-*Professor*
-
-*Whitesmith*  
-
-*Creator*
-
-*High Priest*
-
-*Champion*  
-
-*Assassin Cross*  
-
-*Stalker*  
-
-*Sniper*  
-
-*Minstrel and Gypsy*
-
-
-
-
-
-
-
-
-
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Patch Notes - 21 March 2025
-🧙‍♂️ Class Changes¶
-🔧 Smith¶
-Over-Thrust / Max Over-Thrust no longer break weapons
-1H swords now compatible with Adrenaline Rush
-“Repair Weapon” skill description updated to include armor repair with steel
-🥷 Ninja¶
-Fixed animation issue causing stuck sitting / stuck movement while hit
-Cold Heart / Black Cat accessories now complete combos with Rogue Treasure
-
-
-Patch Notes - 07 January, 2025
-Twilight 3 Rework¶
-Updated Twilight 3 to craft 100 of each item (alcohol and bottle sets).
-Adjusted Medicine Bowl requirement from 200 → 300 to align with the new crafting quantities.
-
-
-Patch Notes - 24 December, 2024  
-🌟 Extended Class Changes¶
-Soul Linker max job level extended to 70.
-HP/SP pools remain the same as Job 50.
-All Soul Links (Level 5) now last 10 minutes (previously 5 minutes).
-
-Patch Notes - 6 December, 2024<br>
-## Extended
-
-### **Gunslinger**
-| Skill Name         | Change                                |
-|--------------------|---------------------------------------|
-| Rapid Shot         | SP cost per level 1–10: `12–20`.     |
-|                    | AfterCastDelay: `1 sec → 0.75 sec`.  |
-| Full Buster        | AfterCastDelay: `2 sec`.             |
-|                    | SP cost level 5–10: `35`.            |
-| Triple Action      | SP cost: `20 → 12`.                  |
-| Flip the Coin      | SP cost: `2 → 1`. Success Rate: `100%`.
-
-### **Ninja**
-| Skill Name              | Change                                |
-|-------------------------|---------------------------------------|
-| Throw Zeny              | AfterCastDelay: `5 sec → 2 sec`.     |
-|                         | SP cost: `50 → 25`.                  |
-| Throw Kunai             | AfterCastDelay: `1 sec → 0.5 sec`.   |
-| Final Strike            | SP cost per level 1–10: `30–50`.     |
-| Throw Huuma Shuriken    | AfterCastDelay: `2 sec → 1.5 sec`.   |
-|                         | SP cost level 1–5: `5,10,15,20`.     |
-
-### **Star Gladiator**
-- **Miracle Success Rate:** `0.02% → 0.1%`.
-
-### **Soul Linker**
-- **Esma SP Cost:** Level 1–10: `4–40`.
-
-
-Patch Notes - 10/30/2024  
-🏹 3. Skill & Mechanic Tweaks¶
-Magnus Exorcismus¶
-Now inflicts damage on monsters of Undead, Demon races or Shadow, Ghost, Undead elements.
-Improved Portal Mechanics¶
-Fly Wing and Teleport will no longer randomly land you within portals, ensuring more control.
-Skill Adjustments¶
-Backstab: Now correctly registers damage at 0 cell range.
-Asura Strike: SP regenerates correctly upon relogging.
-Gravitation Field (High Wizard): Adjusted to behave as expected for optimized gameplay.
-
-
-Patch Notes - 09/27/2024  
-We tackled a few leftover bugs from previous updates, including:
-- The Sonic Blow Animation Sonic Blow and Arrow Vulcan Animation Arrow Vulcan animations have been fixed.
-- Fixed some issues with Devotion targeting.
-- Adjustments were made so that the Devotion Targeting Pressure skill now correctly bypasses Devotion.
-
-
-Patch Notes - 09/18/2024  
-Skill Reversion: Sharpshoot reverted to its original state.
-
-
-24 July 2024<br>
-Skills Fixes
-Devotion can no longer be placed on non-guild members outside of BG.
-The disappearance of the Cursed Water icon has been fixed.
-Levels 6-10 Plagiarized Water Ball are no longer melee attack skills.
-Crimson Fire Formation (Blaze Shield) is fixed and can lock monsters again.
-Paladin Shield skills now persist when swapping with different shields instead of cancelling.
-Kyrie Eleison now reduces Acid Demonstration damage.
-Minor skills description fixes have been made.
-Failed HP buff glitch on Berserk skill trigger has been fixed.
-Class Changes
-Lif Homunculus has been reverted to the classic version where Mental Change resets upon respawning the homunculus.
-Ninja can now equip Magic Bible Vol. 1.
-Soul Linker can now equip Staff of Darkness.
-
-12 July 2024  
-Bard/Dancer song icons are now displayed in the interface.
-As sonicblow06.jpg Sonic Blow & Cg arrowvulcan05.jpg Arrow Vulcan animations now reappear.
-Released fix for the Rg plagiarism03.jpg Plagiarism skill and NPC to prevent players from losing skill points.
-Pf mindbreaker04.jpg Mind Breaker skill now shows icon and updates status
-Cart Termination can now be selectable by level
-
-
-04 July 2024<br>
-Fixed issue with Backstab skill where skills were copied and half of the skill tree was lost
-Dragon Fire Formation no longer works under Land Protector.
-
- 
-
-27 June 2024  
-Edited the Sightrasher skill to its correct 7x7 cell range.
-Edited Weapon Perfection levels 1-5 for better consistency. Client-side description updated also.
-Spear Stab no longer double attacks.
-Devotion in Battlegrounds now works without the need for a party.
-Bonus HP from Sage area skills is now removed if elemental armor is changed or removed.
-
-
-15 June 2024<br>
-Taekwon can now equip Swordman Medal of Honor.
-Redemptio cooldown reduced from 10 minutes to 3 minutes.
-
-
-08 June 2024  
-Reject sword damage cannot exceed the caster's HP.
-Super Novice death count can now be reset with a special NPC located right under Prontera, prt_fild08.Soul
-Fixed issue where Full Buster cooldown prevented use of all consumables.
-Fixed nullified messages for Star Gladiator Miracle skill.
-Fixed bug where Super Novice Mental Strength activation caused stat loss.
-Soul Linkers can now equip Thorn Staff of Darkness.
-
-
-16 May 2024<br>
-Soul Linkers can again perform their skills.
-Skills for few classes no longer show up under the "Etc" Tab.
-High Jump and Running Soul Linker skills now work within Battlegrounds.
-Aspersio can now be used on members outside of your party
-
-11 May 2024<br>
-The new skill, Screenshot 2024-05-11 at 00.24.21.png Twilight Alchemy 4, is now available under Alchemist Link. This skill allows you to brew 200 Blue Potions simultaneously.
-Made tweaks to the timings and positioning for certain skills, which theoretically should positively impact the effectiveness of Ninja's Crimson Fire Formation skill.
-
-
-22 April 2024  
-Skill Restrictions in Dungeons: Fixed an issue with the use of Dispel in Endless Tower, Memorial Dungeon, Orc's Memory, and Nidhoggur's Nest; it is now functional. Additionally, the use of Eske and Dispel has been correctly disabled in the Sealed Shrine dungeon as intended.
-
-
-19 February 2024<br>
-Changed the animation delay to match official behavior. skill_amotion_leniency now defaults to 0 which offers a more accurate official behavior.
-Changed Poisoning Weapon to show the type of poison used when applied
-
-Fixed some interactions of Ki Translation
-It should fail with a skill failure message and not consume requirements when:
-- being cast on Gunslinger class
-- being cast on a player that already has 5 spheres
-- being cast on friendly non-player units (e.g. Mercenary)
-
-Fixed some interactions of Absorb Spirit Sphere
-It should fail and not consume SP when:
-- the target player doesn't have spheres
-- the target player is of Gunslinger class (due to teh game implementation not allowing them to have spheres)
-- the target player is friendly
-It should fail and consume SP when:
-- used on a BOSS monster
-- used on a non-boss monster, but failing the 20% check
-- used on non-player units (like mercenaries)
-- moved the target check to condition cast end
-
-Fixed the error message when a gunslinger is attempting to use a skill that requires coins without having the necessary amount.
-
-Fixed the stacking of Poem of The Netherworld to match the behavior described in the 2012.08.22 official patch notes.
-- it cannot be placed over another instance of the skill
-- when trying to do so, it should show a position error to client
-
-Fixed Sage's free case increasing ASPD instead of decreasing it when the skill level is lower than 10.
-Fixed Triple Attack not applying the same motion delay as the client in the case the next combo is not possible, causing visual glitches.
-Fixed the Triple Attack delay formula increasing delay with dex instead of decreasing it.
-Fixed the Triple Attack animation not workingn when there's no possible chainable combo skill.
-Fixed Triple Attack overwriting attackabletime.
-Fixed combo delays applying to all combos-based skills and not sending the proper time to the client.
-Fixed one cell movement not ignoring hidden objects (such as GMs) in its stack limit calculation.
-Fixed an issue causing characters to be stuck in a walk loop while trying to pick up an unreachable item on the ground.
-Fixed range and cast time for Soul Destroyer.
-Fixed Dispel not working in duels.
-Fixed songs not triggering their onleft or onout events when overlapping and turning into dissonance.
-Fixed the range checks of Blade Stop:
-- Fixed the target's (as in triggering attack target, and Blade Stop caster) equipped weapon wrongly affecting the skill's working range.
-- Success range is changed to 2, to match the official behavior.
-- In pre-re, changed it to always succeed against player attackers regardless of range.
-- Changed it to always succeed for non-player casters regardless of range (custom Hercules behavior, officially only players may cast Blade Stop).
-
-Fixed CELL_NOSTACK making mob AI not being able to reach target under certain conditions.
-Fixed the critical bonus calculation from status effects getting truncated to 0.3 CRIT per point of LUK instead of 1/3.
-Fixed some SC counters (including Storm Gust) not getting reset to 0 when a unit dies.
-Fixed costumes blocking itemskill execution, even when items are being consumed.
-Removed an incorrect afterCastActDelay from Sacrifice
-Removed the fixed target from some combo skills. Monk skills act on the current target even if the last skill was used on a different enemy.
-
-
-09 February 2024  
-Skill Restrictions at MVP Locations: To maintain the challenge and integrity of MVP encounters, we've implemented restrictions on certain skills at all MVP locations:
-- Warp Portal
-- Ice Wall is blocked, with the exception of Biolab 3
-- Loki's Veil
-Abracadabra Restriction. Can no longer be used in towns.
-Gospel Buffs Reset. All gospel buffs will now reset upon relogging.
-
-
-04 January 2024<br>
-Bowling Bash Gutterlines Removed
-The Gutterlines in Bowling Bash have been successfully removed.
-
-
-20 December 2023  
-Soul Destroyer: The range of Soul Destroyer has been corrected to 9 cells.
-Slow Grace Effect: The Slow Grace effect will now cancel upon death.
-
-
-30 November 2023<br>
-Fixes in some items, they can now be equipped by some extended classes such as Taekwon, Gunslinger, Ninja, Soul Linker, and Star Gladiator:
-Sprint Mail
-Sprint Ring
-Sprint Shoes
-Armor of Naga
-Ring Of Flame Lord
-Ring Of Resonance
-Shield of Naga
-Vesper Cores
-
-
-17 November 2023<br>
-Bowling Bash's range increased to 2 cells to reduce the range-mob bug.
-Fixed an issue where Sage's Free Cast increased ASPD instead of decreasing it at skill levels lower than 10.
-Soul Breaker's range increased to 9 cells.
-The Grand Cross skill can now be plagiarized
-
-
-15 September 2023<br>
-Brandish Spear
-KnockBackTiles: 1.
-
-Bowling Bash
-SplashRange: 3.
-KnockBackTiles: 0.
-Adjustments made to the Gutter Line.
-
-Charge Attack
-The range has been fixed to 14 cells
-
-The following equipment, previously restricted to transcended classes, is now available to Gunslingers, Ninjas, Soul Linkers, Taekwonds, and Star Gladiators:
-Armor of Naga [1] [Body]
-Bison Horn [1] [Accessory]
-Black Leather Boots [0] [Footgear]
-Divine Cloth [1] [Body]
-Dragon Breath [1] [Garment]
-Expert Ring [1] [Accessory]
-Nydhorgg's Shadow Garb [1]
-Orleans's Glove [1]
-Orleans's Gown [1]
-Orleans's Server [1]
-Platinum Shield [0]
-Ring Of Flame Lord [0]
-Ring Of Resonance [0]
-Shadow Walk [0]
-Shield of Naga [1]
-Sprint Mail [1]
-Sprint Ring [0]
-Sprint Shoes [1]
-Thorny Buckler [1]
-Tidal Shoes [1]
-Valkyrian Armor [1]
-Valkyrian Manteau [1]
-Valkyrian Helm [1]
-Valkyrian Shoes [1]
-Vesper Core 01 [0]
-Vesper Core 02 [0]
-Vesper Core 03 [0]
-Vesper Core 04 [0]
-Vital Tree Shoes [0]
-Wool Scarf [1]
-Magic Bible Vol
-
-
-21 July 2023<br>
-Grand Cross
-With the new changes, when mobs are gathered in the same cell, each one will feel the full force of every hit.
-
-Bowling Bash skill modification
-Splash Range increased to 2.
-Knock Back distance dicreased to 0.
-
-Monster Stack and Grimtooth
-Monster stack limit increased from 1 to 7 monsters.
-These changes will pave the way for a more efficient use of the Grimtooth skill.
-
-Songs additional effect
-There's an additional effect that lasts for 20 seconds after player leave song zone.
-
-
-03 July 2023<br>
-Missing Icons for some skills has been added.
-Longing for Freedom skill now appears in a right tab.
-Wand of Hermode skill no longer ensemble skill type and can be used in solo during WoE time.
-
-
-30.04.2023<br>
-Skill Fixes
-
-The behaviour of various types of Reflect Skills types has been fixed:
- - The amount of damage cannot be greater than the amount of HP the wearer of the skill has.
- - Reflect is not transmitted if the character is in the Safety Wall.
+uaRO uses the pre-renewal class system, with selected adjustments to skills and mechanics for balance and smoother gameplay. These changes preserve the classic feel while improving the overall experience.
+
+For full reference on unmodified pre-renewal skills, you can [visit the iRO Classic Wiki](https://irowiki.org/classic/Main_Page).
+
+<!-- Dev Note: Alt text is excluded from images because it would announce duplicate skill names to screen readers. Instead, use blank alt="" for the decorative image to be skipped by assistive technology. -->
+
+## General / Shared
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Reflected Damage: Amount</td>
+                <td>When a reflection skill or behavior activates, it reflects the amount of damage listed, ie 50%.</td>
+                <td>The amount of damage reflected cannot be greater than the amount of HP the user of the skill has.</td>
+            </tr>
+            <tr>
+                <td>Reflected Damage: Safety Wall</td>
+                <td>Players inside can reflect damage via skill or behavior.</td>
+                <td>Players inside <strong>can not</strong> any reflect damage.
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/al_teleport.gif" alt="">Teleport</td>
+                <td>You can teleport to a random spot on the same map. </td>
+                <td>Adjusted to prevent players from landing on a map portal.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+<!---------------------------------------------------------------------------->
+
+## Swordsman
+
+### Knight / Lord Knight
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="../img/Class_Changes/kn_bowlingbash.gif" alt="">Bowling Bash</td>
+                <td>
+                    Knockback distance of 1 cell.<br>
+                    Skill range of 1 cell.
+                </td>
+                <td>
+                    Knockback distance removed.<br>
+                    Skill range increased to 2 cells.
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/kn_brandishspear.gif" alt="">Brandish Spear</td>
+                <td>Knockback distance of 2 cells.<br>
+                <td>Knockback decreased to 1 cell.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+### Crusader / Paladin
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Shield Swapping</td>
+                <td>Swapping a shield while a skill is active cancels the skill.</td>
+                <td>Swapping sheilds will no longer interrupt the skill. Removing shield will stll cancel the skill.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/cr_reflectshield.gif" alt="">Shield Reflect</td>
+                <td>Returns some damage dealt to you back to the enemy. Reflected damage a percentage of received damage.</td>
+                <td>The amount of damage reflected cannot be greater than the amount of HP the wearer of the skill has. Reflect is not transmitted if the character is within a Safety Wall.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/cr_devotion.gif" alt="">Devotion</td>
+                <td>Skill is usable on party members, including non-guild members.</td>
+                <td>
+                    Cannot be placed on non-guild members outside of Battlegrounds.<br><br>
+                    Added a buff icon when skill is active for both caster and receiver.
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/cr_grandcross.gif" alt="">Grand Cross</td>
+                <td>Grand Cross hits 1-5 times, depending highly on position and movement of enemy/enemies. When one or more monsters are on a single cell of GC, the number of hits are reduced by 1 per monster (to a minimum of one hit to one monster).</td>
+                <td>Due to increased mob stack size, mobs on the same cell take 100% of the damage from every hit.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/pa_gospel.gif" alt="">Gospel</td>
+                <td>Buff persists through log out.</td>
+                <td>Buffs reset upon relog.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+<!---------------------------------------------------------------------------->
+
+## Mage
+
+### Wizard / High Wizard
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="../img/Class_Changes/wz_icewall.gif" alt="">Ice Wall</td>
+                <td>Cannot be used in Cannot be used in GvG, Battlegrounds, Endless Tower, or Nidhoggur's Nest.</td>
+                <td>Additionally cannot be used on MVP maps. </td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/wz_sightrasher.gif" alt="">Sightrasher</td>
+                <td>
+                    Range of 15x15 cells.<br>
+                    Moves through obstacles including walls.
+                </td>
+                <td>
+                    Reduced range to 7x7 cells.<br> 
+                    Cannot go through obstacles or walls. (Exception Bio 3/4)
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/hw_magicpower.gif" alt="">Amplify Magic Power</td>
+                <td>Increases MATK for the next instance of magical damage dealt. Does not include multiple ticks.</td>
+                <td>Modified to increase MATK for each tick AoE spells Meteor Storm, Storm Gust, and Lord of Vermillion.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+### Sage / Professor
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="../img/Class_Changes/sa_abracadabra.gif" alt="">Abracadabra</td>
+                <td>Can be used anywhere excluding WoE: SE.</td>
+                <td>Can no longer can be used in towns.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/sa_autospell.gif" alt="">Auto Spell</td>
+                <td>Maximum level of skill varies from 1-3 based on skill level. Skill cast chance varies by level used.</td>
+                <td> Skills cast can trigger up to level 5 bolts on all elements when skill level 4 or higher.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/pf_mindbreaker.gif" alt="">Mind Breaker</td>
+                <td>Attack the mind of the enemy to cause mental breakdown. This decreases enemy's INT MDEF, but it ups their MATK. This is basically Provoke for Magicians.</td>
+                <td>Adds a debuff icon for the receiver. Updates stats to show impact.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+<!---------------------------------------------------------------------------->
+
+## Merchant
+
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="../img/Class_Changes/mc_cartrevolution.gif" alt="">Cart Revolution</td>
+                <td>Putting items in your cart increases the damage by up to 100% more (1% per 80 weight as it has 8000 weight max).</td>
+                <td>Cart assumes max weight regardless of cart weight.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/mc_mammonite.gif" alt="">Mammonite</td>
+                <td>Putting items in your cart increases the damage by up to 100% more (1% per 80 weight as it has 8000 weight max).</td>
+                <td>
+                    Cart assumes max weight regardless of cart weight.<br>
+                    Reduced price to maximum of 500z while possessing Bag of Coins (<code>#670</code>) within inventory.
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+### Blacksmith / Whitesmith
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Fame System</td>
+                <td>Fame points earned are kept permanently. A weapon created by ranked blacksmith will deal an extra +10 seeking damage, which pierces defense and never misses. Ranking can be checked in-game with <code>@blacksmith</code>.</td>
+                <td>Fame points decay by 10% per month, to support better game balance.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/bs_overthrust.gif" alt="">Power Thrust</td>
+                <td>There is a 0.1% chance to break your weapon with each hit.</td>
+                <td>No longer breaks weapons.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/bs_adrenaline.gif" alt="">Adrenaline Rush</td>
+                <td>Increase your attack speed with Mace and Axe type weapons by 30%. Increases attack speed of nearby party member with Mace and Axe type weapons by 20%. Changing from a Mace or Axe to any other type of weapons (including bare fists) will cancel the effect.</td>
+                <td>You can use One-Handed Swords with this skill. </td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/ws_carttermination.gif" alt="">Cart Termination</td>
+                <td>Uses the power of Zeny to strike a single enemy with your cart. Damage is dependent on the cart's weight.</td>
+                <td>
+                    Cart assumes max weight regardless of cart weight.<br>
+                    Skill selectable by level.<br>
+                    Cost is reduced to 0z in Battlegrounds.<br>
+                    Reduced price to 500z while possessing Bag of Coins (<code>#670</code>) within inventory.
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/ws_overthrustmax.gif" alt="">Maximum Power Thrust</td>
+                <td>There is a 0.1% chance to break your weapon with each hit.</td>
+                <td>No longer breaks weapons.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+### Alchemist / Creator
+Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in addition to typical locations.
+
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Fame System</td>
+                <td>Fame points earned are kept permanently. Potions made by the 10 top ranked alchemists will receive a 50% bonus to their potency. Rankings can be checked with <code>@alchemist</code> in game.</td>
+                <td>Fame points decay by 10% per month, to support better game balance.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/am_twilight3.gif" alt="">Twilight Alchemy</td>
+                <td>N/A</td>
+                <td>
+                    Revamped all inclusive skill. Brews up to 300 of any create potion item, based on available resources in inventory.<br>
+                    Requires Soul Link.
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+<!---------------------------------------------------------------------------->
+
+## Acolyte
+Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in additional to typical locations.
+
+
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="../img/Class_Changes/al_warp.gif" alt="">Warp Portal</td>
+                <td>Cannot be used in GvG maps or Battleground maps.</td>
+                <td>Additionally cannot be used on MVP maps. </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+### Priest / High Priest
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="../img/Class_Changes/pr_magnus.gif" alt="">Magnus Exorcismus</td>
+                <td>
+                    Any Demon family and Undead property monsters entering the area of the effect suffer Holy property damage per wave.<br><br>
+                    Skill damage is interrupted if player is Stunned, Petrified, or Frozen.
+                </td>
+                <td>   
+                    Increases mob pool damaged by the skill. Races effected are Undead and Demon. Elements effected are Shadow, Ghost, and Undead.<br><br>
+                    Damage ticks continue even if player is Stunned, Petrified, or Frozen.
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+### Monk / Champion
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="../img/Class_Changes/mo_extremityfist.gif" alt="">Asura Strike</td>
+                <td>HP/SP will not regenerate naturally for 5 minutes after Asura Strike is used.</td>
+                <td>SP regenerates normally upon relogging.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+<!---------------------------------------------------------------------------->
+
+## Thief
+A selection of arrows can be found [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
+
+### Assassin / Assassin Cross
+Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in addition to typical locations.
+
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="../img/Class_Changes/asc_edp.gif" alt="">Enchant Deadly Poison</td>
+                <td>Skill duration is 60 seconds.</td>
+                <td>Increased duration to 90 seconds.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+### Rogue / Stalker
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="../img/Class_Changes/rg_backstab.gif" alt="">Backstab</td>
+                <td>Powerful attack that can only be used from behind the enemy. Cannot miss and will turn the target to face the caster, thus preventing repeated use.</td>
+                <td>Can be performed from any angle.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/rg_plagiarism.gif" alt="">Plagiarism</td>
+                <td>Skills must be copied from another player.</td>
+                <td><a href="Custom_NPC.md">Plagiarism NPC</a> allows Rogues/Stalkers to copy skills for a fee.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/st_preserve.gif" alt="">Preserve</td>
+                <td>
+                    Duration of 10 minutes.
+                </td>
+                <td>
+                    Infinite duration. Becomes a toggle on / off skill.<br>
+                    Persists through log out.
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/st_rejectsword.gif" alt="">Reject Sword</td>
+                <td>Parry 3 attacks from an enemy and receive only half of the damage.</td>
+                <td>The amount of damage reflected cannot be greater than the amount of HP the wearer of the skill has. Reflect is not transmitted if the character is within a Safety Wall.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+<!---------------------------------------------------------------------------->
+
+## Archer
+A selection of arrows can be found [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
+
+### Hunter / Sniper
+Traps are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in additional to typical locations.
+
+No other changes to Hunter skills.
+
+### Dancer / Gypsy & Bard / Clown (Minstrel) 
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Buff Icons</td>
+                <td>N/A</td>
+                <td>Song buff icons are added and with other player buffs.</td>
+            </tr>
+            <tr>
+                <td>Buff Duration</td>
+                <td>Song buffs end as soon a player exits the song area.</td>
+                <td>Song buff will continue for 20 seconds after leaving the song area.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/bd_rokisweil.gif" alt="">Loki's Veil</td>
+                <td>Blocks all skill use for everything (including players) within area of effect.</td>
+                <td>Cannot be used on MVP maps. </td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/cg_hermode.gif" alt="">Wand of Hermode</td>
+                <td>Skill is an ensamble and requires both a Clown and Gypsy to perform.</td>
+                <td>Skill can be performed solo.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+<!---------------------------------------------------------------------------->
+## Super Novice
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Death Count</td>
+                <td>If a Super Novice can manage to avoid even a single death until job 70 and onwards, you will get +10 for all stats. If you die anytime afterwards, you will lose that bonus.</td>
+                <td>Super Novice death count can be reset at a <a href="../Custom_NPC/#other">special NPC south of Prontera</a>.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/nv_breakthrough.png" alt="">Breakthrough</td>
+                <td>Breakthrough is an Expanded Super Novice skill that has been adjusted for Pre-Renewal.</td>
+                <td>
+                    Increases your ATK, Max HP, Max SP, and incoming healing amounts.<br><br>
+                    <strong>Level 1</strong>: ATK + 10, Max HP + 200, Max SP + 20, Healing Amount +2%<br>
+                    <strong>Level 2</strong>: ATK + 20, Max HP + 400, Max SP + 40, Healing Amount +4%<br>
+                    <strong>Level 3</strong>: ATK + 30, Max HP + 600, Max SP + 40, Healing Amount +6%<br>
+                    <strong>Level 4</strong>: ATK + 40, Max HP + 800, Max SP + 80, Healing Amount +8%<br>
+                    <strong>Level 5</strong>: ATK + 60, Max HP + 1,000, Max SP + 100, Healing Amount +10%
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/nv_transcendence.png" alt="">Transcendence</td>
+                <td>Transcendence is an Expanded Super Novice skill that has been adjusted for Pre-Renewal.</td>
+                <td>
+                    Increases your MATK, Max HP, Max SP, and incoming healing amounts.<br><br>
+                    <strong>Level 1</strong>: MATK + 10, Max HP + 200, Max SP + 20, Healing Amount +2%<br>
+                    <strong>Level 2</strong>: MATK + 20, Max HP + 400, Max SP + 40, Healing Amount +4%<br>
+                    <strong>Level 3</strong>: MATK + 30, Max HP + 600, Max SP + 40, Healing Amount +6%<br>
+                    <strong>Level 4</strong>: MATK + 40, Max HP + 800, Max SP + 80, Healing Amount +8%<br>
+                    <strong>Level 5</strong>: MATK + 60, Max HP + 1,000, Max SP + 100, Healing Amount +10%
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/nv_helpangel.png" alt="">Angel, Help me!</td>
+                <td>Angel, Help me! is an Expanded Super Novice skill that has been adjusted for Pre-Renewal.</td>
+                <td>
+                    Restores HP and SP for you and your party members in a 15x15 cells around you.<br><br>
+                    HP per second 500, SP per second 100. Duration of 20 seconds. Cooldown of 300 seconds.
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+---
+
+## Extended Classes
+Many previously unequippable items are now accessible to Extended Classes: [see the full list](Item_Changes.md#extended-classes).
+
+
+<!---------------------------------------------------------------------------->
+### Taekwon
+
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Fame System</td>
+                <td>Fame points earned are kept permanently. The top 10 ranked taekwon players are able to perform infinite combos and receive tripled Maximum HP and SP at level 90. Fame points are ignored if player changes job to Star Gladiator. Rankings can be checked with <code>@taekwon</code> in game.</td>
+                <td>Fame points decay by 10% per month, to support better game balance.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+<!---------------------------------------------------------------------------->
+
+#### Star Gladiator
+
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="../img/Class_Changes/sg_feel.gif" alt="">Feeling of the Sun, Moon, and Stars</td>
+                <td>Permanently memorize a map for bonuses for "Place of the Sun", "Place of the Moon", and/or "Place of the Stars".</td>
+                <td>An <a href="../Custom_NPC/#skills">NPC named Salvia</a> is available in the <a href="../Inns.md/#locations">Prontera West inn</a> to reset Feeling for a fee.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/sg_hate.gif" alt="">Hatred of the Sun, Moon, and Stars</td>
+                <td>Permanently memorize a monster for bonuses for "Target of the Sun", "Target of the Moon", or "Target of the Stars".</td>
+                <td>An <a href="../Custom_NPC/#skills">NPC named Salvia</a> is available in the <a href="../Inns.md/#locations">Prontera West inn</a> to reset Hatred for a fee.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/sj_document.gif" alt="">Miracle of the Sun, Moon, and Stars</td>
+                <td>Miracle has a low rate to grant the ability to use all Solar, Lunar, and Stellar-aligned skills on any map on any day of the week. This means offensive and supporting skills are stacked as well. The effect lasts for one hour and disappears if the player logs off or switches maps.</td>
+                <td>Success rate increased from 0.02% to 0.1%.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+<!---------------------------------------------------------------------------->
+
+#### Soul Linker
+
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Max Job Level</td>
+                <td>50</td>
+                <td>Increased to 70: HP/SP pool is unchanged.</td>
+            </tr>
+            <tr>
+                <td>Soul Link Duration (Level 5)</td>
+                <td>5 minutes</td>
+                <td>10 minutes</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/sl_sma.gif" alt="">Esma</td>
+                <td>SP Cost for Level 1–10: 8–80</td>
+                <td>Decreased SP Cost for Level 1–10: 4–40</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+<!---------------------------------------------------------------------------->
+
+### Ninja 
+Ninja's skill materials and ammo can are sold by our [Enhanced NPC Dealers](Dealers.md#ninja-materials) in addition to their typical locations. Weapons and other gear are not sold at this NPC.
+
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="../img/Class_Changes/nj_zenynage.gif" alt="">Throw Zeny</td>
+                <td>
+                    After cast delay of 5 seconds.<br>
+                    SP cost of 50.
+                </td>
+                <td>
+                    Reduced after cast delay to 2 sec.<br>
+                    Reduced SP cost to 25.<br>
+                    Halves the amount of zeny used during WoE.<br>
+                    Disabled cost during BG.
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/nj_kunai.gif" alt="">Throw Kunai</td>
+                <td>After cast delay of 1 second.</td>
+                <td>Reduced after cast delay to 0.5 seconds.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/nj_issen.gif" alt="">Final Strike</td>
+                <td>SP cost for level 1-10 is 55-100.</td>
+                <td>Reduced SP cost to 30-50. </td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/nj_huuma.gif" alt="">Throw Huuma Shuriken</td>
+                 <td>
+                    After cast delay of 2 seconds.<br>
+                    SP cost for level 1-5 is 20, 25, 30, 35, 40.
+                </td>
+                <td>
+                    Reduced after cast delay to 1.5 seconds.<br>
+                    Reduced SP cost to 5, 10, 15, 20, 25. 
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+<!---------------------------------------------------------------------------->
+
+### Gunslinger
+Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers](Dealers.md#gunslinger-materials) in addition to their typical locations. Weapons and other gear are not sold at this NPC.
+
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="../img/Class_Changes/gs_glittering.gif" alt="">Flip the Coin</td>
+                <td>
+                    Success chance for level 1-5 of 10-30%.<br>
+                    SP cost of 2.
+                </td>
+                <td>
+                    Increased success chance to 100%.<br>
+                    Decreased SP cost to 1.
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/gs_tripleaction.gif" alt="">Triple Action</td>
+                <td>SP cost of 20.</td>
+                <td>Decreased SP cost to 12.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/gs_adjustment.gif" alt="">Adjustment</td>
+                <td>
+                    Cost of 2 coins.<br>
+                    SP cost of 15.<br>
+                    Duration of 20 seconds.
+                </td>
+                <td>
+                    Decrease cost to 1 coin.<br>
+                    Decreased SP cost to 10.<br>
+                    Increased duration to 60 seconds.
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/gs_rapidshower.gif" alt="">Rapid Shower</td>
+                <td>
+                    After cast delay of 1 second.<br>
+                    SP cost level 1-10 of 22-40.<br>
+                    Consumes 5 bullets.
+                </td>
+                <td>
+                    Decreased after cast delay to 0.75 seconds.<br>
+                    Decreased SP cost of level 1-10 to 12-20.<br>
+                    Modified bullet consumpion: 1 ammo at level 1/2, 2 ammo at 3/4, 3 ammo at 5/6, 4 ammo at 7/8, and 5 ammo at 9/10.
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/gs_fullbuster.gif" alt="">Full Buster</td>
+                <td>
+                    After cast delay for level 1-10 of 1.2-3 seconds.<br>
+                    SP cost level 5-10 of 40-65.
+                </td>
+                <td>
+                    Decreased maximum after cast delay to 2 seconds.<br>
+                    Decreased SP cost of level 5-10 to 35.
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+
+<!---------------------------------------------------------------------------->
+
+## Adoptee
+
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Maximum Stats</td>
+                <td>Adopted characters cannot increase a stat past 80 base.</td>
+                <td>Increased maximum stat to 99.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

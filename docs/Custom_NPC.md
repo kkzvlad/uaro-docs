@@ -9,7 +9,7 @@ Step inside the [Main Office](Main_Office.md) and you’ll find more to explore,
 
 | NPC | Location | Description |
 |:-----:|----------|-------------|
-| ![Welcome Package NPC](img/NPC/welcome-package.gif)<br>**Welcome Package** | `/navi prontera 171/178` | Starting fresh? The **Welcome Pack NPC** gives each new character a one-time bundle: 1x [Field Manual](Server_Info.md#about-field-manuals), 12x Lv10 Blessing Scrolls, and 12x Lv10 Increase Agility Scrolls. Items are account bound, and every character on your account can claim their own pack. |
+| ![Welcome Package NPC](img/NPC/welcome-package.gif)<br>**Welcome Package** | `/navi prontera 171/178` | Starting fresh? The **Welcome Pack NPC** gives each new character a one-time bundle: 1x [Battle Manual](Server_Info.md#about-manuals), 12x Lv10 Blessing Scrolls, and 12x Lv10 Increase Agility Scrolls. Items are account bound, and every character on your account can claim their own pack. |
 | ![Wapra Quest Dungeon Warper NPC](img/NPC/warpra.gif)<br>**Quest Dungeon Warper** | `Located in every city` | **Warpra NPC** is part of the [Warper System](Warper_System.md), found in most major cities. For 5,000z, Warpra offers a limited set of unlockable dungeon warps, shared across all characters on your account once you locate the **Warpra Helper NPC**. |
 | ![Hobota Hunting Quest NPC](img/NPC/hobota.gif)<br>**Hunting Quests** | `Located in every inn` | Talk to **Hobota** to pick up Hunting Missions and earn points, zeny, and experience. Go solo or bring friends, and choose from four difficulties with bigger rewards the harder you go. |
 | ![Dewata Merchant Warper NPC](img/NPC/merchant-warp.gif)<br>**Dewata Marketplace** | `/navi prontera 139/171` | Merchants, step right up! The **Merchant Warp NPC** will take you straight to Dewata, the heart of our [Vendor System](Vendor_System.md). |
@@ -38,7 +38,7 @@ Step inside the [Main Office](Main_Office.md) and you’ll find more to explore,
 |:-----:|----------|-------------|
 | ![PVP NPC](img/NPC/pvp.gif)<br>**PVP Warper** | `/navi prontera 157/194` | Want a fight? The PVP Warper sends you straight into the shared arena and shows you how many challengers are waiting. |
 | ![Battlegrounds NPC](img/NPC/battlegrounds.gif)<br>**Battlegrounds** | `/navi prontera 165/170` | The **Battleground Info NPC** keeps you in the loop — see the active mode, count the fighters, stock up, and join the fray. You can also [enter BG through commands](Commands.md#battleground-commands). Announcements notify you when battles begin and can be [turned off in @settings](Commands.md#system-commands). |
-| ![WoE Info NPC](img/NPC/woe-info.gif)<br>**WoE Info** | `/navi prontera 216/177` | Gear up for glory! The WoE Bulletin Board announces the next [War of Emperium](WoE.md) and shows current castle ownership. For Pre-Trans details, check the [Pre-Trans WoE page](Pre_Trans_WoE.md). |
+| ![WoE Sign NPC](img/NPC/woe-info.gif)<br>**WoE Sign** | `/navi prontera 216/177` | The WoE Sign Board announces the next [War of Emperium](WoE.md) and shows current castle ownership. For Pre-Trans details, check the [Pre-Trans WoE page](Pre_Trans_WoE.md). [Signs are also in other cities.](WoE.md#woe-signs) |
 | ![Guild Battle Officer NPC](img/NPC/gvg-officer.gif)<br>**Guild Battle** | `/navi prontera 213/168` | The fight begins now! Enter the **Guild Battle Officer’s** PvP room where guilds settle their rivalries. Two guilds max, guild members only, BG consumables permitted! |
 | ![Training Dummy NPC](img/NPC/training-dummy.gif)<br>**Build Tester** | `/navi prontera 220/77` | **Target Dummies** allow you to test your build's effectiveness against different settings like size, race, element, and more. |
 
@@ -46,8 +46,9 @@ Step inside the [Main Office](Main_Office.md) and you’ll find more to explore,
 | NPC | Location | Description |
 |:-----:|----------|-------------|
 | ![Banker NPC](img/NPC/banker.gif)<br>**Banker** | `/navi prontera 133/216` | The **Banker** lets you access your zeny bank. You can also open your bank anytime with CTRL+B. |
-| ![Contractor NPC](img/NPC/contractor.gif)<br>**Private Rooms** | `/navi prontera 129/212` | **Contractor NPC** rents out a private room for 120 minutes at a cost of 1,200,000z. You, your party, or your guild may leave and re-enter freely during the rental period. |
+| ![Contractor NPC](img/NPC/contractor.gif)<br>**Branch Rooms** | `/navi prontera 129/212` | Rent a private branch room with the **Contractor NPC** for 120 minutes at a cost of 1,200,000z. You, your party, or your guild may leave and re-enter freely during the rental period. |
 | ![Gold Points NPC](img/NPC/gold-points.gif)<br>**Hourly Rewards** | `/navi prt_in 56/142` | The **Gold Points Manager** handles our [Hourly Rewards System](Hourly_Rewards_System.md), where you receive Gold Coins for every hour you play. Collect coins as you go, then visit the [Main Office](Main_Office.md) to exchange them for special prizes. |
+| ![Super Novice Death Reset NPC](img/NPC/sn-death-reset.gif)<br>**Super Novice Reset** | `/navi prt_field08 135/359` | Super Novices can reset their death record for free, making it easy to shake off bad luck and continue the adventure with a clean slate. |
 
 <!-- TEMPLATE // | ![Alt Text](img/name.gif)<br> **Functional Name** | `/navi map_name X/Y` | Description: includes actual NPC name, what is does, and what it costs if anything. Link out to other pages if relevant. | // END TEMPLATE -->
 

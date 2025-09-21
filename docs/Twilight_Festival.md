@@ -2,7 +2,7 @@
 
 !!! warning "The Twilight Festival has ended. Hope to see you again next summer!"
 
-![Twilight Festival](img/twilight-cover@2x.webp)
+![Twilight Festival](img/Twilight_Festival/twilight-cover@2x.webp)
 
 The Twilight Festival invites adventurers to explore an underwater-themed playground filled with monsters, tickets and special prizes.
 
@@ -16,7 +16,7 @@ The Twilight Festival invites adventurers to explore an underwater-themed playgr
 ## 1. Farm for Rental Access Gear
 Hunt mobs in caves and on beaches to collect materials for the **Rental Scuba Mask** and **Rental Oxygen Tank**.
 
-![Start](img/twilight-fest-step0601@2x.webp)
+![Start](img/Twilight_Festival/twilight-fest-step0601@2x.webp)
 
 ---
 
@@ -31,7 +31,7 @@ Visit the **Box Crafter NPC** in the event area.
 - Scuba Mask Box
 - Oxygen Tank Box
 
-![Boxes](img/twilight-fest-step0502@2x.webp)
+![Boxes](img/Twilight_Festival/twilight-fest-step0502@2x.webp)
 
 ---
 
@@ -46,7 +46,7 @@ Visit the **Box Crafter NPC** in the event area.
     We’ve kept the PvP setting from last year's event for consistency. However, we’ll monitor feedback closely — if it leads to significant negative experiences, we may reconsider the PvP status for this location.
 
 
-![Lasagna Enter](img/twilight-fest-step0403@2x.webp)
+![Lasagna Enter](img/Twilight_Festival/twilight-fest-step0403@2x.webp)
 
 ---
 
@@ -56,7 +56,7 @@ Defeat mobs in the Twilight Dungeon to collect tickets for event shops and the *
 **No Penalties:**
 - You won't lose experience if you die.
 
-![Placeholder](img/twilight-fest-step0304@2x.webp)
+![Twilight Festival Step 4](img/Twilight_Festival/twilight-fest-step0304@2x.webp)
 
 ---
 
@@ -67,7 +67,7 @@ Use special Festival Tickets dropped from mobs to spin the Wheel and earn exclus
 !!! info "Wheel Cost"
     Each spin costs **1,000,000 Zeny** and **1 Festival Ticket**. Free spins can also drop from the wheel.
 
-![Placeholder](img/twilight-fest-step0205@2x.webp)
+![Twilight Festival Step 5](img/Twilight_Festival/twilight-fest-step0205@2x.webp)
 
 ??? note "Wheel Schedule"
     Spins begin at the following hours (server time):
@@ -87,7 +87,7 @@ Use special Festival Tickets dropped from mobs to spin the Wheel and earn exclus
 ## 6. Visit Event Shops
 Exchange your tickets for powerful items and costumes. Multiple event shops are available in the event area.
 
-![Twilight Shops](img/twilight-shops@2x.png)
+![Twilight Shops](img/Twilight_Festival/twilight-shops@2x.png)
 
 Enjoy the festival and happy hunting!
 

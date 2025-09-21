@@ -91,7 +91,18 @@ Enables or disables autolooting items from killed mobs. UI for Easy Autoloot Cus
 
 !!! warning "Important Change"
     The `@autoloot` command has been **removed**. Use `@lootconfig` instead.
-  
+
+<!--TODO: Update with info from 9/1/25 update 
+- **`@lootconfig` Preset Menus (Reconstructed)**:
+  ```
+  - Group Function added (initially displayed as List 1).
+  - Groups can be renamed.
+  - Max 20 groups.
+  - Clear all by deleting and recreating the list.
+  - Add/subtract single items within each list remains supported.
+  ```
+-->
+
 - `@whereis <monster name or ID>`  
   Displays the maps in which monster normally spawns.  
   **Example:** `@whereis Demon Pungus`  
@@ -174,6 +185,24 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
 
 - `@breakguild <guild_name>`  
   Breaks the guild of the attached character. You must be the guildmaster to use this command.
+
+<!--TODO: ADd guild storage log from 9/1/25 update
+
+- **Guild Storage Logs – `@guildlog` (in-game)**  
+  Will be added to **Control Panel** later.  
+  **Features:**
+  ```
+  - 150 lines per query
+  - Time ranges: last 24h / 7d / 30d / all time
+  - Filter: Withdraw / Deposit / Both
+  ```
+  **Permissions (configurable by Guild Leader):**
+  ```
+  - Guild Leader only
+  - All storage-access members (based on in-game title)
+  - All members
+  ```
+-->
 
 ## Homunculus Commands
 

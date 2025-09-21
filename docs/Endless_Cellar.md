@@ -2,6 +2,8 @@
 
 Endless Cellar is one of the most popular instances uaRO, designed for team-based gameplay. It is part of the so-called "endless" instances, offering players a challenge in the form of a series of dungeons filled with increasingly powerful monsters, mini-bosses, and mighty MVPs. This is not only an engaging PvE experience but also a place where players can earn valuable rewards and test their skills in teamwork. It’s a perfect challenge for guilds and friends who aim to overcome obstacles together. The Cellar is always ready to challenge those seeking adventure in the world of Your Dreams.
 
+!!! note "**Global reset per account** at `06:00 Server Time` every **Monday**."
+
 ## Mechanics
 
 - All party members must be present on Misty Island at the time the Party Leader clicks to stone to initiate the dungeon start.
@@ -13,8 +15,6 @@ Endless Cellar is one of the most popular instances uaRO, designed for team-base
 - Loot/EXP is accounted based
 - Level 85+ to enter
 - Monsters remaining per floor will be announced starting with 5 remaining
-
-!!! note "**Global reset per account** at `06:00 Server Time` every **Monday**."
 
 ## How to start instance
 
