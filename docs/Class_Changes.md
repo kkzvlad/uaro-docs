@@ -56,14 +56,12 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
             <tr>
                 <td><img src="../img/Class_Changes/kn_bowlingbash.gif" alt="">Bowling Bash</td>
                 <td>
-                    <!-- Splash damage of.<br> -->
                     Knockback distance of 1 cell.<br>
-                    Skill range of 1 cell.<br>
+                    Skill range of 1 cell.
                 </td>
                 <td>
-                    <!-- Splash damage increased to 3.<br> -->
                     Knockback distance removed.<br>
-                    Skill range increased to 2 cells.<br>
+                    Skill range increased to 2 cells.
                 </td>
             </tr>
             <tr>
@@ -148,15 +146,9 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                     Moves through obstacles including walls.
                 </td>
                 <td>
-                    Range reduced to 7x7 cells.<br> 
-                    Cannot go through obstacles or walls.
+                    Reduced range to 7x7 cells.<br> 
+                    Cannot go through obstacles or walls. (Exception Bio 3/4)
                 </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/hw_gravitation.gif" alt="">Gravitation Field</td>
-                <td>The great difficulty of this skill prevents you from doing anything else while casting, including using items. When is active, the caster becomes immobile and cannot attack or use skills.</td>
-                <!-- TODO: What does this mean??? --->
-                <td>Adjusted to behave as expected for optimized gameplay.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/hw_magicpower.gif" alt="">Amplify Magic Power</td>
@@ -188,7 +180,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
             <tr>
                 <td><img src="../img/Class_Changes/sa_autospell.gif" alt="">Auto Spell</td>
                 <td>Maximum level of skill varies from 1-3 based on skill level. Skill cast chance varies by level used.</td>
-                <td>Skills cast will always be level 5, assuming the player has learned at least level 5 of the spell used.</td>
+                <td> Skills cast can trigger up to level 5 bolts on all elements when skill level 4 or higher.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/pf_mindbreaker.gif" alt="">Mind Breaker</td>
@@ -205,8 +197,6 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
 
 ## Merchant
 
-<!-- mammo 500z when possessing a certain item? 7/4/25, pending info -->
-
 <div class="class-changes-table">
     <table>
         <thead>
@@ -220,7 +210,12 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
             <tr>
                 <td><img src="../img/Class_Changes/mc_cartrevolution.gif" alt="">Cart Revolution</td>
                 <td>Putting items in your cart increases the damage by up to 100% more (1% per 80 weight as it has 8000 weight max).</td>
-                <td>Cart weight requirement is removed.</td>
+                <td>Cart assumes max weight regardless of cart weight.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/mc_mammonite.gif" alt="">Mammonite</td>
+                <td>Uses 100-1000z to increase ATK for the next attack.</td>
+                <td>Reduced price to maximum of 500z while possessing <a href="#bag-of-gold-coins">Bag of Gold Coins</a> within inventory.</td>
             </tr>
         </tbody>
     </table>
@@ -239,7 +234,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         <tbody>
             <tr>
                 <td>Fame System</td>
-                <td>Fame points earned are kept permanently. A weapon created by ranked blacksmith will deal an extra +10 seeking damage, which pierces defense and never misses. Ranking can be checked in-game with <code>/blacksmith</code>.</td>
+                <td>Fame points earned are kept permanently. A weapon created by ranked blacksmith will deal an extra +10 seeking damage, which pierces defense and never misses. Ranking can be checked in-game with <code>@blacksmith</code>.</td>
                 <td>Fame points decay by 10% per month, to support better game balance.</td>
             </tr>
             <tr>
@@ -256,9 +251,9 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                 <td><img src="../img/Class_Changes/ws_carttermination.gif" alt="">Cart Termination</td>
                 <td>Uses the power of Zeny to strike a single enemy with your cart. Damage is dependent on the cart's weight.</td>
                 <td>
-                    Cost is reduced to 0z.<br>
-                    Skill is now selectable by level.<br>
-                    Cart weight requirement is removed.
+                    Cart assumes max weight regardless of cart weight.<br>
+                    Cost is reduced to 0z in Battlegrounds.<br>
+                    Reduced price to 500z while possessing <a href="#bag-of-gold-coins">Bag of Gold Coins</a> within inventory.
                 </td>
             </tr>
             <tr>
@@ -269,7 +264,6 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
         </tbody>
     </table>
 </div>
-
 
 
 ### Alchemist / Creator
@@ -287,23 +281,21 @@ Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-d
         <tbody>
             <tr>
                 <td>Fame System</td>
-                <td>Fame points earned are kept permanently. Potions made by the 10 top ranked alchemists will receive a 50% bonus to their potency. Rankings can be checked with <code>/alchemist</code> in game.</td>
+                <td>Fame points earned are kept permanently. Potions made by the 10 top ranked alchemists will receive a 50% bonus to their potency. Rankings can be checked with <code>@alchemist</code> in game.</td>
                 <td>Fame points decay by 10% per month, to support better game balance.</td>
             </tr>
             <tr>
-                <td><img src="../img/Class_Changes/am_twilight3.gif" alt="">Twilight Alchemy III</td>
-                <td>Creates 100 Alcohol, 50 Acid Bottle and 50 Bottle Grenade.</td>
-                <td>Increases Acid Bottle from 50 → 100, and Bottle Grenade from 50 → 100. Increases Medicine Bowl requirement from 200 → 300.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/am_twilight3.gif" alt="">Twilight Alchemy IV</td>
+                <td><img src="../img/Class_Changes/am_twilight3.gif" alt="">Twilight Alchemy</td>
                 <td>N/A</td>
-                <td>New skill Alchemist Link skill that allows brewing of 200 Blue Potions at once.</td>
+                <td>Revamped all inclusive skill. Brews up to 300 of any create potion item, based on available resources in inventory. Requires Soul Link.</td>
             </tr>
         </tbody>
     </table>
 </div>
 
+
+### Bag of Gold Coins
+Bag of Gold Coins (`#670`) can be acquired at the Blacksmith Guild in Geffen (`/navi geffen_in 100/174`) for 50,000,000z. It reduces the cost of Mammonite and Cart Termination to 500z when held in your inventory. It has a weight of 500 and cannot be dropped, put in cart, traded, mailed, sold, or put in guild storage. It can be put in your personal storage to be shared with characters on the same account.
 
 
 <!---------------------------------------------------------------------------->
@@ -382,12 +374,31 @@ Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in
 <!---------------------------------------------------------------------------->
 
 ## Thief
-A selection of arrows can are our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
+A selection of arrows can be found [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
 
 ### Assassin / Assassin Cross
 Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in addition to typical locations.
 
-No other changes to Assassin skills.
+<div class="class-changes-table">
+    <table>
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>iRO Offical Behavior</th>
+                <th>uaRO Changed Behavior</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><img src="../img/Class_Changes/asc_edp.gif" alt="">Enchant Deadly Poison</td>
+                <td>Skill duration is 60 seconds.</td>
+                <td>Increased duration to 90 seconds.</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
 
 ### Rogue / Stalker
 <div class="class-changes-table">
@@ -434,7 +445,7 @@ No other changes to Assassin skills.
 <!---------------------------------------------------------------------------->
 
 ## Archer
-A selection of arrows can are our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
+A selection of arrows can be found [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer). Additional speciality arrows must be crafted.
 
 ### Hunter / Sniper
 Traps are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in additional to typical locations.
@@ -554,7 +565,7 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
         <tbody>
             <tr>
                 <td>Fame System</td>
-                <td>Fame points earned are kept permanently. The top 10 ranked taekwon players are able to perform infinite combos and receive tripled Maximum HP and SP at level 90. Fame points are ignored if player changes job to Star Gladiator. Rankings can be checked with <code>/taekwon</code> in game.</td>
+                <td>Fame points earned are kept permanently. The top 10 ranked taekwon players are able to perform infinite combos and receive tripled Maximum HP and SP at level 90. Fame points are ignored if player changes job to Star Gladiator. Rankings can be checked with <code>@taekwon</code> in game.</td>
                 <td>Fame points decay by 10% per month, to support better game balance.</td>
             </tr>
         </tbody>
@@ -779,7 +790,7 @@ Gunslinger's skill materials and ammo can are sold by our [Enhanced NPC Dealers]
             <tr>
                 <td>Maximum Stats</td>
                 <td>Adopted characters cannot increase a stat past 80 base.</td>
-                <td>Increase stat maximum to 99.</td>
+                <td>Increased maximum stat to 99.</td>
             </tr>
         </tbody>
     </table>
