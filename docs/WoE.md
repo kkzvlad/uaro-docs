@@ -59,7 +59,7 @@ On our server, WoE takes place every Saturday and lasts for one hour.<br>
 
 ## Token System
 
-One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% base percentage. Current zone = Aldebaran and Prontera. When 3 of one type are collected, they can be redeemed for one of the packages of choice listed below via GM. These tokens are non guild-storable or tradeable and must be collected by your designated woe/guild lead.
+One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.15% base percentage. When 3 of one type are collected, they can be redeemed for one of the packages of choice listed below via GM. These tokens are non guild-storable or tradeable and must be collected by your designated woe/guild lead.
 
 | Package 1           | Package 2         | Package 3            |
 |---------------------|-------------------|----------------------|
@@ -67,6 +67,38 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 | ![616](img/616.gif) Old Card Album - 15 | ![616](img/616.gif) Old Card Album - 25 | ![616](img/616.gif) Old Card Album - 25 |
 | ![616](img/616.gif) Mystical Card Album | AD Bottle Sets - 2k | ![7619](img/7619.gif) Enriched Elunium - 40 |
 |                                         |                   | ![7620](img/7620.gif) Enriched Oridecon - 40 |
+
+## WoE Token
+
+If a guild participates in WoE and creates a short video (a few minutes long), then posts it in the server’s special Discord channel, each guild member will receive 1 WoE Token. The tokens are distributed manually by the Game Masters. The Guild Master is the one who receives the tokens on behalf of the guild. These tokens can be exchanged with Joseph NPC (**/navi prontera 217/173**) and Sabrina NPC (**/navi prontera 214/173**) for:
+
+![Joseph NPC](img/WoE/4_M_NEWOZ.gif) **Joseph NPC**  
+![Sabrina NPC](img/WoE/4_F_ALCHE_A.gif) **Sabrina NPC**  
+
+### Costumes
+
+| NPC | Item | Cost. WoE Token |
+|----------------|------|-----------------|
+| Joseph | ![480169](img/WoE/480169.gif) Costume Diabolic Rock Guitar | 10 |
+| Joseph | ![480280](img/WoE/480280.png) Costume Big Ribbon Manteau (White) | 10 |
+| Joseph | ![31187](img/WoE/31187.gif) Costume War Princess Ribbon | 10 |
+| Joseph | ![31682](img/WoE/31682.png) Costume Drooping Elven Ears | 10 |
+| Joseph | ![420209](img/WoE/420209.gif) Costume Cookie Ribbon | 10 |
+
+### Equipment
+
+| NPC. Coordinat | Item | Cost. WoE Token |
+|----------------|------|-----------------|
+| Sabrina | ![5277](img/WoE/5277.gif) Yellow Bandana | 15 |
+
+### Consumables
+
+| NPC. Coordinat | Item | Cost. WoE Token |
+|----------------|------|-----------------|
+| Joseph | ![14003](img/14003.gif) Blue Herb Box | 2 |
+| Joseph | ![14003](img/14003.gif) White Herb Box | 1 |
+| Joseph | ![14003](img/14003.gif) Whitch Starsand Box | 2 |
+| Joseph | ![14003](img/14003.gif) Alcohol Box | 2 |
 
 ## WoE Mechanics
 
