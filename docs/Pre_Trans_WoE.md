@@ -50,7 +50,7 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 
 - 24 member cap within any given castle (Recall prioritizes top most rank downwards until number met) Extended, Baby and Trans classes will yield no movement  
 - All MVP cards render no effect within WoE Castles (Still equipable, but have no effect) 
-- Alliances are allowances with one Guild.<br> 
+- Alliances are allowances with one Guild. Guilds of the same alliances must have 2 different emblems that can be easily recognised to avoid confusion.<br> 
 - If you equip an item on the block list, it will yield 0 effect within castles  
 - Buffs received by Trans / Extended classes will automatically be removed upon entry into castle (Portal or E-Call)  
 - Issuing FCP as a creator to members outside of castles prior to entrance into Pre-Trans WoE castles is strictly forbidden and will yield an account ban
@@ -61,9 +61,9 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
     - Traps are no longer friendly fire — they do not affect guild members or the caster.  
     - Monks can no longer snap/body relocate past or out of traps.  
     - Magnum Break reverted to Pre-Ep8: 3×3 cell range (affects only your cell, not nearby traps).  
-    - **Rodex** menu cannot be used to send/receive mail.
-    - Kafra cards are disabled
-    - Enchanted armors are disabled
+    - **Rodex** menu cannot be used to send/receive mail.  
+    - Kafra cards are disabled  
+    - Enchanted armors are disabled  
 
 ## Item Block Lists	
 
