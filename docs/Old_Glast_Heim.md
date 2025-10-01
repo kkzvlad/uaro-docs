@@ -102,14 +102,14 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 
 <table style="border: none; border-radius: 0;">
 <tr style="transition: none; display: inline-block; margin-bottom: -11px;">
-<td style="border: none; padding: 0;"><img src="../img/OGH/temporal-agi-boots.png" alt="Temporal AGI Boots"></td>
-<td style="border: none; padding: 0;"><img src="../img/OGH/temporal-dex-boots.png" alt="Temporal DEX Boots"></td>
-<td style="border: none; padding: 0;"><img src="../img/OGH/temporal-int-boots.png" alt="Temporal INT Boots"></td>
+<td style="border: none; padding: 0;"><img src="../img/OGH/Temporal-AGI-Boots.png" alt="Temporal AGI Boots"></td>
+<td style="border: none; padding: 0;"><img src="../img/OGH/Temporal-DEX-Boots.png" alt="Temporal DEX Boots"></td>
+<td style="border: none; padding: 0;"><img src="../img/OGH/Temporal-INT-Boots.png" alt="Temporal INT Boots"></td>
 </tr>
 <tr style="transition: none; display: inline-block;">
-<td style="border: none; padding: 0;"><img src="../img/OGH/temporal-luk-boots.png" alt="Temporal LUK Boots"></td>
-<td style="border: none; padding: 0;"><img src="../img/OGH/temporal-str-boots.png" alt="Temporal STR Boots"></td>
-<td style="border: none; padding: 0;"><img src="../img/OGH/temporal-vit-boots.png" alt="Temporal VIT Boots"></td>
+<td style="border: none; padding: 0;"><img src="../img/OGH/Temporal-LUK-Boots.png" alt="Temporal LUK Boots"></td>
+<td style="border: none; padding: 0;"><img src="../img/OGH/Temporal-STR-Boots.png" alt="Temporal STR Boots"></td>
+<td style="border: none; padding: 0;"><img src="../img/OGH/Temporal-VIT-Boots.png" alt="Temporal VIT Boots"></td>
 </tr>
 </table>
 
