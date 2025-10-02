@@ -15,6 +15,12 @@ Dimonka is found in the [Main Office](Main_Office.md) and offers a unique select
 </thead>
 <tbody>
 <tr>
+<td><img src="../img/Dimonka_Headgear_Quest/18774.gif" alt="18774"><br>Advanced Assassin Mask [0]</td>
+<td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1000<br><img src="../img/Dimonka_Headgear_Quest/5096.gif" alt="5096"> Assassin Mask - 1<br><img src="../img/Dimonka_Headgear_Quest/1000.gif" alt="1000"> Star Crumb - 50</td>
+<td>Dark mask for famous assassins. Calms you down just by wearing it.<br> Critical +1<br> Increases Critical Damage by 1%.</td>
+<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 0<br><strong>Position</strong>: Lower<br><strong>Weight</strong>: 10<br><strong>Level Requirement</strong>: 70<br><strong>Jobs</strong>: Priest and Assassin</td>
+</tr>
+<tr>
 <td><img src="../img/Dimonka_Headgear_Quest/5416.gif" alt="5416"><br>Beer Hat</td>
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1200<br><img src="../img/Dimonka_Headgear_Quest/949.gif" alt="949"> Feather - 1000<br><img src="../img/Dimonka_Headgear_Quest/970.gif" alt="970"> Alcohol - 50</td>
 <td>Taste of beer after a showerWow~!<br>Drinking is prohibited for minors!<br>Perfect dodge +5<br>Enable Level 3 Increase HP Recovery.<br>Enable Level 3 Increase SP Recovery.</td>
