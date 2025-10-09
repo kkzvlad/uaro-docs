@@ -18,8 +18,9 @@ On our server, WoE takes place every Sunday and lasts for one hour.<br>
 
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
-| Neuschwanstein. Aldebaran | ![Aldebaran Castle](img/WoE/Aldebaran-Neuschwanstein.png) | [![Yesnelph Room](img/WoE/Aldebaran-Neuschwanstein-EmpRoom.png){width=500 height=400}](img/WoE/Aldebaran-Neuschwanstein-EmpRoom.png) | ![Aldebaran Dun](img/WoE/Aldebaran-Dun.png) |
-<!--| Yesnelph. Geffen | ![Geffen Castle](img/WoE/Geffen-Yesnelph.png) | [![Yesnelph Room](img/WoE/Geffen-Yesnelph-EmpRoom.jpg){width=500 height=400}](img/WoE/Geffen-Yesnelph-EmpRoom.jpg) | ![Geffen Dun](img/WoE/Geffen-Dun.png) |
+| Fadhgridh. Prontera | ![Prontera Castle](img/WoE/Prontera-Fadhgridh.png) | [![Skoegul Room](img/WoE/Prontera-Fadhgridh-EmpRoom.png){width=500 height=400}](img/WoE/Prontera-Fadhgridh-EmpRoom.png) | ![Prontera Dun](img/WoE/Prontera-Dun.png) |
+<!--| Neuschwanstein. Aldebaran | ![Aldebaran Castle](img/WoE/Aldebaran-Neuschwanstein.png) | [![Yesnelph Room](img/WoE/Aldebaran-Neuschwanstein-EmpRoom.png){width=500 height=400}](img/WoE/Aldebaran-Neuschwanstein-EmpRoom.png) | ![Aldebaran Dun](img/WoE/Aldebaran-Dun.png) |
+| Yesnelph. Geffen | ![Geffen Castle](img/WoE/Geffen-Yesnelph.png) | [![Yesnelph Room](img/WoE/Geffen-Yesnelph-EmpRoom.jpg){width=500 height=400}](img/WoE/Geffen-Yesnelph-EmpRoom.jpg) | ![Geffen Dun](img/WoE/Geffen-Dun.png) |
 | Skoegul. Prontera | ![Prontera Castle](img/WoE/Prontera-Skoegul.png) | [![Skoegul Room](img/WoE/Prontera-Skoegul-EmpRoom.png){width=500 height=400}](img/WoE/Prontera-Skoegul-EmpRoom.png) | ![Prontera Dun](img/WoE/Prontera-Dun.png) |
 | Rothenburg. Aldebaran | ![Aldebaran Castle](img/Pre-Trans-WoE/Aldebaran-Rothenburg.png) | [![Skoegul Room](img/Rothenburg-EmpRoom.png){width=500 height=400}](img/Rothenburg-EmpRoom.png) | ![Aldebaran Dun](img/Aldebaran-Dun.png) | -->
 
@@ -30,13 +31,13 @@ On our server, WoE takes place every Sunday and lasts for one hour.<br>
 
 | Castle Name. Town  | Treasure Chest 1 | Treasure Chest 2 |
 |--------------------|------------------|------------------|
-| Neuschwanstein. Aldebaran | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 15%<br> ![Jewelry Box](img/12106.gif) Jewelry Box - 2%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![616](img/616.gif) Old Card Album - 25% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 15%<br> ![6919](img/6919.gif) Token of Honor - 0.25%<br> ![6443](img/6443.gif) Silit Pong - 0.03%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+| Fadhgridh. Prontera | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 15%<br> ![Treasure Box](img/WoE/7444.gif) Treasure Box - 10%<br> ![6443](img/6443.gif) Silit Pong - 0.03%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 15%<br> ![6919](img/6919.gif) Token of Honor - 0.25%<br> ![6443](img/6443.gif) Silit Pong - 0.03%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
 <!--| Skoegul. Prontera | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![6919](img/6919.gif) Token of Honor - 0.25%<br> ![1158](img/1158.gif) Two-Handed Sword [2] - 35%<br> ![2404](img/2404.gif) Shoes [1] - 40%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
 | Rothenburg. Aldebaran | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![1238](img/1238.gif) Zeny Knife - 9%<br> ![616](img/616.gif) Mystical Card Album - 0.01% | -->
 
 ## Token System
 
-One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% base percentage. Current zone = Aldebaran. When 3 of one type are collected, they can be redeemed for one of the packages of choice listed below via GM. These tokens are non guild-storable or tradeable and must be collected by your designated woe/guild lead.
+One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% base percentage. **Current zone = Prontera**. When 3 of one type are collected, they can be redeemed for one of the packages of choice listed below via GM. These tokens are non guild-storable or tradeable and must be collected by your designated woe/guild lead.
 
 | Package 1           | Package 2         | Package 3            |
 |---------------------|-------------------|----------------------|
@@ -48,7 +49,8 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 ## WoE Mechanics
 
 - 24 member cap within any given castle (Recall prioritizes top most rank downwards until number met) Extended, Baby and Trans classes will yield no movement  
-- All MVP cards render no effect within WoE Castles (Still equipable, but have no effect)  
+- All MVP cards render no effect within WoE Castles (Still equipable, but have no effect) 
+- Alliances are allowances with one Guild. Guilds of the same alliances must have 2 different emblems that can be easily recognised to avoid confusion.<br> 
 - If you equip an item on the block list, it will yield 0 effect within castles  
 - Buffs received by Trans / Extended classes will automatically be removed upon entry into castle (Portal or E-Call)  
 - Issuing FCP as a creator to members outside of castles prior to entrance into Pre-Trans WoE castles is strictly forbidden and will yield an account ban
@@ -59,9 +61,9 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
     - Traps are no longer friendly fire — they do not affect guild members or the caster.  
     - Monks can no longer snap/body relocate past or out of traps.  
     - Magnum Break reverted to Pre-Ep8: 3×3 cell range (affects only your cell, not nearby traps).  
-    - **Rodex** menu cannot be used to send/receive mail.
-    - Kafra cards are disabled
-    - Enchanted armors are disabled
+    - **Rodex** menu cannot be used to send/receive mail.  
+    - Kafra cards are disabled  
+    - Enchanted armors are disabled  
 
 ## Item Block Lists	
 

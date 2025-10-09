@@ -24,9 +24,15 @@ The table includes only regular mobs; mini-bosses and MVPs are not included.
 
 ## Ghost Chill and Blood Thirst  
 
-On the first floor of Bio Lab, you’ll find an NPC called BioShop ()`/navi lhz_dun01 142/289`). He lets you trade Blood Thirst — dropped by monsters in Bio Lab 4 — for Ghost Chill and various equipment.  
+On the first floor of Bio Lab, you’ll find an NPC called BioShop (`/navi lhz_dun01 142/289`). He lets you trade Blood Thirst — dropped by monsters in Bio Lab 4 — for Ghost Chill and various equipment.  
 
-![BioShop](img/Biolab4/BioShop.png)  
+![BioShop](img/Biolab4/BioShop1.png)  
+
+## Particle Box and Sinister Energy Particle
+
+Each monster in Biolab4 has a chance to drop a ![25130](img/Biolab4/25130.gif) **Sinister Energy Particle**, which can be exchanged in the shop for a ![14003](img/Biolab4/14003.gif) **Particle Box**.
+
+![Particle-Box](img/Biolab4/Particle-Box.png) ![Sinister-Energy-Particle](img/Biolab4/Sinister-Energy-Particle.png)
 
 Just a few steps away, you’ll find another NPC named Fred (`/navi lhz_dun01 137/289`), where you can exchange 100 Ghost Chill and 5 RLE (Ragnarok Limited Edition) items to get a slotted version of RLE gear.   
 
