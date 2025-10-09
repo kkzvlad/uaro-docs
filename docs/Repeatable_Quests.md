@@ -79,7 +79,7 @@ For every **50 monsters** killed, players can gain up to **1 Base Level** and **
 | **Local Villager**    | /navi ein_fild01 43/249      |            60 |            74 | Demon Pungus      |           250,266  |          144,452 |                   5,005  |                  2,889  |
 | **Lilla**            | /navi um_fild01 35/281        |            60 |            85 | Dryad             |           234,855  |          126,905 |                   4,697  |                  2,538  |
 | **Shea**             | /navi tur_dun03 125/195       |            60 |            85 | Assaulter*        |           425,000  |          275,000 |                   8,500  |                  5,500  |
-| **Vegetable Farmer**  | /navi ein_fild06 82/171      |            70 |            95 | Goat              |           258,489  |          155,155 |                   5,170  |                  3,103  |
+| **Vegetable Farmer**  | /navi ein_fild06 82/171      |            70 |            85 | Goat              |           258,489  |          155,155 |                   5,170  |                  3,103  |
 | **Henry**            | /navi ice_dun03 140/26        |            70 |            95 | Ice Titan*        |           910,000  |          650,000 |                  18,200  |                 13,000  |
 | **Monica**           | /navi geffen 112/63           |            70 |            98 | Succubus*         |         1,325,000  |          950,000 |                  26,500  |                 19,000  |
 | **Miner**            | /navi beach_dun 269/71        |            75 |            97 | Medusa            |           515,700  |          352,275 |                  10,314  |                  7,046  |
