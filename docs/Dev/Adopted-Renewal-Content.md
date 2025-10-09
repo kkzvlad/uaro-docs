@@ -7,6 +7,7 @@
 
   Open World Map
   - Brasil
+  - Baylan 6
   
  Items
  - Elvin Bow

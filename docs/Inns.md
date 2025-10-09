@@ -31,7 +31,7 @@ The appearance and naming of these NPCs may vary by town.
 | Gonryun (Kunlun) | `/navi gonryun 112/131` |
 | Hugel | `/navi hugel 101/78` |
 | Izlude | `/navi izlude 212/129` |
-| Lutie |  |
+| Lutie | `/navi xmas 189/275` |
 | Moscovia | `/navi moscovia 227/207` |
 | Lighthalzen | `/navi lighthalzen 158/129` |
 | Morroc - North | `/navi morroc 271/269` |

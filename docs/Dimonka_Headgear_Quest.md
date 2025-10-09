@@ -15,6 +15,24 @@ Dimonka is found in the [Main Office](Main_Office.md) and offers a unique select
 </thead>
 <tbody>
 <tr>
+<td><img src="../img/Dimonka_Headgear_Quest/5747.gif" alt="5747"><br>Mitra [1]</td>
+<td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1500<br><img src="../img/Dimonka_Headgear_Quest/7345.gif" alt="7345"> Handcuffs  - 1000<br><img src="../img/Dimonka_Headgear_Quest/card.gif" alt="card"> Margaretha Sorin Card - 1</td>
+<td>A hat which is used for ceremonies by priests.<br> INT +1, VIT +1.<br> MDEF +5.<br> Increases Healing skills effectiveness by 5%.<br> Base INT at least 90:<br> MATK +10</td>
+<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 3<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 10<br><strong>Level Requirement</strong>: 90<br><strong>Jobs</strong>: High Priest</td>
+</tr>
+<tr>
+<td><img src="../img/Dimonka_Headgear_Quest/18542.gif" alt="18542"><br>Love Guard [1]</td>
+<td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1500<br><img src="../img/Dimonka_Headgear_Quest/7347.gif" alt="7347"> Research Chart  - 500<br><img src="../img/Dimonka_Headgear_Quest/card.gif" alt="card"> Errende Ebecee Card - 1</td>
+<td>A headdress worn by high level members of warrior clergy members.<br> Increases the effect of received healing by 5%.<br> Increases the effectiveness of your own healing skills by 2%.<br> If refined to +7 or higher, increases the effectiveness of your healing skills by an additional 3%.</td>
+<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 4<br><strong>Position</strong>: Upper, Middle<br><strong>Weight</strong>: 50<br><strong>Level Requirement</strong>: 30<br><strong>Jobs</strong>: All</td>
+</tr>
+<tr>
+<td><img src="../img/Dimonka_Headgear_Quest/18774.gif" alt="18774"><br>Advanced Assassin Mask [0]</td>
+<td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1000<br><img src="../img/Dimonka_Headgear_Quest/5096.gif" alt="5096"> Assassin Mask - 1<br><img src="../img/Dimonka_Headgear_Quest/1000.gif" alt="1000"> Star Crumb - 50</td>
+<td>Dark mask for famous assassins. Calms you down just by wearing it.<br> Critical +1<br> Increases Critical Damage by 1%.</td>
+<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 0<br><strong>Position</strong>: Lower<br><strong>Weight</strong>: 10<br><strong>Level Requirement</strong>: 70<br><strong>Jobs</strong>: Priest and Assassin</td>
+</tr>
+<tr>
 <td><img src="../img/Dimonka_Headgear_Quest/5416.gif" alt="5416"><br>Beer Hat</td>
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1200<br><img src="../img/Dimonka_Headgear_Quest/949.gif" alt="949"> Feather - 1000<br><img src="../img/Dimonka_Headgear_Quest/970.gif" alt="970"> Alcohol - 50</td>
 <td>Taste of beer after a showerWow~!<br>Drinking is prohibited for minors!<br>Perfect dodge +5<br>Enable Level 3 Increase HP Recovery.<br>Enable Level 3 Increase SP Recovery.</td>
