@@ -7,9 +7,25 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "October 9"
+        **October 9, 2025**
+
+        - @wb/@ws commands finalized with fixes.
+        - Warpra cleanup and alphabetical ordering.
+        - Item protection: costumes, pets, cards can no longer be sold to NPCs or dropped.
+        - Killcount revamp: tracks all mobs without manual setup, displays card drops and totals.
+        - Headgear & Costumes @settings for WoE maps (show all/mine/none).
+        - Guild Bank NPC: 2B zeny storage with configurable permissions.
+        - Hunting Mission changes: mob additions/removals, zeny reduced 70%, party bonus points.
+        - Expanded class weapons (Gunslinger/Ninja): 7 new weapons via token fragments.
+        - Ninja physical skill range: 9→12. Twilight Alchemy cooldown: 3s→2s.
+        - Multiple fixes: Kraken MVP, mercury riser, Pot Dofle Card, brandish spear knockback.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches09102025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "September 5"
         **September 5, 2025**
-        
+
         - Party menu buff letters refactored and fixed.
         - Added #recruit channel toggle in @settings (15s cooldown).
         - Client toggle for Peco/Falcon visibility.
@@ -17,7 +33,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Hard Rice Cake Egg chase range + auto-feed.
         - Multiple fixes: Blood Sucker sprite, Payon inn, Infinite Fly Wing, descriptions, HM script, Izlude PvP map.
         - All Katryn/Cash Shop costumes now properly store in Costume tab.
-  
+
         [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches09052025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
 
     === "September 1"
