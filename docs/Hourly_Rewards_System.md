@@ -12,5 +12,10 @@ You can get your prizes from the NPC Gold Point Manager in Prontera Inn, or pres
 
 | Item Name        | Cost  |
 |------------------|-------|
-| ![Gift Box](img/644.gif)  | **120 Points** |
-| ![Old Blue Box](img/603.gif) | **240 Points** |
+| ![Gold Coin](img/7929.gif) Gold Coin - 1  | **120 Points** |
+| ![Gold Coin](img/7929.gif) Gold Coin - 2 | **240 Points** |
+
+Golden Coins can be exchanged for costumes in the Main Office.  
+Rotation: Costumes (and possibly some consumables later) will rotate periodically.  
+
+![Felicia-NPC](img/Felicia-NPC.png)
