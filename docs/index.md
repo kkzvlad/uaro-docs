@@ -7,6 +7,20 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "October 31"
+        **October 31, 2025**
+
+        - Halloween Event 2025: New dungeon maps, 13 event monsters, 13 exclusive costumes, gacha machine.
+        - ET/EC instance improvements: party readiness system with 60s confirmation window.
+        - @duel command overhaul: town-only, target selection, damage modes (normal/bg/gvg).
+        - Super Novice rebalanced: new equipment access, skill changes, Breakthrough/Super Blessing.
+        - Day/Night cycle client control (world/permanent night/permanent day).
+        - @restock refactored: up to 20 lists with improved management interface.
+        - Homunculus AFK protection: no exp/loot when owner idle 60+ seconds, autofeed enabled.
+        - Storage extended stack capacity, card drop announcements shortened, Storm Gust LP fix.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches31102025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "October 9"
         **October 9, 2025**
 
