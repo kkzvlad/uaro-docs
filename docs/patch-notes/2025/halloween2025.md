@@ -3,6 +3,10 @@
 **Level Required:** 50+
 **Location:** Niflheim
 
+!!! note "Event Balancing"
+    Event rewards, drop rates, and difficulty may be adjusted during the event based on server statistics and
+    player feedback to ensure the best experience for everyone.
+
 ---
 
 ## Getting There
