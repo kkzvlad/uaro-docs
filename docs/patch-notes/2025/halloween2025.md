@@ -49,8 +49,8 @@ After completing main quest, talk to **Event Wizard** at nif_fild01.
 Fields/Dungeon F1 monsters
 Rewards: 35-49 Halloween Coins
 
-**Hard Mode (Lv 90+)**
-Dungeon F2 monsters only
+**Hard Mode (Lv 95+)**
+Dungeon F2 monsters only - Very strong! Bring a party!
 Rewards: 50-70 Halloween Coins
 *F2 entrance costs 25,000 zeny*
 
@@ -91,6 +91,31 @@ Requires Halloween Coins + Deviling Coins + monster drops.
 
 ---
 
+## Halloween Gacha Machine
+
+**Gacha Machines** at:
+- Niflheim (213, 187)
+- Prontera (218, 195)
+- Alberta (130, 60)
+
+![Gacha Machine Locations]()
+
+**Cost per spin:**
+- 5 Deviling Coins
+- 5 Halloween Coins
+- 100,000 Zeny
+
+**Rewards:**
+- Ultra Rare: Old Card Album, Accessory Box
+- Very Rare: Battle Manuals, Kafra Cards, Enriched Ores
+- Rare: Siegfried Tokens, Convex Mirrors, Buffs
+- Common: Poring Coins, Potions, Event materials
+- **JACKPOT (0.05%):** 1000 Poring Coins!
+
+Server-wide announcement when someone hits Jackpot or wins rare items!
+
+---
+
 ## Key NPCs
 
 | NPC | Location | Purpose |
@@ -98,7 +123,10 @@ Requires Halloween Coins + Deviling Coins + monster drops.
 | Grave-Herald | Niflheim (288, 269) | Main Quest |
 | Event Wizard | nif_fild01 (233, 227) | Daily Quests |
 | Old Sage | Alberta (218, 30) | Scatelon Pet |
-| Costume Crafter | Niflheim (180, 202) | Shop |
+| Costume Crafter | Niflheim (180, 202) | Costume Shop |
+| Gacha Machine | Niflheim (213, 187) | Gacha Rewards |
+| Gacha Machine | Prontera (218, 195) | Gacha Rewards |
+| Gacha Machine | Alberta (130, 60) | Gacha Rewards |
 
 ---
 
