@@ -15,7 +15,7 @@
 - Prontera (147, 171)
 - Geffen, Payon, Morocc, Alberta, Aldebaran
 
-![Warp NPC Location]()
+![Warp NPC Location](img/halloween-warper.webp)
 
 ---
 
@@ -37,7 +37,7 @@ Talk to **Grave-Herald** in Niflheim town to start.
 
 *One per account*
 
-![Main Quest NPCs]()
+![Main Quest NPCs](img/halloween-main.webp)
 
 ---
 
@@ -58,7 +58,9 @@ Dungeon F2 monsters only - Very strong! Bring a party!
 Rewards: 50-70 Halloween Coins
 *F2 entrance costs 25,000 zeny*
 
-![Event Wizard Location]()
+![Event Wizard Location](img/halloween-quest.webp)
+
+![Dungeon F1 Preview](img/halloween-dun01.webp)
 
 ---
 
@@ -79,7 +81,7 @@ Bring him:
 
 *One per account*
 
-![Old Sage Location]()
+![Old Sage Location](img/skelion2025.webp)
 
 ---
 
@@ -91,7 +93,7 @@ Bring him:
 
 Requires Halloween Coins + Deviling Coins + monster drops.
 
-![Costume Shop]()
+![Costume Shop](img/halloween-costumes.webp)
 
 ---
 
@@ -102,7 +104,7 @@ Requires Halloween Coins + Deviling Coins + monster drops.
 - Prontera (218, 195)
 - Alberta (130, 60)
 
-![Gacha Machine Locations]()
+![Gacha Machine Locations](img/halloween-gatcha.webp)
 
 **Cost per spin:**
 - 5 Deviling Coins
