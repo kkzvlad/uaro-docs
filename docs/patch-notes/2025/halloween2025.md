@@ -11,7 +11,11 @@
 
 ## Getting There
 
-**Lude NPCs** in major towns offer **free warps** to Niflheim:
+!!! info "Free Warps Available"
+    **Lude NPCs** in major towns offer **free warps** to Niflheim!
+
+**Warp NPC Locations:**
+
 - Prontera (147, 171)
 - Geffen, Payon, Morocc, Alberta, Aldebaran
 
@@ -24,10 +28,12 @@
 Talk to **Grave-Herald** in Niflheim town to start.
 
 **Step 1:** Hunt in Fields (nif_fild01/02)
+
 - 60 Garling
 - 20 Skelion
 
 **Step 2:** Hunt in Dungeon F1
+
 - 20 Ghost Cube
 - 20 Lude Gal
 - 15 Gan Ceann
@@ -35,7 +41,8 @@ Talk to **Grave-Herald** in Niflheim town to start.
 
 **Rewards:** 90 Halloween Coins, 35 Deviling Coins, EXP
 
-*One per account*
+!!! info "Quest Limit"
+    One per account
 
 ![Main Quest NPCs](img/halloween-main.webp)
 
@@ -68,9 +75,11 @@ After completing main quest, talk to **Event Wizard** at nif_fild01.
 
 ## Scatelon Pet Quest
 
-**Old Sage of Bones** in Alberta (218, 30)
+!!! tip "Legendary Pet Available"
+    Talk to the **Old Sage of Bones** in Alberta (218, 30) to obtain the exclusive Scatelon pet!
 
-Bring him:
+**Required Materials:**
+
 - 120 Skelion Bone Fragment
 - 300 Halloween Coins
 - 100 Deviling Coins
@@ -81,7 +90,8 @@ Bring him:
 
 **Reward:** Scatelon Pet Egg
 
-*One per account*
+!!! info "Quest Limit"
+    One per account - This is an account-wide exclusive pet!
 
 ![Old Sage Location](img/skelion2025.webp)
 
@@ -89,11 +99,14 @@ Bring him:
 
 ## Costume Shop
 
-**Costume Crafter** in Niflheim (180, 202)
+!!! note "Exclusive Halloween Costumes"
+    Visit the **Costume Crafter** in Niflheim (180, 202) to craft 13+ unique Halloween costumes!
 
-13+ costumes available - costs vary by rarity.
+**Crafting Information:**
 
-Requires Halloween Coins + Deviling Coins + monster drops.
+- Costs vary by costume rarity
+- Requires: Halloween Coins + Deviling Coins + monster drops
+- 3 difficulty tiers (Basic, Normal, Premium)
 
 ![Costume Shop](img/halloween-costumes.webp)
 
@@ -101,26 +114,31 @@ Requires Halloween Coins + Deviling Coins + monster drops.
 
 ## Halloween Gacha Machine
 
-**Gacha Machines** at:
+!!! warning "Try Your Luck!"
+    Spin the Halloween Gacha for a chance at exclusive rewards! Server-wide announcements for jackpots and
+    ultra-rare drops!
+
+**Gacha Machine Locations:**
+
 - Niflheim (213, 187)
 - Prontera (218, 195)
 - Alberta (130, 60)
 
 ![Gacha Machine Locations](img/halloween-gatcha.webp)
 
-**Cost per spin:**
+**Cost per Spin:**
+
 - 5 Deviling Coins
 - 5 Halloween Coins
 - 100,000 Zeny
 
-**Rewards:**
-- Ultra Rare: Old Card Album, Accessory Box
-- Very Rare: Battle Manuals, Kafra Cards, Enriched Ores
-- Rare: Siegfried Tokens, Convex Mirrors, Buffs
-- Common: Poring Coins, Potions, Event materials
-- **JACKPOT (0.05%):** 1000 Poring Coins!
+**Reward Tiers:**
 
-Server-wide announcement when someone hits Jackpot or wins rare items!
+- **Ultra Rare:** Old Card Album, Accessory Box
+- **Very Rare:** Battle Manuals, Kafra Cards, Enriched Ores
+- **Rare:** Siegfried Tokens, Convex Mirrors, Buffs
+- **Common:** Poring Coins, Potions, Event materials
+- **JACKPOT (0.05%):** 1000 Poring Coins!
 
 ---
 
