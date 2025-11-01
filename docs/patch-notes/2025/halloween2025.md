@@ -50,13 +50,15 @@ After completing main quest, talk to **Event Wizard** at nif_fild01.
 - Choose Normal or Hard mode
 
 **Normal Mode (Lv 70-90)**
-Fields/Dungeon F1 monsters
-Rewards: 35-49 Halloween Coins
+
+- Fields/Dungeon F1 monsters
+- Rewards: 35-49 Halloween Coins
 
 **Hard Mode (Lv 95+)**
-Dungeon F2 monsters only - Very strong! Bring a party!
-Rewards: 50-70 Halloween Coins
-*F2 entrance costs 25,000 zeny*
+
+- Dungeon F2 monsters only - Very strong! Bring a party!
+- Rewards: 50-70 Halloween Coins
+- F2 entrance costs 25,000 zeny
 
 ![Event Wizard Location](img/halloween-quest.webp)
 
