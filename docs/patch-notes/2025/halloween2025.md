@@ -15,7 +15,7 @@
 !!! info "Free Warps Available"
     **Lude NPCs** in major towns offer **free warps** to Niflheim!
 
-**Warp NPC Locations:** `/navi prontera 147/171`, Geffen, Payon, Morocc, Alberta, Aldebaran
+**Warp NPC Locations:** `/navi prontera 147/171`, `/navi geffen`, `/navi payon`, `/navi morocc`, `/navi alberta`, `/navi aldebaran`
 
 ![Warp NPC Location](img/Halloween/halloween-warper.webp)
 
@@ -23,14 +23,14 @@
 
 ## Main Quest
 
-Talk to **Grave-Herald** `/navi niflheim 288/269` to start.
+Talk to **Grave-Herald** at `/navi niflheim 288/269` to start.
 
-**Step 1:** Hunt in Fields (nif_fild01/02)
+**Step 1:** Hunt in Fields (`nif_fild01`/`nif_fild02`)
 
 - 60 Garling
 - 20 Skelion
 
-**Step 2:** Hunt in Dungeon F1
+**Step 2:** Hunt in Dungeon F1 (`nif_dun01`)
 
 - 30 Ghost Cube
 - 20 Gan Ceann
@@ -47,15 +47,19 @@ Talk to **Grave-Herald** `/navi niflheim 288/269` to start.
 
 ## Daily Quests
 
-Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
+Talk to **Event Wizard** at `/navi nif_fild01 233/227` after completing main quest.
 
 - 4 quests per day
 - Hunt 30 random monsters each
 - Choose Normal or Hard mode
+- **Quest Reset:** Daily at `00:00` Server Time
+
+!!! tip "Check Server Time"
+    Use the `@time` command to check current server time
 
 ### Normal Mode (Lv 70-90)
 
-- **Hunting Zones:** Fields (nif_fild01/02) or Dungeon F1
+- **Hunting Zones:** Fields (`nif_fild01`/`nif_fild02`) or Dungeon F1 (`nif_dun01`)
 - **Rewards:**
     - 35-49 ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coins
     - 15-22 ![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } Deviling Coins
@@ -63,8 +67,8 @@ Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 
 ### Hard Mode (Lv 95+)
 
-- **Hunting Zones:** Dungeon F2 only
-- **Entry Cost:** 25k Zeny
+- **Hunting Zones:** Dungeon F2 (`nif_dun02`) only
+- **Entry Cost:** `25,000` Zeny
 - **Rewards:**
     - 50-70 ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coins
     - 25-35 ![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } Deviling Coins
@@ -79,7 +83,7 @@ Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 
 ## Hunting Spots & Monsters
 
-### Fields (nif_fild01/02)
+### Fields (`nif_fild01`/`nif_fild02`)
 
 **Spawns:** ~40-50 per field
 
@@ -88,7 +92,7 @@ Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 | ![Skelion](img/Halloween/skelion-mob.png){ width="60" }<br/>**Skelion** | Lv 82 | ~10/field | ![Bone](img/Halloween/bone.gif){ width="20" } Skelion Bone Fragment<br/>![Soul](img/Halloween/CapturedSoul.gif){ width="20" } Captured Soul<br/>![Cake](img/Halloween/PumpkinCake.png){ width="20" } Pumpkin Cake<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin |
 | ![Garling](img/Halloween/garling.png){ width="60" }<br/>**Garling** | - | ~30-40/field | ![Stem](img/Halloween/whiteStem.png){ width="20" } White Thin Stem<br/>![Decor](img/Halloween/PumpkinDecor.png){ width="20" } Pumpkin Decor<br/>![Bat](img/Halloween/CookieBat.gif){ width="20" } Cookie Bat<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin |
 
-### Dungeon F1 (nif_dun01)
+### Dungeon F1 (`nif_dun01`)
 
 **Spawns:** ~60-70 total | **Entry:** Free
 
@@ -101,9 +105,9 @@ Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 
 ![Dungeon F1 Map](img/Halloween/nif_dun01.gif)
 
-### Dungeon F2 (nif_dun02)
+### Dungeon F2 (`nif_dun02`)
 
-**Spawns:** ~80-100 + Boss Zones | **Entry:** 25k Zeny from F1
+**Spawns:** ~80-100 + Boss Zones | **Entry:** `25,000` Zeny from F1
 
 !!! warning "High Level Content"
     Level 108-115 monsters! Party recommended!
@@ -124,7 +128,7 @@ Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 ## Scatelon Pet Quest
 
 !!! tip "Legendary Pet Available"
-    Talk to **Old Sage of Bones** `/navi alberta 218/30` for the exclusive Scatelon pet!
+    Talk to **Old Sage of Bones** at `/navi alberta 218/30` for the exclusive Scatelon pet!
 
 **Required Materials:**
 
@@ -134,7 +138,7 @@ Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 - 250 ![Black Soul](img/Halloween/blackSoul.gif){ width="20" } Black Soul
 - 25 ![Captured Soul](img/Halloween/CapturedSoul.gif){ width="20" } Captured Soul
 - 200 ![Pumpkin Cake](img/Halloween/PumpkinCake.png){ width="20" } Pumpkin Cake
-- 500k Zeny
+- `500,000` Zeny
 
 !!! info "Quest Limit"
     One per account only!
@@ -146,7 +150,7 @@ Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 ## Costume Shop
 
 !!! note "Exclusive Halloween Costumes"
-    **Costume Crafter** `/navi niflheim 180/202` - 13+ unique Halloween costumes!
+    **Costume Crafter** at `/navi niflheim 180/202` - 13+ unique Halloween costumes!
 
 **Crafting Materials:**
 
@@ -175,7 +179,7 @@ Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 
 - 5 ![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } Deviling Coins
 - 5 ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coins
-- 100k Zeny
+- `100,000` Zeny
 
 ![Gacha Machine](img/Halloween/halloween-gatcha.webp)
 
@@ -185,7 +189,7 @@ Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 - **Very Rare:** Battle Manuals, Kafra Cards, Enriched Ores
 - **Rare:** Siegfried Tokens, Convex Mirrors, Buffs
 - **Common:** Poring Coins, Potions, Event materials
-- **JACKPOT (0.05%):** 1000 Poring Coins!
+- **JACKPOT (`0.05%`):** 1,000 Poring Coins!
 
 ---
 
