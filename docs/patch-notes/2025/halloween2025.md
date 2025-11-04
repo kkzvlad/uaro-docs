@@ -1,11 +1,10 @@
 # Halloween Event 2025
 
-**Level Required:** 50+
-**Location:** Niflheim
+![Halloween Event Cover](img/Halloween/halloween-cover.webp)
 
-!!! note "Event Balancing"
-    Event rewards, drop rates, and difficulty may be adjusted during the event based on server statistics and
-    player feedback to ensure the best experience for everyone.
+**Event Date:** End of November
+**Level Required:** 70+
+**Location:** Niflheim
 
 ---
 
@@ -16,7 +15,7 @@
 
 **Warp NPC Locations:** `/navi prontera 147/171`, Geffen, Payon, Morocc, Alberta, Aldebaran
 
-![Warp NPC Location](img/Halloween/)
+![Warp NPC Location](img/Halloween/halloween-warper.webp)
 
 ---
 
@@ -147,7 +146,17 @@ Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 !!! note "Exclusive Halloween Costumes"
     **Costume Crafter** `/navi niflheim 180/202` - 13+ unique Halloween costumes!
 
-**Crafting:** ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coins + ![Deviling Coins](img/Halloween/dev-coin.bmp){ width="20" } Deviling Coins + monster drops | 3 tiers: Budget (65-95 coins), Normal (110-160 coins), Premium (180-200 coins)
+**Crafting Materials:**
+
+- ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coins
+- ![Deviling Coins](img/Halloween/dev-coin.bmp){ width="20" } Deviling Coins
+- Monster drops
+
+**Cost Tiers:**
+
+- **Budget:** 65-95 coins
+- **Normal:** 110-160 coins
+- **Premium:** 180-200 coins
 
 ![Costume Shop](img/Halloween/halloween-costumes.webp)
 
@@ -160,11 +169,21 @@ Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 
 **Locations:** `/navi niflheim 213/187`, `/navi prontera 218/195`, `/navi alberta 130/60`
 
-**Cost:** 5 ![Deviling Coins](img/Halloween/dev-coin.bmp){ width="20" } Deviling Coins + 5 ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coins + 100k Zeny
+**Cost per Spin:**
+
+- 5 ![Deviling Coins](img/Halloween/dev-coin.bmp){ width="20" } Deviling Coins
+- 5 ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coins
+- 100k Zeny
 
 ![Gacha Machine](img/Halloween/halloween-gatcha.webp)
 
-**Rewards:** Ultra Rare (Old Card Album, Accessory Box), Very Rare (Battle Manuals, Kafra Cards, Enriched Ores), Rare (Siegfried Tokens, Convex Mirrors, Buffs), Common (Poring Coins, Potions, Event materials), **JACKPOT (0.05%):** 1000 Poring Coins!
+**Reward Tiers:**
+
+- **Ultra Rare:** Old Card Album, Accessory Box
+- **Very Rare:** Battle Manuals, Kafra Cards, Enriched Ores
+- **Rare:** Siegfried Tokens, Convex Mirrors, Buffs
+- **Common:** Poring Coins, Potions, Event materials
+- **JACKPOT (0.05%):** 1000 Poring Coins!
 
 ---
 
