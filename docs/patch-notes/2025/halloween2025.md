@@ -16,7 +16,7 @@
 
 **Warp NPC Locations:** `/navi prontera 147/171`, Geffen, Payon, Morocc, Alberta, Aldebaran
 
-![Warp NPC Location](img/Halloween/halloween-warper.webp)
+![Warp NPC Location](img/Halloween/)
 
 ---
 
