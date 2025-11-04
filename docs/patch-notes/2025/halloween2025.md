@@ -2,9 +2,11 @@
 
 ![Halloween Event Cover](img/Halloween/halloween-cover.webp)
 
-**Event Date:** End of November
-**Level Required:** 70+
-**Location:** Niflheim
+**Event Details:**
+
+- **Event End Date:** End of November
+- **Level Required:** 70+
+- **Location:** Niflheim
 
 ---
 
