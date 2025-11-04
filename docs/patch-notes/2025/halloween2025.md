@@ -14,18 +14,15 @@
 !!! info "Free Warps Available"
     **Lude NPCs** in major towns offer **free warps** to Niflheim!
 
-**Warp NPC Locations:**
+**Warp NPC Locations:** `/navi prontera 147/171`, Geffen, Payon, Morocc, Alberta, Aldebaran
 
-- Prontera (147, 171)
-- Geffen, Payon, Morocc, Alberta, Aldebaran
-
-![Warp NPC Location](img/halloween-warper.webp)
+![Warp NPC Location](../../img/halloween-warper.webp)
 
 ---
 
 ## Main Quest
 
-Talk to **Grave-Herald** in Niflheim town to start.
+Talk to **Grave-Herald** `/navi niflheim 288/269` to start.
 
 **Step 1:** Hunt in Fields (nif_fild01/02)
 
@@ -34,9 +31,8 @@ Talk to **Grave-Herald** in Niflheim town to start.
 
 **Step 2:** Hunt in Dungeon F1
 
-- 20 Ghost Cube
-- 20 Lude Gal
-- 15 Gan Ceann
+- 30 Ghost Cube
+- 20 Gan Ceann
 - 15 Brutal Murderer
 
 **Rewards:** 90 Halloween Coins, 35 Deviling Coins, EXP
@@ -44,101 +40,100 @@ Talk to **Grave-Herald** in Niflheim town to start.
 !!! info "Quest Limit"
     One per account
 
-![Main Quest NPCs](img/halloween-main.webp)
+![Main Quest NPCs](../../img/halloween-main.webp)
 
 ---
 
 ## Daily Quests
 
-After completing main quest, talk to **Event Wizard** at nif_fild01.
+Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 
-- 4 quests per day
-- Hunt 30 random monsters
-- Choose Normal or Hard mode
+- 4 quests per day | Hunt 30 random monsters | Choose Normal or Hard mode
 
-**Normal Mode (Lv 70-90)**
+**Normal Mode (Lv 70-90)** - Fields/Dungeon F1 monsters - Rewards: 35-49 Halloween Coins, 15-22 Deviling Coins, 12-19 Black Soul
 
-- Fields/Dungeon F1 monsters
-- Rewards: 35-49 Halloween Coins
+**Hard Mode (Lv 95+)** - Dungeon F2 only (25k zeny entrance) - Rewards: 50-70 Halloween Coins, 25-35 Deviling Coins, 18-28 Black Soul - Very strong! Bring a party!
 
-**Hard Mode (Lv 95+)**
+![Event Wizard Location](../../img/halloween-quest.webp)
 
-- Dungeon F2 monsters only - Very strong! Bring a party!
-- Rewards: 50-70 Halloween Coins
-- F2 entrance costs 25,000 zeny
+---
 
-![Event Wizard Location](img/halloween-quest.webp)
+## Hunting Spots & Monsters
 
-![Dungeon F1 Preview](img/halloween-dun01.webp)
+### Fields (nif_fild01/02)
+**Spawns:** ~40-50 per field
+
+<img src="../../img/Halloween/skelion-mob.png" width="60"/> **Skelion** (Lv 82, ~10/field) - Drops: <img src="../../img/Halloween/bone.gif" width="20"/> Skelion Bone Fragment, <img src="../../img/Halloween/CapturedSoul.gif" width="20"/> Captured Soul, <img src="../../img/Halloween/PumpkinCake.png" width="20"/> Pumpkin Cake, <img src="../../img/Halloween/halloweenCoin.gif" width="20"/> Halloween Coin
+
+<img src="../../img/Halloween/garling.png" width="60"/> **Garling** (~30-40/field) - Drops: <img src="../../img/Halloween/whiteStem.png" width="20"/> White Thin Stem, <img src="../../img/Halloween/PumpkinDecor.png" width="20"/> Pumpkin Decor, <img src="../../img/Halloween/CookieBat.gif" width="20"/> Cookie Bat, <img src="../../img/Halloween/halloweenCoin.gif" width="20"/> Halloween Coin
+
+### Dungeon F1 (nif_dun01)
+**Spawns:** ~60-70 total | **Entry:** Free
+
+<img src="../../img/Halloween/GhostCube.gif" width="60"/> **Ghost Cube** (~15-20) - Drops: <img src="../../img/Halloween/blackSoul.gif" width="20"/> Black Soul, <img src="../../img/Halloween/halloweenCoin.gif" width="20"/> Halloween Coin, <img src="../../img/Halloween/dev-coin.bmp" width="20"/> Deviling Coin
+
+<img src="../../img/Halloween/LudeGal .gif" width="60"/> **Lude Gal** (~10-15) - Drops: <img src="../../img/Halloween/PumpkinCake.png" width="20"/> Pumpkin Cake, <img src="../../img/Halloween/halloweenCoin.gif" width="20"/> Halloween Coin
+
+<img src="../../img/Halloween/GanCeann.gif" width="60"/> **Gan Ceann** (~8-12) - Drops: <img src="../../img/Halloween/PumpkinDecor.png" width="20"/> Pumpkin Decor, <img src="../../img/Halloween/halloweenCoin.gif" width="20"/> Halloween/<img src="../../img/Halloween/dev-coin.bmp" width="20"/> Deviling Coins
+
+<img src="../../img/Halloween/BrutalMurderer.gif" width="60"/> **Brutal Murderer** (~5-8) - Drops: <img src="../../img/Halloween/CookieBat.gif" width="20"/> Cookie Bat, <img src="../../img/Halloween/halloweenCoin.gif" width="20"/> Halloween/<img src="../../img/Halloween/dev-coin.bmp" width="20"/> Deviling Coins
+
+![Dungeon F1 Map](../../img/Halloween/nif_dun01.gif)
+
+### Dungeon F2 (nif_dun02)
+**Spawns:** ~80-100 + Boss Zones | **Entry:** 25k Zeny from F1 | **Warning:** Lv 108-115! Party recommended!
+
+<img src="../../img/Halloween/Disguiser.gif" width="60"/> **Disguiser** (Lv 108+, ~20-25) - Drops: <img src="../../img/Halloween/blackSoul.gif" width="20"/> Black Soul, <img src="../../img/Halloween/halloweenCoin.gif" width="20"/> Halloween/<img src="../../img/Halloween/dev-coin.bmp" width="20"/> Deviling Coins
+
+<img src="../../img/Halloween/BlueMoon .gif" width="60"/> **Blue Moon** (Lv 110+, ~15-20) - Drops: <img src="../../img/Halloween/TransCandyB.png" width="20"/> Transform Candy (Blue), <img src="../../img/Halloween/halloweenCoin.gif" width="20"/> Halloween/<img src="../../img/Halloween/dev-coin.bmp" width="20"/> Deviling Coins
+
+<img src="../../img/Halloween/Grote.gif" width="60"/> **Grote** (Lv 112+, ~12-18) - Drops: <img src="../../img/Halloween/PumpkinCake.png" width="20"/> Pumpkin Cake, <img src="../../img/Halloween/halloweenCoin.gif" width="20"/> Halloween/<img src="../../img/Halloween/dev-coin.bmp" width="20"/> Deviling Coins
+
+<img src="../../img/Halloween/Pierrotzoist.gif" width="60"/> **Pierrotzoist** (Lv 115+, ~10-15) - Drops: <img src="../../img/Halloween/blackSoul.gif" width="20"/> Black Soul, <img src="../../img/Halloween/TransCandyR.png" width="20"/> Transform Candy (Red), <img src="../../img/Halloween/halloweenCoin.gif" width="20"/> Halloween/<img src="../../img/Halloween/dev-coin.bmp" width="20"/> Deviling Coins
+
+![Dungeon F2 Map](../../img/Halloween/nif_dun02.gif)
+
+![Dungeon F1 Preview](../../img/halloween-dun01.webp)
 
 ---
 
 ## Scatelon Pet Quest
 
 !!! tip "Legendary Pet Available"
-    Talk to the **Old Sage of Bones** in Alberta (218, 30) to obtain the exclusive Scatelon pet!
+    Talk to **Old Sage of Bones** `/navi alberta 218/30` for the exclusive Scatelon pet!
 
-**Required Materials:**
-
-- 120 Skelion Bone Fragment
-- 300 Halloween Coins
-- 100 Deviling Coins
-- 250 Black Soul
-- 25 Captured Soul
-- 200 Pumpkin Cake
-- 500,000 Zeny
-
-**Reward:** Scatelon Pet Egg
+**Required:** 120 <img src="../../img/Halloween/bone.gif" width="20"/> Skelion Bone Fragment, 300 <img src="../../img/Halloween/halloweenCoin.gif" width="20"/> Halloween Coins, 100 <img src="../../img/Halloween/dev-coin.bmp" width="20"/> Deviling Coins, 250 <img src="../../img/Halloween/blackSoul.gif" width="20"/> Black Soul, 25 <img src="../../img/Halloween/CapturedSoul.gif" width="20"/> Captured Soul, 200 <img src="../../img/Halloween/PumpkinCake.png" width="20"/> Pumpkin Cake, 500k Zeny
 
 !!! info "Quest Limit"
-    One per account - This is an account-wide exclusive pet!
+    One per account only!
 
-![Old Sage Location](img/skelion2025.webp)
+![Old Sage Location](../../img/skelion2025.webp)
 
 ---
 
 ## Costume Shop
 
 !!! note "Exclusive Halloween Costumes"
-    Visit the **Costume Crafter** in Niflheim (180, 202) to craft 13+ unique Halloween costumes!
+    **Costume Crafter** `/navi niflheim 180/202` - 13+ unique Halloween costumes!
 
-**Crafting Information:**
+**Crafting:** <img src="../../img/Halloween/halloweenCoin.gif" width="20"/> Halloween Coins + <img src="../../img/Halloween/dev-coin.bmp" width="20"/> Deviling Coins + monster drops | 3 tiers: Budget (65-95 coins), Normal (110-160 coins), Premium (180-200 coins)
 
-- Costs vary by costume rarity
-- Requires: Halloween Coins + Deviling Coins + monster drops
-- 3 difficulty tiers (Basic, Normal, Premium)
-
-![Costume Shop](img/halloween-costumes.webp)
+![Costume Shop](../../img/halloween-costumes.webp)
 
 ---
 
 ## Halloween Gacha Machine
 
 !!! warning "Try Your Luck!"
-    Spin the Halloween Gacha for a chance at exclusive rewards! Server-wide announcements for jackpots and
-    ultra-rare drops!
+    Spin for exclusive rewards! Server-wide announcements for jackpots and ultra-rare drops!
 
-**Gacha Machine Locations:**
+**Locations:** `/navi niflheim 213/187`, `/navi prontera 218/195`, `/navi alberta 130/60`
 
-- Niflheim (213, 187)
-- Prontera (218, 195)
-- Alberta (130, 60)
+**Cost:** 5 <img src="../../img/Halloween/dev-coin.bmp" width="20"/> Deviling Coins + 5 <img src="../../img/Halloween/halloweenCoin.gif" width="20"/> Halloween Coins + 100k Zeny
 
-![Gacha Machine Locations](img/halloween-gatcha.webp)
+![Gacha Machine](../../img/halloween-gatcha.webp)
 
-**Cost per Spin:**
-
-- 5 Deviling Coins
-- 5 Halloween Coins
-- 100,000 Zeny
-
-**Reward Tiers:**
-
-- **Ultra Rare:** Old Card Album, Accessory Box
-- **Very Rare:** Battle Manuals, Kafra Cards, Enriched Ores
-- **Rare:** Siegfried Tokens, Convex Mirrors, Buffs
-- **Common:** Poring Coins, Potions, Event materials
-- **JACKPOT (0.05%):** 1000 Poring Coins!
+**Rewards:** Ultra Rare (Old Card Album, Accessory Box), Very Rare (Battle Manuals, Kafra Cards, Enriched Ores), Rare (Siegfried Tokens, Convex Mirrors, Buffs), Common (Poring Coins, Potions, Event materials), **JACKPOT (0.05%):** 1000 Poring Coins!
 
 ---
 
@@ -146,13 +141,11 @@ After completing main quest, talk to **Event Wizard** at nif_fild01.
 
 | NPC | Location | Purpose |
 |-----|----------|---------|
-| Grave-Herald | Niflheim (288, 269) | Main Quest |
-| Event Wizard | nif_fild01 (233, 227) | Daily Quests |
-| Old Sage | Alberta (218, 30) | Scatelon Pet |
-| Costume Crafter | Niflheim (180, 202) | Costume Shop |
-| Gacha Machine | Niflheim (213, 187) | Gacha Rewards |
-| Gacha Machine | Prontera (218, 195) | Gacha Rewards |
-| Gacha Machine | Alberta (130, 60) | Gacha Rewards |
+| Grave-Herald | `/navi niflheim 288/269` | Main Quest |
+| Event Wizard | `/navi nif_fild01 233/227` | Daily Quests |
+| Old Sage | `/navi alberta 218/30` | Scatelon Pet |
+| Costume Crafter | `/navi niflheim 180/202` | Costumes |
+| Gacha Machines | `/navi niflheim 213/187`, `/navi prontera 218/195`, `/navi alberta 130/60` | Gacha Spins |
 
 ---
 
