@@ -56,7 +56,7 @@ Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 - **Hunting Zones:** Fields (nif_fild01/02) or Dungeon F1
 - **Rewards:**
     - 35-49 ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coins
-    - 15-22 ![Deviling Coins](img/Halloween/dev-coin.bmp){ width="20" } Deviling Coins
+    - 15-22 ![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } Deviling Coins
     - 12-19 ![Black Soul](img/Halloween/blackSoul.gif){ width="20" } Black Soul
 
 ### Hard Mode (Lv 95+)
@@ -65,7 +65,7 @@ Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 - **Entry Cost:** 25k Zeny
 - **Rewards:**
     - 50-70 ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coins
-    - 25-35 ![Deviling Coins](img/Halloween/dev-coin.bmp){ width="20" } Deviling Coins
+    - 25-35 ![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } Deviling Coins
     - 18-28 ![Black Soul](img/Halloween/blackSoul.gif){ width="20" } Black Soul
 
 !!! danger "Very Strong Monsters!"
@@ -92,10 +92,10 @@ Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 
 | Monster | Level | Spawn Count | Drops |
 |---------|-------|-------------|-------|
-| ![Ghost Cube](img/Halloween/GhostCube.gif){ width="60" }<br/>**Ghost Cube** | - | ~15-20 | ![Soul](img/Halloween/blackSoul.gif){ width="20" } Black Soul<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.bmp){ width="20" } Deviling Coin |
+| ![Ghost Cube](img/Halloween/GhostCube.gif){ width="60" }<br/>**Ghost Cube** | - | ~15-20 | ![Soul](img/Halloween/blackSoul.gif){ width="20" } Black Soul<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.png){ width="20" } Deviling Coin |
 | ![Lude Gal](img/Halloween/LudeGal .gif){ width="60" }<br/>**Lude Gal** | - | ~10-15 | ![Cake](img/Halloween/PumpkinCake.png){ width="20" } Pumpkin Cake<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin |
-| ![Gan Ceann](img/Halloween/GanCeann.gif){ width="60" }<br/>**Gan Ceann** | - | ~8-12 | ![Decor](img/Halloween/PumpkinDecor.png){ width="20" } Pumpkin Decor<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.bmp){ width="20" } Deviling Coin |
-| ![Brutal Murderer](img/Halloween/BrutalMurderer.gif){ width="60" }<br/>**Brutal Murderer** | - | ~5-8 | ![Bat](img/Halloween/CookieBat.gif){ width="20" } Cookie Bat<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.bmp){ width="20" } Deviling Coin |
+| ![Gan Ceann](img/Halloween/GanCeann.gif){ width="60" }<br/>**Gan Ceann** | - | ~8-12 | ![Decor](img/Halloween/PumpkinDecor.png){ width="20" } Pumpkin Decor<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.png){ width="20" } Deviling Coin |
+| ![Brutal Murderer](img/Halloween/BrutalMurderer.gif){ width="60" }<br/>**Brutal Murderer** | - | ~5-8 | ![Bat](img/Halloween/CookieBat.gif){ width="20" } Cookie Bat<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.png){ width="20" } Deviling Coin |
 
 ![Dungeon F1 Map](img/Halloween/nif_dun01.gif)
 
@@ -108,10 +108,10 @@ Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 
 | Monster | Level | Spawn Count | Drops |
 |---------|-------|-------------|-------|
-| ![Disguiser](img/Halloween/Disguiser.gif){ width="60" }<br/>**Disguiser** | Lv 108+ | ~20-25 | ![Soul](img/Halloween/blackSoul.gif){ width="20" } Black Soul<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.bmp){ width="20" } Deviling Coin |
-| ![Blue Moon](img/Halloween/BlueMoon.gif){ width="60" }<br/>**Blue Moon** | Lv 110+ | ~15-20 | ![Candy](img/Halloween/TransCandyB.png){ width="20" } Transform Candy (Blue)<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.bmp){ width="20" } Deviling Coin |
-| ![Grote](img/Halloween/Grote.gif){ width="60" }<br/>**Grote** | Lv 112+ | ~12-18 | ![Cake](img/Halloween/PumpkinCake.png){ width="20" } Pumpkin Cake<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.bmp){ width="20" } Deviling Coin |
-| ![Pierrotzoist](img/Halloween/Pierrotzoist.gif){ width="60" }<br/>**Pierrotzoist** | Lv 115+ | ~10-15 | ![Soul](img/Halloween/blackSoul.gif){ width="20" } Black Soul<br/>![Candy](img/Halloween/TransCandyR.png){ width="20" } Transform Candy (Red)<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.bmp){ width="20" } Deviling Coin |
+| ![Disguiser](img/Halloween/Disguiser.gif){ width="60" }<br/>**Disguiser** | Lv 108+ | ~20-25 | ![Soul](img/Halloween/blackSoul.gif){ width="20" } Black Soul<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.png){ width="20" } Deviling Coin |
+| ![Blue Moon](img/Halloween/BlueMoon.gif){ width="60" }<br/>**Blue Moon** | Lv 110+ | ~15-20 | ![Candy](img/Halloween/TransCandyB.png){ width="20" } Transform Candy (Blue)<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.png){ width="20" } Deviling Coin |
+| ![Grote](img/Halloween/Grote.gif){ width="60" }<br/>**Grote** | Lv 112+ | ~12-18 | ![Cake](img/Halloween/PumpkinCake.png){ width="20" } Pumpkin Cake<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.png){ width="20" } Deviling Coin |
+| ![Pierrotzoist](img/Halloween/Pierrotzoist.gif){ width="60" }<br/>**Pierrotzoist** | Lv 115+ | ~10-15 | ![Soul](img/Halloween/blackSoul.gif){ width="20" } Black Soul<br/>![Candy](img/Halloween/TransCandyR.png){ width="20" } Transform Candy (Red)<br/>![Coin](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coin<br/>![Dev Coin](img/Halloween/dev-coin.png){ width="20" } Deviling Coin |
 
 ![Dungeon F2 Map](img/Halloween/nif_dun02.gif)
 
@@ -128,7 +128,7 @@ Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 
 - 120 ![Bone](img/Halloween/bone.gif){ width="20" } Skelion Bone Fragment
 - 300 ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coins
-- 100 ![Deviling Coins](img/Halloween/dev-coin.bmp){ width="20" } Deviling Coins
+- 100 ![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } Deviling Coins
 - 250 ![Black Soul](img/Halloween/blackSoul.gif){ width="20" } Black Soul
 - 25 ![Captured Soul](img/Halloween/CapturedSoul.gif){ width="20" } Captured Soul
 - 200 ![Pumpkin Cake](img/Halloween/PumpkinCake.png){ width="20" } Pumpkin Cake
@@ -149,7 +149,7 @@ Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 **Crafting Materials:**
 
 - ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coins
-- ![Deviling Coins](img/Halloween/dev-coin.bmp){ width="20" } Deviling Coins
+- ![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } Deviling Coins
 - Monster drops
 
 **Cost Tiers:**
@@ -171,7 +171,7 @@ Talk to **Event Wizard** `/navi nif_fild01 233/227` after completing main quest.
 
 **Cost per Spin:**
 
-- 5 ![Deviling Coins](img/Halloween/dev-coin.bmp){ width="20" } Deviling Coins
+- 5 ![Deviling Coins](img/Halloween/dev-coin.png){ width="20" } Deviling Coins
 - 5 ![Halloween Coins](img/Halloween/halloweenCoin.gif){ width="20" } Halloween Coins
 - 100k Zeny
 
