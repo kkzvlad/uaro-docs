@@ -17,10 +17,10 @@
 
 ## 🎁 Starter Package Contents
 
-::: info
-All items are **rental-only (14 days)**, **non-refinable**, and **non-tradable**.
-Designed to support PvE progression without skipping content.
-:::
+!!! info
+    All items are **rental-only (14 days)**, **non-refinable**, and **non-tradable**.
+    Designed to support PvE progression without skipping content.
+
 
 ### 🛡️ Gear Set (14-Day Rental)
 
@@ -58,12 +58,12 @@ Designed to support PvE progression without skipping content.
 
 ## 🚫 Abuse Prevention
 
-::: danger
-Any attempt to exploit this system (fake guilds, multi-accounting, etc.) will result in:
+!!! danger
+     Any attempt to exploit this system (fake guilds, multi-accounting, etc.) will result in:  
+     
+     * ❌ **Permanent account bans**
+     * ❌ **Hardware bans for all linked accounts**
 
-* ❌ **Permanent account bans**
-* ❌ **Hardware bans for all linked accounts**
-  :::
 
 ---
 
