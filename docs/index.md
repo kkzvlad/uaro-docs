@@ -373,6 +373,10 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
   Located in Prontera, exchange Poring Coins, reset stats, and shop for valuable items. 
   [:octicons-arrow-right-24: Read More](Main_Office.md)
 
+- **Guild Starter Support System**  
+  Located in Prontera, exchange Poring Coins, reset stats, and shop for valuable items. 
+  [:octicons-arrow-right-24: Read More](Guild-Starter-Support-System.md)
+
 </div>
 
 <br>
