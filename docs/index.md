@@ -11,13 +11,13 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         **November 24, 2025**
 
         - Killcount System Overhaul: @killcount/@kc with session tracking, visual display, and reset function.
+        - Instance Security: Unique ID lock on ET/EC/HTF cooldowns (circumvention = account ban).
         - Instance Entry Restriction: One completion per character, prevents re-entry and farming.
         - Homunculus Storage System: Store up to 5 homunculi, switch for 1 Embryo, free recall of most recent.
         - Skills: Mage buffs (Soul Strike 7%/level, Napalm Beat full damage), Arrow Vulcan 2s delay.
         - Status Buffs: EDP and Maximum Over-Thrust persist through logout.
         - Pet System: New Hornet → Mistress evolution path with taming items and food.
-        - Guild Bank: Zeny display in deposit/withdraw menus. Search Store results increased.
-        - Items: BG Plant/Marine Sphere Bottles, Sedora Card drops, Deathfire Shotgun balanced.
+        - Items: BG Plant/Marine Sphere Bottles, Convex Mirror 60min cooldown, Sedora Card drops.
 
         [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches24112025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
 
