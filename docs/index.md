@@ -7,6 +7,19 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "December 1"
+        **December 1, 2025**
+
+        - Halloween Event Ended: All Halloween Coins, Deviling Coins, and Transform Candies removed.
+        - ET/EC/HTF Instance Overhaul: New player minimums (ET/EC: 6, HTF: 3), UniqueID + Account lockout.
+        - Instance Unlock Points: ET (Lost Soul), EC (Arc Pori Pori), HTF (end warp portal).
+        - Homunculus Rework: No auto-spawn on login, Bioethics is now active swap interface (1 Embryo cost).
+        - Pre-Trans WoE: Second castle added (Aldebaran 3), 25 trap limit, Quagmire friendly-fire fixed.
+        - Super Baby: Soul link equipment now persists through death/map changes like Super Novice.
+        - Assump Boxes: Now tradable (scrolls remain trade-locked).
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches01122025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "November 24"
         **November 24, 2025**
 
