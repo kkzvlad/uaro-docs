@@ -7,6 +7,18 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "December 11"
+        **December 11, 2025**
+
+        - Christmas 2025 Event: Quests, daily missions, party instance, boss invasions, and festive rewards.
+        - Forged Weapons Buffed: Star Crumb bonus (+20/40/60 ATK), Ranked smith bonus (+10 ATK).
+        - Ore Downgrading: Choose to downgrade 1 ore or entire stack at once.
+        - Vending Recap: Cleaner summary showing sales, zeny earned, and remaining cart items.
+        - Pet Fixes: Teddy pet command and stat bonus issues resolved.
+        - Cash Shop: New festive costumes available for the holiday season.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches11122025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "December 1"
         **December 1, 2025**
 
