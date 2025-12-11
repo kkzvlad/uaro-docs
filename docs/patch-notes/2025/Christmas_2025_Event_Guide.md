@@ -23,7 +23,7 @@ Welcome to the Christmas Event! Here's everything you need to know.
 !!! info "Heartwarming Story Quest"
     Help a little girl named Mimi deliver her letter to Santa!
 
-**Location:** Prontera
+**Location:** `prontera,161,111`
 
 This heartwarming story unfolds over **12 days** - a new chapter unlocks each day with item collection and monster hunting tasks.
 
@@ -46,12 +46,12 @@ Stick with it until the end for the best rewards, including a special meeting wi
 !!! tip "Quick Daily Rewards"
     Talk to **Festi Snowman** for a random daily mission!
 
-**Location:** Lutie
+**Location:** `xmas,159,132`
 
 You might be asked to:
 
 - Hunt monsters
-- Rescue someone
+- Rescue someone (find the **Little Girl** at `xmas,163,224`)
 - Find a sneaky Antonio in Geffen
 - Complete other festive tasks
 
@@ -68,7 +68,7 @@ Quick and easy way to earn currencies every day!
 !!! success "Party Instance"
     Party instance for **2+ players**!
 
-**Location:** Lutie
+**Location:** Talk to **Santa's Cat Helper** at `xmas,152,112`
 
 Enter the Gift Garden and chase away imposter Porings and Lunatics while avoiding the real Santa Helpers.
 
@@ -97,7 +97,13 @@ Your party's score gets recorded on the rankings - top players receive bonus rew
 | Odd days (1st, 3rd, 5th...) | 7:00 AM |
 | Even days (2nd, 4th, 6th...) | 7:00 PM |
 
-Three King Porings invade Prontera's east, west, and south fields.
+Three King Porings invade the following maps:
+
+| Map | Location |
+|-----|----------|
+| `prt_fild05` | Prontera Field (South) |
+| `prt_fild06` | Prontera Field (West) |
+| `prt_fild08` | Prontera Field (East) |
 
 Everyone on the map when they fall gets rewards - don't miss it!
 
@@ -114,11 +120,14 @@ Everyone on the map when they fall gets rewards - don't miss it!
 !!! note "Free Daily Goodies"
     Two friendly snowmen give you free goodies once per day!
 
-**Location:** Prontera (north area)
-
 Just walk up and say hello!
 
-**Rewards:** 10 Snow Globes + 20 Cookies total (from both snowmen)
+| Snowman | Location | Daily Reward |
+|---------|----------|--------------|
+| **Winter** | `prontera,150,244` | 5 Snow Globes, 10 Winter Cookies |
+| **Snow** | `prontera,161,244` | 5 Snow Globes, 10 Snow Cookies |
+
+**Total Daily:** 10 Snow Globes + 20 Cookies
 
 ![Prontera Snowmen Screenshot](../../img/Christmas/placeholder_snowmen.png)
 
@@ -152,14 +161,12 @@ While hunting any monsters, you have a small chance to receive event currencies 
 
 ## Event Shops
 
-**Location:** Lutie
-
 Two merchants offer event-exclusive items:
 
-| Merchant | Items |
-|----------|-------|
-| **Poring Merchant** | Consumables and pet eggs |
-| **Costume Collector** | Festive costume headgears |
+| Merchant | Location | Items |
+|----------|----------|-------|
+| **Poring Merchant** | `xmas,142,123` | Consumables and pet eggs |
+| **Costume Collector** | `xmas,153,123` | Festive costume headgears |
 
 ![Poring Merchant Screenshot](../../img/Christmas/placeholder_poring_merchant.png)
 
