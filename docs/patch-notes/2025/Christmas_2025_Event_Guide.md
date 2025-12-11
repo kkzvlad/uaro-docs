@@ -168,14 +168,7 @@ While hunting any monsters, you have a small chance to receive event currencies 
 
 **Location:** `xmas,142,123`
 
-| Item               | Snow Globe | Snow Cookie | Winter Cookie |
-|--------------------|------------|-------------|---------------|
-| Buche De Noel      | 1          | 1           | 1             |
-| Christmas Hat Box  | 50         | 25          | 15            |
-| Bloody Dead Branch | 100        | 50          | 25            |
-| Santa Goblin Egg   | 150        | 75          | 40            |
-| Snow Rabbit Egg    | 150        | 75          | 40            |
-| Goblin Leader Egg  | 200        | 100         | 50            |
+![Poring Merchant Items](img/Christmas/xmas_items_2025.webp)
 
 ---
 
@@ -183,42 +176,7 @@ While hunting any monsters, you have a small chance to receive event currencies 
 
 **Location:** `xmas,153,123`
 
-**Cheap Tier:**
-
-| Costume       | Snow Globe |
-|---------------|------------|
-| C_Mini_Tree_J | 30         |
-| C_Snowman_Hat | 60         |
-
-**Basic Tier:**
-
-| Costume                | Snow Globe | Snow Cookie | Winter Cookie |
-|------------------------|------------|-------------|---------------|
-| C_Santa_Hat_2          | 80         | -           | -             |
-| C_Rudolph_Santa_Hat    | 100        | 50          | -             |
-| C_Rabbit_Ear_Knit_Hat  | 100        | 40          | -             |
-| C_Snow_Rabbit_Knit_Hat | 100        | 40          | -             |
-| C_Large_Ribbon_Muffler | 100        | -           | 30            |
-| C_L_Ribbon_M_BU        | 100        | -           | 30            |
-
-**Mid Tier:**
-
-| Costume             | Snow Globe | Snow Cookie | Winter Cookie |
-|---------------------|------------|-------------|---------------|
-| C_Snownow_Hat       | 150        | -           | 30            |
-| C_Black_Knitted_Hat | 150        | -           | 30            |
-| C_Winter_Hat        | 150        | 30          | -             |
-| C_Knit_Cap_Of_Water | 180        | -           | 40            |
-| C_Blue_Fur_Hat      | 180        | 40          | -             |
-| C_Rose_Wave_SVB     | 220        | 50          | -             |
-| C_Ice_Rune_Helm     | 220        | -           | 50            |
-
-**Premium Tier:**
-
-| Costume              | Snow Globe | Snow Cookie | Winter Cookie |
-|----------------------|------------|-------------|---------------|
-| C_Blue_Poring_Bubble | 500        | 150         | 120           |
-| C_Gift_Of_Snow       | 600        | 200         | 150           |
+![Costume Collector](img/Christmas/xmas_costumes_2025.webp)
 
 Save up your currencies for that special item you want!
 
