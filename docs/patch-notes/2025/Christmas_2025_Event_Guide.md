@@ -1,6 +1,6 @@
 # Christmas 2025 Event Guide
 
-![Christmas Event Cover](../../img/Christmas/christmas2025_cover.webp)
+![Christmas Event Cover](img/Christmas/christmas2025_cover.webp)
 
 Welcome to the Christmas Event! Here's everything you need to know.
 
@@ -40,7 +40,7 @@ Stick with it until the end for the best rewards, including a special meeting wi
 - Christmas Gifts
 - Bonus items: scrolls, battle manuals, branches, Token of Siegfried, and more!
 
-![Mimi NPC Screenshot](../../img/Christmas/mimi-xmas.webp)
+![Mimi NPC Screenshot](img/Christmas/mimi-xmas.webp)
 
 ---
 
@@ -62,7 +62,7 @@ Quick and easy way to earn currencies every day!
 
 **Rewards:** 15 Snow Globes, 10 Snow Cookies, 8 Winter Cookies, Firecracker Basket
 
-![Festi Snowman Screenshot](../../img/Christmas/xmas_daily_santa.webp)
+![Festi Snowman Screenshot](img/Christmas/xmas_daily_santa.webp)
 
 ---
 
@@ -84,7 +84,7 @@ Your party's score gets recorded on the rankings - top players receive bonus rew
 
 **Ranking Rewards:** Snow Globes, Poring Coins, Cookies, Firecracker Baskets (top rankers get extra!)
 
-![Santa's Gift Garden Screenshot](../../img/Christmas/xmas_instance_2.webp)
+![Santa's Gift Garden Screenshot](img/Christmas/xmas_instance_2.webp)
 
 ---
 
@@ -112,7 +112,7 @@ Everyone on the map when they fall gets rewards - don't miss it!
 
 **Rewards:** Christmas Package for all participants
 
-![King Poring Screenshot](../../img/Christmas/king_poring_event.webp)
+![King Poring Screenshot](img/Christmas/king_poring_event.webp)
 
 ---
 
@@ -132,7 +132,7 @@ Just walk up and say hello!
 
 **Total Daily:** 10 Snow Globes + 20 Cookies
 
-![Prontera Snowmen Screenshot](../../img/Christmas/prt_snowmap.webp)
+![Prontera Snowmen Screenshot](img/Christmas/prt_snowmap.webp)
 
 ---
 
