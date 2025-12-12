@@ -19,6 +19,13 @@ Welcome to the Christmas Event! Here's everything you need to know.
 
 ---
 
+## Seasonal Healing Bonus
+
+!!! tip "Extra Healing Power"
+    `Candy`, `Candy Cane`, `Well-baked Cookie`, and `Piece of Cake` all receive `~50%` bonus healing during the Christmas season!
+
+---
+
 ## Main Activities
 
 ### Mimi's 12 Days of Wishes
