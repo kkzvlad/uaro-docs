@@ -7,6 +7,19 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "December 29"
+        **December 29, 2025**
+
+        - New NoKS System: Aggro-based kill-steal protection with Self/Party/Guild modes.
+        - Max Friends: Limit increased from 40 to 100.
+        - Wolfchev Laboratory: New instance released (requires Cursed Spirit + Dangerous Rumors quest).
+        - Items: KvM Weapons and Glorious armors added to BG Shop, multiple item buffs.
+        - Skills: Taekwon Mission reworked (1 SP, 5% reset chance, 0.5s cast).
+        - NPC: Gemstone/Putty barter conversion, Haruna swap NPC, Geffen forge dealer.
+        - Fixes: Instance lockout, Maximize Power SP, @dice event, WoE flags.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2025/patches29122025.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "December 11"
         **December 11, 2025**
 
