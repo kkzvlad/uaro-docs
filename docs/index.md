@@ -494,8 +494,6 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
     [:octicons-arrow-right-24: Server Info](Server_Info.md)
 
-    [:octicons-arrow-right-24: Server Rules](Server_Rules.md)
-
     [:octicons-arrow-right-24: Taming Gift Set](Taming_Gift_Set.md)
 
     [:octicons-arrow-right-24: Troubleshooting](Troubleshooting.md)
