@@ -164,6 +164,7 @@ cython_debug/
 # AI/Editor specific files
 CLAUDE.md
 AGENTS.md
+.claude/
 .cursor/
 .cursorrules
 .github/copilot-instructions.md
