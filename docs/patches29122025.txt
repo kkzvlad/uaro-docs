@@ -1,0 +1,95 @@
+Patchnotes 29 December 2025
+
+Gameplay
+- New NoKS System
+Lock* starts when: 
+	- Damage is done outside of aggro range of mob
+	- Mob locks onto a player target
+*If a player is idle for 5 seconds or longer, aggro lock is released.
+*Lock time is 15 seconds (This timer DOES NOT START until another player attempts to KS your mob)
+*Lock is hard capped at 30 seconds (Will release regardless of variables.  Once expired, the owner can not claim aggro on mob but can still attack them).
+*Doesn't apply to any MVP/Mini boss that has noks null and void.
+*Max MOB count a player can hold - Unlimited.
+Previous KS rules for non mini/mvp null and void.
+System has UI with 3 options:
+	- Self (Disables Party/Guild)
+	- Party
+	- Guild
+Ols KS message is now removed, you will not be able to attack monsters/Area skills will yield 0 damage if the player is protected by the system.
+
+- Max friend increased from 40 > 100.
+	- Any variable over 40 will display as 41/40 etc due to client limitations on text but will display all names on your friend list.
+
+--------------------------------------------------------------------------------------------------
+
+Items
+- KvM Weapons + Glorious main armors added to BG Shop
+
+- Changed sprites for Infinite fly wing / buttefly wing.
+
+- Assassin's Handcuff buff - Now yields +10% Crit Dmg
+
+- VIT Temporal boots 10% Max HP Bonus now triggers at 75+ Base Vit
+
+- Alchemy glove buff
+	- Int 1 > 2
+		- Fire bonus dmg 10% > 15%
+
+- Illusion Dagger buffs
+  	- Refine +7 = 5% Max HP-+9 = 10% Max HP
+
+- Kraken card(MVP) now yields 25% resistance to all elements
+
+--------------------------------------------------------------------------------------------------
+
+Instances
+- Wolfchev Labratory Release
+How to enter? Cursed Spirit + Dangerous Rumors quest needs to be completed by party leader (Only party leader needed to pull everyone in).
+	Details
+	- Follows instance mechanics of ET/EC/HTF
+	- !ready to start after entering to initiate lock out/start instance
+	- BBG Blocked from use
+	- 1 Week lockout cooldown (Account + UniqueID)
+	- NO reset function upon completion
+Follows quest script. Only 1 each random bio 4 MVP variation will spawn (bio 3 variations removed)
+
+--------------------------------------------------------------------------------------------------
+
+Fixes
+- Added autofeed option to snow rabbit pet
+
+- Fixed issue causing people who share accounts for instance runs (Cross contamination and tagging of accounts to previous unique_ID variables)
+	- This would intermittently lock people out of instances following global resets even if they havent ran instances for the week yet
+
+- Fixed an issue preventing smith from recovering SP normally when in "idle" status with maximize power active.
+
+- Fixed an issue within @dice event.  Now re-enabled to run at its regularly scheduled times.
+
+- Fixed all Prontera woe flags to display guild name, leader and return option if castle is held.
+--------------------------------------------------------------------------------------------------
+
+Skills
+- Taekwon Mission skill changes
+	- 10 > 1 SP cost
+	- 1% > 5% Reset chance (follows same mechanics must be at 0%)
+	- Cast time 1 > 0.5 seconds
+
+--------------------------------------------------------------------------------------------------
+
+NPC
+- Added a 3x3 cell restriction around Disguise NPC
+
+- Converted Gemstone exchange NPC to barter for quick exchange at the same variables
+
+- Converted Putty (Trash card exchanger) To barter with tradeable "Card Fragment" item yield at same variables as original script
+	- Edited Poring coin cost from 2 > 1 Fragment
+	- Fragments are tradeable and buy/sell via vend
+	- Existing points will be converted to fragments upon talking to Putty 
+
+- Added a 1 for 1 Swap barter NPC for the following Daily Login items that previously weren't stackable (Swapping will now stack these items properly). "Haruna" Located in East Prontera Inn near Inn Employee
+	- Elite Siege Supply Box #14003
+	- Blue Butterfly Wing Box(5) #13855
+	- Green Butterfly Wing Box(5) #13851
+	- Red Butterfly Wing Box(5) #13853
+
+- Added Forging material tool dealer style merchant in Geffen Blacksmith guild location for QoL forge material purchasing (Same material as default text/quest based NPC).
