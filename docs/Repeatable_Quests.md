@@ -89,7 +89,7 @@ Please note that **Homunculus kills do not count**, but **Mercenary kills do**. 
 | **Lilla** | `/navi um_fild01 35/281` | 60 | 85 | Dryad | 524,970 | 283,670 | 10,499 | 5,673 |
 | **Shea** | `/navi tur_dun03 125/195` | 60 | 85 | Assaulter`*` | 850,000 | 550,000 | 17,000 | 11,000 |
 | **Vegetable Farmer** | `/navi ein_fild06 82/171` | 70 | 85 | Goat | 1,033,956 | 620,620 | 20,680 | 12,413 |
-| **Henry** | `/navi ice_dun03 140/26` | 70 | 95 | Ice Titan`*` | 3,640,000 | 2,600,000 | 72,800 | 52,000 |
+| **Henry** | `/navi ice_dun03 140/26` | 70 | 95 | Ice Titan | 3,640,000 | 2,600,000 | 72,800 | 52,000 |
 | **Monica** | `/navi geffen 112/63` | 70 | 98 | Succubus`*` | 5,300,000 | 3,800,000 | 106,000 | 76,000 |
 | **Coal Miner** | `/navi mag_dun02 46/40` | 75 | 97 | Deleter | 1,550,936 | 930,932 | 31,019 | 18,619 |
 | **Jotun Tribesman** | `/navi mag_dun01 127/71` | 75 | 97 | Lava Golem | 1,939,200 | 1,162,800| 38,784 | 23,256 |
