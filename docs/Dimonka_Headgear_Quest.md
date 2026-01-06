@@ -107,7 +107,7 @@ Dimonka is found in the [Main Office](Main_Office.md) and offers a unique select
 <tr>
 <td><img src="../img/5653.gif" alt="Darkness Helm [1]"><br>Darkness Helm [1]</td>
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1500<br><img src="../img/5017.gif" alt="Bone Helm [1]"> Bone Helm [1] - 1<br><img src="../img/7799.gif" alt="Crystal of Darkness"> Crystal of Darkness - 500</td>
-<td>A helm crafted by Demons specially for the Dark Lord. Has several powers set to Dark Lords from the past generations. Hidden ability gets activated upon the combination of certain Mid Headgear.<br>If equipped in combination with Evil Wing Ears, STR +1, ATK +5%.<br>If equipped in combination with Angel Wing Ears, STR +1, ASPD +5%.<br>If equipped in combination with Pecopeco Wing Ears, AGI +1, Flee +3.<br>If equipped in combination with Black Frame Glasses, INT +1, MATK +2%.</td>
+<td>A helm crafted by Demons specially for the Dark Lord. Has several powers set to Dark Lords from the past generations. Hidden ability gets activated upon the combination of certain Mid Headgear.<br>If equipped in combination with Evil Wing Ears, STR +1, ATK +5%.<br>If equipped in combination with Angel Wing Ears, STR +1, ASPD +2%.<br>If equipped in combination with Pecopeco Wing Ears, AGI +1, Flee +3.<br>If equipped in combination with Black Frame Glasses, INT +1, MATK +2%.</td>
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 3<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 50<br><strong>Level Requirement</strong>: 70<br><strong>Jobs</strong>: All</td>
 </tr>
 <tr>
