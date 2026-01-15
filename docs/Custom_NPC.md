@@ -42,6 +42,17 @@ Step inside the [Main Office](Main_Office.md) and you’ll find more to explore,
 | ![Guild Battle Officer NPC](img/NPC/gvg-officer.gif)<br>**Guild Battle** | `/navi prontera 213/168` | The fight begins now! Enter the **Guild Battle Officer’s** PvP room where guilds settle their rivalries. Two guilds max, guild members only, BG consumables permitted! |
 | ![Training Dummy NPC](img/NPC/training-dummy.gif)<br>**Build Tester** | `/navi prontera 220/77` | **Target Dummies** allow you to test your build's effectiveness against different settings like size, race, element, and more. |
 
+### Cooking
+| NPC | Location | Description |
+|:-----:|----------|-------------|
+| ![Meowster NPC](img/NPC/4_CAT_CHEF.gif)<br>**Meowster** | `/navi prontera 102/79` | Here you can exchange some loot for **Level 1 Cookbook**, **Level 2 Cookbook**, **Level 3 Cookbook**, **Level 4 Cookbook**, **Level 5 Cookbook** |
+| ![Chef NPC](img/NPC/4_COOK.gif)<br>**Chef** | `/navi prontera 102/75` | Here you can buy basic ingredients for cooking. |
+| ![Capitan Jack NPC](img/NPC/4_CAT_SAILOR5.gif)<br>**Capitan Jack** | `/navi prontera 105/68` | You can buy **Fresh Fish** here. |
+| ![Farmer Betty NPC](img/NPC/4_F_BARYO_OLD.gif)<br>**Farmer Betty** | `/navi prontera 120/51` | Here you can buy **Bag of Grain**, **Bread** and **Milk** |
+| ![Butcher NPC](img/NPC/4_M_BARBER.gif)<br>**Butcher** | `/navi prontera 124/75` | This is a standard Butcher NPC that has changed location. |
+| ![Fruit Gardener NPC](img/NPC/8_F.gif)<br>**Fruit Gardener** | `/navi prontera 120/51` | This is a standard Butcher NPC that has changed location. |
+| ![Vegetable Gardener NPC](img/NPC/4_F_02.gif)<br>**Vegetable Gardener** | `/navi prontera 124/75` | This is a standard Butcher NPC that has changed location. |
+
 ### Other
 | NPC | Location | Description |
 |:-----:|----------|-------------|
