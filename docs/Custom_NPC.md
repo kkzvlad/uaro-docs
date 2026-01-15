@@ -41,6 +41,7 @@ Step inside the [Main Office](Main_Office.md) and you’ll find more to explore,
 | ![WoE Sign NPC](img/NPC/woe-info.gif)<br>**WoE Sign** | `/navi prontera 216/177` | The WoE Sign Board announces the next [War of Emperium](WoE.md) and shows current castle ownership. For Pre-Trans details, check the [Pre-Trans WoE page](Pre_Trans_WoE.md). [Signs are also in other cities.](WoE.md#woe-signs) |
 | ![Guild Battle Officer NPC](img/NPC/gvg-officer.gif)<br>**Guild Battle** | `/navi prontera 213/168` | The fight begins now! Enter the **Guild Battle Officer’s** PvP room where guilds settle their rivalries. Two guilds max, guild members only, BG consumables permitted! |
 | ![Training Dummy NPC](img/NPC/training-dummy.gif)<br>**Build Tester** | `/navi prontera 220/77` | **Target Dummies** allow you to test your build's effectiveness against different settings like size, race, element, and more. |
+| ![Sir Albrecht NPC](img/NPC/4_M_3RDPRIN1.gif)<br>**Sir Albrecht** | `/navi prontera 169/228` | **King of Emperium** (**KoE**) is a PvP/GvG event available only on World of Dreams, where guilds battle for control and protection of the Emperium in multiple themed battlefields. The event emphasizes tactical coordination and rewards players with valuable prizes for their participation. |
 
 ### Cooking
 | NPC | Location | Description |
