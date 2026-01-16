@@ -6,11 +6,11 @@ Welcome to the uaRO Mercenary System guide. This page covers everything you need
 
 There are three types of mercenaries, each found in different towns:
 
-:crossed_swords: Swordsman – Located in Izlude, near the entrance to the Swordman job quest.
+:crossed_swords: Swordsman – Located in Izlude, near the entrance to the Swordman job quest (`/navi izlude 47/139`).
 
-:shield: Spearman – Found in Prontera, to the left of the Knight Guild entrance.
+:shield: Spearman – Found in Prontera, to the left of the Knight Guild entrance (`/navi prontera 41/337`).
 
-:bow_and_arrow: Bowman – Available in Payon, on the right side of the Payon Cave entrance.
+:bow_and_arrow: Bowman – Available in Payon, on the right side of the Payon Cave entrance (`/navi payon 99/167`).
 
 !!! info "Minimum Requirement"
      Mercenaries become available starting from Base Level 15.
@@ -86,7 +86,7 @@ Berserk Potions :boom:
 HP/SP Potions :heart:/:droplet:
 
 !!! tip "Potion Vendor"
-     All potions are sold by the NPC next to the contract vendor.
+     All potions are sold by the NPC next to the contract vendor.<br> `/navi izlude 56/139`<br> `/navi prontera 30/337`<br> `/navi payon 102/167`
 
 !!! info "Healing"
      Heal skills work at 50% effectiveness on mercenaries.
