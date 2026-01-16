@@ -7,14 +7,37 @@ The instance offers unique rewards, including rare items and equipment, making i
 
 ### Requirements
 **Base Level:** 90  
-**Party:** At least one member
+**Party:** At least 3 members
 
 !!! note "**Global reset per account** at `06:00 Server Time` every **Monday**."
+
+### Lockout Mechanics
+
+- Account/UniqueID locked upon start of instance initiation
+- All mechanics still the same for loot, MVP structure etc.
+- Upon a successful full clear of the dungeon, the UniqueID will be released
+  for another run. Account will remain on cooldown (Free to utilize same PC
+  but different account)
+- BBG will remain blocked
+- If you DO NOT follow the mechanics and fully clear, you will be locked out
+  for the week
+
+
+!!! warning "Anti-Circumvention Policy"
+    Attempts to bypass these mechanics will result in all associated accounts banned.
+
+### End of Instance Specific UniqueID Unlock Points
+
+| Instance | Unlock Action |
+|----------|---------------|
+| **HTF** | Warp portal at end of map (Touch and exit) |
 
 ## How to get there
 
 ![HTF-NPC](img/HTF/HTF-NPC.jpg.png)<br>
 To start this instance, you need to go to Lutie and find the NPC Catherine Jet Johnson (**/navi xmas 237/303**). Talk to her and agree to help her.
+
+!!! note " After the instance starts, the party will have one minute for each member to type the **!ready** command in general chat. Otherwise, the instance will need to be restarted."
 
 ## Storyline
 
