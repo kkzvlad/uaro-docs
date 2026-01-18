@@ -55,7 +55,16 @@ The following gear is equippable by all extended classes: Taekwon, Star Gladiato
 | Wool Scarf [1] | Garment |
 | Magic Bible Vol. 1 | Accessory |
 
+### Super Novice
+The following gear is equippable by Super Novice.
 
+| Item | Equip Position |
+|---|---|
+| Gentle Heart [1] | Accessory |
+| Wounded Heart [1] | Accessory |
+| Orlean's Glove [1] | Accessory |
+| Linen Glove [1] | Accessory |
+| Valkyrie Knife | Weapon |
 
 ## Cards
 | Card Name | Change Description |

@@ -535,24 +535,16 @@ No other changes to Hunter skills.
                 <td><img src="../img/Class_Changes/nv_breakthrough.png" alt="">Breakthrough</td>
                 <td>Breakthrough is an Expanded Super Novice skill that has been adjusted for Pre-Renewal.</td>
                 <td>
-                    Increases your ATK, Max HP, Max SP, and incoming healing amounts.<br><br>
-                    <strong>Level 1</strong>: ATK + 10, Max HP + 200, Max SP + 20, Healing Amount +2%<br>
-                    <strong>Level 2</strong>: ATK + 20, Max HP + 400, Max SP + 40, Healing Amount +4%<br>
-                    <strong>Level 3</strong>: ATK + 30, Max HP + 600, Max SP + 40, Healing Amount +6%<br>
-                    <strong>Level 4</strong>: ATK + 40, Max HP + 800, Max SP + 80, Healing Amount +8%<br>
-                    <strong>Level 5</strong>: ATK + 60, Max HP + 1,000, Max SP + 100, Healing Amount +10%
+                    Increases your ATK, MATK, Max HP, Max SP, and incoming healing amounts.<br>
+                     ATK + 50, MATK +50, Max HP + 2000, Max SP + 200, Healing Amount +20%.
                 </td>
             </tr>
             <tr>
-                <td><img src="../img/Class_Changes/nv_transcendence.png" alt="">Transcendence</td>
-                <td>Transcendence is an Expanded Super Novice skill that has been adjusted for Pre-Renewal.</td>
+                <td><img src="../img/Class_Changes/nv_transcend" alt="">Super Blessing</td>
+                <td>N/A</td>
                 <td>
-                    Increases your MATK, Max HP, Max SP, and incoming healing amounts.<br><br>
-                    <strong>Level 1</strong>: MATK + 10, Max HP + 200, Max SP + 20, Healing Amount +2%<br>
-                    <strong>Level 2</strong>: MATK + 20, Max HP + 400, Max SP + 40, Healing Amount +4%<br>
-                    <strong>Level 3</strong>: MATK + 30, Max HP + 600, Max SP + 40, Healing Amount +6%<br>
-                    <strong>Level 4</strong>: MATK + 40, Max HP + 800, Max SP + 80, Healing Amount +8%<br>
-                    <strong>Level 5</strong>: MATK + 60, Max HP + 1,000, Max SP + 100, Healing Amount +10%
+                   Grants Inc Agi and Blessing status.<br>
+                   Does not stack with other Inc Agi/Blessing skills or scrolls.
                 </td>
             </tr>
             <tr>
@@ -561,6 +553,35 @@ No other changes to Hunter skills.
                 <td>
                     Restores HP and SP for you and your party members in a 15x15 cells around you.<br><br>
                     HP per second 500, SP per second 100. Duration of 20 seconds. Cooldown of 300 seconds.
+                </td>
+            </tr>
+            <tr>
+                <td>Removed Skills</td>
+                <td>N/A</td>
+                <td>
+                    <img src="../img/Class_Changes/al_incagi.gif" alt=""> Inc Agi<br>
+                    <img src="../img/Class_Changes/al_blessing.gif" alt=""> Blessing<br>
+                    <img src="../img/Class_Changes/mc_inccarry.gif" alt=""> Enlarge Weight Limit<br>
+                    <img src="../img/Class_Changes/mc_identify.gif" alt=""> Identify<br>
+                    <img src="../img/Class_Changes/nv_transcendence.png" alt=""> Transcendence<br>
+                    <img src="../img/Class_Changes/ac_owl.gif" alt=""> Owl's Eye
+                </td>
+            </tr>
+            <tr>
+                <td>Stat Adjustments</td>
+                <td>N/A</td>
+                <td>
+                     Base max weight increased by 2000.<br>
+                     Job levels 1-50 grant +10 additional DEX total.
+                </td>
+            </tr>
+            <tr>
+                <td>Doridori Enhancement</td>
+                <td>N/A</td>
+                <td>
+                    Now affects HP regeneration in addition to SP.<br>
+                    Grants status icon when active.<br>
+                    Force-ends when standing up.
                 </td>
             </tr>
         </tbody>
