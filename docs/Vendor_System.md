@@ -51,7 +51,7 @@ Next, head to the merchant's location and execute the `/navi` command.
 ![Navi Result](img/Vendor_System/whosell-gold-navigation.png)
 
 ### Use Merchants List page on website
-You can visit the [Merchants List Page](https://uaro.net/cp/?module=merchants&action=vendors), log in, and search for items.
+You can visit the [Merchants List Page](https://uaro.net/cp/?module=merchant&action=vendors), log in, and search for items.
 
 ![Log In](img/Vendor_System/log-in.png)  
 ![Merchants List](img/Vendor_System/merch-list.png)

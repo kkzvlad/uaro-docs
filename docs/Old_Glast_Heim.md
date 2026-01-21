@@ -90,7 +90,7 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
             <td><img src="../img/OGH/4_F_JOB_BLACKSMITH.gif" alt="4_F_JOB_BLACKSMITH"><br> Hugin's Craftsman</td>
             <td><img src="../img/OGH/22008.gif" alt="22008"> Upgraded Temporal boots [0] - 1<br><img src="../img/OGH/6607.gif" alt="6607"> Temporal Crystal - 1500<br>15,000,000 Zeny</td>
             <td><img src="../img/OGH/22008.gif" alt="22008"> Upgraded Temporal boots [1] (Agi,Dex,Str,Vit,Int,Luk)</td>
-            <td>50%</td>
+            <td>75%</td>
         </tr>
     </tbody>
 </table>

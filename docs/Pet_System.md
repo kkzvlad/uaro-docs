@@ -74,7 +74,7 @@ Auto-feed command `@autofeed` is enabled account-wide and persists through logou
 | ![Stone Shooter](img/1495.gif) Stone Shooter | ![Plant Neutrient](img/6109.gif) Plant Neutrient | ![Oilpalm Coconut](img/12369.gif) Oilpalm Coconut | ![Afro](img/10033.gif) Afro | Fire resistance +3%                    | 5% |
 | ![Succubus](img/1370.gif) Succubus          | ![Blue Vital Flower](img/710.gif) Blue Vital Flower | ![Boy's Pure Heart](img/12373.gif) Boy's Pure Heart | ![Black Butterfly Mask](img/10034.gif) Black Butterfly Mask | 5% chance to leech 5% of the damage as HP when performing a physical attack | 2% |
 | ![Scatleton](img/Scatleton1.gif) Scatleton  | ![Fresh Fish](img/579.png) Fresh Fish | 2023 Halloween Event Special        | None                                | Increases the recovery rate of Fresh Fish consumables by a whopping 70% | Event |
-| ![Christmas Goblin](img/1245.gif) Christmas Goblin | ![Scell](img/911.gif) Scell | 2023 Christmas Event Special        | None                                | Max HP +150, +5% Damage against Water Element | Event |
+| ![Christmas Goblin](img/1245.gif) Christmas Goblin | ![Scell](img/911.gif) Scell | 2023 Christmas Event Special        | None                                | Max HP +150, Damage resistance Water Element +5% | Event |
 | ![Gremlin](img/1632.gif) Gremlin            | ![Pet Food](img/537.png) Pet Food |![Airship Part](img/231800_1.png) Airship Part | None                                | DEX +2, HIT +1                         | 5% |
 | ![Nine Tail](img/1180.gif) Nine Tail      | ![Suspicious Bottle](img/25231.gif) Suspicious Bottle | ![Sap Jelly](img/23187.gif) Sap Jelly  | None                                | HIT +3, CRIT +3                     | 10% |
 | ![Mummy](img/1041.gif) Mummy              | ![Memento](img/934.gif) Memento         | ![Spiritual Bandage](img/23256.gif) Spiritual Bandage | None                                | HIT +5                              | 10% |
@@ -90,6 +90,7 @@ Auto-feed command `@autofeed` is enabled account-wide and persists through logou
 | ![1782](img/Pet_System/1782.gif) Roween | ![Pet Food](img/537.png) Pet Food | None | None | MATK +3%. | Obtained from monsters |
 | ![1798](img/Pet_System/1198.gif) Dark Priest | ![Pet Food](img/537.png) Pet Food | None | None | INT +4. | Obtained from monsters |
 | ![1005](img/Pet_System/1005.gif) Familiar | ![Pet Food](img/537.png) Pet Food | None | None | INT +4, Prevents Hallucination status. | Obtained from monsters |
+| ![1004](img/Pet_System/1004.gif) Hornet | ![Pet Food](img/537.png) Pet Food | None | None | Decreases Cast Time by 2%. Increases Magical Damage with Wind element by 2%. | 2% |
 
 !!! Intimacy
     HungerDecrement        = 3 (all)<br>
@@ -134,6 +135,7 @@ The vast majority of taming items drop from monsters according to the RMS databa
 | ![23257](img/23257.gif) Old Tree's Dew | Wooden Golem with a 0.1% chance. |
 | ![14574](img/14574.gif) Vagabond's Skull | Vagabond with a 12% chance. |
 | ![12363](img/12363.gif) Ghost Coffin | Ghostring with a 6% chance. |
+| ![102723](img/Pet_System/102723.gif) Beehive Box | Hornet with a 1% chance. |
 
 | **Egg**                                           | **Obtained From**                             |
 |---------------------------------------------------|-----------------------------------------------|
@@ -193,6 +195,8 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![1198](img/Pet_System/1198.gif) Dark Priest | ![7539](img/7539.gif) Poring Coin - 1000<br> ![7005](img/7005.gif) Skull - 1000<br> ![Card](img/Card.gif) Wraith Card - 5<br> ![Card](img/Card.gif) Ghoul Card - 5<br> | ![1302](img/Pet_System/1302.gif) Dark Illusion |
 | ![1302](img/Pet_System/1302.gif) Dark Illusion | ![7539](img/7539.gif) Poring Coin - 1000<br> ![Card](img/Card.gif) Evil Druid Card - 10<br> ![Card](img/Card.gif) Wraith Card - 10<br> ![Card](img/Card.gif) Ghoul Card - 10<br> | ![1302](img/Pet_System/1272.gif) Dark Lord |
 | ![Golem](img/1040.gif) Golem | ![7539](img/7539.gif) Poring Coin - 1000<br> ![12371](img/Pet_System/12371.gif) Magical Lithography - 3<br> ![12371](img/Pet_System/990.gif) Blood Red - 50<br> ![Card](img/Card.gif) Golem Card - 3 | ![Fire Golemm](img/Pet_System/3023.gif) Fire Golem |
+| ![1004](img/Pet_System/1004.gif) Hornet | ![7539](img/7539.gif) Poring Coin - 1000<br> ![526](img/526.png) Royal Jelly - 200<br> ![Card](img/Card.gif) Hornet Card - 5 | ![1303](img/Pet_System/1303.gif) Giant Hornet |
+| ![1303](img/Pet_System/1303.gif) Giant Hornet | ![7539](img/7539.gif) Poring Coin - 2000<br> ![Card](img/Card.gif) Driller Card - 10<br> ![Card](img/Card.gif) Mantis Card - 10<br> ![Card](img/Card.gif) Side Winder Card - 10<br> ![526](img/Pet_System/7018.gif) Young Twig - 1 | ![1059](img/Pet_System/1059.gif) Misteress |
 
 ## Evolved Pets
 
@@ -240,3 +244,5 @@ To evolve a pet, it must be in Loyal intimacy state and require the following it
 | ![1302](img/Pet_System/1302.gif) Dark Illusion | ![Pet Food](img/537.png) Pet Food | None | None | None | INT +3, Reduces Variable Cast Time by 3%. | INT +4, Reduces Variable Cast Time by 5%. |
 | ![1302](img/Pet_System/1272.gif) Dark Lord | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | INT +4, Reduces Variable Cast Time by 7%, Reduces After Cast Delay by 5%. | INT +5, Reduces Variable Cast Time by 10%, Reduces After Cast Delay by 10%.|
 | ![Fire Golemm](img/Pet_System/3023.gif) Fire Golem | ![Pet Food](img/537.png) Pet Food | None | None | None | MAXHP +400, Increases magical damage with Fire element by 3%. | MAXHP +500, Increases magical damage with Fire element by 5%. |
+| ![1303](img/Pet_System/1303.gif) Giant Hornet | ![Pet Food](img/537.png) Pet Food | None | None | None | Decreases Cast Time by 4%. Increases Magical Damage with Wind element by 3%. | Decreases Cast Time by 5%. Increases Magical Damage with Wind element by 5%. |
+| ![1059](img/Pet_System/1059.gif) Misteress | ![Luxurious Pet Food](img/25377.png) Luxurious Pet Food | None | None | None | Increases Physical Damage against monsters of Non-Boss class by 5%. | Increases Physical Damage against monsters of Non-Boss class by 5%. Nullifies Weapon Size Penalty. |

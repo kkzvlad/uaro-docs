@@ -186,6 +186,10 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
 - `@breakguild <guild_name>`  
   Breaks the guild of the attached character. You must be the guildmaster to use this command.
 
+ - `@guildbank`  
+  Permissions configurable by guild leader based on guild titles.  
+  ![@guildbank-img](img/@guildbank.png)
+
 <!--TODO: ADd guild storage log from 9/1/25 update
 
 - **Guild Storage Logs – `@guildlog` (in-game)**  

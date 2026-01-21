@@ -81,6 +81,7 @@ The RODEX mail system is one of the most convenient tools in uaRO, letting you s
 | **Summon Timeout** | Monsters spawned from Dead Branch, Bloody Branch, Azeroth, Abracadabra, etc will now auto-kill with no EXP or loot after 4 hours. |
 | **Action Prompts** | Fishing and mining spots ask for confirmation instead of automatically activating. Default option will cancel the action. |
 | **Ninja Ammo Balance** | Cost and weight rebalanced for fairer gameplay. |
+| **Increased weight limit for rebirth** | Increased weight limit from 0 to 500. |
 
 
 
@@ -91,7 +92,7 @@ The RODEX mail system is one of the most convenient tools in uaRO, letting you s
 | **Guild Storage Logs** | Guild leader can check `@guildlog` to see who accessed storage, when they accessed it, and permit others to see the logs based on title. |
 | **Optimized WoE** | [Weekly FE and SE WoE](WoE.md) gives flexibility in guild-based war. uaRO works closely with guild war leaders to optimize the WoE experience. |
 | **Pre-Trans WoE** | [Special weekly WoE mode](Pre_Trans_WoE.md) just for Pre-Trans Classes and Extended Classes. |
-
+| **Guild Bank** | Guild Bank NPC for zeny storage and transfers. |
 
 
 ## Quest Improvements

@@ -23,3 +23,4 @@ In Prontera nearby with Main Office (**/navi prontera 130/192**) you can find NP
 ![Card](img/Card.gif) Male Thief Bug Card  
 ![Card](img/Card.gif) Tarou Card  
 ![Card](img/Card.gif) Plankton Card  
+![Card](img/Card.gif) Thief Bug Egg Card

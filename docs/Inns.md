@@ -22,10 +22,10 @@ The appearance and naming of these NPCs may vary by town.
 | Prontera - East | `/navi prontera 204/190` |
 | Prontera - West | `/navi 110/117` |
 | Alberta | `/navi alberta 61/233` |
-| Aldebaran | `/navi aldebaren 198/68` |
+| Aldebaran | `/navi aldebaran 198/68` |
 | Amatsu | `/navi amatsu 52/145` |
 | Brasilis | `/navi brasilis 264/151` |
-| Ayothaya | `/navi ayothay 202/164` |
+| Ayothaya | `/navi ayothaya 202/164` |
 | Einbroch | `/navi einbroch 254/200` |
 | Geffen | `/navi geffen 171/172` |
 | Gonryun (Kunlun) | `/navi gonryun 112/131` |

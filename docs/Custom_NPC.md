@@ -41,6 +41,18 @@ Step inside the [Main Office](Main_Office.md) and you’ll find more to explore,
 | ![WoE Sign NPC](img/NPC/woe-info.gif)<br>**WoE Sign** | `/navi prontera 216/177` | The WoE Sign Board announces the next [War of Emperium](WoE.md) and shows current castle ownership. For Pre-Trans details, check the [Pre-Trans WoE page](Pre_Trans_WoE.md). [Signs are also in other cities.](WoE.md#woe-signs) |
 | ![Guild Battle Officer NPC](img/NPC/gvg-officer.gif)<br>**Guild Battle** | `/navi prontera 213/168` | The fight begins now! Enter the **Guild Battle Officer’s** PvP room where guilds settle their rivalries. Two guilds max, guild members only, BG consumables permitted! |
 | ![Training Dummy NPC](img/NPC/training-dummy.gif)<br>**Build Tester** | `/navi prontera 220/77` | **Target Dummies** allow you to test your build's effectiveness against different settings like size, race, element, and more. |
+| ![Sir Albrecht NPC](img/NPC/4_M_3RDPRIN1.gif)<br>**Sir Albrecht** | `/navi prontera 169/228` | **King of Emperium** (**KoE**) is a PvP/GvG event available only on World of Dreams, where guilds battle for control and protection of the Emperium in multiple themed battlefields. The event emphasizes tactical coordination and rewards players with valuable prizes for their participation. |
+
+### Cooking
+| NPC | Location | Description |
+|:-----:|----------|-------------|
+| ![Meowster NPC](img/NPC/4_CAT_CHEF.gif)<br>**Meowster** | `/navi prontera 102/79` | Here you can exchange some loot for **Level 1 Cookbook**, **Level 2 Cookbook**, **Level 3 Cookbook**, **Level 4 Cookbook**, **Level 5 Cookbook** |
+| ![Chef NPC](img/NPC/4_COOK.gif)<br>**Chef** | `/navi prontera 102/75` | Here you can buy basic ingredients for cooking. |
+| ![Capitan Jack NPC](img/NPC/4_CAT_SAILOR5.gif)<br>**Capitan Jack** | `/navi prontera 105/68` | You can buy **Fresh Fish** here. |
+| ![Farmer Betty NPC](img/NPC/4_F_BARYO_OLD.gif)<br>**Farmer Betty** | `/navi prontera 120/51` | Here you can buy **Bag of Grain**, **Bread** and **Milk** |
+| ![Butcher NPC](img/NPC/4_M_BARBER.gif)<br>**Butcher** | `/navi prontera 124/75` | This is a standard Butcher NPC that has changed location. |
+| ![Fruit Gardener NPC](img/NPC/8_F.gif)<br>**Fruit Gardener** | `/navi prontera 120/51` | This is a standard Butcher NPC that has changed location. |
+| ![Vegetable Gardener NPC](img/NPC/4_F_02.gif)<br>**Vegetable Gardener** | `/navi prontera 124/75` | This is a standard Butcher NPC that has changed location. |
 
 ### Other
 | NPC | Location | Description |
@@ -49,6 +61,8 @@ Step inside the [Main Office](Main_Office.md) and you’ll find more to explore,
 | ![Contractor NPC](img/NPC/contractor.gif)<br>**Branch Rooms** | `/navi prontera 129/212` | Rent a private branch room with the **Contractor NPC** for 120 minutes at a cost of 1,200,000z. You, your party, or your guild may leave and re-enter freely during the rental period. |
 | ![Gold Points NPC](img/NPC/gold-points.gif)<br>**Hourly Rewards** | `/navi prt_in 56/142` | The **Gold Points Manager** handles our [Hourly Rewards System](Hourly_Rewards_System.md), where you receive Gold Coins for every hour you play. Collect coins as you go, then visit the [Main Office](Main_Office.md) to exchange them for special prizes. |
 | ![Super Novice Death Reset NPC](img/NPC/sn-death-reset.gif)<br>**Super Novice Reset** | `/navi prt_field08 135/359` | Super Novices can reset their death record for free, making it easy to shake off bad luck and continue the adventure with a clean slate. |
+| ![Guild Agent NPC](img/NPC/4_F_AGENTKAFRA.gif)<br>**Guild Agent** | `/navi prt_in 214/163` | Guild Bank NPC for zeny storage and transfers (will be located near WoE NPCs south of eastern Prontera inn).<br>  - Max 2 Billion zeny storage.<br> - Permissions configurable by guild leader based on guild titles with @guildbank.<br> - Logs integrated into NPC |
+ 
 
 <!-- TEMPLATE // | ![Alt Text](img/name.gif)<br> **Functional Name** | `/navi map_name X/Y` | Description: includes actual NPC name, what is does, and what it costs if anything. Link out to other pages if relevant. | // END TEMPLATE -->
 
