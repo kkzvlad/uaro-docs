@@ -134,7 +134,9 @@ You can obtain the Mutating White Knight Egg by exchanging the required loot wit
 |-------|-------|
 | ![9133](img/Pet_System/9133.gif) Mutating White Knight Egg | ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 1 - 1<br> ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 2 - 1<br> ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 3 - 1<br> ![7802](img/Pet_System/7802.gif) Old Dusty Tomb Vol 4 - 1<br>  |
 
-
+## NPC Caesar
+NPC Caesar (**/navi glast_01 201/275**) can exchange all four Old Dusty Tombs for a box containing 20 Temporal Crystals.
+![NPC Caesar](img/OGH/Caeser-NPC.png)
 
 | Items | Monster | Chance |
 |-------|---------|--------|
