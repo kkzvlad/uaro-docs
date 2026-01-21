@@ -292,7 +292,10 @@ Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-d
             <tr>
                 <td><img src="../img/Class_Changes/am_twilight3.gif" alt="">Twilight Alchemy</td>
                 <td>N/A</td>
-                <td>Revamped all inclusive skill. Brews up to 300 of any create potion item, based on available resources in inventory. Requires Soul Link.</td>
+                <td>Revamped all inclusive skill. Brews up to 300 of any create potion item, based on available resources in inventory. Requires Soul Link.<br>
+                    Auto crafts upon skill use if only one potion type available (won't prompt ingredient verification/selection screen)<br>
+                    Cooldown: 2s
+                </td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/am_bioethics.gif" alt="">Bioethics</td>
