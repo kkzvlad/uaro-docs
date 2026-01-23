@@ -166,13 +166,19 @@ The @mapexp command introduces a rotating bonus EXP zone that updates every 48 t
   Use `@hidepet 2` to hide all pets.  
 
 - `@restockconfig`and `@restock`  
-  3 configurable lists (can be toggled on/off)  
+   
+   **Features:**  
+
+  Create up to 20 different restock lists
   Works under 90% weight (current or target %)  
-  Limitations:  
+  Add/delete/rename lists easily  
+  Improved management interface
+
+  **Limitations:**  
+
   Must be used within a Kafra (Card or NPC)  
   Only works inside towns  
   Pulls directly from storage to restock items to preset quantities  
-  ![@restockconfig](img/@restockconfig.png)
 
 - `@autofeed`  
   Persists through logout  
@@ -233,8 +239,27 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
 
 ## Duel Commands
 
-!!! Note
-    Currently duels are disabled on the server.
+- `@duel`  
+
+**Features:**  
+
+- Restricted to towns (leaving town ends duel)<br>
+- Target cursor selection (no name typing)<br>
+- Use @duel and target another player to invite<br>
+- Invited player must @duel and target you to accept<br>
+- Automatic debuff removal when leaving duel  
+
+   **Damage Modes:**
+
+  | Command | Mode | Description |
+  |---------|------|-------------|
+  | `@duel` | Normal | Standard damage calculations |
+  | `@duel bg` | Battleground | BG damage mode |
+  | `@duel gvg` | GvG | Guild vs Guild damage mode |
+  | `@duel leave` | Exit | Withdraw from duel (both players removed) |
+
+!!! note "Duel Mechanics"
+    The duel will follow the inviter's selected damage mode. Both players are automatically removed when one leaves.
 
 ## Channel Commands
 
