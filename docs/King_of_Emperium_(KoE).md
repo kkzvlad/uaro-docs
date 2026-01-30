@@ -88,5 +88,5 @@ Rewards are distributed as follows:
 - 🥈 **2nd Place — 30 Poring Coins**
 - 🥉 **3rd Place — 15 Poring Coins**
 
-To claim rewards, speak with the designated NPC after the event ends.  
+Rewards will be automatically mailed to winners after the event ends.
 **Good luck and have fun!**
