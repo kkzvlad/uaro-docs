@@ -1,7 +1,7 @@
 # Patch Notes
 
 ## 2026
-**[❄️ January 28, 2026](patch-notes/2026/patches28012026.md) (⭐ Latest Patch ⭐)**<br>
+**[❄️ January 30, 2026](patch-notes/2026/patches30012026.md) (⭐ Latest Patch ⭐)**<br>
 [❄️ January 21, 2026](patch-notes/2026/patches21012026.md)<br>
 
 ## 2025

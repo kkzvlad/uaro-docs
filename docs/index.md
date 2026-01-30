@@ -7,8 +7,8 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
-    === "January 28"
-        **January 28, 2026**
+    === "January 30"
+        **January 30, 2026**
 
         - Fixes: Airport portals, 300+ map cache replacements, client–server desync, walk distance reverted to 19.
         - @wb/@ws: Now display cards within items when searched.
@@ -19,7 +19,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         - Items: Advanced Assassin Mask all jobs, new costumes in Hunting Missions and Gold Coin NPC.
         - Pet Fixes: Vanilmirth bonus, Bacsojin pet food, Sniping Suit ACD fix.
 
-        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches28012026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches30012026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
 
     === "January 21"
         **January 21, 2026**
