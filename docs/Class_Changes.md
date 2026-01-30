@@ -287,12 +287,15 @@ Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-d
             <tr>
                 <td>Fame System</td>
                 <td>Fame points earned are kept permanently. Potions made by the 10 top ranked alchemists will receive a 50% bonus to their potency. Rankings can be checked with <code>@alchemist</code> in game.</td>
-                <td>Fame points decay by 10% per month, to support better game balance.</td>
+                <td>Fame points decay by 5% per mo                 nth, to support better game balance.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/am_twilight3.gif" alt="">Twilight Alchemy</td>
                 <td>N/A</td>
-                <td>Revamped all inclusive skill. Brews up to 300 of any create potion item, based on available resources in inventory. Requires Soul Link.</td>
+                <td>Revamped all inclusive skill. Brews up to 300 of any create potion item, based on available resources in inventory. Requires Soul Link.<br>
+                    Auto crafts upon skill use if only one potion type available (won't prompt ingredient verification/selection screen)<br>
+                    Cooldown: 2s
+                </td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/am_bioethics.gif" alt="">Bioethics</td>
@@ -720,8 +723,12 @@ Ninja's skill materials and ammo can are sold by our [Enhanced NPC Dealers](Deal
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/nj_kunai.gif" alt="">Throw Kunai</td>
-                <td>After cast delay of 1 second.</td>
-                <td>Reduced after cast delay to 0.5 seconds.</td>
+                <td>After cast delay of 1 second.<br>
+                    Skill range: 9 cell.
+                </td>
+                <td>Reduced after cast delay to 0.5 seconds.<br>
+                    Skill range: 12 cell.
+                </td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/nj_issen.gif" alt="">Final Strike</td>
@@ -732,11 +739,22 @@ Ninja's skill materials and ammo can are sold by our [Enhanced NPC Dealers](Deal
                 <td><img src="../img/Class_Changes/nj_huuma.gif" alt="">Throw Huuma Shuriken</td>
                  <td>
                     After cast delay of 2 seconds.<br>
-                    SP cost for level 1-5 is 20, 25, 30, 35, 40.
+                    SP cost for level 1-5 is 20, 25, 30, 35, 40.<br>
+                    Skill range: 9 cell.
                 </td>
                 <td>
                     Reduced after cast delay to 1.5 seconds.<br>
-                    Reduced SP cost to 5, 10, 15, 20, 25. 
+                    Reduced SP cost to 5, 10, 15, 20, 25.<br>
+                    Skill range: 12 cell.
+                </td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/nj_syuriken.gif" alt="">Throw Shuriken</td>
+                 <td>
+                    Skill range: 9 cell.
+                </td>
+                <td>
+                    Skill range: 12 cell.
                 </td>
             </tr>
         </tbody>
