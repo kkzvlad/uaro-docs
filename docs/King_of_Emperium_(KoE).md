@@ -30,7 +30,7 @@ KoE is held **three times per day** (Server Time — GMT):
 
 To participate, speak with the **Koeer NPC** near Prontera Inn.
 
-![Koeer NPC](img/Screenshot_2023-02-10_at_14.13.55.png)
+![Koeer NPC](img/KoE/Sir-Albrecht.png)
 
 ### 📋 Requirements
 
