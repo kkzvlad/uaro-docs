@@ -93,7 +93,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
             <tr>
                 <td><img src="../img/Class_Changes/cr_reflectshield.gif" alt="">Shield Reflect</td>
                 <td>Returns some damage dealt to you back to the enemy. Reflected damage a percentage of received damage.</td>
-                <td>The amount of damage reflected cannot be greater than the amount of HP the wearer of the skill has. Reflect is not transmitted if the character is within a Safety Wall.</td>
+                <td>The amount of damage reflected cannot be greater than the amount of HP the wearer of the skill has. Reflect is not transmitted if the character is within a Safety Wall.<br> Reflect damage no longer affects Boss-type monsters (MVPs).</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/cr_devotion.gif" alt="">Devotion</td>
@@ -422,6 +422,11 @@ Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-deal
                 <td>Skill duration is 60 seconds.</td>
                 <td>Increased duration to 90 seconds.</td>
             </tr>
+             <tr>
+                <td><img src="../img/Class_Changes/asc_cdp.gif" alt="">Create Deadly Poison</td>
+                <td>SP cost 50 SP.</td>
+                <td>SP cost 10 SP.</td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -686,6 +691,12 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
                 <td><img src="../img/Class_Changes/sl_sma.gif" alt="">Esma</td>
                 <td>SP Cost for Level 1–10: 8–80</td>
                 <td>Decreased SP Cost for Level 1–10: 4–40</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/sl_ske.gif" alt="">Eska</td>
+                <td>Increases monster's ATK by +300%, but halves their DEF. You can cast Esma within 3 seconds after using Eske.
+                "Es" type magic can only be used on monsters. If it is used on a player character, nothing happens and the caster will be stunned for 0.5 sec (not reduced by VIT).</td>
+                <td>Eske no longer affects Boss-type monsters</td>
             </tr>
         </tbody>
     </table>

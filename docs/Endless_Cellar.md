@@ -1,57 +1,89 @@
+---
+hide:
+  - toc
+---
+
 # Endless Cellar
 
-Endless Cellar is one of the most popular instances uaRO, designed for team-based gameplay. It is part of the so-called "endless" instances, offering players a challenge in the form of a series of dungeons filled with increasingly powerful monsters, mini-bosses, and mighty MVPs. This is not only an engaging PvE experience but also a place where players can earn valuable rewards and test their skills in teamwork. It’s a perfect challenge for guilds and friends who aim to overcome obstacles together. The Cellar is always ready to challenge those seeking adventure in the world of Your Dreams.
+**Endless Cellar** is one of the most popular instances on uaRO, designed for coordinated, team-based gameplay.  
+It belongs to the category of *endless instances*, where parties progress through multiple dungeon floors filled with increasingly powerful monsters, mini-bosses, and formidable MVPs.
+
+This instance offers not only a challenging PvE experience, but also valuable rewards and a true test of teamwork, coordination, and endurance. The Cellar is always ready to challenge those seeking adventure in the world of **Your Dreams**.
 
 !!! note "**Global reset per account** at `06:00 Server Time` every **Monday**."
 
+---
+
 ## Mechanics
 
-- All party members must be present on Misty Island at the time the Party Leader clicks to stone to initiate the dungeon start.
-- Any member who attempts to join an in progress party will automatically be kicked out of the instance.
-- Original members of the party may leave the dungeon and re-enter as long as a member is still active within the dungeon (If all members exit, the instance will be deleted 
-  and cooldown commences)
-- The minimum party size is six members.
-- Experience and loot and obtained per kill and will be issued depending on party share options
-- Bubble Gum and EXP manuals do not effect drop rate and/or exp rates
-- Loot/EXP is accounted based
-- Level 85+ to enter
-- Monsters remaining per floor will be announced starting with 5 remaining
+- All party members must be present on **Misty Island** when the Party Leader initiates the dungeon
+- Only the **Party Leader** can initiate instance entry
+- The **minimum party size is six members**
+- Any player attempting to join an in-progress instance will be **automatically removed**
+- Original party members may leave and re-enter the dungeon **as long as at least one member remains inside**
+  (If all members leave, the instance will be deleted and cooldown will begin)
+- Experience and loot are awarded **per kill** based on party share settings
+- **Bubble Gum and EXP manuals do not affect** drop rate or experience gain
+- Loot and EXP are **account-based**
+- **Level 85+** is required to enter
+- The number of monsters remaining per floor will be announced starting from **5 remaining**
+
+---
+
+## 🔐 Instance Start & Readiness Rules
+
+- After the instance is initiated, **all party members must type `!ready` within 60 seconds**
+- The instance begins **only when all members are marked as ready**
+- Players who disconnect may **rejoin the instance and use `!ready` again**
+- If readiness fails, the party will be **automatically returned to their save point**
+- All existing **safeguards and cooldown mechanics remain unchanged**
+
+---
 
 ### Lockout Mechanics
 
-- Account/UniqueID locked upon start of instance initiation
-- All mechanics still the same for loot, MVP structure etc.
-- Upon a successful full clear of the dungeon, the UniqueID will be released
-  for another run. Account will remain on cooldown (Free to utilize same PC
-  but different account)
-- BBG will remain blocked
-- If you DO NOT follow the mechanics and fully clear, you will be locked out
-  for the week
-
+- Account / **UniqueID** is locked upon instance initiation
+- All mechanics for loot distribution, MVP structure, and progression remain unchanged
+- Upon a **successful full clear**, the **UniqueID** will be released for another run  
+  (The account will remain on cooldown; the same PC may be used with a different account)
+- **BBG remains blocked**
+- Failure to fully clear the instance will result in a **lockout for the week**
 
 !!! warning "Anti-Circumvention Policy"
-    Attempts to bypass these mechanics will result in all associated accounts banned.
+    Any attempt to bypass these mechanics will result in **all associated accounts being permanently banned**.
 
-### End of Instance Specific UniqueID Unlock Points
+---
+
+### End of Instance – UniqueID Unlock Points
 
 | Instance | Unlock Action |
 |----------|---------------|
-| **EC** | Talk to Arc Pori Pori |
+| **Endless Cellar** | Talk to **Arc Pori Pori** |
 
-## How to start instance
+---
 
+## How to Start the Instance
 
 ![EC-Captain-Janssen](img/EC-Captain-Janssen.png)<br>
 
+To begin the instance, talk to **Captain Janssen** in Prontera  
+(**/navi prontera 217/187**). Speak with him multiple times to initiate the journey.
 
-To start the instance, you need to talk to Captain Janssen in Prontera (**/navi prontera 217/187** ). Talk to him a few times. The journey to Misty Island costs 10,000 Zeny.
-On the island, there is a Kafra who provides access to both personal storage and guild storage.
-We are interested in the NPC **Cellar Protection Stone**. Talk to the Cellar Protection Stone and select **Enter Endless Cellar**<br>
+- Travel cost to Misty Island: **10,000 Zeny**
+- A **Kafra NPC** on the island provides:
+  - Personal Storage
+  - Guild Storage
 
-!!! note " After the instance starts, the party will have one minute for each member to type the **!ready** command in general chat. Otherwise, the instance will need to be restarted."
-        
-![EC-Cellar-Prot-Stone](img/EC-Cellar%20Prot-Stone.png)
-![EC-Cellar-Prot-Stone1](img/EC-Cellar%20Prot-Stone1.png)
+On Misty Island, locate the **Cellar Protection Stone** NPC and select  
+**Enter Endless Cellar**.
+
+!!! note
+    After the instance is initiated, the party has **60 seconds** for all members to type  
+    **`!ready`** in general chat.  
+    Failure to do so will return the entire party to their save point and the instance must be restarted.
+
+![EC-Cellar-Protection-Stone](img/EC-Cellar%20Prot-Stone.png)  
+![EC-Cellar-Protection-Stone-2](img/EC-Cellar%20Prot-Stone1.png)
 
 ## Floors
 ### 1-24
