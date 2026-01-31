@@ -126,6 +126,10 @@ Auto-feed command `@autofeed` is enabled account-wide and persists through logou
 
 The vast majority of taming items drop from monsters according to the RMS database or from ![Taming Gift Set](img/12105.gif) [**Taming Gift Set**](Taming_Gift_Set.md), but there are exceptions for our server that are described in this section:
 
+!!! note
+    Taming items now check for use on a valid target before disappearing.
+
+
 | **Taming Item**                                  | **Obtained From**                             |
 |--------------------------------------------------|-----------------------------------------------|
 | ![Sap Jelly](img/23187.gif) Sap Jelly | Moonlight Flower with a 9% chance. |
