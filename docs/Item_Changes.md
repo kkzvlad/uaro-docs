@@ -16,8 +16,11 @@
 | Mercury Riser [1] | 18597 | Upper Headgear | Modified Renewal Gear: ASPD +3%, Critical +3. If refined to +7 or +8, adds an additional ASPD +2% and Critical +2. If refined to +9 or higher, adds an additional APSD +2% and Critical +2. |
 | Blood Sucker | 18754 | Lower Headgear | Modified Renewal Gear: Adds 1% chance of absorbing 3% physical damage influencted on target as HP. Disables natural HP and SP recovery. |
 | Snake Head [0] | 5388 | Upper Headgear | Added as a rare drop from Evil Snake Lord MVP at 0.9%. |
-
-
+| Angel Spirit [0] | 5389 | Middle Headgear | Added as a rare drop from Valkyrie Randgris MVP at 2.25%. |
+| Robo eye [0] | 5325 | Middle Headgear | Added as a rare drop from Vesper MVP at 2.1%. |
+| Hermode Cap[1] | 5481 | Upper Headgear | Added as a Uncommon drop from Assassin Cross Eremes (Mini Boss) at 15%. |
+| Bradium Brooch[1] | 2790 | Accessory | Added as a rare drop from Bradium Golem at 0.05%. |
+| Sigrun's Wings[0] | 5592 | Middle Headgear | Added as a rare drop from Gryphon at 0.9%. |
 
 
 ### Extended Classes
