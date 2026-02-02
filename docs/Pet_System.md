@@ -140,6 +140,19 @@ The vast majority of taming items drop from monsters according to the RMS databa
 | ![14574](img/14574.gif) Vagabond's Skull | Vagabond with a 12% chance. |
 | ![12363](img/12363.gif) Ghost Coffin | Ghostring with a 6% chance. |
 | ![102723](img/Pet_System/102723.gif) Beehive Box | Hornet with a 1% chance. |
+| ![102723](img/Pet_System/12367.gif) Luxury Whisky Bottle | Dullahan with a 0.1% chance. |
+| ![102723](img/Pet_System/12365.gif) Charming Lotus | Evil Nymph with a 0.1% chance. |
+| ![102723](img/Pet_System/12360.gif) Very Red Juice | Loli Rur with a 0.1% chance. |
+| ![102723](img/Pet_System/12362.gif) Kuloren | Shinobi with a 0.1% chance. |
+| ![102723](img/Pet_System/12369.gif) Oilpalm Coconut | Hornet with a 0.1% chance. |
+| ![102723](img/Pet_System/12371.gif) Magical Lithography | Golem with a 0.1% chance. |
+| ![102723](img/Pet_System/12359.gif) Very Soft Plant | Leaf Cat with a 0.5% chance. |
+| ![102723](img/Pet_System/12368.gif) Splendid Mirror | Medusa with a 0.5% chance. |
+| ![102723](img/Pet_System/5526.gif) Girl Doll | Miyabi Doll with a  0.5% chance. |
+| ![102723](img/Pet_System/12372.gif) Hell Contract | Nightmare Terror with a 0.5% chance. |
+
+
+## Egg
 
 | **Egg**                                           | **Obtained From**                             |
 |---------------------------------------------------|-----------------------------------------------|
