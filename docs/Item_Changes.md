@@ -60,7 +60,7 @@ The following gear is equippable by all extended classes: Taekwon, Star Gladiato
 | Vesper Core 04 [0] | Accessory |
 | Vital Tree Shoes [0] | Accessory |
 | Wool Scarf [1] | Garment |
-| Magic Bible Vol. 1 | Accessory |
+| Magic Bible Vol. 1 | Shield |
 
 ### Super Novice
 The following gear is equippable by Super Novice.
