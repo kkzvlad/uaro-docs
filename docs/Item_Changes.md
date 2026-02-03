@@ -5,6 +5,8 @@
 |---|---|---|
 | Thorn Staff of Darkness | 1636 | Can be equipped by Soul Linker.<br> Can be slotted. |
 
+[Expanded Class Weaponse](Expanded-Class-Weapons.md)
+
 
 
 ## Armor
