@@ -7,6 +7,34 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "January 30"
+        **January 30, 2026**
+
+        - Fixes: Airport portals, 300+ map cache replacements, client–server desync, walk distance reverted to 19.
+        - @wb/@ws: Now display cards within items when searched.
+        - MVP Announcements: Global kill announcement issues resolved (Abra + BB kills).
+        - Gameplay: Item probability pools updated (OCA, MCA, OPB, OBB, Gift Box, Taming Gift Set).
+        - Whitesmith: Meltdown SP cost capped at 50, performer weapon swap cancels songs.
+        - NPC: Guild Bank in Dewata, Repairman added to Warpra towns, new Comodo inn.
+        - Items: Advanced Assassin Mask all jobs, new costumes in Hunting Missions and Gold Coin NPC.
+        - Pet Fixes: Vanilmirth bonus, Bacsojin pet food, Sniping Suit ACD fix.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches30012026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
+    === "January 21"
+        **January 21, 2026**
+
+        - New Client: DirectX 9 support with native GPU utilization, improved security, no dgVoodoo2 needed.
+        - Vending Overhaul: Dewata main vending town with 2,610 spots, @market command, idle timer.
+        - Wolfchev Laboratory: New completion reward box with rare items (100% trade-locked).
+        - Battlegrounds: Max players increased to 80 (40v40), trans-only, spawn camping prevention.
+        - Skills: Create Deadly Poison/Elemental Converter mass produce up to 300, Quagmire boss fix.
+        - Homunculus: Lif Mental Change skill timers updated, effects persist through teleport.
+        - Commands: New @hideloot to hide trash loot, @noks aggro release on death.
+        - Cash Shop: New costumes, 13 effect-only costumes moved to Accessory slot.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches21012026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "December 29"
         **December 29, 2025**
 

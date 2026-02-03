@@ -161,6 +161,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# Raw patch note source files
+patchnotes_*.txt
+
 # AI/Editor specific files
 CLAUDE.md
 AGENTS.md
