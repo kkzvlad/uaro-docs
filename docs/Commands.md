@@ -72,36 +72,44 @@
   **Output in-game Example:**  
   ![Dropinfo Output](img/@dropinfo-outline.png)
 
-- `@lootconfig`  
-Enables or disables autolooting items from killed mobs. UI for Easy Autoloot Customization.<br>
-**Toggle Autoloot** – Set a drop rate & enable/disable.<br>
-**Ignore Items** – Exclude unwanted loot.<br>
-**Loot Groups** – Create up to 3 custom loot groups.<br>
-**Quick Setup** – Manage loot easily via UI.<br>
-**Saves Settings** – Preferences reload automatically on login.<br>
-![@lootconfig](img/@lootgonfig.png)
+## 🔧 @lootconfig — Advanced Autoloot System
 
-**How to Use `@lootconfig`**  
-1. Type `@lootconfig` to open the UI.  
-2. Choose **Main Autoloot** or **Custom Groups**.  
-3. Enable/Disable **Autoloot** and set a drop rate.  
-4. Add/Remove items from lists.  
-5. Select and manage **loot groups**.  
-6. Changes **apply instantly** and **save automatically**.  
+The `@lootconfig` command provides a **user-friendly UI** for managing autoloot settings and custom loot lists.
 
-!!! warning "Important Change"
-    The `@autoloot` command has been **removed**. Use `@lootconfig` instead.
+---
 
-<!--TODO: Update with info from 9/1/25 update 
-- **`@lootconfig` Preset Menus (Reconstructed)**:
-  ```
-  - Group Function added (initially displayed as List 1).
-  - Groups can be renamed.
-  - Max 20 groups.
-  - Clear all by deleting and recreating the list.
-  - Add/subtract single items within each list remains supported.
-  ```
--->
+### ✨ Key Features
+
+- **Toggle Autoloot** – Enable/disable autoloot and set a drop-rate threshold
+- **Ignore Items** – Exclude unwanted items from autoloot
+- **Loot Groups** – Create and manage up to **20 custom loot groups**
+- **Group Functions** – Preset list system (initially displayed as *List 1*)
+- **Rename Groups** – Fully customizable group names
+- **Quick Setup UI** – Easy and fast configuration via interface
+- **Persistent Settings** – All preferences are saved and restored on login
+
+---
+
+### 📦 Loot Group Management
+
+- Add or remove **individual items** per group
+- Clear a group by **deleting and recreating** the list
+- Each group operates independently
+- Supports **fine-grained loot filtering** for different farming needs
+
+---
+
+### ▶️ How to Use `@lootconfig`
+
+1. Type `@lootconfig` to open the configuration UI
+2. Choose **Main Autoloot** or **Custom Loot Groups**
+3. Enable or disable autoloot and set a drop rate
+4. Add or remove items from ignore or loot lists
+5. Create, rename, and manage loot groups
+6. All changes **apply instantly** and **save automatically**
+
+![@lootconfig UI](img/@lootgonfig.png)
+
 
 - `@whereis <monster name or ID>`  
   Displays the maps in which monster normally spawns.  
@@ -196,8 +204,6 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
   Permissions configurable by guild leader based on guild titles.  
   ![@guildbank-img](img/@guildbank.png)
 
-<!--TODO: ADd guild storage log from 9/1/25 update
-
 - **Guild Storage Logs – `@guildlog` (in-game)**  
   Will be added to **Control Panel** later.  
   **Features:**
@@ -212,7 +218,6 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
   - All storage-access members (based on in-game title)
   - All members
   ```
--->
 
 ## Homunculus Commands
 

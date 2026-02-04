@@ -1,18 +1,24 @@
 # Pre-Trans WoE
 
-Pre-Trans WoE in Ragnarok Online is a guild-based PvP event where only second jobs and below can participate, creating a unique and balanced battlefield. Without transcendent skills, strategy and teamwork become even more crucial. Guilds must break the Emperium to claim castles while fending off enemy attacks. Holding a castle grants access to Guild Dungeons and valuable treasures, making competition fierce. The absence of overpowered buffs and gear encourages classic gameplay, where skill rotations, positioning, and proper class synergy matter most. Tanks, wizards, assassins, and supports all have key roles, ensuring a dynamic and engaging experience.
+Pre-Trans WoE in Ragnarok Online is a guild-based PvP event where only **second jobs and below** can participate, creating a unique and balanced battlefield. Without transcendent skills, **strategy and teamwork** become far more important.
 
-For many players, Pre-Trans WoE brings a strong sense of nostalgia, reminding them of the early days of Ragnarok Online, when guild wars were more about tactics than raw power. Additionally, preparing for this type of WoE is much easier, as the required gear is more accessible compared to WoE FE or WoE SE. This makes it a great option for both new and returning players looking to experience WoE without the heavy grind.
+Guilds compete to break the Emperium and hold castles while defending against enemy assaults. Holding a castle grants access to **Guild Dungeons** and valuable treasures, making competition fierce. The absence of overpowering buffs and gear encourages classic gameplay where **positioning, coordination, and class synergy** matter most.
+
+For many players, Pre-Trans WoE evokes strong nostalgia, recalling the early days of Ragnarok Online when WoE was more about tactics than raw power. Preparation is also significantly easier, as required gear is more accessible compared to WoE FE or WoE SE, making this mode ideal for both new and returning players.
+
+---
 
 ## Schedule
 
-On our server, WoE takes place every Sunday and lasts for one hour.<br>
+On our server, Pre-Trans WoE takes place **every Saturday** and lasts for **1 hour**.
 
 ### Saturday
 
-| Server Time (UTC)  | CET (UTC +1)    | EET (UTC +2)       |  IST (UTC +5)          | PST (UTC -8)          | MST (UTC -7)         | CST (UTC -6)         | EST (UTC -5)         |
-|--------------------|-----------------|--------------------|------------------------|-----------------------|----------------------|----------------------|----------------------|
-| 15:00              | 16:00           | 17:00              | 20:00                  | 07:00                 | 08:00                | 09:00                | 10:00                |
+| Server Time (UTC) | CET (UTC +1) | EET (UTC +2) | IST (UTC +5) | PST (UTC -8) | MST (UTC -7) | CST (UTC -6) | EST (UTC -5) |
+|-------------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
+| 15:00             | 16:00        | 17:00        | 20:00        | 07:00        | 08:00        | 09:00        | 10:00        |
+
+---
 
 #### Available Castles
 
@@ -46,24 +52,33 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 | ![616](img/616.gif) Mystical Card Album | AD Bottle Sets - 2k |![7619](img/7619.gif) Enriched Elunium - 40 |
 |                     |                   | ![7620](img/7620.gif) Enriched Oridecon - 40 |
 
-## WoE Mechanics
+## WoE Mechanics (Pre-Trans)
 
-- 24 member cap within any given castle (Recall prioritizes top most rank downwards until number met) Extended, Baby and Trans classes will yield no movement  
-- All MVP cards render no effect within WoE Castles (Still equipable, but have no effect) 
-- Alliances are allowances with one Guild. Guilds of the same alliances must have 2 different emblems that can be easily recognised to avoid confusion.<br> 
-- If you equip an item on the block list, it will yield 0 effect within castles  
-- Buffs received by Trans / Extended classes will automatically be removed upon entry into castle (Portal or E-Call)  
-- Issuing FCP as a creator to members outside of castles prior to entrance into Pre-Trans WoE castles is strictly forbidden and will yield an account ban
-- @GuildHP is now toggleable through @settings (Allows you to view Guild member HP even outside of party)  
-- Guild Emblems must be visible and clearly identifiable to participate  
+- **24-player cap** per castle  
+  (Recall prioritizes highest-ranked members until the cap is reached)
+- **Extended, Baby, and Trans classes cannot move** inside Pre-Trans castles
+- **All MVP cards have no effect**  
+  (They can be equipped but provide no bonuses)
+- Alliances are allowed with **one allied guild only**
+- Allied guilds must use **distinct and clearly recognizable emblems**
+- Buffs applied by **Trans or Extended classes** are automatically removed upon castle entry
+- Using **FCP outside castles** prior to entering Pre-Trans WoE is strictly forbidden and will result in a ban
+- `@GuildHP` can be toggled via `@settings`
+- Guild emblems **must be visible** to participate
 
-!!! warning "The following changes apply only within Pre-Trans castles and during active Pre-Trans WoE:"
-    - Traps are no longer friendly fire — they do not affect guild members or the caster.  
-    - Monks can no longer snap/body relocate past or out of traps.  
-    - Magnum Break reverted to Pre-Ep8: 3×3 cell range (affects only your cell, not nearby traps).  
-    - **Rodex** menu cannot be used to send/receive mail.  
-    - Kafra cards are disabled  
-    - Enchanted armors are disabled  
+### Castle & Combat Rules
+
+- **Guild Menu Warp** is **disabled during Pre-Trans WoE**  
+  (Re-enabled outside WoE; warp points appear next to the lever)
+- **Guild Flag Warp** is **relocated to the castle entrance**  
+  Prevents ultra-fast defender returns
+- **Trap limit:** maximum **10 traps per Hunter**  
+  Placing an 11th trap removes the **oldest active trap**, even if Snare is active
+- **Dispel does NOT remove Snare effects**, regardless of caster (including friendly Dispel)
+- **Gym Pass – Enlarge Weight Limit** has **no effect** during Pre-Trans WoE  
+  Merchant base skill behavior remains unchanged
+- **Blocked equipment inside castles:**  
+  - All enchant effects
 
 ## Item Block Lists	
 
@@ -243,6 +258,8 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 	| Bloody Roar [0] | 1265 |
 	| Tomahawk [0] | 1368 |
 	| Ice Pick [1] | 13017 |
+	| Ice Pick [0] | 1230 | 
+    | Combat Knife [0] | 1228 |
 	| Sage's Diary [2] | 1560 |
 	| Luna Bow [2] | 1723 |
 	| Robe of Cast [0] | 2343 |
