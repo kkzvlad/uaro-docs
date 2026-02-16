@@ -155,6 +155,21 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                 <td>Increases MATK for the next instance of magical damage dealt. Does not include multiple ticks.</td>
                 <td>Modified to increase MATK for each tick AoE spells Meteor Storm, Storm Gust, and Lord of Vermillion.</td>
             </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/mg_soulstrike.gif" alt="">Soul Strike</td>
+                <td>Damage increases per level 5% </td>
+                <td>Damage increases per level 7%.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/mg_napalmbeat.gif" alt="">Napalm Beat</td>
+                <td>N/A.</td>
+                <td>No longer splits damage across multiple targets - full damage applied to each mob hit.</td>
+            </tr>
+             <tr>
+                <td><img src="../img/Class_Changes/wz_stormgust.gif" alt="">Storm Gust</td>
+                <td>N/A.</td>
+                <td>Area of Effect: Increased AoE 1 cell and removed single cell attack range restriction.</td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -316,6 +331,11 @@ Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-d
                 <td><img src="../img/Class_Changes/am_resurrecthomun.gif" alt="">Resurrect Homunculus</td>
                 <td>Resurrect a killed Homunculus.</td>
                 <td>Calling your last called homc is still free (No embryo required).</td>
+            </tr>
+             <tr>
+                <td><img src="../img/Class_Changes/am_cannibalize.gif" alt="">Bio Cannibalize</td>
+                <td>N/A.</td>
+                <td>Increased plant count of Flora, Parasite, Geographer on non-PvP maps for improved PvE viability.</td>
             </tr>
         </tbody>
     </table>
@@ -515,6 +535,11 @@ No other changes to Hunter skills.
                 <td><img src="../img/Class_Changes/cg_hermode.gif" alt="">Wand of Hermode</td>
                 <td>Skill is an ensamble and requires both a Clown and Gypsy to perform.</td>
                 <td>Skill can be performed solo.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/cg_arrowvulcan.gif" alt="">Arrow Vulcan</td>
+                <td>Cast delay: 3 seconds.</td>
+                <td>Cast delay: 2 seconds.</td>
             </tr>
         </tbody>
     </table>

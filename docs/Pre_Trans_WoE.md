@@ -24,8 +24,10 @@ On our server, Pre-Trans WoE takes place **every Saturday** and lasts for **1 ho
 
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
-| Fadhgridh. Prontera | ![Prontera Castle](img/WoE/Prontera-Fadhgridh.png) | [![Skoegul Room](img/WoE/Prontera-Fadhgridh-EmpRoom.png){width=500 height=400}](img/WoE/Prontera-Fadhgridh-EmpRoom.png) | ![Prontera Dun](img/WoE/Prontera-Dun.png) |
-<!--| Neuschwanstein. Aldebaran | ![Aldebaran Castle](img/WoE/Aldebaran-Neuschwanstein.png) | [![Yesnelph Room](img/WoE/Aldebaran-Neuschwanstein-EmpRoom.png){width=500 height=400}](img/WoE/Aldebaran-Neuschwanstein-EmpRoom.png) | ![Aldebaran Dun](img/WoE/Aldebaran-Dun.png) |
+| Repherion. Gefen | ![Repherion Castle](img/WoE/Gefen-Repherion.png) | [![Repherion Room](img/WoE/Gefen-Repherion-EmpRoom.png){width=284 height=384}](img/WoE/Aldebaran-Hohenschwangau-Emp) | ![Gefen Dun](img/WoE/Geffen-Dun.png) |
+| Bright Arbor. Payon | ![Payon Castle](img/WoE/Payon-Bright%20Arbor.png) | [![ Bright Arbor Room](img/WoE/Payon-Bright%20Arbor-EmpRoom.jpg){width=284 height=384}](img/WoE/Payon-Bright%20Arbor-EmpRoom.jpg ) | ![Payon Dun](img/WoE/Payon-Dun.png) |
+<!--| Fadhgridh. Prontera | ![Prontera Castle](img/WoE/Prontera-Fadhgridh.png) | [![Skoegul Room](img/WoE/Prontera-Fadhgridh-EmpRoom.png){width=500 height=400}](img/WoE/Prontera-Fadhgridh-EmpRoom.png) | ![Prontera Dun](img/WoE/Prontera-Dun.png) |
+| Neuschwanstein. Aldebaran | ![Aldebaran Castle](img/WoE/Aldebaran-Neuschwanstein.png) | [![Yesnelph Room](img/WoE/Aldebaran-Neuschwanstein-EmpRoom.png){width=500 height=400}](img/WoE/Aldebaran-Neuschwanstein-EmpRoom.png) | ![Aldebaran Dun](img/WoE/Aldebaran-Dun.png) |
 | Yesnelph. Geffen | ![Geffen Castle](img/WoE/Geffen-Yesnelph.png) | [![Yesnelph Room](img/WoE/Geffen-Yesnelph-EmpRoom.jpg){width=500 height=400}](img/WoE/Geffen-Yesnelph-EmpRoom.jpg) | ![Geffen Dun](img/WoE/Geffen-Dun.png) |
 | Skoegul. Prontera | ![Prontera Castle](img/WoE/Prontera-Skoegul.png) | [![Skoegul Room](img/WoE/Prontera-Skoegul-EmpRoom.png){width=500 height=400}](img/WoE/Prontera-Skoegul-EmpRoom.png) | ![Prontera Dun](img/WoE/Prontera-Dun.png) |
 | Rothenburg. Aldebaran | ![Aldebaran Castle](img/Pre-Trans-WoE/Aldebaran-Rothenburg.png) | [![Skoegul Room](img/Rothenburg-EmpRoom.png){width=500 height=400}](img/Rothenburg-EmpRoom.png) | ![Aldebaran Dun](img/Aldebaran-Dun.png) | -->
@@ -37,8 +39,10 @@ On our server, Pre-Trans WoE takes place **every Saturday** and lasts for **1 ho
 
 | Castle Name. Town  | Treasure Chest 1 | Treasure Chest 2 |
 |--------------------|------------------|------------------|
-| Fadhgridh. Prontera | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 15%<br> ![Treasure Box](img/WoE/7444.gif) Treasure Box - 10%<br> ![6443](img/6443.gif) Silit Pong - 0.03%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 15%<br> ![6919](img/6919.gif) Token of Honor - 0.25%<br> ![6443](img/6443.gif) Silit Pong - 0.03%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
-<!--| Skoegul. Prontera | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![6919](img/6919.gif) Token of Honor - 0.25%<br> ![1158](img/1158.gif) Two-Handed Sword [2] - 35%<br> ![2404](img/2404.gif) Shoes [1] - 40%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+| Repheriond. Gefen | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 20%<br> ![12106](img/12106.gif) Jewelry Box - 2.5%<br> ![7620](img/7620.gif) Enriched Oridecon - 20%<br> ![616](img/616.gif) Old Card Album - 30%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 20%<br> ![6919](img/6919.gif) Token of Honor - 0.25%<br> ![6443](img/6443.gif) Silit Pong - 0.05%<br> ![7619](img/7619.gif) Enriched Elunium - 20%<br> ![616](img/616.gif) Mystical Card Album - 0.02% |
+| Bright Arbor. Payon | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 15%<br> ![Treasure Box](img/WoE/7444.gif) Treasure Box - 10%<br> ![6443](img/6443.gif) Silit Pong - 0.03%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 15%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![411913](img/411913.png) WoE Material Box - 10%<br> ![6684](img/6684.gif) Heroic Token - 0.15%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+<!--| Fadhgridh. Prontera | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 15%<br> ![Treasure Box](img/WoE/7444.gif) Treasure Box - 10%<br> ![6443](img/6443.gif) Silit Pong - 0.03%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 15%<br> ![6919](img/6919.gif) Token of Honor - 0.25%<br> ![6443](img/6443.gif) Silit Pong - 0.03%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+| Skoegul. Prontera | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![6919](img/6919.gif) Token of Honor - 0.25%<br> ![1158](img/1158.gif) Two-Handed Sword [2] - 35%<br> ![2404](img/2404.gif) Shoes [1] - 40%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
 | Rothenburg. Aldebaran | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![1238](img/1238.gif) Zeny Knife - 9%<br> ![616](img/616.gif) Mystical Card Album - 0.01% | -->
 
 ## Token System
@@ -59,25 +63,32 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 - **Extended, Baby, and Trans classes cannot move** inside Pre-Trans castles
 - **All MVP cards have no effect**  
   (They can be equipped but provide no bonuses)
-- Alliances are allowed with **one allied guild only**
+- Alliances are allowed with **one allied guild only** outside of castles
+- **Alliances are removed within castles during active Pre-Trans WoE**
 - Allied guilds must use **distinct and clearly recognizable emblems**
 - Buffs applied by **Trans or Extended classes** are automatically removed upon castle entry
 - Using **FCP outside castles** prior to entering Pre-Trans WoE is strictly forbidden and will result in a ban
 - `@GuildHP` can be toggled via `@settings`
 - Guild emblems **must be visible** to participate
+- **Chat spam filter is disabled** inside Pre-Trans WoE
+
+---
 
 ### Castle & Combat Rules
 
-- **Guild Menu Warp** is **disabled during Pre-Trans WoE**  
+- **Guild Menu Warp** is disabled during Pre-Trans WoE  
   (Re-enabled outside WoE; warp points appear next to the lever)
-- **Guild Flag Warp** is **relocated to the castle entrance**  
-  Prevents ultra-fast defender returns
-- **Trap limit:** maximum **10 traps per Hunter**  
-  Placing an 11th trap removes the **oldest active trap**, even if Snare is active
-- **Dispel does NOT remove Snare effects**, regardless of caster (including friendly Dispel)
-- **Gym Pass – Enlarge Weight Limit** has **no effect** during Pre-Trans WoE  
+- **Guild Flag Warp** has been relocated:
+  - Guild Flag Warp moved to the **castle entrance**
+  - Return flags moved to **Floor 2**
+  (Prevents ultra-fast defender returns)
+- **Trap limit:** maximum **25 traps per player**
+- Placing additional traps beyond the limit removes the **oldest active trap**
+- **Dispel does NOT remove Snare effects**, regardless of caster
+- **Quagmire no longer affects friendly guild members**
+- **Gym Pass – Enlarge Weight Limit** has no effect during Pre-Trans WoE  
   Merchant base skill behavior remains unchanged
-- **Blocked equipment inside castles:**  
+- **Blocked equipment inside castles:**
   - All enchant effects
 
 ## Item Block Lists	

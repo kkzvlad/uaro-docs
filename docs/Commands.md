@@ -131,11 +131,39 @@ The `@lootconfig` command provides a **user-friendly UI** for managing autoloot 
 - `@jailtime`  
   Displays remaining jail time.
 
-- `@killcount`<br>
-  Count killed monsters.<br>
-The `@killcount` command has been **rewritten** and now includes a **UI-based tracking system**.  
-Now allows tracking of **multiple monsters** (default: `5`).  
-![KillcountUI](img/@killcountUI.png)
+## @killcount — Enhanced Kill Tracking System
+
+The `@killcount` command has been **fully rewritten** and now features a modern **UI-based tracking system** with session-based monitoring and improved visual feedback.
+
+![Killcount UI](img/@killcountUI.png)
+
+---
+
+### ✨ Key Features
+
+- Track specific monster kills in your current session
+- Track **multiple monsters simultaneously** (default: 5)
+- Visual kill counter displayed above your character upon each kill
+- Reset function for tracked kills
+- “Tracked kills” indicator when using the command
+- Total killcount preserved across all monsters
+- Shorthand command available: `@kc`
+
+---
+
+### 📋 Usage
+
+| Command | Description |
+|----------|-------------|
+| `@killcount` | Opens the UI-based tracking system |
+| `@killcount [MobID]` | Track a specific monster |
+| `@kc [MobID]` | Shorthand version of the command |
+
+---
+
+!!! success "System Overhaul"
+    The killcount system has been completely modernized with UI integration,  
+    session-based tracking, and improved real-time visual feedback.
 
 - `@mapexp`<br>
 The @mapexp command introduces a rotating bonus EXP zone that updates every 48 to 72 hours. During this period, selected areas grant an additional 20–30% EXP.  
