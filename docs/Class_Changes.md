@@ -652,6 +652,11 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
                 <td>Fame points earned are kept permanently. The top 10 ranked taekwon players are able to perform infinite combos and receive tripled Maximum HP and SP at level 90. Fame points are ignored if player changes job to Star Gladiator. Rankings can be checked with <code>@taekwon</code> in game.</td>
                 <td>Fame points decay by 10% per month, to support better game balance.</td>
             </tr>
+             <tr>
+                <td><img src="../img/Class_Changes/tk_mission.gif" alt="">Taekwon Mission</td>
+                <td>SP Cost: 10<br> Reset Chance: 1%<br> Cast Time: 1 second</td>
+                <td>SP Cost: 1<br> Reset Chance: 5%<br> Cast Time: 0.5 second</td>
+            </tr>
         </tbody>
     </table>
 </div>

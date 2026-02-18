@@ -43,7 +43,28 @@
 
 - `@noks`  
   Toggles Kill Steal Protection.  
-  **Note:** If a mob has the Boss flag, `@noks` doesn't work on this mob.
+
+  **Lock starts when:**  
+ Damage is done outside of aggro range of mob  
+ Mob locks onto a player target  
+
+**Lock Mechanics:**
+
+| Mechanic | Description |
+|----------|-------------|
+| **Idle Release** | If a player is idle for `5 seconds` or longer, aggro lock is released |
+| **Lock Timer** | `15 seconds` (timer does NOT start until another player attempts to KS your mob) |
+| **Hard Cap** | `30 seconds` (will release regardless of variables) |
+| **MVP/Mini** | Doesn't apply to any MVP/Mini boss that has NoKS null and void |
+| **Max Mob Count** | Unlimited |
+
+**System UI Options:**
+
+| Mode | Description |
+|------|-------------|
+| **Self** | Disables Party/Guild |
+| **Party** | Allows party members |
+| **Guild** | Allows guild members |
 
 - `@camerainfo`  
   Displays/hides camera information from the client.  
