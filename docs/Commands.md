@@ -241,6 +241,13 @@ The @mapexp command introduces a rotating bonus EXP zone that updates every 48 t
   Persists through logout  
   Account-wide, based on your setting  
 
+- `@hideloot`
+
+| Setting | Description |
+|---------|-------------|
+| **Function** | Blocks display of trash loot on the ground |
+| **Default** | Off upon each login (prevents people from forgetting) |
+
 ## Trade Commands
 Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating shops.
 

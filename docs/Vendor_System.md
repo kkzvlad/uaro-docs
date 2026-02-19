@@ -7,24 +7,56 @@ The server provides a diverse range of options for players to find, purchase, an
 
 
 
-## How to get to Dewata
-Dewata is a key trading area. To access Dewata, speak to the **Merchants Warp NPC** (`/navi prontera 139/171`) located in Prontera near the Main Office.
+## 🌴 Dewata Vending System
+
+### 📍 General Features
+
+| Feature | Description |
+|----------|------------|
+| Available Spots | 2,610 properly spaced vending spots across the map |
+| Bulletin Boards | Removed |
+| Vending Skill | "Dewata-only" — teleports you to the closest available vending spot |
+| `@market` Command | "Dewata-only" — teleports you to the center of Dewata |
+| Vending Helper NPC | Includes "Find random vending spot" option |
+| Prontera Return | Integrated into the Vending Helper NPC |
+| Idle Timer | Players are kicked if a shop is not opened within 5 minutes |
+| Geffen Tower | Entrance vending obstruction cleaned up |
+
+---
+
+### 🌍 Vending Outside Dewata
+
+Dewata is the **main trade zone**, but vending is also allowed in the following towns only:
+
+- Payon  
+- Morocc  
+- Alberta  
+- Comodo  
+
+Vending is **not allowed** in dungeons or unauthorized maps.
+
+---
+
+## 🚪 How to Access Dewata
+
+To travel to Dewata, speak to the **Merchants Warp NPC**  
+(`/navi prontera 139/171`) located in Prontera near the Main Office.
 
 ![Merchants Warp NPC](img/Vendor_System/merchants-warp.png)
 
-To return to Prontera, speak to the **Prontera Warper** (`/navi dewata 199/185`).
+To return to Prontera, use the **Prontera Return option** from the Vending Helper in Dewata.
 
-![Prontera Warper](img/Vendor_System/prontera-warper.png)
+---
 
+## 🛠 Vendor Manager System
 
+To prevent overlapping shops and improve marketplace organization, the **Vendor Management System** has been implemented.
 
-## Vendor Manager System
-Stores can only be opened in towns and authorized locations. It is prohibited to open stores in unauthorized locations, such as dungeons.
+### Features
 
-To streamline the process, we have introduced the **Vendor Management System**:
-
-- **Spot Picker NPC**: Easily select a designated spot for your shop, ensuring no overlaps with other vendors.
-- **Kafra NPC**: Access Kafra services at the marketplace for added convenience.
+- **Spot Picker NPC** — Select a designated vending location
+- **Kafra NPC** — Convenient storage access within marketplace
+- Clean map-wide vendor spacing
 
 !!! note
     Autotrading merchants are allowed while playing on another account.

@@ -165,10 +165,15 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                 <td>N/A.</td>
                 <td>No longer splits damage across multiple targets - full damage applied to each mob hit.</td>
             </tr>
-             <tr>
+            <tr>
                 <td><img src="../img/Class_Changes/wz_stormgust.gif" alt="">Storm Gust</td>
                 <td>N/A.</td>
                 <td>Area of Effect: Increased AoE 1 cell and removed single cell attack range restriction.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/wz_quagmire.gif" alt="">Quagmire</td>
+                <td>N/A.</td>
+                <td>Now properly reflects pre-renewal behavior - no longer affects boss type monsters (any boss, not just MVPs).</td>
             </tr>
         </tbody>
     </table>
@@ -195,7 +200,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
             <tr>
                 <td><img src="../img/Class_Changes/sa_autospell.gif" alt="">Auto Spell</td>
                 <td>Maximum level of skill varies from 1-3 based on skill level. Skill cast chance varies by level used.</td>
-                <td> Skills cast can trigger up to level 5 bolts on all elements when skill level 4 or higher.</td>
+                <td> Skills cast can trigger up to level 5 bolts on all elements when skill level 4 or higher.<br>When bolts are triggered, will cast max level learned up to level 5 (Non-Linked). </td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/pf_mindbreaker.gif" alt="">Mind Breaker</td>
@@ -450,7 +455,7 @@ Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-deal
              <tr>
                 <td><img src="../img/Class_Changes/asc_cdp.gif" alt="">Create Deadly Poison</td>
                 <td>SP cost 50 SP.</td>
-                <td>SP cost 10 SP.</td>
+                <td>SP cost 10 SP.<br> HP Loss Mechanic: Removed (no longer lose HP on failure)<br> Mass Production: Up to 300 at a time </td>
             </tr>
         </tbody>
     </table>

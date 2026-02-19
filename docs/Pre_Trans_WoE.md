@@ -20,11 +20,25 @@ On our server, Pre-Trans WoE takes place **every Sunday** and lasts for **1 hour
 
 ---
 
+## 📝 Guild Registration Requirement (Pre-Trans WoE)
+
+To enter Pre-Trans WoE castles, guilds must be officially **registered and whitelisted** by the GM Team.
+
+### 📋 Registration Requirements
+
+- Guilds must maintain a **consistent minimum of 16 active players**
+- The guild must appoint a **Pre-Trans WoE representative**
+- The representative must remain active in the designated **War Room Discord channel**
+
+Only guilds that meet these conditions and receive GM approval will be allowed to enter castles during active Pre-Trans WoE.
+
+---
+
 #### Available Castles
 
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
-| Repherion. Gefen | ![Repherion Castle](img/WoE/Gefen-Repherion.png) | [![Repherion Room](img/WoE/Gefen-Repherion-EmpRoom.png){width=284 height=384}](img/WoE/Aldebaran-Hohenschwangau-Emp) | ![Gefen Dun](img/WoE/Geffen-Dun.png) |
+| Repherion. Gefen | ![Repherion Castle](img/WoE/Gefen-Repherion.png) | [![Repherion Room](img/WoE/Gefen-Repherion-EmpRoom.png){width=284 height=384}](img/WoE/Gefen-Repherion-EmpRoom.png) | ![Gefen Dun](img/WoE/Geffen-Dun.png) |
 | Bright Arbor. Payon | ![Payon Castle](img/WoE/Payon-Bright%20Arbor.png) | [![ Bright Arbor Room](img/WoE/Payon-Bright%20Arbor-EmpRoom.jpg){width=284 height=384}](img/WoE/Payon-Bright%20Arbor-EmpRoom.jpg ) | ![Payon Dun](img/WoE/Payon-Dun.png) |
 <!--| Fadhgridh. Prontera | ![Prontera Castle](img/WoE/Prontera-Fadhgridh.png) | [![Skoegul Room](img/WoE/Prontera-Fadhgridh-EmpRoom.png){width=500 height=400}](img/WoE/Prontera-Fadhgridh-EmpRoom.png) | ![Prontera Dun](img/WoE/Prontera-Dun.png) |
 | Neuschwanstein. Aldebaran | ![Aldebaran Castle](img/WoE/Aldebaran-Neuschwanstein.png) | [![Yesnelph Room](img/WoE/Aldebaran-Neuschwanstein-EmpRoom.png){width=500 height=400}](img/WoE/Aldebaran-Neuschwanstein-EmpRoom.png) | ![Aldebaran Dun](img/WoE/Aldebaran-Dun.png) |
@@ -63,9 +77,7 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 - **Extended, Baby, and Trans classes cannot move** inside Pre-Trans castles
 - **All MVP cards have no effect**  
   (They can be equipped but provide no bonuses)
-- Alliances are allowed with **one allied guild only** outside of castles
 - **Alliances are removed within castles during active Pre-Trans WoE**
-- Allied guilds must use **distinct and clearly recognizable emblems**
 - Buffs applied by **Trans or Extended classes** are automatically removed upon castle entry
 - Using **FCP outside castles** prior to entering Pre-Trans WoE is strictly forbidden and will result in a ban
 - `@GuildHP` can be toggled via `@settings`
@@ -93,7 +105,32 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 
 ## Item Block Lists	
 
-### Card Restrictions:
+Link to Discord
+
+### Consumables Restrictions:
+
+![607](img/607.gif) Yggdrasil Berry<br>
+![608](img/608.gif) Yggdrasil Seeds<br>
+![12192](img/12192.gif) Pumpkin Pie<br>
+![12016](img/WoE/12016.gif) Speed Potion<br>
+![12188](img/WoE/12188.gif) Grace Moon Cake<br>
+![12118](img/WoE/12118.gif) Fireproof Potion<br>
+![12119](img/WoE/12119.gif) Coldproof Potion<br>
+![12120](img/WoE/12120.gif) Earthproof Potion<br>
+![12121](img/WoE/12121.gif) Thunderproof Potion<br>
+![12354](img/WoE/12354.gif) Buche De Noel<br>
+![12321](img/WoE/12321.gif) Arunafeltz Desert Sandwich<br>
+![12319](img/WoE/12319.gif) Rune Strawberry Cake<br>
+![12320](img/607.gif) Schwarzwald Pine Jubilee<br>
+- All Stats Foods
+
+### Skill Restrictions:
+
+![bd_rokisweil](img/WoE/bd_rokisweil.gif) Loki's Veil<br>
+![tk_highjump](img/WoE/tk_highjump.gif) High Jump<br>
+![tk_highjump](img/WoE/hp_assumptio.gif) Assumptio<br>
+
+<!-- ### Card Restrictions:
 
 ??? note "Card List, click to expand"
     | Card        | Item Id  |
@@ -530,12 +567,4 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 	| Celine Kimi Card | 31023  |
 	| Decorated Evil Tree Card | 31016 |
 	| Big Defense Potion | 14542 |
-	| Big Magic Defense Potion | 14544 |
-
-
-
-### Skill Restrictions:
-
-![bd_rokisweil](img/WoE/bd_rokisweil.gif) Loki's Veil<br>
-![tk_highjump](img/WoE/tk_highjump.gif) High Jump<br>
-![tk_highjump](img/WoE/hp_assumptio.gif) Assumptio<br>
+	| Big Magic Defense Potion | 14544 | -->
