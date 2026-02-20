@@ -291,6 +291,11 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                 <td>When forging a weapon there are 3 available slots for modifying items. Items such as Flame Heart, Mystic Frozen, Rough Wind and Great Nature can be used to imbue the weapon with the Fire, Water, Wind and Earth properties, respectively. A weapon may only have one element at a time and using more than one elemental stone will cause the forge to fail. Slots may also be fitted with Star Crumbs. One, two, and three Star Crumbs will (respectively) add +5, +10, and +40 Mastery ATK to all attacks from the weapon.</td>
                 <td>1 Very +20 ATK.<br> 2 Very +40 ATK (+60 total).<br> 2 Very and Element +60 ATK and +10% bonus damage (element).<br> 3 Very +60 ATK and 10% neutral damage bonus.<br> Ranked Blacksmith Bonus: Weapons forged by top-ranked smiths get an additional +10 ATK.</td>
             </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/ws_meltdown.gif" alt="">Melt Down</td>
+                <td>N/A.</td>
+                <td>SP cost capped at 50 for any skill level.</td>
+            </tr>
         </tbody>
     </table>
 </div>

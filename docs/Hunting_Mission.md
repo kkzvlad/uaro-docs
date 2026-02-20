@@ -89,7 +89,9 @@ Please keep the following rules in mind:
 
 Mission Points earned from Hunting Missions can be spent at the **Mission Shop**, available from Hobota.
 
-| Image | Item Name | Price |
+![HobotaShop](img/Hunting_Mission/Shop.png)
+
+<!--| Image | Item Name | Price |
 |-------|-----------|-------|
 | ![Dungeon Tele 3 Scroll Box](img/Hunting_Mission/35655-dungeon-teleport-scroll-3-box-10.gif) | Dungeon Tele 3 Scroll Box (10) | 15 Mission Points |
 | ![Blue Butterfly Wing Box](img/Hunting_Mission/13855-blue-butterfly-wing-box-5.gif) | Blue Butterfly Wing Box (5) | 5 Mission Points |
@@ -103,7 +105,7 @@ Mission Points earned from Hunting Missions can be spent at the **Mission Shop**
 | ![Costume Hibram Evil Spirit](img/Hunting_Mission/480473.png) | Costume Hibram Evil Spirit | 1,000 Mission Points |
 | ![Costume Radiant Rainbow Wings](img/Hunting_Mission/31527.png) | Costume Radiant Rainbow Wings | 1,000 Mission Points |
 | ![Costume Majestic Goat of Dawn](img/Hunting_Mission/400124-costume-majestic-goat-of-dawn.png) | Costume Majestic Goat of Dawn | 1,200 Mission Points |
-| ![Costume Dark Lord Cloak](img/Hunting_Mission/480288-costume-dark-lord-cloak.png) | Costume Dark Lord Cloak | 1,500 Mission Points |
+| ![Costume Dark Lord Cloak](img/Hunting_Mission/480288-costume-dark-lord-cloak.png) | Costume Dark Lord Cloak | 1,500 Mission Points |-->
 
 If you’d like to see additional items in the Mission Shop, share your ideas in our  
 [Discord #server-suggestions channel](https://discord.com/channels/702960460168953946/1056606733218365512).
