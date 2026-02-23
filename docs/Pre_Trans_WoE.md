@@ -105,7 +105,7 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 
 ## Item Block Lists	
 
-Link to Discord
+[Pre-trans/GvG block list](https://discord.com/channels/702960460168953946/1335435778356150366/1472734186950627348)
 
 ### Consumables Restrictions:
 
