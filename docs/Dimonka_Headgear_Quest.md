@@ -216,7 +216,7 @@ Dimonka is found in the [Main Office](Main_Office.md) and offers a unique select
 <td><img src="../img/5356.png" alt="Festival Pumpkin Hat"><br>Festival Pumpkin Hat</td>
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1200<br><img src="../img/7225.png" alt="Pumpkin Lantern"> Pumpkin Lantern - 1000<br><img src="../img/706.png" alt="Four Leaf Clover"> Four Leaf Clover - 20</td>
 <td>A pumpkin hat for celebrating Halloween: wear it when you go trick-or-theating!<br>All stats +3.<br>Increase Physical and Magical Attack Strength against Devil monsters by 5%.</td>
-<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 3<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 20<br><strong>Jobs</strong>: All</td>
+<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 3<br><strong>Position</strong>: Lower<br><strong>Weight</strong>: 20<br><strong>Jobs</strong>: All</td>
 </tr>
 <tr>
 <td><img src="../img/5305.png" alt="Pirate Dagger"><br>Pirate Dagger</td>

@@ -84,7 +84,6 @@ The RODEX mail system is one of the most convenient tools in uaRO, letting you s
 | **Increased weight limit for rebirth** | Increased weight limit from 0 to 500. |
 
 
-
 ### Guild Refinements
 | Feature | Description |
 |---|---|
@@ -106,7 +105,15 @@ In addition to the **Quest x2 EXP Bonus**, some game quests are improved or give
 | Continental Messenger Quest | NPCs no longer force proximity-based pop-ups. |
 | Boys Cap Quest | Requires 5 Tiger's Footskin instead of 10. |
 
+## 📦 Bulk Purchase & Storage Limits
 
+To improve large-quantity purchases, the following system has been implemented:
+
+- When purchasing **30,000 units of a single item**, a confirmation dialog will appear
+- Upon confirmation, the purchased stack will be **automatically sent to storage**
+- A maximum of **10 stacks (30,000 each)** of the same item can exist in storage at any given time
+  
+![Fast Regen](img/bulk_img.webp)
 
 <!--- TODO: Find a home for all the info about our large selection of costumes / cosmetics.
 

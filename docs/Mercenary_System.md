@@ -10,7 +10,7 @@ There are three types of mercenaries, each found in different towns:
 
 :shield: Spearman – Found in Prontera, to the left of the Knight Guild entrance (`/navi prontera 41/337`).
 
-:bow_and_arrow: Bowman – Available in Payon, on the right side of the Payon Cave entrance (`/navi payon 99/167`).
+:bow_and_arrow: Bowman – Available in Payon, on the right side of the Payon Cave entrance (`/navi pay_arche 99/167`).
 
 !!! info "Minimum Requirement"
      Mercenaries become available starting from Base Level 15.
