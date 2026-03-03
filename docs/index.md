@@ -10,7 +10,7 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
     === "March 3"
         **March 3, 2026**
 
-        - Gameplay: Performer mute option, `@cooking` mastery command, `@clearroom`, tagged items fix.
+        - Gameplay: New PvP Deathmatch arena, performer mute option, `@cooking` mastery command, `@clearroom`.
         - Star Gladiator: Standalone soul link status icon, new miracle visual effect.
         - Fixes: Autobonus refine scripts, Rodex stability fixes, job EXP manuals, party kick with buffs.
         - NPC: New Build Manager for saving stat/skill builds, hunting mission mob removals.
