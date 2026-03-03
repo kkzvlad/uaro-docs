@@ -40,5 +40,7 @@ The appearance and naming of these NPCs may vary by town.
 | Rachel | `/navi rachel 115/146` |
 | Veins | `/navi veins 110/278` |
 | Yuno | `/navi yuno 51/151` |
+| Comodo | `/navi comodo 127/191` |
 
-There currently no inn in Comodo, Louyang, or Umbala.
+
+There currently no inn in Louyang, or Umbala.

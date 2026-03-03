@@ -1,25 +1,47 @@
 # Pre-Trans WoE
 
-Pre-Trans WoE in Ragnarok Online is a guild-based PvP event where only second jobs and below can participate, creating a unique and balanced battlefield. Without transcendent skills, strategy and teamwork become even more crucial. Guilds must break the Emperium to claim castles while fending off enemy attacks. Holding a castle grants access to Guild Dungeons and valuable treasures, making competition fierce. The absence of overpowered buffs and gear encourages classic gameplay, where skill rotations, positioning, and proper class synergy matter most. Tanks, wizards, assassins, and supports all have key roles, ensuring a dynamic and engaging experience.
+Pre-Trans WoE in Ragnarok Online is a guild-based PvP event where only **second jobs and below** can participate, creating a unique and balanced battlefield. Without transcendent skills, **strategy and teamwork** become far more important.
 
-For many players, Pre-Trans WoE brings a strong sense of nostalgia, reminding them of the early days of Ragnarok Online, when guild wars were more about tactics than raw power. Additionally, preparing for this type of WoE is much easier, as the required gear is more accessible compared to WoE FE or WoE SE. This makes it a great option for both new and returning players looking to experience WoE without the heavy grind.
+Guilds compete to break the Emperium and hold castles while defending against enemy assaults. Holding a castle grants access to **Guild Dungeons** and valuable treasures, making competition fierce. The absence of overpowering buffs and gear encourages classic gameplay where **positioning, coordination, and class synergy** matter most.
+
+For many players, Pre-Trans WoE evokes strong nostalgia, recalling the early days of Ragnarok Online when WoE was more about tactics than raw power. Preparation is also significantly easier, as required gear is more accessible compared to WoE FE or WoE SE, making this mode ideal for both new and returning players.
+
+---
 
 ## Schedule
 
-On our server, WoE takes place every Sunday and lasts for one hour.<br>
+On our server, Pre-Trans WoE takes place **every Sunday** and lasts for **1 hour**.
 
 ### Saturday
 
-| Server Time (UTC)  | CET (UTC +1)    | EET (UTC +2)       |  IST (UTC +5)          | PST (UTC -8)          | MST (UTC -7)         | CST (UTC -6)         | EST (UTC -5)         |
-|--------------------|-----------------|--------------------|------------------------|-----------------------|----------------------|----------------------|----------------------|
-| 15:00              | 16:00           | 17:00              | 20:00                  | 07:00                 | 08:00                | 09:00                | 10:00                |
+| Server Time (UTC) | CET (UTC +1) | EET (UTC +2) | IST (UTC +5) | PST (UTC -8) | MST (UTC -7) | CST (UTC -6) | EST (UTC -5) |
+|-------------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
+| 15:00             | 16:00        | 17:00        | 20:00        | 07:00        | 08:00        | 09:00        | 10:00        |
+
+---
+
+## 📝 Guild Registration Requirement (Pre-Trans WoE)
+
+To enter Pre-Trans WoE castles, guilds must be officially **registered and whitelisted** by the GM Team.
+
+### 📋 Registration Requirements
+
+- Guilds must maintain a **consistent minimum of 16 active players**
+- The guild must appoint a **Pre-Trans WoE representative**
+- The representative must remain active in the designated **War Room Discord channel**
+
+Only guilds that meet these conditions and receive GM approval will be allowed to enter castles during active Pre-Trans WoE.
+
+---
 
 #### Available Castles
 
 | Castle Name. Town  | Location   | Emperium Room       |  Guild Dangeous        |
 |--------------------|------------|---------------------|------------------------|
-| Fadhgridh. Prontera | ![Prontera Castle](img/WoE/Prontera-Fadhgridh.png) | [![Skoegul Room](img/WoE/Prontera-Fadhgridh-EmpRoom.png){width=500 height=400}](img/WoE/Prontera-Fadhgridh-EmpRoom.png) | ![Prontera Dun](img/WoE/Prontera-Dun.png) |
-<!--| Neuschwanstein. Aldebaran | ![Aldebaran Castle](img/WoE/Aldebaran-Neuschwanstein.png) | [![Yesnelph Room](img/WoE/Aldebaran-Neuschwanstein-EmpRoom.png){width=500 height=400}](img/WoE/Aldebaran-Neuschwanstein-EmpRoom.png) | ![Aldebaran Dun](img/WoE/Aldebaran-Dun.png) |
+| Repherion. Gefen | ![Repherion Castle](img/WoE/Gefen-Repherion.png) | [![Repherion Room](img/WoE/Gefen-Repherion-EmpRoom.png){width=284 height=384}](img/WoE/Gefen-Repherion-EmpRoom.png) | ![Gefen Dun](img/WoE/Geffen-Dun.png) |
+| Bright Arbor. Payon | ![Payon Castle](img/WoE/Payon-Bright%20Arbor.png) | [![ Bright Arbor Room](img/WoE/Payon-Bright%20Arbor-EmpRoom.jpg){width=284 height=384}](img/WoE/Payon-Bright%20Arbor-EmpRoom.jpg ) | ![Payon Dun](img/WoE/Payon-Dun.png) |
+<!--| Fadhgridh. Prontera | ![Prontera Castle](img/WoE/Prontera-Fadhgridh.png) | [![Skoegul Room](img/WoE/Prontera-Fadhgridh-EmpRoom.png){width=500 height=400}](img/WoE/Prontera-Fadhgridh-EmpRoom.png) | ![Prontera Dun](img/WoE/Prontera-Dun.png) |
+| Neuschwanstein. Aldebaran | ![Aldebaran Castle](img/WoE/Aldebaran-Neuschwanstein.png) | [![Yesnelph Room](img/WoE/Aldebaran-Neuschwanstein-EmpRoom.png){width=500 height=400}](img/WoE/Aldebaran-Neuschwanstein-EmpRoom.png) | ![Aldebaran Dun](img/WoE/Aldebaran-Dun.png) |
 | Yesnelph. Geffen | ![Geffen Castle](img/WoE/Geffen-Yesnelph.png) | [![Yesnelph Room](img/WoE/Geffen-Yesnelph-EmpRoom.jpg){width=500 height=400}](img/WoE/Geffen-Yesnelph-EmpRoom.jpg) | ![Geffen Dun](img/WoE/Geffen-Dun.png) |
 | Skoegul. Prontera | ![Prontera Castle](img/WoE/Prontera-Skoegul.png) | [![Skoegul Room](img/WoE/Prontera-Skoegul-EmpRoom.png){width=500 height=400}](img/WoE/Prontera-Skoegul-EmpRoom.png) | ![Prontera Dun](img/WoE/Prontera-Dun.png) |
 | Rothenburg. Aldebaran | ![Aldebaran Castle](img/Pre-Trans-WoE/Aldebaran-Rothenburg.png) | [![Skoegul Room](img/Rothenburg-EmpRoom.png){width=500 height=400}](img/Rothenburg-EmpRoom.png) | ![Aldebaran Dun](img/Aldebaran-Dun.png) | -->
@@ -31,8 +53,10 @@ On our server, WoE takes place every Sunday and lasts for one hour.<br>
 
 | Castle Name. Town  | Treasure Chest 1 | Treasure Chest 2 |
 |--------------------|------------------|------------------|
-| Fadhgridh. Prontera | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 15%<br> ![Treasure Box](img/WoE/7444.gif) Treasure Box - 10%<br> ![6443](img/6443.gif) Silit Pong - 0.03%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 15%<br> ![6919](img/6919.gif) Token of Honor - 0.25%<br> ![6443](img/6443.gif) Silit Pong - 0.03%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
-<!--| Skoegul. Prontera | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![6919](img/6919.gif) Token of Honor - 0.25%<br> ![1158](img/1158.gif) Two-Handed Sword [2] - 35%<br> ![2404](img/2404.gif) Shoes [1] - 40%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+| Repheriond. Gefen | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 20%<br> ![12106](img/12106.gif) Jewelry Box - 2.5%<br> ![7620](img/7620.gif) Enriched Oridecon - 20%<br> ![616](img/616.gif) Old Card Album - 30%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 20%<br> ![6919](img/6919.gif) Token of Honor - 0.25%<br> ![6443](img/6443.gif) Silit Pong - 0.05%<br> ![7619](img/7619.gif) Enriched Elunium - 20%<br> ![616](img/616.gif) Mystical Card Album - 0.02% |
+| Bright Arbor. Payon | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 15%<br> ![Treasure Box](img/WoE/7444.gif) Treasure Box - 10%<br> ![6443](img/6443.gif) Silit Pong - 0.03%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 15%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![411913](img/411913.png) WoE Material Box - 10%<br> ![6684](img/6684.gif) Heroic Token - 0.15%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+<!--| Fadhgridh. Prontera | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 15%<br> ![Treasure Box](img/WoE/7444.gif) Treasure Box - 10%<br> ![6443](img/6443.gif) Silit Pong - 0.03%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 15%<br> ![6919](img/6919.gif) Token of Honor - 0.25%<br> ![6443](img/6443.gif) Silit Pong - 0.03%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
+| Skoegul. Prontera | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20% | ![7539](img/7539.gif) Poring Coin - 100%<br> ![6919](img/6919.gif) Token of Honor - 0.25%<br> ![1158](img/1158.gif) Two-Handed Sword [2] - 35%<br> ![2404](img/2404.gif) Shoes [1] - 40%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![616](img/616.gif) Mystical Card Album - 0.01% |
 | Rothenburg. Aldebaran | ![7539](img/7539.gif) Poring Coin - 100%<br> ![12103](img/12103.gif) Bloody Branch - 10%<br> ![1306](img/1306.gif) War Axe [1] - 3.75%<br> ![2315](img/2315.gif) Chai Mail [1] - 40%<br> ![7620](img/7620.gif) Enriched Oridecon - 15%<br> ![2108](img/2108.gif) Mirror Shield [1] - 50%<br> ![616](img/616.gif) Old Card Album - 20%<br> | ![7539](img/7539.gif) Poring Coin - 100%<br> ![604](img/604.gif) Dead Branch - 100%<br> ![7619](img/7619.gif) Enriched Elunium - 15%<br> ![607](img/607.gif) Yggdrasil Berry - 100%<br> ![2504](img/2504.gif) Muffler [1] - 40%<br> ![1238](img/1238.gif) Zeny Knife - 9%<br> ![616](img/616.gif) Mystical Card Album - 0.01% | -->
 
 ## Token System
@@ -46,28 +70,67 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 | ![616](img/616.gif) Mystical Card Album | AD Bottle Sets - 2k |![7619](img/7619.gif) Enriched Elunium - 40 |
 |                     |                   | ![7620](img/7620.gif) Enriched Oridecon - 40 |
 
-## WoE Mechanics
+## WoE Mechanics (Pre-Trans)
 
-- 24 member cap within any given castle (Recall prioritizes top most rank downwards until number met) Extended, Baby and Trans classes will yield no movement  
-- All MVP cards render no effect within WoE Castles (Still equipable, but have no effect) 
-- Alliances are allowances with one Guild. Guilds of the same alliances must have 2 different emblems that can be easily recognised to avoid confusion.<br> 
-- If you equip an item on the block list, it will yield 0 effect within castles  
-- Buffs received by Trans / Extended classes will automatically be removed upon entry into castle (Portal or E-Call)  
-- Issuing FCP as a creator to members outside of castles prior to entrance into Pre-Trans WoE castles is strictly forbidden and will yield an account ban
-- @GuildHP is now toggleable through @settings (Allows you to view Guild member HP even outside of party)  
-- Guild Emblems must be visible and clearly identifiable to participate  
+- **24-player cap** per castle  
+  (Recall prioritizes highest-ranked members until the cap is reached)
+- **Extended, Baby, and Trans classes cannot move** inside Pre-Trans castles
+- **All MVP cards have no effect**  
+  (They can be equipped but provide no bonuses)
+- **Alliances are removed within castles during active Pre-Trans WoE**
+- Buffs applied by **Trans or Extended classes** are automatically removed upon castle entry
+- Using **FCP outside castles** prior to entering Pre-Trans WoE is strictly forbidden and will result in a ban
+- `@GuildHP` can be toggled via `@settings`
+- Guild emblems **must be visible** to participate
+- **Chat spam filter is disabled** inside Pre-Trans WoE
 
-!!! warning "The following changes apply only within Pre-Trans castles and during active Pre-Trans WoE:"
-    - Traps are no longer friendly fire — they do not affect guild members or the caster.  
-    - Monks can no longer snap/body relocate past or out of traps.  
-    - Magnum Break reverted to Pre-Ep8: 3×3 cell range (affects only your cell, not nearby traps).  
-    - **Rodex** menu cannot be used to send/receive mail.  
-    - Kafra cards are disabled  
-    - Enchanted armors are disabled  
+---
+
+### Castle & Combat Rules
+
+- **Guild Menu Warp** is disabled during Pre-Trans WoE  
+  (Re-enabled outside WoE; warp points appear next to the lever)
+- **Guild Flag Warp** has been relocated:
+  - Guild Flag Warp moved to the **castle entrance**
+  - Return flags moved to **Floor 2**
+  (Prevents ultra-fast defender returns)
+- **Trap limit:** maximum **25 traps per player**
+- Placing additional traps beyond the limit removes the **oldest active trap**
+- **Dispel does NOT remove Snare effects**, regardless of caster
+- **Quagmire no longer affects friendly guild members**
+- **Gym Pass – Enlarge Weight Limit** has no effect during Pre-Trans WoE  
+  Merchant base skill behavior remains unchanged
+- **Blocked equipment inside castles:**
+  - All enchant effects
 
 ## Item Block Lists	
 
-### Card Restrictions:
+[Pre-trans/GvG block list](https://discord.com/channels/702960460168953946/1335435778356150366/1472734186950627348)
+
+### Consumables Restrictions:
+
+![607](img/607.gif) Yggdrasil Berry<br>
+![608](img/608.gif) Yggdrasil Seeds<br>
+![12192](img/12192.gif) Pumpkin Pie<br>
+![12016](img/WoE/12016.gif) Speed Potion<br>
+![12188](img/WoE/12188.gif) Grace Moon Cake<br>
+![12118](img/WoE/12118.gif) Fireproof Potion<br>
+![12119](img/WoE/12119.gif) Coldproof Potion<br>
+![12120](img/WoE/12120.gif) Earthproof Potion<br>
+![12121](img/WoE/12121.gif) Thunderproof Potion<br>
+![12354](img/WoE/12354.gif) Buche De Noel<br>
+![12321](img/WoE/12321.gif) Arunafeltz Desert Sandwich<br>
+![12319](img/WoE/12319.gif) Rune Strawberry Cake<br>
+![12320](img/607.gif) Schwarzwald Pine Jubilee<br>
+- All Stats Foods
+
+### Skill Restrictions:
+
+![bd_rokisweil](img/WoE/bd_rokisweil.gif) Loki's Veil<br>
+![tk_highjump](img/WoE/tk_highjump.gif) High Jump<br>
+![tk_highjump](img/WoE/hp_assumptio.gif) Assumptio<br>
+
+<!-- ### Card Restrictions:
 
 ??? note "Card List, click to expand"
     | Card        | Item Id  |
@@ -243,6 +306,8 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 	| Bloody Roar [0] | 1265 |
 	| Tomahawk [0] | 1368 |
 	| Ice Pick [1] | 13017 |
+	| Ice Pick [0] | 1230 | 
+    | Combat Knife [0] | 1228 |
 	| Sage's Diary [2] | 1560 |
 	| Luna Bow [2] | 1723 |
 	| Robe of Cast [0] | 2343 |
@@ -502,12 +567,4 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 	| Celine Kimi Card | 31023  |
 	| Decorated Evil Tree Card | 31016 |
 	| Big Defense Potion | 14542 |
-	| Big Magic Defense Potion | 14544 |
-
-
-
-### Skill Restrictions:
-
-![bd_rokisweil](img/WoE/bd_rokisweil.gif) Loki's Veil<br>
-![tk_highjump](img/WoE/tk_highjump.gif) High Jump<br>
-![tk_highjump](img/WoE/hp_assumptio.gif) Assumptio<br>
+	| Big Magic Defense Potion | 14544 | -->

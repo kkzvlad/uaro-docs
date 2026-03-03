@@ -12,7 +12,7 @@ In Prontera nearby with Main Office (**/navi prontera 130/192**) you can find NP
 |---------------------------|------------|
 | ![Old Card Album](img/616.gif) Old Card Album | **170 Points** |
 | ![Bloody Branch](img/12103_1.png) Bloody Branch| **120 Points** |
-| ![7x Poring Coins](img/7539.gif) 7x Poring Coins| **10 Points**  |
+| ![7x Poring Coins](img/7539.gif)  Poring Coin| **1 Point**  |
 
 !!! note
       Be careful when you enter the name of cards, some cards' official names will not reflect their ingame description.  

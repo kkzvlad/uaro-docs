@@ -43,7 +43,28 @@
 
 - `@noks`  
   Toggles Kill Steal Protection.  
-  **Note:** If a mob has the Boss flag, `@noks` doesn't work on this mob.
+
+  **Lock starts when:**  
+ Damage is done outside of aggro range of mob  
+ Mob locks onto a player target  
+
+**Lock Mechanics:**
+
+| Mechanic | Description |
+|----------|-------------|
+| **Idle Release** | If a player is idle for `5 seconds` or longer, aggro lock is released |
+| **Lock Timer** | `15 seconds` (timer does NOT start until another player attempts to KS your mob) |
+| **Hard Cap** | `30 seconds` (will release regardless of variables) |
+| **MVP/Mini** | Doesn't apply to any MVP/Mini boss that has NoKS null and void |
+| **Max Mob Count** | Unlimited |
+
+**System UI Options:**
+
+| Mode | Description |
+|------|-------------|
+| **Self** | Disables Party/Guild |
+| **Party** | Allows party members |
+| **Guild** | Allows guild members |
 
 - `@camerainfo`  
   Displays/hides camera information from the client.  
@@ -72,36 +93,44 @@
   **Output in-game Example:**  
   ![Dropinfo Output](img/@dropinfo-outline.png)
 
-- `@lootconfig`  
-Enables or disables autolooting items from killed mobs. UI for Easy Autoloot Customization.<br>
-**Toggle Autoloot** – Set a drop rate & enable/disable.<br>
-**Ignore Items** – Exclude unwanted loot.<br>
-**Loot Groups** – Create up to 3 custom loot groups.<br>
-**Quick Setup** – Manage loot easily via UI.<br>
-**Saves Settings** – Preferences reload automatically on login.<br>
-![@lootconfig](img/@lootgonfig.png)
+## 🔧 @lootconfig — Advanced Autoloot System
 
-**How to Use `@lootconfig`**  
-1. Type `@lootconfig` to open the UI.  
-2. Choose **Main Autoloot** or **Custom Groups**.  
-3. Enable/Disable **Autoloot** and set a drop rate.  
-4. Add/Remove items from lists.  
-5. Select and manage **loot groups**.  
-6. Changes **apply instantly** and **save automatically**.  
+The `@lootconfig` command provides a **user-friendly UI** for managing autoloot settings and custom loot lists.
 
-!!! warning "Important Change"
-    The `@autoloot` command has been **removed**. Use `@lootconfig` instead.
+---
 
-<!--TODO: Update with info from 9/1/25 update 
-- **`@lootconfig` Preset Menus (Reconstructed)**:
-  ```
-  - Group Function added (initially displayed as List 1).
-  - Groups can be renamed.
-  - Max 20 groups.
-  - Clear all by deleting and recreating the list.
-  - Add/subtract single items within each list remains supported.
-  ```
--->
+### ✨ Key Features
+
+- **Toggle Autoloot** – Enable/disable autoloot and set a drop-rate threshold
+- **Ignore Items** – Exclude unwanted items from autoloot
+- **Loot Groups** – Create and manage up to **20 custom loot groups**
+- **Group Functions** – Preset list system (initially displayed as *List 1*)
+- **Rename Groups** – Fully customizable group names
+- **Quick Setup UI** – Easy and fast configuration via interface
+- **Persistent Settings** – All preferences are saved and restored on login
+
+---
+
+### 📦 Loot Group Management
+
+- Add or remove **individual items** per group
+- Clear a group by **deleting and recreating** the list
+- Each group operates independently
+- Supports **fine-grained loot filtering** for different farming needs
+
+---
+
+### ▶️ How to Use `@lootconfig`
+
+1. Type `@lootconfig` to open the configuration UI
+2. Choose **Main Autoloot** or **Custom Loot Groups**
+3. Enable or disable autoloot and set a drop rate
+4. Add or remove items from ignore or loot lists
+5. Create, rename, and manage loot groups
+6. All changes **apply instantly** and **save automatically**
+
+![@lootconfig UI](img/@lootgonfig.png)
+
 
 - `@whereis <monster name or ID>`  
   Displays the maps in which monster normally spawns.  
@@ -123,11 +152,39 @@ Enables or disables autolooting items from killed mobs. UI for Easy Autoloot Cus
 - `@jailtime`  
   Displays remaining jail time.
 
-- `@killcount`<br>
-  Count killed monsters.<br>
-The `@killcount` command has been **rewritten** and now includes a **UI-based tracking system**.  
-Now allows tracking of **multiple monsters** (default: `5`).  
-![KillcountUI](img/@killcountUI.png)
+## @killcount — Enhanced Kill Tracking System
+
+The `@killcount` command has been **fully rewritten** and now features a modern **UI-based tracking system** with session-based monitoring and improved visual feedback.
+
+![Killcount UI](img/@killcountUI.png)
+
+---
+
+### ✨ Key Features
+
+- Track specific monster kills in your current session
+- Track **multiple monsters simultaneously** (default: 5)
+- Visual kill counter displayed above your character upon each kill
+- Reset function for tracked kills
+- “Tracked kills” indicator when using the command
+- Total killcount preserved across all monsters
+- Shorthand command available: `@kc`
+
+---
+
+### 📋 Usage
+
+| Command | Description |
+|----------|-------------|
+| `@killcount` | Opens the UI-based tracking system |
+| `@killcount [MobID]` | Track a specific monster |
+| `@kc [MobID]` | Shorthand version of the command |
+
+---
+
+!!! success "System Overhaul"
+    The killcount system has been completely modernized with UI integration,  
+    session-based tracking, and improved real-time visual feedback.
 
 - `@mapexp`<br>
 The @mapexp command introduces a rotating bonus EXP zone that updates every 48 to 72 hours. During this period, selected areas grant an additional 20–30% EXP.  
@@ -184,6 +241,13 @@ The @mapexp command introduces a rotating bonus EXP zone that updates every 48 t
   Persists through logout  
   Account-wide, based on your setting  
 
+- `@hideloot`
+
+| Setting | Description |
+|---------|-------------|
+| **Function** | Blocks display of trash loot on the ground |
+| **Default** | Off upon each login (prevents people from forgetting) |
+
 ## Trade Commands
 Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating shops.
 
@@ -195,8 +259,6 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
  - `@guildbank`  
   Permissions configurable by guild leader based on guild titles.  
   ![@guildbank-img](img/@guildbank.png)
-
-<!--TODO: ADd guild storage log from 9/1/25 update
 
 - **Guild Storage Logs – `@guildlog` (in-game)**  
   Will be added to **Control Panel** later.  
@@ -212,7 +274,6 @@ Check [Vendor System](Vendor_System.md) to view up-to-date commands for locating
   - All storage-access members (based on in-game title)
   - All members
   ```
--->
 
 ## Homunculus Commands
 

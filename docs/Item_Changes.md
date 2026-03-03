@@ -3,7 +3,9 @@
 ## Weapon
 | Item | Item ID | Description |
 |---|---|---|
-| Thorn Staff of Darkness | 1636 | Can be equipped by Soul Linker. |
+| Thorn Staff of Darkness | 1636 | Can be equipped by Soul Linker.<br> Can be slotted. |
+
+[Expanded Class Weaponse](Expanded-Class-Weapons.md)
 
 
 
@@ -15,7 +17,12 @@
 | Crown of Deceit | 5564 | Upper Headgear | Modified Renewal Gear: Adds drop to Fallen Bishop. INT +3. Reduces cast time by 10%. |
 | Mercury Riser [1] | 18597 | Upper Headgear | Modified Renewal Gear: ASPD +3%, Critical +3. If refined to +7 or +8, adds an additional ASPD +2% and Critical +2. If refined to +9 or higher, adds an additional APSD +2% and Critical +2. |
 | Blood Sucker | 18754 | Lower Headgear | Modified Renewal Gear: Adds 1% chance of absorbing 3% physical damage influencted on target as HP. Disables natural HP and SP recovery. |
-
+| Snake Head [0] | 5388 | Upper Headgear | Added as a rare drop from Evil Snake Lord MVP at 0.9%. |
+| Angel Spirit [0] | 5389 | Middle Headgear | Added as a rare drop from Valkyrie Randgris MVP at 2.25%. |
+| Robo eye [0] | 5325 | Middle Headgear | Added as a rare drop from Vesper MVP at 2.1%. |
+| Hermode Cap[1] | 5481 | Upper Headgear | Added as a Uncommon drop from Assassin Cross Eremes (Mini Boss) at 15%. |
+| Bradium Brooch[1] | 2790 | Accessory | Added as a rare drop from Bradium Golem at 0.05%. |
+| Sigrun's Wings[0] | 5592 | Middle Headgear | Added as a rare drop from Gryphon at 0.9%. |
 
 
 ### Extended Classes
@@ -53,7 +60,7 @@ The following gear is equippable by all extended classes: Taekwon, Star Gladiato
 | Vesper Core 04 [0] | Accessory |
 | Vital Tree Shoes [0] | Accessory |
 | Wool Scarf [1] | Garment |
-| Magic Bible Vol. 1 | Accessory |
+| Magic Bible Vol. 1 | Shield |
 
 ### Super Novice
 The following gear is equippable by Super Novice.

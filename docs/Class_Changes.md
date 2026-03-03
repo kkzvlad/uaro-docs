@@ -93,7 +93,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
             <tr>
                 <td><img src="../img/Class_Changes/cr_reflectshield.gif" alt="">Shield Reflect</td>
                 <td>Returns some damage dealt to you back to the enemy. Reflected damage a percentage of received damage.</td>
-                <td>The amount of damage reflected cannot be greater than the amount of HP the wearer of the skill has. Reflect is not transmitted if the character is within a Safety Wall.</td>
+                <td>The amount of damage reflected cannot be greater than the amount of HP the wearer of the skill has. Reflect is not transmitted if the character is within a Safety Wall.<br> Reflect damage no longer affects Boss-type monsters (MVPs).</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/cr_devotion.gif" alt="">Devotion</td>
@@ -186,7 +186,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
             <tr>
                 <td><img src="../img/Class_Changes/sa_autospell.gif" alt="">Auto Spell</td>
                 <td>Maximum level of skill varies from 1-3 based on skill level. Skill cast chance varies by level used.</td>
-                <td> Skills cast can trigger up to level 5 bolts on all elements when skill level 4 or higher.</td>
+                <td> Skills cast can trigger up to level 5 bolts on all elements when skill level 4 or higher.<br>When bolts are triggered, will cast max level learned up to level 5 (Non-Linked). </td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/pf_mindbreaker.gif" alt="">Mind Breaker</td>
@@ -222,6 +222,11 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                 <td><img src="../img/Class_Changes/mc_mammonite.gif" alt="">Mammonite</td>
                 <td>Uses 100-1000z to increase ATK for the next attack.</td>
                 <td>Reduced price to maximum of 500z while possessing <a href="#bag-of-gold-coins">Bag of Gold Coins</a> within inventory.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/mc_vending.gif" alt="">Vending</td>
+                <td>N/A.</td>
+                <td>After closing your shop, you now get a cleaner summary showing:<br> - What sold<br> - How much zeny you earned<br> - What's left in your cart<br> Easier to track your merchant profits!</td>
             </tr>
         </tbody>
     </table>
@@ -270,7 +275,12 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
              <tr>
                 <td>Forging System</td>
                 <td>When forging a weapon there are 3 available slots for modifying items. Items such as Flame Heart, Mystic Frozen, Rough Wind and Great Nature can be used to imbue the weapon with the Fire, Water, Wind and Earth properties, respectively. A weapon may only have one element at a time and using more than one elemental stone will cause the forge to fail. Slots may also be fitted with Star Crumbs. One, two, and three Star Crumbs will (respectively) add +5, +10, and +40 Mastery ATK to all attacks from the weapon.</td>
-                <td>1 Very +20 ATK.<br> 2 Very +40 ATK (+60 total).<br> 2 Very and Element +60 ATK and +10% bonus damage (element).<br> 3 Very +60 ATK and 10% neutral damage bonus.</td>
+                <td>1 Very +20 ATK.<br> 2 Very +40 ATK (+60 total).<br> 2 Very and Element +60 ATK and +10% bonus damage (element).<br> 3 Very +60 ATK and 10% neutral damage bonus.<br> Ranked Blacksmith Bonus: Weapons forged by top-ranked smiths get an additional +10 ATK.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/ws_meltdown.gif" alt="">Melt Down</td>
+                <td>N/A.</td>
+                <td>SP cost capped at 50 for any skill level.</td>
             </tr>
         </tbody>
     </table>
@@ -322,6 +332,11 @@ Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-d
                 <td><img src="../img/Class_Changes/am_resurrecthomun.gif" alt="">Resurrect Homunculus</td>
                 <td>Resurrect a killed Homunculus.</td>
                 <td>Calling your last called homc is still free (No embryo required).</td>
+            </tr>
+             <tr>
+                <td><img src="../img/Class_Changes/am_cannibalize.gif" alt="">Bio Cannibalize</td>
+                <td>N/A.</td>
+                <td>Increased plant count of Flora, Parasite, Geographer on non-PvP maps for improved PvE viability.</td>
             </tr>
         </tbody>
     </table>
@@ -428,6 +443,11 @@ Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-deal
                 <td>Skill duration is 60 seconds.</td>
                 <td>Increased duration to 90 seconds.</td>
             </tr>
+             <tr>
+                <td><img src="../img/Class_Changes/asc_cdp.gif" alt="">Create Deadly Poison</td>
+                <td>SP cost 50 SP.</td>
+                <td>SP cost 10 SP.<br> HP Loss Mechanic: Removed (no longer lose HP on failure)<br> Mass Production: Up to 300 at a time </td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -516,6 +536,11 @@ No other changes to Hunter skills.
                 <td><img src="../img/Class_Changes/cg_hermode.gif" alt="">Wand of Hermode</td>
                 <td>Skill is an ensamble and requires both a Clown and Gypsy to perform.</td>
                 <td>Skill can be performed solo.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/cg_arrowvulcan.gif" alt="">Arrow Vulcan</td>
+                <td>Cast delay: 3 seconds.</td>
+                <td>Cast delay: 2 seconds.</td>
             </tr>
         </tbody>
     </table>
@@ -628,6 +653,11 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
                 <td>Fame points earned are kept permanently. The top 10 ranked taekwon players are able to perform infinite combos and receive tripled Maximum HP and SP at level 90. Fame points are ignored if player changes job to Star Gladiator. Rankings can be checked with <code>@taekwon</code> in game.</td>
                 <td>Fame points decay by 10% per month, to support better game balance.</td>
             </tr>
+             <tr>
+                <td><img src="../img/Class_Changes/tk_mission.gif" alt="">Taekwon Mission</td>
+                <td>SP Cost: 10<br> Reset Chance: 1%<br> Cast Time: 1 second</td>
+                <td>SP Cost: 1<br> Reset Chance: 5%<br> Cast Time: 0.5 second</td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -697,6 +727,12 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
                 <td><img src="../img/Class_Changes/sl_sma.gif" alt="">Esma</td>
                 <td>SP Cost for Level 1–10: 8–80</td>
                 <td>Decreased SP Cost for Level 1–10: 4–40</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/sl_ske.gif" alt="">Eska</td>
+                <td>Increases monster's ATK by +300%, but halves their DEF. You can cast Esma within 3 seconds after using Eske.
+                "Es" type magic can only be used on monsters. If it is used on a player character, nothing happens and the caster will be stunned for 0.5 sec (not reduced by VIT).</td>
+                <td>Eske no longer affects Boss-type monsters</td>
             </tr>
         </tbody>
     </table>
