@@ -20,7 +20,7 @@ So come on down to Main Office and see what we have to offer! We're here to help
 | ![Perchik](img/1_M_01.gif) | **Perchik** NPC can signs your name on eligible items. |
 | ![Andrea](img/JP_ARUNA.gif) | **Andrea** can exchange your extra Field Manual 100% for other itens, like Blessing and Increase AGI scrolls or Kafra cards. |
 | ![Felicia](img/4_F_IU.gif) | **Felicia** can give you unique costumes in exchange for Gold Coins (obtained by clicking the timer at the top-right of your screen once you have 120 or 240 points). |
-| ![Marley](img/4_EP19_IWIN.gif) | **Marley** use his talents to give you costumes, hats and unique pets in exchange for Event Tickets (obtained from in-game or discord Events) |
+| ![Marley](img/4_EP19_IWIN.gif) | This magical fluffy shijūkara use his talents to give you costumes, hats and unique pets in exchange for Event Tickets (obtained from in-game or discord Events) |
 
 <!-- TODO: Add manual exchange NPC from 9/1/5 patch
 - **Manual Exchange (100%) – Main Office**: Added `x1` exchanges for:

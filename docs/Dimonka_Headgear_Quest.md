@@ -22,7 +22,7 @@ Dimonka is found in the [Main Office](Main_Office.md) and offers a unique select
 </tr>
 <tr>
 <td><img src="../img/Dimonka_Headgear_Quest/18542.gif" alt="18542"><br>Love Guard [1]</td>
-<td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1500<br><img src="../img/Dimonka_Headgear_Quest/7347.gif" alt="7347"> Research Chart  - 500<br><img src="../img/Dimonka_Headgear_Quest/card.gif" alt="card"> Errende Ebecee Card - 1</td>
+<td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1500<br><img src="../img/Dimonka_Headgear_Quest/7347.gif" alt="7347"> Research Chart  - 500<br><img src="../img/Dimonka_Headgear_Quest/card.gif" alt="card"> Errende Ebecee Card - 3</td>
 <td>A headdress worn by high level members of warrior clergy members.<br> Increases the effect of received healing by 5%.<br> Increases the effectiveness of your own healing skills by 2%.<br> If refined to +7 or higher, increases the effectiveness of your healing skills by an additional 3%.</td>
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 4<br><strong>Position</strong>: Upper, Middle<br><strong>Weight</strong>: 50<br><strong>Level Requirement</strong>: 30<br><strong>Jobs</strong>: All</td>
 </tr>
@@ -42,7 +42,7 @@ Dimonka is found in the [Main Office](Main_Office.md) and offers a unique select
 <td><img src="../img/Dimonka_Headgear_Quest/5490.gif" alt="5490"><br>Anubis Helm</td>
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1500<br><img src="../img/Dimonka_Headgear_Quest/1045.gif" alt="1045"> Cultish Masque - 1000<br><img src="../img/Dimonka_Headgear_Quest/2617.gif" alt="2617"> Celebrant's Mitten - 3</td>
 <td>This celemonial headdress holds the likeness of Anubis, god of the underworld.<br>Mdef +5<br>Reduces damage taken from Boss monsters by 10%.<br>Increases restoration gained from Healing skills and Restorative items by 10%</td>
-<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 8<br><strong>Position</strong>: Upper, Middle<br><strong>Weight</strong>: 0<br><strong>Level Requirement</strong>: 65<br><strong>Jobs</strong>: All</td>
+<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 3<br><strong>Position</strong>: Upper <br><strong>Weight</strong>: 0<br><strong>Level Requirement</strong>: 65<br><strong>Jobs</strong>: All</td>
 </tr>
 <tr>
 <td><img src="../img/Dimonka_Headgear_Quest/5182.gif" alt="5182"><br>Puppy Hat</td>
@@ -75,7 +75,7 @@ Dimonka is found in the [Main Office](Main_Office.md) and offers a unique select
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 0<br><strong>Position</strong>: Lower<br><strong>Weight</strong>: 10<br><strong>Jobs</strong>: All</td>
 </tr>
 <tr>
-<td><img src="../img/5548.png" alt="Crimson Rose"><br>Crimson Rose</td>
+<td><img src="../img/5548.png" alt="Crimson Rose"><br>Crimson Rose (Scarlet Rose)</td>
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 2000<br><img src="../img/7293.gif" alt="Rose Quartz"> Rose Quartz - 10<br><img src="../img/710.gif" alt="Illusion Flower"> Illusion Flower - 10</td>
 <td>A crimson colored rose. Be sure to check for thorns before putting this in your mouth.<br>Luk +1<br>When killing a monster there is a chance of a Whitherless Rose dropping.</td>
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 0<br><strong>Position</strong>: Lower<br><strong>Weight</strong>: 10<br><strong>Level Requirement</strong>: 50<br><strong>Jobs</strong>: All</td>
@@ -83,7 +83,7 @@ Dimonka is found in the [Main Office](Main_Office.md) and offers a unique select
 <tr>
 <td><img src="../img/5289.gif" alt="Vanilmirth Hat"><br>Vanilmirth Hat [0]</td>
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1000<br><img src="../img/7126.gif" alt="Large Jellopy"> Large Jellopy - 300<br><img src="../img/994.gif" alt="Flame Heart"> Flame Heart - 20</td>
-<td>A cold, soft hat that is shaped like a Vanilmirth.<br>Mdef +5<br>Randomly autocasts Level 1 Bolt magics when dealing physical attack.</td>
+<td> Indestructible. A cold, soft hat that is shaped like a Vanilmirth.<br>Mdef +5<br>Randomly autocasts Level 1 Bolt magics when dealing physical attack.</td>
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 0<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 100<br><strong>Level Requirement</strong>: 30<br><strong>Jobs</strong>: All<br>Unrefineable<br>Undestructible</td>
 </tr>
 <tr>
@@ -95,7 +95,7 @@ Dimonka is found in the [Main Office](Main_Office.md) and offers a unique select
 <tr>
 <td><img src="../img/5664.gif" alt="Filir's Pinions"><br>Filir's Pinions</td>
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1500<br><img src="../img/7440.gif" alt="Red Feather"> Red Feather - 25<br><img src="../img/7441.gif" alt="Blue Feather"> Blue Feather - 25</td>
-<td>A cute headgear made in the form of Filir's wings, the most popular bird-like homunclus.<br>Increases attack speed by 2%.<br>Reduces cast delay by 2%.</td>
+<td>A cute headgear made in the form of Filir's wings, the most popular bird-like homunclus.<br>Increases attack speed by 2%.<br> Improve Cast Speed 2%.</td>
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 1<br><strong>Position</strong>: Middle<br><strong>Weight</strong>: 10<br><strong>Level Requirement</strong>: 70<br><strong>Jobs</strong>: All</td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ Dimonka is found in the [Main Office](Main_Office.md) and offers a unique select
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 0<br><strong>Position</strong>: Lower<br><strong>Weight</strong>: 10<br><strong>Level Requirement</strong>: 60<br><strong>Jobs</strong>: All except Novice</td>
 </tr>
 <tr>
-<td><img src="../img/5529.png" alt="Satanic Bone Helm [1]"><br>Satanic Bone Helm [1]</td>
+<td><img src="../img/5529.png" alt="Satanic Bone Helm [1]"><br>Satanic Bone Helm [1] (Devil's Bone Helm [1])</td>
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 2000<br><img src="../img/7752.png" alt="Clattering Skull"> Clattering Skull - 350<br><img src="../img/7562.png" alt="Ice Scale"> Ice Scale - 5<br><img src="../img/7561.png" alt="Glacial Heart"> Glacial Heart - 350</td>
 <td>Made from a frost giant's bones. No confirmation of its authenticity.<br>Dex +3<br>Enable use of Level 1 Frost Nova.<br>Reduce damage from Neutral elemental attacks by 5%.</td>
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 6<br><strong>Position</strong>: Upper, Middle<br><strong>Weight</strong>: 60<br><strong>Level Requirement</strong>: 1<br><strong>Jobs</strong>: All</td>
@@ -147,7 +147,7 @@ Dimonka is found in the [Main Office](Main_Office.md) and offers a unique select
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 2<br><strong>Position</strong>: Upper, Middle<br><strong>Weight</strong>: 30<br><strong>Jobs</strong>: All</td>
 </tr>
 <tr>
-<td><img src="../img/5375.png" alt="Orc Hero Headdress [1]"><br>Orc Hero Headdress [1]</td>
+<td><img src="../img/5375.png" alt="Orc Hero Headdress [1]"><br>Orc Hero Headdress [1] (Large Orc Hero Helm [1])</td>
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 4000<br><img src="../img/968.png" alt="Heroic Emblem"> Heroic Emblem - 100<br><img src="../img/969.png" alt="Gold"> Gold - 20</td>
 <td>An Orc Hero's massive headgear.<br>Str +2<br>Adds 3% chance to autocast Level 3 Weapon Perfection when receiving physical damage.</td>
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 5<br><strong>Position</strong>: Upper, Middle<br><strong>Weight</strong>: 90<br><strong>Jobs</strong>: All</td>
@@ -159,7 +159,7 @@ Dimonka is found in the [Main Office](Main_Office.md) and offers a unique select
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 2<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 30<br><strong>Level Requirement</strong>: 10<br><strong>Jobs</strong>: All</td>
 </tr>
 <tr>
-<td><img src="../img/5378.png" alt="Bunny Ears Hat"><br>Bunny Ears Hat</td>
+<td><img src="../img/5378.png" alt="Bunny Ears Hat"><br>Bunny Ears Hat (Bunny Top Hat)</td>
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1200<br><img src="../img/5045.png" alt="Magician Hat"> Magician Hat - 1<br><img src="../img/7064.png" alt="Wing of Dragonfly"> Wing of Dragonfly - 350<br><img src="../img/4227.png" alt="Spring Rabbit Card"> Spring Rabbit Card - 1</td>
 <td>A cute red top hat with bunny ears. Perfect for a magic show!<br>Agi +3<br>Chance to cast Lv. 5 Increase Agi when user receives physical damage.</td>
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 0<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 30<br><strong>Jobs</strong>: All</td>
@@ -195,7 +195,7 @@ Dimonka is found in the [Main Office](Main_Office.md) and offers a unique select
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 0<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 50<br><strong>Level Requirement</strong>: 60<br><strong>Jobs</strong>: All</td>
 </tr>
 <tr>
-<td><img src="../img/5307.png" alt="Tropical Fruit Hat [1]"><br>Tropical Fruit Hat [1]</td>
+<td><img src="../img/5307.png" alt="Tropical Fruit Hat [1]"><br>Tropical Fruit Hat [1] (Carmen Miranda's Hat [1])</td>
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 2000<br><img src="../img/587.png" alt="Red Prickly Fruit"> Red Prickly Fruit - 250<br><img src="../img/576.png" alt="Prickly Fruit"> Prickly Fruit - 250</td>
 <td>A hat made with tropical fruits. It looks delicious.<br>Mdef +3<br>Auto casts Charming Wink with low chance when attacked.</td>
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 3<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 40<br><strong>Jobs</strong>: All</td>
@@ -215,25 +215,25 @@ Dimonka is found in the [Main Office](Main_Office.md) and offers a unique select
 <tr>
 <td><img src="../img/5356.png" alt="Festival Pumpkin Hat"><br>Festival Pumpkin Hat</td>
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1200<br><img src="../img/7225.png" alt="Pumpkin Lantern"> Pumpkin Lantern - 1000<br><img src="../img/706.png" alt="Four Leaf Clover"> Four Leaf Clover - 20</td>
-<td>A pumpkin hat for celebrating Halloween: wear it when you go trick-or-theating!<br>All stats +3.<br>Increase Physical and Magical Attack Strength against Devil monsters by 5%.</td>
-<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 3<br><strong>Position</strong>: Lower<br><strong>Weight</strong>: 20<br><strong>Jobs</strong>: All</td>
+<td>A pumpkin hat for celebrating Halloween: wear it when you go trick-or-theating!<br>All stats +3.<br>Increase Physical and Magical Attack Strength against Demon monsters by 5%.</td>
+<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 3<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 20<br><strong>Jobs</strong>: All</td>
 </tr>
 <tr>
 <td><img src="../img/5305.png" alt="Pirate Dagger"><br>Pirate Dagger</td>
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1200<br><img src="../img/628_1.png" alt="Well-Dried Bone"> Well-Dried Bone - 20<br><img src="../img/7189.png" alt="Wooden Heart"> Wooden Heart - 120</td>
 <td>A small sivler knife that is held between your teeth to allow free use of your hands.<br>Atk +5.</td>
-<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 0<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 10<br><strong>Jobs</strong>: All</td>
+<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 0<br><strong>Position</strong>: Lower<br><strong>Weight</strong>: 10<br><strong>Jobs</strong>: All</td>
 </tr>
 <tr>
 <td><img src="../img/5409.png" alt="Purple Cowboy Hat [1]"><br>Purple Cowboy Hat [1]</td>
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1200<br><img src="../img/5019.png" alt="Corsair"> Corsair - 1<br><img src="../img/7063.png" alt="Soft Feather"> Soft Feather - 300</td>
 <td>A hat, symbolizing western frontiers, made to celebrate, the festival.<br>Int +2, Vit +2, MaxSP +50.</td>
-<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 5<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 50<br><strong>Jobs</strong>: All</td>
+<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 4<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 50<br><strong>Jobs</strong>: All</td>
 </tr>
 <tr>
 <td><img src="../img/5381.png" alt="Santa Poring Hat [1]"><br>Santa Poring Hat [1]</td>
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1200<br><img src="../img/2236.png" alt="Santa Hat"> Santa Hat - 10<br><img src="../img/2254.png" alt="Angel Wing"> Angel Wing - 1<br><img src="../img/7294.png" alt="Turquoise"> Turquoise - 20</td>
-<td>A cute hat made from a hopping Poring wearing a Santa's Hat.<br>Increases physical damage inflicted on Shadow elemental monsters by 3%.<br>Reduces damage taken from Shadow elemental attack by 3%.</td>
+<td>A cute hat made from a hopping Poring wearing a Santa's Hat.<br>Increases physical damage inflicted on Shadow elemental monsters by 3%.<br>Reduces damage taken from Shadow elemental attack by 3%. +2 MDEF, Cannot be refined.</td>
 <td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 2<br><strong>Position</strong>: Upper<br><strong>Weight</strong>: 10<br><strong>Jobs</strong>: All</td>
 </tr>
 <tr>
@@ -252,7 +252,7 @@ Dimonka is found in the [Main Office](Main_Office.md) and offers a unique select
 <td><img src="../img/5214.png" alt="Moonlight Flower Hat"><br>Moonlight Flower Hat</td>
 <td><img src="../img/7539_1.png" alt="Poring Coin"> Poring Coin - 1200<br><img src="../img/1022.png" alt="Nine Tails"> Nine Tails - 500<br><img src="../img/728.png" alt="Topaz"> Topaz - 250</td>
 <td>A hat inspired by the adorable Moonlight Flower. Be sure to hand-wash to prolong the soft Nine Tail Fur lining.<br>Dex +2.<br>Randomly autocasts Level 1 Increase Agility when dealing physical attack.</td>
-<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 3<br><strong>Position</strong>: Upper, Middle<br><strong>Weight</strong>: 50<br><strong>Jobs</strong>: All</td>
+<td><strong>Class</strong>: Headgear<br><strong>Defense</strong>: 3<br><strong>Position</strong>: Upper, Middle<br><strong>Weight</strong>: 20<br><strong>Jobs</strong>: All</td>
 </tr>
 <tr>
 <td><img src="../img/5380.png" alt="Fish Head hat"><br>Fish Head hat</td>

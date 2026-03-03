@@ -46,6 +46,10 @@ They sell well to players and always will. Sell them whenever you need some mone
 Doubles your base exp. A great help while leveling. They double exp gained through quests as well, important for repeatable EXP quests. 
 
 
+#### ![Gym Pass](img/7776.png) Gym Pass  
+Adds +200wt carry capacity, when redeemed to Ripped Cabus (Payon- 173,141). Up to 10 total can be redeemed. Revisit Ripped Cabus at any time, if for whatever reason you lose it, and he will restore it free of charge!
+
+
 #### ![Infinite Flywing](img/12887.gif) Infinite Fly Wing  
 0 Weight, account bound, can be used infinite amount and time. A lot of people name the IFW a “game changer”. Tho none was ever able to explain what it actually changes. You still can use normal Fly Wings from the NPC and transfer them easily with the rodex mail system. As a beginner, getting some equipment is more important than a QOL (quality of life) item.
 
@@ -62,7 +66,7 @@ The item “Elemental Converter” endows your weapon with one of the four eleme
 Cards can be traded for points and exchanged for Bloody Branches or Old Card Album. So any card has at least a basic value.  
 
 
-### Myst Case card 
+### [Myst Case card](img/4227.png) Myst Case card 
 The drop chance for ![644](img/Beginner_Guide/644.gif) Gift boxes from Myst Case card is increased, making it a good farming item - the more you kill, the better.
 
 
@@ -106,7 +110,7 @@ These are important for three reasons:
 
 
 
-### Reset NPC
+### [Reset NPC](img/JP_ARUNA.gif) Reset NPC
 This NPC is located in the Prontera Main Office and allows you to reset your skills, your stats, or your skills and stats. You can do it as often as you like for a fee, with the first time being free. This allows you to first choose a beginners friendly build and once you own the money (and equipment) you can change to a late game one.
 
 
@@ -203,7 +207,7 @@ They are a helpful tool for beginners because they offer quite some strength in 
 
 
 ### Create Your Character
-First decide which class you want to take. Then create a new character, choose name and hair style. Start.
+First decide which job you want to take. Then create a new character, choose name and hair style. Start.
 
 !!! note
      Check your hairstyle in game, it might vary. You can change it freely [in Prontera at the Stylist](Custom_NPC.md) after the Novice Grounds.
@@ -317,7 +321,7 @@ Once you hit Job 40 you can change to your second class. Change as soon as you h
 Every class article in iRO Wiki has a job change guide included. If you prefer a video instead go to youtube and search for “Ragnarok Online Class Job Change”. Follow the guide and change your job.
 
 
-### Leveling as Second Class
+### Leveling as Second Job
 You can continue with Mercenaries for a while, but soon you’ll have to level on your own. The how and where now depends a lot on your class, build and equipment. This is the point where the Quick Start Guide has to end. You can take a look in class specific guides and the Discord channels to find your way further.
 
 Once you’re 90+ you can give the Quick Rebirth Guide a read. With some preparation you can become 85+ in less than one hour after your rebirth.
@@ -354,7 +358,7 @@ Sleeper drop GNs by 75%. Either sell them to players or split them yourself. The
 
 
 #### Split GNs
-As soon as you have basic funds, you can make the quest, buy some GNs (4k z or less) and split them. The Green Lives per GN sells for avg 5k to NPCs with Overcharge 10. It's a safe 20% return on investment. Just care for your mental health.
+As soon as you have basic funds, you can make the quest, buy some GNs (4k z or less) and split them. The Green Lives per GN sells for avg 5k to NPCs with Overcharge 10. It's a safe 20% return on investment. Just care for your mental health. Here, the Utan Shaman is much less chatty!
 
 
 ### Hill Winds 

@@ -60,8 +60,8 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                     Skill range of 1 cell.
                 </td>
                 <td>
-                    Knockback distance removed.<br>
-                    Skill range increased to 2 cells.
+                    Knockback distance of 2 cells.<br>
+                    Skill range increased to 2 cells. (It's whole AoE.)
                 </td>
             </tr>
             <tr>
@@ -106,7 +106,7 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
             <tr>
                 <td><img src="../img/Class_Changes/cr_grandcross.gif" alt="">Grand Cross</td>
                 <td>Grand Cross hits 1-5 times, depending highly on position and movement of enemy/enemies. When one or more monsters are on a single cell of GC, the number of hits are reduced by 1 per monster (to a minimum of one hit to one monster).</td>
-                <td>Due to increased mob stack size, mobs on the same cell take 100% of the damage from every hit.</td>
+                <td>Due to increased mob stack size, mobs on the same cell take 100% of the damage from every hit. All 3 waves connect with any target in range.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/pa_gospel.gif" alt="">Gospel</td>
@@ -156,25 +156,11 @@ For full reference on unmodified pre-renewal skills, you can [visit the iRO Clas
                 <td>Modified to increase MATK for each tick AoE spells Meteor Storm, Storm Gust, and Lord of Vermillion.</td>
             </tr>
             <tr>
-                <td><img src="../img/Class_Changes/mg_soulstrike.gif" alt="">Soul Strike</td>
-                <td>Damage increases per level 5% </td>
-                <td>Damage increases per level 7%.</td>
+                <td><img src="../img/Class_Changes/wz_stormgust.png" alt="">Storm Gust</td>
+                <td>9x9 Diameter Circle Reticule</td>
+                <td>10x10 Diameter Circle Reticule</td>
             </tr>
             <tr>
-                <td><img src="../img/Class_Changes/mg_napalmbeat.gif" alt="">Napalm Beat</td>
-                <td>N/A.</td>
-                <td>No longer splits damage across multiple targets - full damage applied to each mob hit.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/wz_stormgust.gif" alt="">Storm Gust</td>
-                <td>N/A.</td>
-                <td>Area of Effect: Increased AoE 1 cell and removed single cell attack range restriction.</td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/wz_quagmire.gif" alt="">Quagmire</td>
-                <td>N/A.</td>
-                <td>Now properly reflects pre-renewal behavior - no longer affects boss type monsters (any boss, not just MVPs).</td>
-            </tr>
         </tbody>
     </table>
 </div>
@@ -482,7 +468,7 @@ Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-deal
             <tr>
                 <td><img src="../img/Class_Changes/rg_backstab.gif" alt="">Backstab</td>
                 <td>Powerful attack that can only be used from behind the enemy. Cannot miss and will turn the target to face the caster, thus preventing repeated use.</td>
-                <td>Can be performed from any angle.</td>
+                <td>Can be performed like most attack skills.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/rg_plagiarism.gif" alt="">Plagiarism</td>
@@ -580,8 +566,13 @@ No other changes to Hunter skills.
                 <td>Super Novice death count can be reset at a <a href="../Custom_NPC/#other">special NPC south of Prontera</a>.</td>
             </tr>
             <tr>
+                <td>Passive Bonuses</td>
+                <td>None</td>
+                <td>Super Novices are granted +2000 Carry Wt, and +10 DEX to their total bonuses. Improved Carry Weight, and Owl's Eye removed from skill tree. Blessing, and Increase Agility removed from skill tree (See Super Blessing below)</a>.</td>
+            </tr>
+            <tr>
                 <td><img src="../img/Class_Changes/nv_breakthrough.png" alt="">Breakthrough</td>
-                <td>Breakthrough is an Expanded Super Novice skill that has been adjusted for Pre-Renewal.</td>
+                <td>Breakthrough is an Expanded Super Novice skill that has been adjusted for Pre-Renewal. <strong>This is a Platinum skill, see Platinum Skill NPC in Main Office</strong></td>
                 <td>
                     Increases your ATK, MATK, Max HP, Max SP, and incoming healing amounts.<br>
                      ATK + 50, MATK +50, Max HP + 2000, Max SP + 200, Healing Amount +20%.
@@ -597,7 +588,7 @@ No other changes to Hunter skills.
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/nv_helpangel.png" alt="">Angel, Help me!</td>
-                <td>Angel, Help me! is an Expanded Super Novice skill that has been adjusted for Pre-Renewal.</td>
+                <td>Angel, Help me! is an Expanded Super Novice skill that has been adjusted for Pre-Renewal. <strong>This is a Platinum skill, see Platinum Skill NPC in Main Office</strong></td>
                 <td>
                     Restores HP and SP for you and your party members in a 15x15 cells around you.<br><br>
                     HP per second 500, SP per second 100. Duration of 20 seconds. Cooldown of 300 seconds.
@@ -800,17 +791,7 @@ Ninja's skill materials and ammo can are sold by our [Enhanced NPC Dealers](Deal
                 </td>
                 <td>
                     Reduced after cast delay to 1.5 seconds.<br>
-                    Reduced SP cost to 5, 10, 15, 20, 25.<br>
-                    Skill range: 12 cell.
-                </td>
-            </tr>
-            <tr>
-                <td><img src="../img/Class_Changes/nj_syuriken.gif" alt="">Throw Shuriken</td>
-                 <td>
-                    Skill range: 9 cell.
-                </td>
-                <td>
-                    Skill range: 12 cell.
+                    Reduced SP cost to 10, 15, 20, 25, 30. 
                 </td>
             </tr>
         </tbody>

@@ -1,6 +1,6 @@
 # Modified Sales Prices
 
-Sale prices for various items are decreased for economic purposes to prevent inflation.
+Sale prices for various items are decreased for economic purposes to prevent excessive zeny generation.
 
 | Item | Original Price | Modified Price |
 |------|----------------|----------------|

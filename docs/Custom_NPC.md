@@ -24,7 +24,7 @@ Step inside the [Main Office](Main_Office.md) and you’ll find more to explore,
 | NPC | Location | Description |
 |:-----:|----------|-------------|
 | ![Putty NPC](img/NPC/putty.gif)<br>**Card Exchanger** | `/navi prontera 130/192` | Got cards collecting dust? **Putty** will gladly trade them in for [something more useful](Card_Exchange.md). |
-| ![Safe Card Remover NPC](img/NPC/mysterious-granny.gif)<br>**Safe Card Remover** | `/navi prontera 166/212` | **Mysterious Granny** can remove any card from equipment with 100% success. The service costs 1x Silit Pong Bottle, a 10,000,000z fee, plus 1,000,000z per card removed. Silit Pong Bottles are available from the [BioShop NPC](Biolab4.md) in lhz_dun01 (143/288) for 100 Ghost Chills.  |
+| ![Safe Card Remover NPC](img/NPC/mysterious-granny.gif)<br>**Safe Card Remover** | `/navi prt_in 28/73` | **Mysterious Granny** can remove any card from equipment with 100% success. The service costs 1x Silit Pong Bottle, a 10,000,000z fee, plus 1,000,000z per card removed. Silit Pong Bottles are available from the [BioShop NPC](Biolab4.md) in lhz_dun01 (143/288) for 100 Ghost Chills.  |
 
 ### Style
 | NPC | Location | Description |
