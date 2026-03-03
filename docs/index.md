@@ -7,6 +7,18 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "March 3"
+        **March 3, 2026**
+
+        - Gameplay: Performer mute option, `@cooking` mastery command, `@clearroom`, tagged items fix.
+        - Star Gladiator: Standalone soul link status icon, new miracle visual effect.
+        - Fixes: Autobonus refine scripts, Rodex stability fixes, job EXP manuals, party kick with buffs.
+        - NPC: New Build Manager for saving stat/skill builds, hunting mission mob removals.
+        - Battlegrounds: AFK penalty reduced to `15` minutes, BG box weight checks.
+        - Items: Two new Priest items (Old Mitra, Valkyrie Drop). New Cash Shop costumes.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches03032026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "February 16"
         **February 16, 2026**
 
