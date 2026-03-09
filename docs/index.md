@@ -7,6 +7,15 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "March 9"
+        **March 9, 2026**
+
+        - Gameplay: Bubble Gum reverted to `200%` / `1000` PC, Bio 4 summon loot fix, cooking lock, Intimidate portal check, Equipment Properties script, Nidhoggur's Nest solo entry.
+        - Skills: Sphere Mine `7` cell fix, Chase Walk STR buff at `5`s, Priest Mace Mastery `+1` crit/level, Sacrifice status icon.
+        - Fixes: Moonlight Flower egg regen, autoloot save for new characters, Glorious staves MATK %.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches09032026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "March 3"
         **March 3, 2026**
 
