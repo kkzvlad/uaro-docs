@@ -12,7 +12,7 @@ For many players, Pre-Trans WoE evokes strong nostalgia, recalling the early day
 
 On our server, Pre-Trans WoE takes place **every Sunday** and lasts for **1 hour**.
 
-### Saturday
+### Sanday
 
 | Server Time (UTC) | CET (UTC +1) | EET (UTC +2) | IST (UTC +5) | PST (UTC -8) | MST (UTC -7) | CST (UTC -6) | EST (UTC -5) |
 |-------------------|--------------|--------------|--------------|--------------|--------------|--------------|--------------|
