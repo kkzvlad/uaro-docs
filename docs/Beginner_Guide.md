@@ -66,7 +66,7 @@ The item “Elemental Converter” endows your weapon with one of the four eleme
 Cards can be traded for points and exchanged for Bloody Branches or Old Card Album. So any card has at least a basic value.  
 
 
-### [Myst Case card](img/4227.png) Myst Case card 
+### ![Myst Case card](img/4227.png) Myst Case card
 The drop chance for ![644](img/Beginner_Guide/644.gif) Gift boxes from Myst Case card is increased, making it a good farming item - the more you kill, the better.
 
 
@@ -96,11 +96,6 @@ Exp and Item sharing is disabled for idle members after 60 seconds. You are idle
 This mechanic punishes standing parties, so most are moving ones.
 
 
-#### EXP Tap (Reminder)
-For every person dealing to or receiving damage from a monster, it gives +25% Exp. In uaRO this mechanic also is triggered by non damaging skills like Hammerfall, Signum Crusis, or First Aid.
-Combined with the party bonus this mechanic makes "EXP Tappers” especially valuable and mass parties usually are filled up with a bunch of them. EXP Tappers usually have any kind of AoE with low damage (or even none) which they use at the gathered mob once before it dies.
-
-
 ### [Repeatable EXP Quests](Repeatable_Quests.md)
 These are important for three reasons:
 
@@ -110,7 +105,7 @@ These are important for three reasons:
 
 
 
-### [Reset NPC](img/JP_ARUNA.gif) Reset NPC
+### ![Reset NPC](img/JP_ARUNA.gif) Reset NPC
 This NPC is located in the Prontera Main Office and allows you to reset your skills, your stats, or your skills and stats. You can do it as often as you like for a fee, with the first time being free. This allows you to first choose a beginners friendly build and once you own the money (and equipment) you can change to a late game one.
 
 
