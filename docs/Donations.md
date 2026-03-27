@@ -8,6 +8,38 @@ While playing on the server is free, donations assist with covering expenses suc
 
 **Minimum donation**: $10
 
+---
+
+## 🎟️ Cart Coupons
+
+Cart Coupons allow you to unlock new cart appearances for your character.
+
+- Coupons are purchased using **Cash Points**
+- **1 coupon = 1 cart**
+- Once unlocked, the cart is **permanently available**
+- You can purchase multiple coupons to unlock different carts
+
+### 🔄 Usage
+After unlocking:
+- all carts remain available forever
+- you can **freely switch between them at any time**
+
+
+## 🦅 Falcon Coupons
+
+Falcon Coupons allow you to unlock new falcon appearances.
+
+- Coupons are purchased using **Cash Points**
+- **1 coupon = 1 falcon**
+- Once unlocked, the falcon is **permanently available**
+- You can unlock multiple falcons
+
+### 🔄 Usage
+After unlocking:
+- all falcons remain available forever
+- you can **switch between them anytime**
+
+
 ### Donation Rules
 
 - Donations to our service are entirely optional, and any benefits received from donations are non-refundable.
@@ -16,6 +48,8 @@ While playing on the server is free, donations assist with covering expenses suc
 - Please note that making a donation does not excuse you from following the server rules.
 - By making a donation, you are agreeing to these terms and conditions.
 
+---
+
 ### Donation Options
 
 At this time, we are manually processing additional donation methods. The following donation methods are available. Create ticket #submit-ticket:
@@ -23,6 +57,8 @@ At this time, we are manually processing additional donation methods. The follow
 - PayPal
 - Cryptocurrency USDT
 - GCash
+
+---
 
 ### Donation with Stripe
 
@@ -33,6 +69,8 @@ At this time, we are manually processing additional donation methods. The follow
 5. Login to the game or relog if current online and use the ![Cash Shop](img/32px-Cash-shop.png) to buy items.
    
    ![Cash Shop Preview](img/400px-Cash-shop-preview.png)
+
+---
 
 ### How to make a donation using different method
 
