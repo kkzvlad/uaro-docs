@@ -77,4 +77,3 @@ If there’s a feature you’d love to see, drop your suggestions in our [Discor
 - **No Job Changer**: Advancing jobs means completing the [original quests](https://irowiki.org/wiki/Category:Job_Change_Gui), making each step feel earned.
 - **No Generic Warper**: Our [quest-based dungeon warper](Warper_System.md) adds a touch of adventure to travel while still keeping things accessible.
 - **No Healer or Buffer**: Healing and buffs come naturally through potions, inns, and playing together with your party.
-

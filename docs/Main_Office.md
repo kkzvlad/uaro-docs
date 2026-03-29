@@ -21,6 +21,7 @@ So come on down to Main Office and see what we have to offer! We're here to help
 | ![Andrea](img/JP_ARUNA.gif) | **Andrea** can exchange your extra Field Manual 100% for other itens, like Blessing and Increase AGI scrolls or Kafra cards. |
 | ![Felicia](img/4_F_IU.gif) | **Felicia** can give you unique costumes in exchange for Gold Coins (obtained by clicking the timer at the top-right of your screen once you have 120 or 240 points). |
 | ![Marley](img/4_EP19_IWIN.gif) | This magical fluffy shijūkara use his talents to give you costumes, hats and unique pets in exchange for Event Tickets (obtained from in-game or discord Events) |
+| ![Build Manager NPC](img/4_M_TATIO.gif) | Save and load pre-determined stat/skill builds! Conveniently located next to the reset NPC in the Main Office. [Details here!](Build-Manager-NPC.md) |
 
 <!-- TODO: Add manual exchange NPC from 9/1/5 patch
 - **Manual Exchange (100%) – Main Office**: Added `x1` exchanges for:
