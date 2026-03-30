@@ -394,6 +394,15 @@ Blue Gems are sold at our [Inn Tool Dealers](Dealers.md#enhanced-tool-dealer) in
                     Damage ticks continue even if player is Stunned, Petrified, or Frozen.
                 </td>
             </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/pr_macemastery.gif" alt="">Mace Mastery</td>
+                <td>
+                    N/A
+                </td>
+                <td>   
+                    Additionally gives +1 critical strike per level.
+                </td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -489,6 +498,11 @@ Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-deal
                 <td><img src="../img/Class_Changes/st_rejectsword.gif" alt="">Reject Sword</td>
                 <td>Parry 3 attacks from an enemy and receive only half of the damage.</td>
                 <td>The amount of damage reflected cannot be greater than the amount of HP the wearer of the skill has. Reflect is not transmitted if the character is within a Safety Wall.</td>
+            </tr>
+             <tr>
+                <td><img src="../img/Class_Changes/st_chasewalk.gif" alt="">Chase Walk</td>
+                <td>After a delay of 10 seconds, it will increase STR for 30 seconds.</td>
+                <td>After a delay of 5 seconds, it will increase STR for 30 seconds.</td>
             </tr>
         </tbody>
     </table>

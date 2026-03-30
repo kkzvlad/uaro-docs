@@ -418,7 +418,7 @@ Now you can easily share items between characters of different accounts.
 
 ### Replay and Screenshot for Reports and Troubleshooting
 
-**[ More informarion about Replay and Screenshot for Reports and Troubleshooting ](FAQ.md#replay-and-screenshot-for-reports-and-troubleshooting)**
+**[ More informarion about Replay and Screenshot for Reports and Troubleshooting ](FAQ.md#screenshot-for-reports-and-troubleshooting)**
 
 
 ### Settings
