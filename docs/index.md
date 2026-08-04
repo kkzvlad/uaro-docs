@@ -19,7 +19,6 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
           cooldown reduced to 0.333s.
         - WoE castle rotations: Wuerzburg and Mardol for trans;
           Eeyolbriggar, Holy Shadow and Skoegul for pre-trans.
-          Vesper Cores disabled during pre-trans WoE.
         - Black Wing now has 2 slots; new costumes at Felicia,
           Hobota and the event token shop; 18 new Cash Shop
           costumes.

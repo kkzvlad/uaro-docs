@@ -109,7 +109,6 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
   Merchant base skill behavior remains unchanged
 - **Blocked equipment inside castles:**
   - All enchant effects
-  - Vesper Core 01–04
 
 ## Item Block Lists	
 
@@ -394,10 +393,6 @@ One chest from the "Hot Location" castle will drop a "Token of Honor" at 0.25% b
 	| Love Valentine's Hat [0] | 5393 |
 	| Hyuke's Black Cat Ears [0] | 5360 |
 	| Glittering Jacket [1] | 2319 |
-	| Vesper Core 01 [0] | 2659 |
-	| Vesper Core 02 [0] | 2660 |
-	| Vesper Core 03 [0] | 2661 |
-	| Vesper Core 04 [0] | 2662 |
 
 ??? note "BG Gear List, click to expand"
 	| Gear Name   | Item Id  |
