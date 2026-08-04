@@ -7,6 +7,27 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
 
 !!! note "Patch Notes"
 
+    === "August 4"
+        **August 4, 2026**
+
+        - Instances now require full clears to unlock your weekly
+          runs — exit through the end-of-dungeon NPC; Eternal
+          Bastion auto-unlocks on floor 100 instead.
+        - Battlegrounds logic restructured: proper class splitting
+          and no more duplicate queue messages.
+        - Skills: SG Warmth now bypasses Land Protector; Backstab
+          cooldown reduced to 0.333s.
+        - WoE castle rotations: Wuerzburg and Mardol for trans;
+          Eeyolbriggar, Holy Shadow and Skoegul for pre-trans.
+          Vesper Cores disabled during pre-trans WoE.
+        - Black Wing now has 2 slots; new costumes at Felicia,
+          Hobota and the event token shop; 18 new Cash Shop
+          costumes.
+        - Fixes: Baby job change skill points; Luna Bow DEF;
+          Bombring round-end revive; costume fixes.
+
+        [:octicons-arrow-right-24: Full Patch Notes](patch-notes/2026/patches08042026.md) [:octicons-arrow-right-24: All Patch Notes](All_Patch_Notes.md)
+
     === "July 28"
         **July 28, 2026**
 

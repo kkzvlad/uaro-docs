@@ -42,8 +42,12 @@ This instance offers not only a challenging PvE experience, but also valuable re
 
 - Account / **UniqueID** is locked upon instance initiation
 - All mechanics for loot distribution, MVP structure, and progression remain unchanged
-- Upon a **successful full clear**, the **UniqueID** will be released for another run  
+- A **successful full clear** is required to unlock your next run — without one you stay
+  locked out until the weekly reset  
   (The account still consumes one of its weekly runs; the same PC may be used with a different account)
+- To unlock subsequent runs after a full clear, you **must** talk to **Arc Pori Pori** at the
+  end of the dungeon to exit naturally — there are **no manual resets** for people who fail
+  to follow mechanics
 - **BBG remains blocked**
 - Each account has **`3` runs per week**. Once all weekly runs are used, the instance will be
   reported as already completed this week; the counter resets weekly
@@ -72,6 +76,7 @@ To begin the instance, talk to **Captain Janssen** in Prontera
 - A **Kafra NPC** on the island provides:
   - Personal Storage
   - Guild Storage
+  - Return to Prontera (moved here from the stones)
 
 On Misty Island, locate the **Cellar Protection Stone** NPC and select  
 **Enter Endless Cellar**.
@@ -165,7 +170,8 @@ After defeating Pori Pori, the NPC Arc Pori Pori will appear and provide a rewar
 | ![Poring Box](img/12109.gif) Poring Box | 1 |
 | ![Cookie Bag](img/12130.gif) Cookie Bag | 1 |
 
-!!! note
-    Before returning to Prontera, don't forget to claim your reward!
+!!! warning
+    Before returning to Prontera, don't forget to claim your reward! Talking to
+    **Arc Pori Pori** to exit naturally is required to unlock your next weekly run.
 
 **Good game and have fun!**

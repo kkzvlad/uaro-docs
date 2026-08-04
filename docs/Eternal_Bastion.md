@@ -35,6 +35,11 @@ No gimmicks, no distractions — just pure combat and teamwork.
 | **Party Lock** | If party composition changes at any point, the instance resets and is destroyed |
 | **Re-entry** | Once you leave or die out, you cannot return to the instance |
 
+!!! note "Run Unlock"
+    Unlike other instances, Eternal Bastion has no end-of-dungeon NPC requirement —
+    since wave mobs drop no loot, your next run unlocks automatically upon
+    completion of floor 100.
+
 ---
 
 ## Wave Progression

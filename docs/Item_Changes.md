@@ -4,6 +4,7 @@
 | Item | Item ID | Description |
 |---|---|---|
 | Thorn Staff of Darkness | 1636 | Can be equipped by Soul Linker.<br> Can be slotted. |
+| Black Wing | 13061 | Now has 2 slots (applies to newly obtained ones). |
 
 [Expanded Class Weaponse](Expanded-Class-Weapons.md)
 

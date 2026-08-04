@@ -178,6 +178,10 @@ Join the event using the command: @event
 4. The **last survivor** wins
 5. If you die, respawning returns you to the **spot you joined from** with
    the **HP you had** — not your save point at 1 HP
+6. Pets **hide automatically** for the duration of the event and are not
+   stored to their egg
+7. When the round ends, dead players are **revived and restored to their
+   entry HP**
 
 ---
 

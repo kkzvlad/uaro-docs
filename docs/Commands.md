@@ -209,6 +209,10 @@ The @mapexp command introduces a rotating bonus EXP zone that updates every 48 t
   Join open registrations, see which event is currently running, and check the schedule
   of all `4` [automated events](Auto_Events.md). Replaces `@bombring` and `@dice`.
 
+- `@exptrack`  
+  Tracks EXP gained per session — start, pause and reset via `@exptrack`, quick summary
+  with `@exptrack view`. Progress persists through relogs.
+
 - `@memo {<1-4>}`  
   Saves a warp point for the "Warp Portal" skill.
 

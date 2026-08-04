@@ -352,6 +352,11 @@ Medicine Bowls can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-d
                 <td>N/A.</td>
                 <td>Increased plant count of Flora, Parasite, Geographer on non-PvP maps for improved PvE viability.</td>
             </tr>
+             <tr>
+                <td><img src="../img/Class_Changes/cr_cultivation.png" alt="">Plant Cultivation</td>
+                <td>Can be used on any walkable cell.</td>
+                <td>Blocked in all town buildings (inns, shops, guild halls, etc.).</td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -516,7 +521,7 @@ Venom Knife can be found at our [Inn Tool Dealers](Dealers.md#enhanced-tool-deal
             <tr>
                 <td><img src="../img/Class_Changes/rg_backstab.gif" alt="">Backstab</td>
                 <td>Powerful attack that can only be used from behind the enemy. Cannot miss and will turn the target to face the caster, thus preventing repeated use.</td>
-                <td>Can be performed like most attack skills.</td>
+                <td>Can be performed like most attack skills.<br> Cooldown reduced from 0.5s to 0.333s.</td>
             </tr>
             <tr>
                 <td><img src="../img/Class_Changes/rg_plagiarism.gif" alt="">Plagiarism</td>
@@ -745,6 +750,11 @@ Many previously unequippable items are now accessible to Extended Classes: [see 
                 <td><img src="../img/Class_Changes/sj_document.gif" alt="">Miracle of the Sun, Moon, and Stars</td>
                 <td>Miracle has a low rate to grant the ability to use all Solar, Lunar, and Stellar-aligned skills on any map on any day of the week. This means offensive and supporting skills are stacked as well. The effect lasts for one hour and disappears if the player logs off or switches maps.</td>
                 <td>Success rate increased from 0.02% to 0.1%.</td>
+            </tr>
+            <tr>
+                <td><img src="../img/Class_Changes/sg_warmth.png" alt="">Warmth of the Sun, Moon, and Stars</td>
+                <td>Does not damage targets standing on Land Protector.</td>
+                <td>Properly bypasses Land Protector.</td>
             </tr>
         </tbody>
     </table>
