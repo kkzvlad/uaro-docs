@@ -42,11 +42,11 @@ This instance offers not only a challenging PvE experience, but also valuable re
 
 - Account / **UniqueID** is locked upon instance initiation
 - All mechanics for loot distribution, MVP structure, and progression remain unchanged
-- A **successful full clear** is required to unlock your next run — without one you stay
+- A **successful full clear** is required to unlock your next run; without one you stay
   locked out until the weekly reset  
   (The account still consumes one of its weekly runs; the same PC may be used with a different account)
 - To unlock subsequent runs after a full clear, you **must** talk to **Arc Pori Pori** at the
-  end of the dungeon to exit naturally — there are **no manual resets** for people who fail
+  end of the dungeon to exit naturally. There are **no manual resets** for people who fail
   to follow mechanics
 - **BBG remains blocked**
 - Each account has **`3` runs per week**. Once all weekly runs are used, the instance will be

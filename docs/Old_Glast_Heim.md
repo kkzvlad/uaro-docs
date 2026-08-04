@@ -1,5 +1,3 @@
-![OGH](img/OGH.jpg)
-
 # Old Glast Heim
 
 Old Glast Heim (OGH) is a dungeon instance in Ragnarok Online designed for advanced players. It is steeped in dark, medieval fantasy aesthetics, offering a glimpse into the past of the ruined city of Glast Heim. Players are transported to a corrupted version of the city, filled with undead creatures, powerful knights, and sinister magic. The instance is notorious for its eerie atmosphere and challenging mechanics.

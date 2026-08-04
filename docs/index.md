@@ -11,8 +11,8 @@ Welcome to the World of Your Dream Documentation, the official resource for the 
         **August 4, 2026**
 
         - Instances now require full clears to unlock your weekly
-          runs — exit through the end-of-dungeon NPC; Eternal
-          Bastion auto-unlocks on floor 100 instead.
+          runs, and you must exit through the end-of-dungeon NPC.
+          Eternal Bastion auto-unlocks on floor 100 instead.
         - Battlegrounds logic restructured: proper class splitting
           and no more duplicate queue messages.
         - Skills: SG Warmth now bypasses Land Protector; Backstab

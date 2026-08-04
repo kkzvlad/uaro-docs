@@ -1,7 +1,5 @@
 # Horror Toy Factory
 
-![HTF](img/HTF/HTF.jpg)
-
 Horror Toy Factory is an instance where players explore a sinister toy factory filled with aggressive monsters and ghosts. The main objective is to defeat the final boss, Celine Kimi, while overcoming traps and powerful enemies along the way.  
 The instance offers unique rewards, including rare items and equipment, making it popular among players.
 
@@ -15,11 +13,11 @@ The instance offers unique rewards, including rare items and equipment, making i
 
 - Account/UniqueID locked upon start of instance initiation
 - All mechanics still the same for loot, MVP structure etc.
-- A successful full clear of the dungeon is required to unlock your next run —
+- A successful full clear of the dungeon is required to unlock your next run;
   without one you stay locked out until the weekly reset. The account still
   consumes one of its weekly runs (Free to utilize same PC but different account)
 - To unlock subsequent runs after a full clear, you must exit naturally through
-  the warp portal at the end of the map — there are no manual resets for people
+  the warp portal at the end of the map. There are no manual resets for people
   who fail to follow mechanics
 - BBG will remain blocked
 - Each account has `3` runs per week. Once all weekly runs are used, the
