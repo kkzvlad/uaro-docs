@@ -9,6 +9,8 @@
 !!! tip "Bombring Event"
     During the [Bombring event](Auto_Events.md#bombring-event), pets hide automatically
     and are not stored to their egg.
+    
+!!! warning "Remember to enable auto-feed before leaving your pet unattended!"
 
 !!! warning "Remember to enable auto-feed before leaving your pet unattended!"
 
