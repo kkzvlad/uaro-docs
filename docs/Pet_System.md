@@ -12,8 +12,6 @@
     
 !!! warning "Remember to enable auto-feed before leaving your pet unattended!"
 
-!!! warning "Remember to enable auto-feed before leaving your pet unattended!"
-
 ## Feeding
 Automatic feeding (Auto-feed) is available for evolved pets or pets without an evolution. Pets that starve will return to their egg with intimacy at Awkward, instead of running away.
 
