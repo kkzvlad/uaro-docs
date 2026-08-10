@@ -18,7 +18,7 @@ The Mysterious Boy will ask you to bring him the following items:
 | ![Sticky Mucus](img/938.gif) **Sticky Mucus** | x200                              |
 | ![Gold](img/969.gif) **Gold**            | x1                                      |
 | ![Coronet](img/2249.gif) **Coronet**     | x1                                      |
-| ![Poisonous Toad Card](img/card-1.gif) **Poisonous Toad Card** | x1    |
+| ![Poisonous Toad Card](img/Card.gif) **Poisonous Toad Card** | x1    |
 
 ## 🏆 Quest Reward
 

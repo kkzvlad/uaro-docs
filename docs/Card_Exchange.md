@@ -4,7 +4,7 @@
 
 **/navi prontera 130/192** 
 
-In Prontera nearby with Main Office (**/navi prontera 130/192**) you can find NPC Putty. You can exchange the ![Card](img/card.gif) cards that they are no longer using. She is giving **10 points** for each ![Card](img/card.gif) card that you bring to her. The points can be used to exchange for items that she has.
+In Prontera nearby with Main Office (**/navi prontera 130/192**) you can find NPC Putty. You can exchange the ![Card](img/Card.gif) cards that they are no longer using. She is giving **10 points** for each ![Card](img/Card.gif) card that you bring to her. The points can be used to exchange for items that she has.
 
 ### Item List
 
@@ -18,9 +18,9 @@ In Prontera nearby with Main Office (**/navi prontera 130/192**) you can find NP
       Be careful when you enter the name of cards, some cards' official names will not reflect their ingame description.  
 
 ### Blacklisted cards from the Card Exchange  
-![Card](img/card.gif) Thief Bug Card  
-![Card](img/card.gif) Female Thief Bug Card  
-![Card](img/card.gif) Male Thief Bug Card  
-![Card](img/card.gif) Tarou Card  
-![Card](img/card.gif) Plankton Card  
-![Card](img/card.gif) Thief Bug Egg Card
+![Card](img/Card.gif) Thief Bug Card  
+![Card](img/Card.gif) Female Thief Bug Card  
+![Card](img/Card.gif) Male Thief Bug Card  
+![Card](img/Card.gif) Tarou Card  
+![Card](img/Card.gif) Plankton Card  
+![Card](img/Card.gif) Thief Bug Egg Card

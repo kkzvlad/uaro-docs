@@ -115,8 +115,8 @@ To enter Old Glast Heim, you need to talk (еhe first time, you need to talk mul
 
 | NPC | Require | Obtaine | In-game command |
 |-----|---------|---------|-----------------|
-| ![4_WHITEKNIGHT](img/OGH/4_WHITEKNIGHT.gif) White Knight | ![6608](img/OGH/6608.gif) Coagulated Spell - 5000 or<br> ![6755](img/OGH/6755.gif) Contaminated Magic - 2000 | ![Card](img/card-1.gif) White Knight Card | @ii 4608 |
-| ![4_F_KHALITZBURG](img/OGH/4_F_KHALITZBURG.gif) Khalitzburg Knight | ![6608](img/OGH/6608.gif) Coagulated Spell - 5000 or<br> ![6755](img/OGH/6755.gif) Contaminated Magic - 2000 | ![Card](img/card-1.gif) Khalitzburg Knight Card | @ii 4609 |
+| ![4_WHITEKNIGHT](img/OGH/4_WHITEKNIGHT.gif) White Knight | ![6608](img/OGH/6608.gif) Coagulated Spell - 5000 or<br> ![6755](img/OGH/6755.gif) Contaminated Magic - 2000 | ![Card](img/Card.gif) White Knight Card | @ii 4608 |
+| ![4_F_KHALITZBURG](img/OGH/4_F_KHALITZBURG.gif) Khalitzburg Knight | ![6608](img/OGH/6608.gif) Coagulated Spell - 5000 or<br> ![6755](img/OGH/6755.gif) Contaminated Magic - 2000 | ![Card](img/Card.gif) Khalitzburg Knight Card | @ii 4609 |
 
 ## Ancient Golden Coin
 
